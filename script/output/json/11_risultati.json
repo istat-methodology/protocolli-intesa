@@ -1,0 +1,741 @@
+[
+    {
+        "file": "11_2406_rta_11_240911113034_4166---protocollodireteantiviolenza2020-2022-uuvv.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Ambito Territoriale Sociale n.1 di Pesaro",
+                    "tipo": "Ente territoriale",
+                    "comune": "Pesaro",
+                    "indirizzo": "",
+                    "ente_capofila": "Ambito Territoriale Sociale n.1 di Pesaro",
+                    "note": "Capofila degli Ambiti Territoriali Sociali associati del territorio provinciale."
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale N.3 Cagli",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale N. 4 Urbino",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale N. 5 Carpegna",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale N.6 Fano",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale N.7 Fossombrone",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Pesaro e Urbino",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Pesaro e Urbino",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale dei Minorenni",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Pesaro",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Urbino",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale dei Carabinieri di Pesaro e Urbino",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Ospedaliera Ospedali Riuniti Marche Nord",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Asur Marche Area Vasta n.1",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Distretti Sanitari di Pesaro, Fano e Urbino e Presidio Ospedaliero Urbino-Pergola."
+                },
+                {
+                    "nome": "Ordine dei Medici Chirurghi della Provincia di Pesaro e Urbino",
+                    "tipo": "Altro",
+                    "comune": "Pesaro e Urbino",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Psicologi della Regione Marche",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Pesaro",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Urbino",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine delle Assistenti Sociali della Marche",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Parla con Noi",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Pesaro",
+                    "indirizzo": "",
+                    "ente_capofila": "Ambito Territoriale Sociale n.1 di Pesaro",
+                    "note": "Servizio a titolarità ATS n.1."
+                },
+                {
+                    "nome": "Casa Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ATS n.1",
+                    "note": "Servizio in convenzione con ATS n.1."
+                },
+                {
+                    "nome": "Casa Emergenza",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ATS n.1",
+                    "note": "Servizio a titolarità ATS n.1."
+                }
+            ]
+        }
+    },
+    {
+        "file": "11_2406_rta_11_240911113105_4166---PROTOCOLLO_OPERATIVO2024_CONINDIRIZZARIO_FIRMATO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "PREFETTURA DI ANCONA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina il Tavolo Inter-istituzionale per la promozione di strategie condivise"
+                },
+                {
+                    "nome": "COMUNE DI ANCONA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce il Centro Antiviolenza"
+                },
+                {
+                    "nome": "PROVINCIA DI ANCONA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "TRIBUNALE DI ANCONA",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "Corso Mazzini n. 95",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "PROCURA DELLA REPUBBLICA C/O TRIBUNALE DI ANCONA",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "Corso Mazzini n.95",
+                    "ente_capofila": "",
+                    "note": "Tratta i reati di violenza domestica"
+                },
+                {
+                    "nome": "TRIBUNALE PER I MINORENNI DELLE MARCHE",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Interviene per la tutela dei minori"
+                },
+                {
+                    "nome": "PROCURA DELLA REPUBBLICA PRESSO IL TRIBUNALE PER I MINORENNI DI ANCONA",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina indagini su minori"
+                },
+                {
+                    "nome": "QUESTURA DI ANCONA",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina le strategie di contrasto alla violenza di genere"
+                },
+                {
+                    "nome": "COMANDO PROVINCIALE CARABINIERI",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce interventi di emergenza"
+                },
+                {
+                    "nome": "COMANDO PROVINCIALE GUARDIA DI FINANZA",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Supporta la protezione delle vittime"
+                },
+                {
+                    "nome": "AST ANCONA",
+                    "tipo": "ASL",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Azienda Sanitaria locale"
+                },
+                {
+                    "nome": "AZIENDA OSPEDALIERO UNIVERSITARIA DELLE MARCHE",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Supporta percorso di uscita vittime"
+                },
+                {
+                    "nome": "AMBITI TERRITORIALI SOCIALI DELLA PROVINCIA DI ANCONA",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Referente per le politiche di contrasto alla violenza di genere"
+                },
+                {
+                    "nome": "ASSOCIAZIONE DONNE E GIUSTIZIA DI ANCONA",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Ancona",
+                    "note": "Gestisce il Centro Antiviolenza"
+                },
+                {
+                    "nome": "COOPERATIVA POLO 9",
+                    "tipo": "Altro",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASSOCIAZIONE “LA VOCE DEI BAMBINI ONLUS”",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "DIPARTIMENTO DIPENDENZE PATOLOGICHE AST ANCONA",
+                    "tipo": "ASL",
+                    "comune": "Ancona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "11_2406_rta_11_240911113235_4166---MacerataProtocollo2019_2022Firmato.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura-Ufficio Territoriale del Governo di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'intesa contro la violenza di genere."
+                },
+                {
+                    "nome": "Procura della Repubblica di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata a collaborare per il contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Regione Marche",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella prevenzione e contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Provincia di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'intesa."
+                },
+                {
+                    "nome": "Comune di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce lo sportello Informadonna."
+                },
+                {
+                    "nome": "Comune di Civitanova Marche",
+                    "tipo": "Ente territoriale",
+                    "comune": "Civitanova Marche",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmatario del Protocollo d'intesa."
+                },
+                {
+                    "nome": "Ufficio Scolastico Regionale per le Marche",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnato in progetti di sensibilizzazione."
+                },
+                {
+                    "nome": "Area Vasta 3-Asur Marche",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora per garantire assistenza alle vittime di violenza."
+                },
+                {
+                    "nome": "Carabinieri di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentanza delle Forze dell'Ordine."
+                },
+                {
+                    "nome": "Comando Provinciale della Guardia di Finanza di Macerata",
+                    "tipo": "Ente territoriale",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentanza delle Forze dell'Ordine."
+                },
+                {
+                    "nome": "Università di Macerata",
+                    "tipo": "Altro",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in progetti di formazione e sensibilizzazione."
+                },
+                {
+                    "nome": "Università di Camerino",
+                    "tipo": "Altro",
+                    "comune": "Camerino",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in progetti di formazione e sensibilizzazione."
+                },
+                {
+                    "nome": "Soroptimist International Club di Macerata",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'intesa."
+                },
+                {
+                    "nome": "Osservatorio di Genere",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Raccoglie dati e organizza iniziative di sensibilizzazione."
+                },
+                {
+                    "nome": "Associazione “Il Lume”",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'intesa."
+                },
+                {
+                    "nome": "Il Faro Società Cooperativa Sociale Onlus",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'intesa."
+                },
+                {
+                    "nome": "Ambiti Territoriali Sociali 9, 14, 15, 16, 17 e 18",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborano nel contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Centro Provinciale Antiviolenza “S.O.S Donna”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Macerata",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestito dall'ATS 15."
+                }
+            ]
+        }
+    },
+    {
+        "file": "11_2406_rta_11_240911113757_4166---All.4ProtocolloReteAntiviolenzasottoscritto18.12.2023.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Ambito Territoriale Sociale XIX",
+                    "tipo": "Ente territoriale",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore del Servizio dei CAV con sportelli decentrati nel territorio"
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale XX",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale XXIV",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "On the Road Societa Cooperativa Sociale",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto gestore del Centro Antiviolenza di scala provinciale"
+                },
+                {
+                    "nome": "Associazione “Soroptimist International” di Fermo",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto Comprensivo “Fracassetti - Capodarco”",
+                    "tipo": "Altro",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Dirigente pro tempore coinvolto nella rete"
+                },
+                {
+                    "nome": "Istituto Istruzione Secondaria Superiore “Carlo Urbani”",
+                    "tipo": "Altro",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Dirigente pro tempore coinvolto nella rete"
+                },
+                {
+                    "nome": "Comitato P. O. Consiglio dell’Ordine degli Avvocati del Tribunale di Fermo",
+                    "tipo": "Altro",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Osservatorio Nazionale Diritto di Famiglia Sezione Territoriale di Fermo",
+                    "tipo": "Altro",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Avvocati per la Famiglia Sezione Territoriale di Fermo",
+                    "tipo": "Altro",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Provincia di Fermo",
+                    "tipo": "Ente territoriale",
+                    "comune": "Fermo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Firmataria del Protocollo d'Intesa 'Rete Territoriale Locale Antiviolenza'"
+                },
+                {
+                    "nome": "Commissione P.O. Regione Marche",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "11_2406_rta_11_240911113911_4166---AscoliPPROTOCOLLOoperativo_2019_2021.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Ascoli Piceno",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Ascoli Piceno",
+                    "note": "Ente Capofila dell’ATS 22"
+                },
+                {
+                    "nome": "Prefettura di Ascoli Piceno",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Ascoli Piceno",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Ascoli Piceno",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale dei Carabinieri",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASUR Area Vasta 5",
+                    "tipo": "ASL",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione On the Road Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore del Centro Antiviolenza dal 2015"
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale n. 21",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale n. 22",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale n. 23",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambito Territoriale Sociale n. 24",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ufficio Scolastico Regionale Ufficio IV",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ambito territoriale per le province di Ascoli Piceno e Fermo"
+                },
+                {
+                    "nome": "Commissione per le Pari Opportunità tra uomo e donna della Regione Marche",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Medici Chirurghi e odontoiatri della Provincia di Ascoli Piceno",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Regione Marche",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove atteività contro la violenza di genere"
+                },
+                {
+                    "nome": "Organizzazioni Sindacali CGIL CISL UIL",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Confindustria Provincia Ascoli Piceno",
+                    "tipo": "Altro",
+                    "comune": "Ascoli Piceno",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Cabina di Regia comunale di Contrasto della Violenza relazionale",
+                    "tipo": "Altro",
+                    "comune": "San Benedetto del Tronto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ATS 22",
+                    "note": "Gestito dall’Associazione On the Road Onlus"
+                }
+            ]
+        }
+    }
+]

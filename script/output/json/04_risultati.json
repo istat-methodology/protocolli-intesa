@@ -1,0 +1,915 @@
+[
+    {
+        "file": "04_2406_rta_41_240904085939_4166---VereinbarungAGNET(M500997372).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Verein Frauen helfen Frauen",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bruneck",
+                    "indirizzo": "Paul von Sternbach Str. 6",
+                    "ente_capofila": "Verein Frauen helfen Frauen",
+                    "note": "Gestore del servizio di supporto alle donne"
+                },
+                {
+                    "nome": "Beratungsstelle InPut - Caritas Diézese Brixen-Bozen",
+                    "tipo": "Sportello collegato",
+                    "comune": "Brixen",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Padagogisches Beratungszentrum Sitz Bruneck - Deutsches Schulamt",
+                    "tipo": "Altro",
+                    "comune": "Bruneck",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Psychologischer Dienst - Siidtiroler Sanitatsbetrieb",
+                    "tipo": "ASL",
+                    "comune": "Brunico",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Sozialdienste - Bezirksgemeinschaft Pustertal",
+                    "tipo": "Ente territoriale",
+                    "comune": "Pustertal",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina il network insieme al Frauenhausdienst"
+                },
+                {
+                    "nome": "Frauenhausdienst der BZG",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Pustertal",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora con la Direzione dei social services"
+                },
+                {
+                    "nome": "Direzione Sozialdienste BZG",
+                    "tipo": "Ente territoriale",
+                    "comune": "Pustertal",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina il network AGNET"
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_41_240904143041_4166---2024IncontroReteAnriviolenza21.03.riassuntoeprospettiva(M000991553).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Rete territoriale antiviolenza della Valle Isarco",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gruppo centrale per il coordinamento di incontri e discussioni sulla violenza."
+                },
+                {
+                    "nome": "Casa delle Donne",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Propone workshop sulle linee guida."
+                },
+                {
+                    "nome": "Accademia Cusano",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora con il gruppo centrale."
+                },
+                {
+                    "nome": "Caritas",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Servizio di consulenza maschile coinvolto nella rete."
+                },
+                {
+                    "nome": "Centro Prevenzione Violenza del Forum Prevenzione",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Invitato a un approfondimento nel prossimo incontro."
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_41_240913121642_4166---ProtocolloReteCittadinaAntiviolenza.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Bolzano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Bolzano",
+                    "note": "ente capofila della Rete."
+                },
+                {
+                    "nome": "Associazione Donne Nissa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Gea/Per la solidarietà femminile",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Casa degli Alloggi Protetti",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione La Strada-Der Weg/Area Donna",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria dell’Alto Adige - Servizio Psichiatrico del Comprensorio Sanitario di Bolzano",
+                    "tipo": "ASL",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria dell’Alto Adige - Servizio Provinciale di Psichiatria e Psicoterapia dell’Eta Evolutiva",
+                    "tipo": "ASL",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria dell’Alto Adige - Servizio di psicologia del Comprensorio Sanitario di Bolzano",
+                    "tipo": "ASL",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Volontarius",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASSB - Azienda Servizi Sociali di Bolzano",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consultorio Aied",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas - Casa Haus Margaret",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas - Casa Haus Migrantes",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas - Consulenza per uomini",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Bolzano",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Bolzano",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Bolzano",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Provincia Autonoma di Bolzano Alto Adige",
+                    "tipo": "Ente territoriale",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Assessorato alla Famiglia, Sanità e Politiche sociali"
+                },
+                {
+                    "nome": "F.I.M.P.- Federazione Italiana Medici Pediatri",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Forum Prevenzione",
+                    "tipo": "Altro",
+                    "comune": "Bolzano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_41_241001151430_4166---Merano_potocollononinviato.txt",
+        "risultato": {
+            "entities": []
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603130520_4166---Protocollod'Intesafirmato22febbraio2024.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Provincia autonoma di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Commissariato del Governo per la provincia di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica di Rovereto",
+                    "tipo": "Altro",
+                    "comune": "Rovereto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale dei Carabinieri di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consorzio dei Comuni Trentini",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Provinciale per i Servizi Sanitari",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Università di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Federazione Trentina della Cooperazione",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Capillarmente presente sul territorio per attività di promozione e sensibilizzazione."
+                },
+                {
+                    "nome": "Fondazione Bruno Kessler",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attività di ricerca e innovazione tecnologica per la tutela delle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603144940_4166---Comitatoperlatuteladelledonnevittimediviolenza.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Provincia Autonoma di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comitato per la tutela delle donne vittime di violenza",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Provincia Autonoma di Trento",
+                    "note": "Costituito ai sensi della legge provinciale 9 marzo 2010, n. 6"
+                },
+                {
+                    "nome": "Azienda Provinciale per i Servizi Sanitari",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio delle Autonomie Locali della provincia di Trento",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Commissariato del Governo",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Legione Carabinieri “Trentino Alto Adige”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Casa Accoglienza alla vita “Padre Angelo”",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Acisjf - Casa Tridentina della Giovane",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Villaggio del Fanciullo Sos - Trento",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Laica Famiglie In Difficolta onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione coordinamento donne",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Cooperativa Punto d’Approdo onlus",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Trentina Accoglienza Stranieri",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Fondazione Famiglia Materna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603145042_4166---ConvenzioneCAV-UniTrento_2024-signed-Copia.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Universita degli Studi di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "via Calepina, 14 - 38122 Trento",
+                    "ente_capofila": "",
+                    "note": "Gestore di uno sportello dedicato alle donne della comunità universitaria."
+                },
+                {
+                    "nome": "Ass. Coordinamento Donne Onlus",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Trento",
+                    "indirizzo": "Via Dogana, 1 - 38122 Trento",
+                    "ente_capofila": "Universita degli Studi di Trento",
+                    "note": "Gestore del Centro Antiviolenza a Trento; operativo dal 2002."
+                },
+                {
+                    "nome": "Centro Antiviolenza di Rovereto",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Rovereto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Nuovo centro operativo dal 2024."
+                },
+                {
+                    "nome": "1522",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Numero di pubblica utilità per supporto alle vittime di violenza, attivo 24 ore su 24."
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603145106_4166---ConvenzioneCAV-Trento.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Servizio per l'accoglienza e il supporto delle donne vittime di violenza"
+                },
+                {
+                    "nome": "Provincia autonoma di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "Piazza Dante n.15",
+                    "ente_capofila": "Provincia autonoma di Trento",
+                    "note": "Soggetto capofila per la gestione del servizio"
+                },
+                {
+                    "nome": "Associazione Coordinamento Donne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Trento",
+                    "indirizzo": "Via Dogana, 1 38122 Trento",
+                    "ente_capofila": "Associazione Coordinamento Donne Onlus",
+                    "note": "Soggetto Gestore del Centro Antiviolenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603145150_4166---CONVENZIONECAV_Roveretoesediperiferiche.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Provincia autonoma di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "Piazza Dante, n.15",
+                    "ente_capofila": "",
+                    "note": "rappresentata da Laura Castegnaro, dirigente dell’UMSe Pari opportunità, prevenzione violenza e criminalità"
+                },
+                {
+                    "nome": "Associazione Coordinamento Donne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Trento",
+                    "indirizzo": "Via dogana, 1",
+                    "ente_capofila": "Provincia autonoma di Trento",
+                    "note": "rappresentata da Paola Paolazzi, soggetto gestore del Centro antiviolenza"
+                },
+                {
+                    "nome": "Servizio Sociale territoriale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Servizio Pubblico 1522",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "servizio pubblico promosso dalla Presidenza del Consiglio dei Ministri — Dipartimento per le Pari Opportunità"
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603145316_4166---Convenzione_Codice_Rosso_2024.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Azienda Provinciale per i Servizi Sanitari della Provincia autonoma di Trento",
+                    "tipo": "ASL",
+                    "comune": "Trento",
+                    "indirizzo": "Via Degasperi 79",
+                    "ente_capofila": "Azienda Provinciale per i Servizi Sanitari della Provincia autonoma di Trento",
+                    "note": "Messo a disposizione il numero dedicato per ausilio tecnico, collabora con le Procure."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale Ordinario di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "Largo Pigarelli 1",
+                    "ente_capofila": "",
+                    "note": "Partner nella Convenzione per l'attuazione del Codice Rosso."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trento",
+                    "indirizzo": "Via Rosmini 71",
+                    "ente_capofila": "",
+                    "note": "In collaborazione per l'ausilio tecnico psicologico."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale Ordinario di Rovereto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Rovereto",
+                    "indirizzo": "Corso Antonio Rosmini 65",
+                    "ente_capofila": "",
+                    "note": "Partner nella Convenzione per l'attuazione del Codice Rosso."
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_rta_42_250603145521_4166---ProtocolloScuole_AG2024.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Rovereto",
+                    "tipo": "Altro",
+                    "comune": "Rovereto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Trento",
+                    "tipo": "Altro",
+                    "comune": "Trento",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Provincia Autonoma di Trento",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Dipartimento istruzione e cultura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Provincia Autonoma di Trento",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_Test_rta_04_240620112214_4166---pippo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "CAV",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Elementi identificativi del protocollo"
+                },
+                {
+                    "nome": "Case Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Comuni",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Polizia Municipale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Settore educativo comunale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Servizi sociali comunali",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Servizio abusi e maltrattamenti comunale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Province/Citta metropolitane",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Consultori familiari e altri servizi territoriali"
+                },
+                {
+                    "nome": "Prefettura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Questura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Carabinieri/Polizia/altre forze dell’ ordine",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Scuole/Ufficio scolastico provinciale e regionale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Procura Minorile/ Tribunale minorile",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Procura Ordinaria/Tribunale/Corte d’appello",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Ordine avvocati",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Ordine psicologi e Ordine assistenti sociali",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Ordine medici e odontoiatri e Ordine farmacisti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Organismi di parita",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Ente terzo settore — ETS (iscritto al RUNTS)",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Ente terzo settore — ETS (iscritto al RUNTS) costituito da donne per le donne",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Servizi per l’impiego",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Sindacati/Associazioni di categoria",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Universita",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                },
+                {
+                    "nome": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto proponente"
+                }
+            ]
+        }
+    },
+    {
+        "file": "04_2406_Test_rta_04_240627145421_4166---Prova_file.txt",
+        "risultato": {
+            "entities": []
+        }
+    }
+]

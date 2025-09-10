@@ -1,0 +1,120 @@
+[
+    {
+        "file": "17_2406_rta_17_250506142731_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "DIREZIONE GENERALE PER LA SALUTE E POLITICHE DELLA PERSONA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Potenza",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ufficio Sistemi di Welfare"
+                },
+                {
+                    "nome": "CAV E RETE CENTRI ASCOLTO",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Progetti sperimentali, collegamento a CAV esistente"
+                },
+                {
+                    "nome": "CASE RIFUGIO",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Progetti di rete"
+                },
+                {
+                    "nome": "CENTRI INTERVENTI ANTI VIOLENZA",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rete sportelli"
+                },
+                {
+                    "nome": "SPORTELLI ASCOLTO",
+                    "tipo": "Sportello collegato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collegamento a CAV esistente"
+                },
+                {
+                    "nome": "ATS COMUNI PZ E MT",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore di progetti di rete"
+                }
+            ]
+        }
+    },
+    {
+        "file": "17_2406_rta_17_250506142746_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "DIREZIONE GENERALE PER LA SALUTE E POLITICHE DELLA PERSONA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Potenza",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ufficio Sistemi di Welfare"
+                },
+                {
+                    "nome": "CASE RIFUGIO",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Finanziate attraverso il Fondo Pari Opportunità"
+                },
+                {
+                    "nome": "CAV E RETE CENTRI ASCOLTO",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Finanziati attraverso il Fondo Pari Opportunità"
+                },
+                {
+                    "nome": "CENTRI ANTI VIOLENZA",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Potenza",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Progetti sperimentali congiunti con altri comuni"
+                },
+                {
+                    "nome": "SPORTELLI ASCOLTO 2 CUAV",
+                    "tipo": "Sportello collegato",
+                    "comune": "Potenza",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collegati al DPCM 26/09/2022"
+                },
+                {
+                    "nome": "ATS COMUNI PZ E MT",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto in 7 progetti di rete"
+                },
+                {
+                    "nome": "RIPARTO NAZIONALE",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Finanziamento regionale"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,937 @@
+[
+    {
+        "file": "20_2406_rta_20_250620094616_4166---Delibera52-22del23.12.2024-Allegato1.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro antiviolenza Donna Ceteris",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza Donne al Traguardo",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza Mai pit violate",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Tortolì",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza Onda Rosa",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza Prospettiva Donna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Olbia",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Aurora",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza dell’Unione dei Comuni del Marghine",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Macomer",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Interdistrettuale Ambiti Plus di Sanluri e Guspini “Feminas”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Sanluri",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Spazio donna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Ozieri",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Unione Comuni d’Ogliastra",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Elini",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza Ambiti Plus di Carbonia e Iglesias",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Carbonia",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza e Casa di accoglienza Donna Eleonora",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": ""
+                },
+                {
+                    "nome": "Rete Dafne Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "servizio di supporto alle vittime di qualsiasi reato"
+                },
+                {
+                    "nome": "Centro Ascolto Uomini Maltrattanti Sardegna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": "CUAV beneficiari dei finanziamenti della Regione Sardegna"
+                },
+                {
+                    "nome": "Centro Italiano per la Promozione della Mediazione e la giustizia riparativa Sardegna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Regione Autonoma della Sardegna",
+                    "note": "CUAV beneficiari dei finanziamenti della Regione Sardegna"
+                },
+                {
+                    "nome": "Gruppo Ascolto Maltrattanti in Emersione",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Associazione Donne al Traguardo"
+                },
+                {
+                    "nome": "Garante per l’infanzia e l’adolescenza della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Cagliari",
+                    "tipo": "Ente territoriale",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Oristano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Nuoro",
+                    "tipo": "Ente territoriale",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Sassari",
+                    "tipo": "Ente territoriale",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Cagliari",
+                    "tipo": "Ente territoriale",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Oristano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Nuoro",
+                    "tipo": "Ente territoriale",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Sassari",
+                    "tipo": "Ente territoriale",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Legione Carabinieri Sardegna",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Guardia di Finanza Comando regionale Sardegna",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura Generale presso la Corte d’Appello di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Oristano",
+                    "tipo": "Altro",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Lanusei",
+                    "tipo": "Altro",
+                    "comune": "Lanusei",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Tempio Pausania",
+                    "tipo": "Altro",
+                    "comune": "Tempio Pausania",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Oristano",
+                    "tipo": "Altro",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Lanusei",
+                    "tipo": "Altro",
+                    "comune": "Lanusei",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Tempio Pausania",
+                    "tipo": "Altro",
+                    "comune": "Tempio Pausania",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ufficio Interdistrettuale di Esecuzione Penale Esterna per la Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Giustizia Minorile della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Provveditorato Regionale Amministrazione Penitenziaria della Regione Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Regionale della Salute (ARES) Sardegna",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 1 Sassari",
+                    "tipo": "ASL",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 2 Gallura",
+                    "tipo": "ASL",
+                    "comune": "Gallura",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 3 Nuoro",
+                    "tipo": "ASL",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 4 Ogliastra",
+                    "tipo": "ASL",
+                    "comune": "Ogliastra",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 5 Oristano",
+                    "tipo": "ASL",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 6 Medio Campidano",
+                    "tipo": "ASL",
+                    "comune": "Medio Campidano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 7 Sulcis",
+                    "tipo": "ASL",
+                    "comune": "Sulcis",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda sociosanitaria locale n. 8 Cagliari",
+                    "tipo": "ASL",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda di rilievo nazionale ed alta specializzazione (ARNAS) Brotzu",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Ospedaliera Universitaria di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Ospedaliera Universitaria di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Olbia",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Olbia",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Cagliari 21",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Citta di Cagliari",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Nuoro",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Ales Terralba",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Ales Terralba",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Anglona Coros Figulinas",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Anglona Coros Figulinas",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Area Ovest",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Area Ovest",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Carbonia",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Carbonia",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Ghilarza",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Ghilarza",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Ozieri",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Ozieri",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Sarrabus Gerrei",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sarrabus Gerrei",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Siniscola",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Siniscola",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Arcipelago del Sulcis",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Arcipelago del Sulcis",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Guspini",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Guspini",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Iglesias",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Iglesias",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Macomer",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Macomer",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Ogliastra",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Ogliastra",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Oristano",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Quartu Parteolla",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Quartu Parteolla",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Sanluri",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sanluri",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Sarcidano Barbagia",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sarcidano Barbagia",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Sassari",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Sorgono",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sorgono",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Tempio Pausania",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Tempio Pausania",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Trexenta",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Trexenta",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ambiti Plus Alghero",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Alghero",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Nazionale Comuni Italiani (ANCI) Sardegna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consigliera regionale di parita",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consigliera di Parita della Citta Metropolitana di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consigliera di Parita della Provincia di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consigliera di Parita della Provincia di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ufficio Scolastico Regionale della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Assistenti Sociali Regione Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Oristano",
+                    "tipo": "Altro",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Lanusei",
+                    "tipo": "Altro",
+                    "comune": "Lanusei",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Tempio Pausania",
+                    "tipo": "Altro",
+                    "comune": "Tempio Pausania",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini dei Farmacisti della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Giornalisti della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini dei Medici Chirurghi e Odontoiatri delle Provincie di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini dei Medici Chirurghi e Odontoiatri delle Provincie di Oristano",
+                    "tipo": "Altro",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini dei Medici Chirurghi e Odontoiatri delle Provincie di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini dei Medici Chirurghi e Odontoiatri delle Provincie di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordini delle Professioni Infermieristiche di Carbonia Iglesias",
+                    "tipo": "Altro",
+                    "comune": "Carbonia Iglesias",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine delle Professioni Infermieristiche di Cagliari",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine delle Professioni Infermieristiche di Oristano",
+                    "tipo": "Altro",
+                    "comune": "Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine delle Professioni Infermieristiche di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine delle Professioni Infermieristiche di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine della Professione di Ostetrica di Cagliari e delle province di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Cagliari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine della Professione di Ostetrica di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Psicologi della Sardegna",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Tecnici sanitari di Radiologia Medica e delle Professioni Sanitarie tecniche, della riabilitazione e della Prevenzione di Cagliari e Oristano",
+                    "tipo": "Altro",
+                    "comune": "Cagliari e Oristano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Tecnici sanitari di Radiologia Medica e delle Professioni Sanitarie tecniche, della riabilitazione e della Prevenzione di Nuoro",
+                    "tipo": "Altro",
+                    "comune": "Nuoro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Tecnici sanitari di Radiologia Medica e delle Professioni Sanitarie tecniche, della riabilitazione e della Prevenzione di Sassari",
+                    "tipo": "Altro",
+                    "comune": "Sassari",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Giulia Giornaliste Sardegna",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    }
+]

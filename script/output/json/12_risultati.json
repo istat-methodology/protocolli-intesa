@@ -1,0 +1,4197 @@
+[
+    {
+        "file": "12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "VAPS Ponte Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose,3",
+                    "ente_capofila": "",
+                    "note": "Iscritta all'Abo regionale delle organizzazioni di donne impegnate nel contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Centro Antiviolenza Demetra VT4",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Vetralla",
+                    "indirizzo": "P.zza Guglielmo Marconi 34",
+                    "ente_capofila": "VAPS Ponte Donna",
+                    "note": "Gestito da VAPS Ponte Donna."
+                },
+                {
+                    "nome": "Distretto Sociosanitario VT4",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vetralla",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Comprendente i comuni di Vetralla, Capranica, Bassano Romano, Ronciglione, Oriolo Romano, Carbognano, Vejano, Caprarola, Sutri, Blera, Monterosi, Villa San Giovanni in Tuscia."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926112823_4166---2AccordoDemetra_Aman.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "APS PONTE DONNA",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose, 3",
+                    "ente_capofila": "",
+                    "note": "Iscritta al RUNTS ID pratica 721443 iscrizione del 27/01/2023"
+                },
+                {
+                    "nome": "Centro Antiviolenza Demetra VT4",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Vetralla",
+                    "indirizzo": "P.zza Guglielmo Marconi 34",
+                    "ente_capofila": "APS PONTE DONNA",
+                    "note": "ENTE gestore"
+                },
+                {
+                    "nome": "ASSOCIAZIONE “AMAN”",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Viterbo",
+                    "indirizzo": "Via F. Cristofori, 5",
+                    "ente_capofila": "",
+                    "note": "Iscritta al RUNTS ID 1460805 del 14/04/2023"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926113112_4166---4AccordoSpaziosupportodonnaAPSPonteDonna.txt",
+        "risultato": null
+    },
+    {
+        "file": "12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza Universita della Tuscia",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Viterbo",
+                    "indirizzo": "Via Santa Maria in Gradi,4",
+                    "ente_capofila": "",
+                    "note": "CAV Università, collegamento al Tavolo Interistituzionale per il contrasto alla violenza."
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nel Tavolo Interistituzionale."
+                },
+                {
+                    "nome": "Casa delle donne DONNE E RAGAZZE CONTRO LA VIOLENZA",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "APS Casa delle Donne Lucha y Siesta",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Marforio n°6",
+                    "ente_capofila": "",
+                    "note": "Iscritta all’Albo regionale delle organizzazioni di donne impegnate nel contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Centro Antiviolenza ‘Sara Di Pietrantonio’ Universita ROMA TRE",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "LAPS Differenza Donna",
+                    "note": "Gestito da Differenza Donna."
+                },
+                {
+                    "nome": "LAPS Differenza Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Della Lungara, 19",
+                    "ente_capofila": "",
+                    "note": "Iscritta all’Albo regionale, gestisce il Centro Antiviolenza presso Università di Tor Vergata."
+                },
+                {
+                    "nome": "APS Ponte Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose,3",
+                    "ente_capofila": "",
+                    "note": "Gestisce il Centro Antiviolenza presso Università della Tuscia."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926113409_4166---AccordoICSPietroVanniFormazionePontedonna.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Istituto Comprensivo Statale “Pietro Vanni”",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "Via Carlo Cattaneo 9",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Università della Tuscia",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Richiesta interventi formativi per le classi terze della Scuola Secondaria di I grado"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "U'APS Ponte Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose, 3",
+                    "ente_capofila": "",
+                    "note": "Iscritta al RUNTS ID pratica 721443 iscrizione del 27/01/2023; attiva nel contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Centro Antiviolenza presso L’Universita della Tuscia",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "U'APS Ponte Donna",
+                    "note": "ENTE gestore del Centro Antiviolenza."
+                },
+                {
+                    "nome": "Centro Antiviolenza Demetra VT4",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Vetralla",
+                    "indirizzo": "P.zza Guglielmo Marconi 34",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Cooperativa Alicenova",
+                    "tipo": "Altro",
+                    "comune": "Tarquinia",
+                    "indirizzo": "Strada Vicinale di Scorticagatti, 73/75",
+                    "ente_capofila": "U'APS Ponte Donna",
+                    "note": "Collabora con U'APS Ponte Donna nel supporto alle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Consiglio Regionale dell’Ordine degli Assistenti Sociali del Lazio",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "largo dei Colli Albani 32",
+                    "ente_capofila": "",
+                    "note": "CROAS Lazio"
+                },
+                {
+                    "nome": "PONTE DONNA APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Ariccia",
+                    "indirizzo": "Via Acqua Leggera,2",
+                    "ente_capofila": "Consiglio Regionale dell’Ordine degli Assistenti Sociali del Lazio",
+                    "note": "Organizza il corso di formazione 'La Tuscia in rete contro la violenza di genere'"
+                },
+                {
+                    "nome": "Università della Tuscia",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sede dove si svolge il corso di formazione"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "APS Ponte Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose, 3",
+                    "ente_capofila": "",
+                    "note": "Iscritta al RUNTS ID pratica 721443; impegnata nel contrasto alla violenza di genere e nel sostegno ai percorsi di uscita dalla violenza."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Marielle Franco”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Nettuno",
+                    "indirizzo": "via Bachelet",
+                    "ente_capofila": "APS Ponte Donna",
+                    "note": "Gestito da APS Ponte Donna; attivita di presa in carico di donne e minori che subiscono violenza."
+                },
+                {
+                    "nome": "ASD Underdog Social Club",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Castel Gandolfo",
+                    "indirizzo": "via San Sebastiano, 9/a",
+                    "ente_capofila": "",
+                    "note": "Realizzazione di progetti sportivi unificati per atleti con e senza disabilità; in accordo con APS Ponte Donna per progetti di inclusione."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "APS Ponte Donna",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose,3",
+                    "ente_capofila": "APS Ponte Donna",
+                    "note": "Accordo con APS MammeFuori, ENTE gestore del Centro Antiviolenza 'Marielle Franco'"
+                },
+                {
+                    "nome": "APS MammeFuori",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Nettuno",
+                    "indirizzo": "via Dello Scopone, 23/a",
+                    "ente_capofila": "",
+                    "note": "Accordo con APS Ponte Donna; offre servizi per il benessere psicofisico delle madri e dei minori"
+                },
+                {
+                    "nome": "Centro Antiviolenza 'Marielle Franco'",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Nettuno",
+                    "indirizzo": "via Bachelet",
+                    "ente_capofila": "APS Ponte Donna",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ITET EMANUELA LOI",
+                    "tipo": "Altro",
+                    "comune": "Nettuno",
+                    "indirizzo": "Via Emanuela Loi n.6",
+                    "ente_capofila": "",
+                    "note": "Istituto Tecnico Statale Economico-Tecnologico"
+                },
+                {
+                    "nome": "Associazione Ponte Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Grottaferrata",
+                    "indirizzo": "Via Sentiero delle Mimose,3",
+                    "ente_capofila": "Associazione Ponte Donna APS",
+                    "note": "Ente gestore del centro antiviolenza Sovradistrettuale Arde, Pomezia Nettuno Anzio 'Marielle Franco'"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926133329_4166---ProtInt2CAVFRANCARAME-18-20(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — ODV",
+                    "note": "servizio di ascolto e consulenza specialistica, gestione di progetti complessi"
+                },
+                {
+                    "nome": "Centro Astalli per l'assistenza agli immigrati ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Astalli 14/A",
+                    "ente_capofila": "Centro Astalli per l'assistenza agli immigrati ODV",
+                    "note": "40 anni impegnata in attività e servizi per diritti di migranti, promuove inclusione"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926133452_4166---PISPICGIL.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Sostiene un lavoro capillare contro la violenza sulle donne."
+                },
+                {
+                    "nome": "SPI CGIL II LEGA RREVA",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via dei Picenj 23, 00185 Roma",
+                    "ente_capofila": "",
+                    "note": "Impegnato nella tutela dei diritti degli anziani e nella promozione delle pari opportunità."
+                },
+                {
+                    "nome": "CAV \"Franca Rame\"",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Via Dalmazia 25",
+                    "ente_capofila": "",
+                    "note": "Collabora con Telefono Rosa e SPI CGIL II LEGA RREVA."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926133706_4166---STAR.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Cisterna di Latina",
+                    "tipo": "Ente territoriale",
+                    "comune": "Cisterna di Latina",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Provvede attivamente alla costruzione del sistema antiviolenza."
+                },
+                {
+                    "nome": "Servizio Sociale Professionale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Facilita la costruzione di progetti sociali per le donne vittime di violenza."
+                },
+                {
+                    "nome": "Pronto Intervento Sociale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Intervento rivolto a donne in pericolo di vita con collocamento temporaneo."
+                },
+                {
+                    "nome": "Consulta delle Donne",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove il protocollo d'intesa e indagini sulle esigenze delle donne."
+                },
+                {
+                    "nome": "Comando di Polizia Locale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnato nella prevenzione e repressione dei fenomeni di violenza."
+                },
+                {
+                    "nome": "Commissariato di Polizia di Stato di Cisterna di Latina",
+                    "tipo": "Altro",
+                    "comune": "Cisterna di Latina",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Garantisce attività di contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Carabinieri di Cisterna di Latina",
+                    "tipo": "Altro",
+                    "comune": "Cisterna di Latina",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora nella prevenzione della violenza di genere."
+                },
+                {
+                    "nome": "Distretto Socio Sanitario Lt-1",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Interventi di sostegno psicosociale per donne vittime di violenza."
+                },
+                {
+                    "nome": "Ufficio Scolastico Territoriale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborazione per promuovere le finalità del Protocollo."
+                },
+                {
+                    "nome": "Associazione Centro Donna Lilith",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce sportelli di ascolto, orientamento e sostegno."
+                },
+                {
+                    "nome": "Casa Rifugio Emily",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Accoglie donne sole o con figli/e minori in condizione di violenza."
+                },
+                {
+                    "nome": "Enti della rete",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Favoriscono sensibilizzazione e prima accoglienza in ambito di violenza di genere."
+                },
+                {
+                    "nome": "Centri antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Forniamo ascolto e supporto alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Sportelli antiviolenza",
+                    "tipo": "Sportello collegato",
+                    "comune": "Cisterna di Latina",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Due sportelli nei Comuni di Cori e Cisterna di Latina."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926134140_4166---Protocollointesa.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura- U.T.G. di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Amministrazione Provinciale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Frosinone",
+                    "tipo": "ASL",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Risorse Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Diaconia Soc. Coop Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "APS Calcutta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Auser del Frusinate",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Questura di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella sensibilizzazione e raccolta denunce di violenza contro le donne."
+                },
+                {
+                    "nome": "Comando Provinciale dell’Arma dei Carabinieri di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnato nella sensibilizzazione e nella raccolta di informazioni relative alla violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "PARSEC COOPERATIVA SOCIALE A R.L.",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Jonio 331",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella promozione di interventi e servizi sociali."
+                },
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA - APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "PARSEC COOPERATIVA SOCIALE A R.L.",
+                    "note": "Sostiene un lavoro contro la violenza sulle donne, fornisce consulenza, assistenza e promuove iniziative contro la violenza."
+                },
+                {
+                    "nome": "ASL Roma 1",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Particolarmente coinvolta nel progetto 'Gioco d’Azzardo, Gioco Bugiardo'."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — ONLUS",
+                    "note": "Impegno nella prevenzione della violenza contro le donne."
+                },
+                {
+                    "nome": "Associazione Tra le Donne",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove attività per il sostegno delle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Programma Integra scs",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "via S. Antonio Maria Gianelli 19/19b",
+                    "ente_capofila": "Programma Integra scs",
+                    "note": "Cooperativa Sociale impegnata nell'integrazione sociale di migranti e rifugiati."
+                },
+                {
+                    "nome": "Associazione Casa delle Donne Lucha y Siesta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Marforio 6",
+                    "ente_capofila": "",
+                    "note": "Attività di contrasto alla violenza contro le donne, offre un centro antiviolenza e una casa rifugio."
+                },
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Casa delle Donne Lucha y Siesta",
+                    "note": "Parte delle attività dell'associazione per il supporto alle donne in difficoltà."
+                },
+                {
+                    "nome": "Casa Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Casa delle Donne Lucha y Siesta",
+                    "note": "Parte delle attività dell'associazione per il supporto alle donne in difficoltà."
+                },
+                {
+                    "nome": "Sportello di Orientamento, Ascolto e Accoglienza per Donne e Minori in difficoltà",
+                    "tipo": "Sportello collegato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Casa delle Donne Lucha y Siesta",
+                    "note": "Offre supporto a donne e minori in difficoltà."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Municipio Roma V Direzione Socio Educativa",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordinatore del tavolo permanente per il contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "ASL Roma 2 - 5 Distretto, UOC Tutela della Salute della Donna e dell'Eta Evolutiva",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegno nella rilevazione dei dati in sinergia con l’Osservatorio."
+                },
+                {
+                    "nome": "Ospedale Sandro Pertini",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione al tavolo permanente per il contrasto alle violenze di genere."
+                },
+                {
+                    "nome": "Policlinico Casilino",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegno nel contrasto alle violenze di genere."
+                },
+                {
+                    "nome": "Ospedale Madre Giuseppina Vannini",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione al tavolo e ai flussi di comunicazione."
+                },
+                {
+                    "nome": "Rete Scolastica di Ambito Territoriale 3",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella sensibilizzazione sul tema della violenza di genere."
+                },
+                {
+                    "nome": "Questura di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentata dai Commissariati di P.S. Prenestino, Torpignattara e Porta Maggiore."
+                },
+                {
+                    "nome": "Polizia di Roma Capitale - V Gruppo Prenestino",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione e raccolta delle denunce nel rispetto della riservatezza."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Angela Merlin”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "via Roberto Lepetit",
+                    "ente_capofila": "",
+                    "note": "Impegno nella rilevazione dei dati e partecipazione al tavolo."
+                },
+                {
+                    "nome": "Associazione Casa delle donne Lucha y Siesta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Marforio 6, 00169 Roma",
+                    "ente_capofila": "",
+                    "note": "Partecipazione al protocollo d’intesa e alla presa in carico delle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura di Rieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica di Rieti",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Rieti",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale dei Minorenni di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Rieti",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale dei Carabinieri di Rieti",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale della Guardia di Finanza",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Rieti",
+                    "tipo": "ASL",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei medici della Provincia di Rieti",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Psicologi del Lazio",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centri Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Garantiscono accoglienza, sostegno e rifugio alle vittime."
+                },
+                {
+                    "nome": "Ufficio Scolastico Regionale",
+                    "tipo": "Altro",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ambito Territoriale di Rieti"
+                },
+                {
+                    "nome": "Comune di Rieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove e supporta le finalità del protocollo."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Il Nido di Ana”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Rieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella prevenzione e assistenza alle vittime di violenza."
+                },
+                {
+                    "nome": "COMITATO DI QUARTIERE SAN LORENZO",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove iniziative per migliorare la qualità della vita degli abitanti di San Lorenzo."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione APS Happy Coaching and Counseling Roma",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Morlupo",
+                    "indirizzo": "Via Mossa dei Barberi, 61",
+                    "ente_capofila": "",
+                    "note": "Operano nel rispetto delle finalità civiche, solidaristiche e di utilità sociale."
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Sostiene il lavoro contro la violenza sulle donne e offre consulenza, assistenza e prevenzione."
+                },
+                {
+                    "nome": "Telefono Rosa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa",
+                    "note": "Gestisce progetti a sostegno delle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002110138_4166---3protCAVSAPIENZA-laGRU.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "La GRU - Germogli di Rinascita Urbana APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via del Latint 76",
+                    "ente_capofila": "",
+                    "note": "Collaborazione con Telefono Rosa per il supporto alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Telefono Rosa - Associazione Nazionale Volontarie",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Assistenza e supporto alle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002110904_4166---5protCAVSAPIENZA-RUOTALIBERACOOPERATIVASOCIALE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa - OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mageint 2",
+                    "ente_capofila": "",
+                    "note": "Operante nel supporto alle vittime di violenza, consulenza e sensibilizzazione."
+                },
+                {
+                    "nome": "Cooperativa Sociale Ruotalibera",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce Centrale Preneste, spazio polifunzionale per l'educazione dei bambini e adolescenti."
+                },
+                {
+                    "nome": "Centrale Preneste",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Cooperativa Sociale Ruotalibera",
+                    "note": "Spazio per educazione e orientamento familiare, coinvolto in attività di sensibilizzazione."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Operante nella consulenza, assistenza e prevenzione per donne vittime di violenza."
+                },
+                {
+                    "nome": "Sapienza in Movimento",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove attività e eventi in collaborazione con l'Associazione Telefono Rosa."
+                },
+                {
+                    "nome": "Telefono Rosa",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — OdV",
+                    "note": "Collegamento a Centri Anti Violenza della Regione Lazio."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "UNIVERSITA’ POPOLARE VITATTIVA a.p.6,8.d",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "VIA DEI CAMPANI, 77",
+                    "ente_capofila": "",
+                    "note": "Opera nel sociale e nella formazione, senza fini di lucro."
+                },
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA - ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini, 73",
+                    "ente_capofila": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA - ONLUS",
+                    "note": "Impegnata nella consulenza e assistenza per donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002113235_4166---8protCAVSAPIENZA-RETAKEROMAODV.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "RETAKE ROMA ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Piazza di Campitelli 2",
+                    "ente_capofila": "",
+                    "note": "attiva nel territorio urbano romano e nazionale, diffusione del senso civico"
+                },
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "sostiene un lavoro contro il fenomeno delle violenze sulle donne, consulenza e assistenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002114038_4166---1protCAVTITANO-8-10DidascoSoc.Coop.Soc.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "DEDASCO Cooperativa Sociale",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Pescosolido 160",
+                    "ente_capofila": "",
+                    "note": "Gestore delle attività di informazione, consulenza e assistenza"
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Impegnata nel supporto alle donne vittime di violenza; attivazione di servizi personalizzati"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Gli Amici di Conca D’Oro APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Rappresentata dalla Presidente e Legale Rappresentante Maria Gabriella Carnieri, opera nel supporto alle donne vittime di violenza e promuove iniziative sociali."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "IDEA PRISMA 82 Cooperativa Sociale",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Ida Baccini 80 — 00137",
+                    "ente_capofila": "",
+                    "note": "Attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Impegnata in consulenza e assistenza alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attività di informazione, consulenza e assistenza."
+                },
+                {
+                    "nome": "Sportello informativo",
+                    "tipo": "Sportello collegato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Accesso ai servizi sociosanitari del territorio."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002120506_4166---4protCAVTITANO-ASSOCIAZIONESolidarietàLaicaeResponsabileSO.LA.RE.Onlus.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE SOlidarieta LAica e REsponsabile - SO.LA.RE. ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attività nel settore della solidarieta sociale, progettazione di iniziative di sensibilizzazione"
+                },
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sostiene vittime di maltrattamenti, consulenza legale e psicologica"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Alliance for African Assistance",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Si occupa di inclusione sociale e lavorativa di categorie fragili."
+                },
+                {
+                    "nome": "U'ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Promuove iniziative contro la violenza sulle donne e supporta le vittime. Gestisce case rifugio e progetti di assistenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Differenza Donna ONG",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Telefono Rosa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Bee Free Coop. Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura Ordinaria presso il Tribunale di Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura presso il Tribunale per i Minorenni di Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE SALVAMAMME",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Impegnata a sostenere le utenti del Telefono Rosa nel percorso di fuoriuscita dalla violenza."
+                },
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Fornisce consulenza legale e psicologica alle donne vittime di violenza; gestione di progetti formativi."
+                },
+                {
+                    "nome": "CAV",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — ONLUS",
+                    "note": "Inserisce utenti/ospiti nelle iniziative culturali promosse dall'Associazione."
+                },
+                {
+                    "nome": "Case Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — ONLUS",
+                    "note": "Utilizzate per le utenti che necessitano di supporto nel percorso di fuoriuscita dalla violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003093443_4166---7Protocollod'intesa-Donneinrinascita.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Giuseppe Mazzini, 73",
+                    "ente_capofila": "ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA ONLUS",
+                    "note": "Attiva nella lotta contro la violenza sulle donne, offre supporto legale, bancario e psicologico."
+                },
+                {
+                    "nome": "Associazione Donne in Rinascita",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Udine",
+                    "indirizzo": "Via Gemona, 9",
+                    "ente_capofila": "",
+                    "note": "Costituita il 15/07/2016, offre sportello di ascolto, aiuto psicologico e linea telefonica attiva 14 ore su 24."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "La Ginestra - Centro di accoglienza per donne e minori in difficolta",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Valmontone",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Nazionale Volontarie del Telefono Rosa - Onlus",
+                    "note": "Gestito per conto della Regione Lazio"
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie del Telefono Rosa - Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore del Centro di accoglienza 'La Ginestra'"
+                },
+                {
+                    "nome": "MIUR",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promotore del servizio Psicologico Help"
+                },
+                {
+                    "nome": "Croce Rossa Italiana",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborazione con l'Ente Locale per contrastare il cyberbullismo"
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Indicazioni per il Protocollo di somministrazione farmaci"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro di ascolto U.LL Mobbing & Stalking contro tutte le violenze",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Como",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "centri di ascolto presenti su tutto il territorio nazionale"
+                },
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "opera nel territorio nazionale in sintonia con le leggi europee, Nazionali e Regionali"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003100516_4166---1ProtCAVPAOLALATTESLibroteka(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Promuove attività di prevenzione contro la violenza sulle donne; consulenza legale e psicologica per le donne vittime di violenza."
+                },
+                {
+                    "nome": "ACR La Librotéca",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Aldo Sandulli 80",
+                    "ente_capofila": "",
+                    "note": "Centro per fini ricreativi, culturali e solidaristici; offre spazi per donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Ostiense n. 131/L",
+                    "ente_capofila": "",
+                    "note": "Cooperativa attiva dal 1981 nei servizi rivolti alla persona."
+                },
+                {
+                    "nome": "Formazione Obiettivo Uomo Societa Cooperativa Sociale Onlus",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Ostiense 131/L",
+                    "ente_capofila": "",
+                    "note": "Ente accreditato alla Regione Lazio per la formazione continua."
+                },
+                {
+                    "nome": "Centro Famiglie Nuovi Legami",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "note": "Coordina servizi e progetti per la protezione sociale."
+                },
+                {
+                    "nome": "Famiglie in Centro",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "note": "Centro per le famiglie in Municipio Roma I Centro."
+                },
+                {
+                    "nome": "Ohana",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "note": "Centro per le famiglie in Municipio II."
+                },
+                {
+                    "nome": "Servizio di Sostegno psicologico ai nuclei familiari",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "note": "Attivo in Municipio V."
+                },
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Obiettivo Uomo Societa Cooperativa Sociale Ets",
+                    "note": "Attivo in Municipio IX dal settembre 2021."
+                },
+                {
+                    "nome": "ASL RM 1",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Afferente al territorio, coinvolto nei progetti."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza di Roma Capitale “Alda Merini”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Via Cassia n.5",
+                    "ente_capofila": "Differenza Donna - Associazione di Donne contro la Violenza alle Donne APS",
+                    "note": "Gestito dall'Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "Casa Rifugio di Roma Capitale",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "Via Cassia 639",
+                    "ente_capofila": "Differenza Donna - Associazione di Donne contro la Violenza alle Donne APS",
+                    "note": "Gestito dall'Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "MUNICIPIO XV di ROMA CAPITALE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Flaminia 872",
+                    "ente_capofila": "",
+                    "note": "Rappresentato dal Presidente Daniele Torquati."
+                },
+                {
+                    "nome": "Differenza Donna - Associazione di Donne contro la Violenza alle Donne APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "",
+                    "note": "Gestisce il Centro Antiviolenza e la Casa Rifugio di Roma Capitale."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Universita degli Studi di Roma “Foro Italico”",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Piazza Lauro de Bosis n. 15",
+                    "ente_capofila": "",
+                    "note": "Promuove iniziative di sensibilizzazione e contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Associazione Differenza Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara 19",
+                    "ente_capofila": "",
+                    "note": "Gestisce il Numero Nazionale Antiviolenza e Stalking 1522."
+                },
+                {
+                    "nome": "Centro Antiviolenza di Roma Capitale “Alda Merini”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Via Cassia 5",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Ospitato dal Municipio Roma XV."
+                },
+                {
+                    "nome": "Casa Rifugio di Roma Capitale",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "via Cassia 639",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Ospitata dal Municipio Roma XV."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASL ROMA 1",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "Borgo Santo Spirito 3",
+                    "ente_capofila": "",
+                    "note": "Distretto 1"
+                },
+                {
+                    "nome": "ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "ASL ROMA 1",
+                    "note": "Gestione di Centri antiviolenza e Case Rifugio; Gestione del Numero Nazionale 1522"
+                },
+                {
+                    "nome": "Distretto 1 - ASL ROMA 1",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegno in interventi integrati di sostegno per donne e minori vittime di violenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Municipio Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via L. Petroselli n. 50",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Differenza Donna — ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via della Lungara n° 19 — 00165",
+                    "ente_capofila": "Municipio Roma",
+                    "note": "Gestore del Centro Antiviolenza"
+                },
+                {
+                    "nome": "Centro Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Circ.ne Trionfale n° 19",
+                    "ente_capofila": "Associazione Differenza Donna — ONLUS",
+                    "note": "In coordinamento con il Municipio Roma"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003110812_4166---ALLIANCEFORAFRICANASSISTANCE_colasantilopez.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Comunale Antiviolenza “D. Colasanti e R. Lopez”",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Vie della Lungara, 19",
+                    "ente_capofila": "",
+                    "note": "Accoglie e sostiene donne e minori in uscita dalla violenza sin dal 1989"
+                },
+                {
+                    "nome": "Alliance for African Assistance Italy",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Giacomo Folchi 16/B",
+                    "ente_capofila": "",
+                    "note": "Specializzato in formazione professionale per donne in difficoltà"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Municipio Roma V",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Direzione Socio Educativa"
+                },
+                {
+                    "nome": "Roma Capitale - Dipartimento Partecipazione, Comunicazione e Pari Opportunità",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASL Roma 2 - 5 Distretto, UOC Tutela della Salute della Donna e dell’Eta Evolutiva, UOC Tutela e Salute Mentale e Riabilitazione in Eta Evolutiva",
+                    "tipo": "ASL",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ospedale Sandro Pertini",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Policlinico Casilino",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ospedale Madre Giuseppina Vannini",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Rete Scolastica di Ambito Territoriale 3",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentata dai Commissariati di P.S. Prenestino, Torpignattara e Porta Maggiore"
+                },
+                {
+                    "nome": "Polizia di Roma Capitale - V Gruppo Prenestino",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "CREDICI s.r.l.",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Citta D’Europa N. 679",
+                    "ente_capofila": "",
+                    "note": "Agenzia per il lavoro, si occupa di orientamento e accompagnamento al lavoro."
+                },
+                {
+                    "nome": "Associazione Differenza Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "CREDICI s.r.l.",
+                    "note": "Gestione di Centri antiviolenza, Case Rifugio, e supporto per donne in uscita dalla violenza."
+                },
+                {
+                    "nome": "Centri Antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestiti da Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "Case Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestiti da Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "Case di Semiautonomia",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestiti da Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "Sportelli Codice Rosa",
+                    "tipo": "Sportello collegato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestiti da Associazione Differenza Donna APS."
+                },
+                {
+                    "nome": "Numero Nazionale di pubblica utilità Antiviolenza e Stalking 1522",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestito da Associazione Differenza Donna."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASL Roma 4 - UOC Tutela Salute Donna, Coppie, Prevenzione Eta Evolutiva, Soggetti Fragili ed Immigrati",
+                    "tipo": "ASL",
+                    "comune": "Bracciano",
+                    "indirizzo": "largo dell’Ospedale Vecchio n. 8",
+                    "ente_capofila": "",
+                    "note": "Direttore: dott.ssa Elena Gelmini"
+                },
+                {
+                    "nome": "Associazione Differenza Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "",
+                    "note": "Sede operativa in via Tacito 90, Roma; Gestione Centri antiviolenza, Case Rifugio, e Numero Nazionale pubblica utilità Antiviolenza e Stalking 1522."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Galassia”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Formello",
+                    "indirizzo": "via XX settembre 2",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestito da Differenza Donna, accolte circa 400 donne dal Distretto 4 e 3."
+                },
+                {
+                    "nome": "Sportello Ospedaliero “Codice Rosa”",
+                    "tipo": "Sportello collegato",
+                    "comune": "Bracciano",
+                    "indirizzo": "Ospedale Padre Pio",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Operativo anche presso Ospedale San Paolo di Civitavecchia, accolte molte donne dai Distretti 1, 2, 3, 4."
+                },
+                {
+                    "nome": "Ospedale Civitavecchia",
+                    "tipo": "Altro",
+                    "comune": "Civitavecchia",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "In rete con la UOC per percorso nascita."
+                },
+                {
+                    "nome": "Consultori ASL Roma 4",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborazione attiva e rete di risorse per donne che hanno subito violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "COMUNE DI TREVIGNANO ROMANO",
+                    "tipo": "Ente territoriale",
+                    "comune": "Trevignano Romano",
+                    "indirizzo": "Piazza Vittorio Emanuele III n. 1",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "V’ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "COMUNE DI TREVIGNANO ROMANO",
+                    "note": "Gestione di Centri antiviolenza, Case Rifugio, Centri antitratta e Case di Semiautonomia. Gestione del Numero Nazionale di pubblica utilità Antiviolenza e Stalking 1522."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Galassia”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Formello",
+                    "indirizzo": "via XX settembre 2",
+                    "ente_capofila": "V’ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "note": "Gestito dal 2019. Accolte circa 400 donne provenienti dal Distretto 4 e 3."
+                },
+                {
+                    "nome": "Sportello Ospedaliero “Codice Rosa”",
+                    "tipo": "Sportello collegato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "V’ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "note": "Gestito dal 2017 presso L’Ospedale Padre Pio di Bracciano e I’Ospedale San Paolo di Civitavecchia."
+                },
+                {
+                    "nome": "ASL RM 4",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Territorio del Distretto 3 in cui risiede il Comune di Trevignano Romano."
+                },
+                {
+                    "nome": "Consorzio Valle del Tevere",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promotore del Centro Antiviolenza “Galassia”."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "CREDICI s.r.l.",
+                    "tipo": "Agenzia per il lavoro",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Citta D’Europa N. 679",
+                    "ente_capofila": "CREDICI s.r.l.",
+                    "note": "Gestore di attività di orientamento e accompagnamento al lavoro per donne in uscita dalla violenza."
+                },
+                {
+                    "nome": "Associazione Differenza Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "Associazione Differenza Donna APS",
+                    "note": "Gestione di Centri antiviolenza, Case Rifugio e sportelli Codice Rosa; coinvolta in iniziative di contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "Case di Semiautonomia",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Strumenti gestiti dall’Associazione Differenza Donna APS per la prevenzione e contrasto della violenza di genere."
+                },
+                {
+                    "nome": "Centri antiviolenza",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestiti dall’Associazione Differenza Donna APS; parte delle attività di supporto a donne in difficoltà."
+                },
+                {
+                    "nome": "sportelli Codice Rosa",
+                    "tipo": "Sportello collegato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestiti dall’Associazione Differenza Donna APS; offrono supporto alle donne in uscita dalla violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ROMA VOLLEY SSD ARL",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "viale A. Ciamarra, 259",
+                    "ente_capofila": "",
+                    "note": "società sportiva che promuove la pratica della pallavolo e la parità di genere"
+                },
+                {
+                    "nome": "DIFFERENZA DONNA APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "DIFFERENZA DONNA APS",
+                    "note": "associazione di donne che gestisce Centri Antiviolenza e Case Rifugio"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "MUNICIPIO XIII di ROMA CAPITALE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Aurelia 470",
+                    "ente_capofila": "",
+                    "note": "Rappresentato dalla Presidente del Municipio XIII, Sabrina Giuseppetti."
+                },
+                {
+                    "nome": "ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "MUNICIPIO XIII di ROMA CAPITALE",
+                    "note": "Gestisce il Centro Antiviolenza di Roma Capitale “Palmina Martinelli”."
+                },
+                {
+                    "nome": "Centro Antiviolenza di Roma Capitale “Palmina Martinelli”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Via dei Gozzadini 38",
+                    "ente_capofila": "ASSOCIAZIONE DIFFERENZA DONNA APS",
+                    "note": ""
+                },
+                {
+                    "nome": "ASL RM 1",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "In coordinamento con il Municipio XIII per le tematiche di prevenzione e contrasto della violenza di genere."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Differenza Donna ONG",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Telefono Rosa",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Bee Free Coop. Sociale",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale Ordinario di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura Ordinaria presso Il Tribunale di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura presso il Tribunale per i Minorenni",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio Ordine Avvocati di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003115852_4166---SISTEMABIBLIOTECARIOLASAPIENZA.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Sistema Bibliotecario Sapienza",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Cesare De Lollis 23",
+                    "ente_capofila": "",
+                    "note": "Protocollo di intesa con Associazione Differenza Donna APS"
+                },
+                {
+                    "nome": "Associazione Differenza Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "via della Lungara, 19",
+                    "ente_capofila": "",
+                    "note": "Gestione di Centri antiviolenza e Case Rifugio"
+                },
+                {
+                    "nome": "Sistema Bibliotecario Sapienza",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "P. Aldo Moro, 5",
+                    "ente_capofila": "",
+                    "note": "Attività nelle sedi dei centri antiviolenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003120714_4166---ASLROMA5_.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASL Roma 5",
+                    "tipo": "ASL",
+                    "comune": "Tivoli",
+                    "indirizzo": "Via Acquaregna 1/15",
+                    "ente_capofila": "",
+                    "note": "Collabora con l'Associazione Differenza Donna nella realizzazione di un sistema integrato di protezione delle vittime di reato."
+                },
+                {
+                    "nome": "Associazione Differenza Donna - Associazione di Donne contro la Violenza alle Donne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Roma 5",
+                    "note": "Gestisce due Sportelli Ospedalieri Antiviolenza presso gli Ospedali di Tivoli e Colleferro; collabora con la Procura di Tivoli."
+                },
+                {
+                    "nome": "Centro Antiviolenza La Sibilla",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Tivoli",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Operativo a Tivoli da giugno 2018; collabora con diversi enti per favorire l'emersione della violenza."
+                },
+                {
+                    "nome": "Ospedale San Giovanni Evangelista di Tivoli",
+                    "tipo": "Altro",
+                    "comune": "Tivoli",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sede di uno degli Sportelli Ospedalieri Antiviolenza."
+                },
+                {
+                    "nome": "Ospedale Leopoldo Parodi Delfino di Colleferro",
+                    "tipo": "Altro",
+                    "comune": "Colleferro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sede di uno degli Sportelli Ospedalieri Antiviolenza."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Tivoli",
+                    "tipo": "Ente territoriale",
+                    "comune": "Tivoli",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora con ASL Roma 5 e Differenza Donna per la creazione di protocolli per il sostegno alle vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Tribunale Ordinario di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura Ordinaria presso il Tribunale di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura presso il Tribunale per i Minorenni",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Differenza Donna ONG",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Telefono Rosa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Bee Free Cooperativa Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Servizio di ascolto, consulenza specialistica e gestione di progetti complessi per le donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Culturale Torraccia A.S.D.",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Aldo Sandulli 100",
+                    "ente_capofila": "",
+                    "note": "Punto d’incontro per la popolazione di Torraccia, offre attività culturali e corsi sportivi."
+                },
+                {
+                    "nome": "Comune di Roma",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Concessione della struttura e area verde limitrofa all'Associazione Culturale Torraccia A.S.D."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "gestore di servizi di consulenza e assistenza per donne vittime di violenza"
+                },
+                {
+                    "nome": "Associazione di Promozione Sociale Genitori x la Scuola — APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Poppea Sabina 71",
+                    "ente_capofila": "",
+                    "note": "collaborazione per attività di prevenzione e sostegno a donne vittime di violenza; attività formative e di sensibilizzazione"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt",
+        "risultato": null
+    },
+    {
+        "file": "12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa - ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Sostegno e soccorso alle vittime di maltrattamenti fisici e psicologici."
+                },
+                {
+                    "nome": "Liberi Nantes A.S.D.",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Marica, 80",
+                    "ente_capofila": "",
+                    "note": "Promuove lo sport come strumento di contrasto alle discriminazioni. Gestore del Centro Sportivo di Comunita presso il Campo Sportivo XXV Aprile di Pietralata."
+                },
+                {
+                    "nome": "Centro Sportivo di Comunita",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Campo Sportivo XXV Aprile di Pietralata",
+                    "ente_capofila": "Liberi Nantes A.S.D.",
+                    "note": "Luogo aggregativo per bambini con attività sportive gratuite."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004093800_4166---6protCavPaolaLattesComitatodiQuartiere“CittadinidiColliAniene.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": " Iniziative per combattere la violenza sulle donne. Offre consulenza legale e psicologica."
+                },
+                {
+                    "nome": "Comitato di Quartiere “Cittadini di Colli Aniene Bene Comune”",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Alberto Canaletti Gaudenti 20, interno 3",
+                    "ente_capofila": "",
+                    "note": "Promuove la gestione pubblica dei servizi sociali e sostegno alle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa OdV",
+                    "note": "Attività di consulenza, assistenza e prevenzione contro la violenza sulle donne."
+                },
+                {
+                    "nome": "COMITATO DI QUARTIERE “COMPRENSORIO PRATOLUNGO”",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Elena Brandizzi Gianni 73",
+                    "ente_capofila": "",
+                    "note": "Collabora con l'Associazione Nazionale Volontarie Telefono Rosa per supportare donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004095020_4166---8protCAVPAOLALATTES(ComitatodiQuartiereRebibbia(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "note": "Impegnata nel contrasto alla violenza di genere, offre consulenza legale e psicologica."
+                },
+                {
+                    "nome": "Comitato di Quartiere Rebibbia",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Luigi Speroni 13",
+                    "ente_capofila": "",
+                    "note": "Gestisce la Casa Pasolini, organizza incontri culturali e attivita di pulizia nel quartiere."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004100148_4166---910protCAVPAOLALATTESCooperativaSocialeLineaSociale-Onlus(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Rappresentata dalla Presidente Maria Gabriella Carnieri. Impegnata nella consulenza e assistenza a donne vittime di violenza."
+                },
+                {
+                    "nome": "Cooperativa Sociale LINEA SOCIALE - Onlus",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Antonio Castellari 79-81",
+                    "ente_capofila": "",
+                    "note": "Rappresentata dal Presidente Nicola Medini. Impegnata nel supporto a donne vittime di violenza e soggetti svantaggiati."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa — ONLUS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "",
+                    "note": "Sostiene un lavoro capillare contro il fenomeno della violenza sulle donne"
+                },
+                {
+                    "nome": "Associazione Gli Amici di Roberto OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Carlo Arturo Jemolo 146",
+                    "ente_capofila": "",
+                    "note": "Favorisce l'aggregazione dei giovani, assistenza psicologica"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Nazionale Volontarie Telefono Rosa OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Mazzini 73",
+                    "ente_capofila": "Associazione Nazionale Volontarie Telefono Rosa OdV",
+                    "note": "Servizio di ascolto e consulenza specialistica; impegno nella lotta contro la violenza sulle donne."
+                },
+                {
+                    "nome": "Comitato di Quartiere Torraccia",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Via Aldo Sandulli 100",
+                    "ente_capofila": "",
+                    "note": "Favorisce unione tra abitanti e promuove attività di prevenzione e sostegno alle donne vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004112805_4166---protocollod'intesa.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza “RINASCITA”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Cassino",
+                    "indirizzo": "via Puccini n. 51- 03043",
+                    "ente_capofila": "Associazione Kalimess",
+                    "note": "gestito dall’Associazione Kalimess"
+                },
+                {
+                    "nome": "Associazione Kalimess",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Cassino",
+                    "indirizzo": "Via Degli Eroi, § - 03043",
+                    "ente_capofila": "",
+                    "note": "gestore del Centro Antiviolenza “RINASCITA”"
+                },
+                {
+                    "nome": "Casa Rifugio “Essere Libera”",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "dedicata a donne e minori in situazioni di violenza; operativo H24 e collegato al 1522"
+                },
+                {
+                    "nome": "Associazione Risorse Donna APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Cassino",
+                    "indirizzo": "Via Sacco, 420 - 03042",
+                    "ente_capofila": "",
+                    "note": "partner nel protocollo di intesa"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Corpo della Polizia Locale del Comune di Cerveteri",
+                    "tipo": "Ente territoriale",
+                    "comune": "Cerveteri",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Be Free Societa Cooperativa Sociale",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Biferno nr. 4 - 00199 - Roma",
+                    "ente_capofila": "",
+                    "note": "Contrasta la tratta di esseri umani e supporta le vittime di violenza di genere."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Donna Lilith Aps",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Latina",
+                    "indirizzo": "via Farini 2 - 04100 Latina",
+                    "ente_capofila": "",
+                    "note": "gestore del Centro Antiviolenza LiberA di Priverno"
+                },
+                {
+                    "nome": "Casa Rifugio 'Emily'",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Centro Donna Lilith Aps",
+                    "note": "ospitalità per donne sole o con figli/e, che hanno subito abusi e maltrattamenti"
+                },
+                {
+                    "nome": "Centro Antiviolenza LiberA",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Priverno",
+                    "indirizzo": "",
+                    "ente_capofila": "Centro Donna Lilith Aps",
+                    "note": ""
+                },
+                {
+                    "nome": "Arteinsieme Società Cooperativa Sociale",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Formia",
+                    "indirizzo": "via Pasquale Testa n.24",
+                    "ente_capofila": "",
+                    "note": "collaborazione con Centro Donna Lilith Aps"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura- U.T.G. di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordina interventi delle Forze dell’Ordine in materia di prevenzione e contrasto alla violenza."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Si impegna a sensibilizzare la polizia giudiziaria e fornire dati statistici sul fenomeno della violenza."
+                },
+                {
+                    "nome": "Amministrazione Provinciale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sostiene iniziative per sensibilizzazione sui diritti delle donne."
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Frosinone",
+                    "tipo": "ASL",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce locali per Centro Unico d’ascolto e monitoraggio delle vittime."
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Organizza uno sportello per consulenze legali pro bono per vittime di violenza."
+                },
+                {
+                    "nome": "Risorse Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Diaconia Soc. Coop Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Fornisce supporto alle donne vittime di violenza."
+                },
+                {
+                    "nome": "APS Calcutta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella lotta contro la violenza di genere."
+                },
+                {
+                    "nome": "Auser del Frusinate",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sostiene donne in difficoltà."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva in assistenza e supporto alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Questura di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Garantisce riservatezza nella raccolta di denunce di violenza."
+                },
+                {
+                    "nome": "Comando Provinciale dell’Arma dei Carabinieri di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Si impegna a formare operatori sui temi della violenza di genere."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura- U.T.G. di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordinamento istituzionale per azioni di prevenzione e contrasto della violenza di genere."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata nella sensibilizzazione su temi di violenza di genere."
+                },
+                {
+                    "nome": "Amministrazione Provinciale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Supporta iniziative di sensibilizzazione e formazione."
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Frosinone",
+                    "tipo": "ASL",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora nella valutazione e presa in carico delle vittime."
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Organizza sportello di consulenza legale pro bono per vittime di violenza."
+                },
+                {
+                    "nome": "Risorse Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva in accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Diaconia Soc. Coop. Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di sostegno alle donne."
+                },
+                {
+                    "nome": "APS Calcutta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Supporta le vittime di violenza."
+                },
+                {
+                    "nome": "Auser del Frusinate",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta in attività di sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone - Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva nell'accoglienza e sostegno di vittime di violenza."
+                },
+                {
+                    "nome": "Questura di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sensibilizza su episodi di violenza e gestisce denunce."
+                },
+                {
+                    "nome": "Comando Provinciale dell’Arma dei Carabinieri di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnato nella prevenzione della violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura- U.T.G. di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Amministrazione Provinciale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Frosinone",
+                    "tipo": "ASL",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Risorse Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Diaconia Soc.Coop Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "APS Calcutta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Auser del Frusinate",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Questura di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale dell’Arma dei Carabinieri di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "PROVINCIA DI FROSINONE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentata dal Presidente Avy Antonio Pompeo"
+                },
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ceccano",
+                    "indirizzo": "via G. Falcone",
+                    "ente_capofila": "PROVINCIA DI FROSINONE",
+                    "note": "Costituita nel 2008, riconosciuta dalla Regione Lazio, iscritta all'albo Nazionale RUNTS dall'agosto 2022"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Tribunale di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Tribunale ordinario"
+                },
+                {
+                    "nome": "Ministero della Giustizia",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Delegato dott. Paolo Sordi"
+                },
+                {
+                    "nome": "Associazione Volontarie del Telefono Rosa Frosinone Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Presidente Patrizia Palombo rappresentante pro tempore"
+                },
+                {
+                    "nome": "ULEPE",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ufficio Locale di Esecuzione Penale Esterna"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "QUESTURA DI FROSINONE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove azioni ed iniziative contro la violenza."
+                },
+                {
+                    "nome": "TELEFONO ROSA FROSINONE REGIONE LAZIO ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "TELEFONO ROSA FROSINONE REGIONE LAZIO ODV",
+                    "note": "Centre antiviolenza. Supporto organizzativo e formativo."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Ceccano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ceccano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Legale Rappresentante: Dott. Roberto Caligiore"
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone - Centro di Orientamento per i diritti delle Donne Onlus",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Ceccano",
+                    "indirizzo": "Via Giovanni Falcone",
+                    "ente_capofila": "",
+                    "note": "Gestisce il centro antiviolenza. Collegato al numero verde nazionale antiviolenza 1522."
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete Antiviolenza."
+                },
+                {
+                    "nome": "Prefettura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete Antiviolenza."
+                },
+                {
+                    "nome": "Tribunale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete Antiviolenza."
+                },
+                {
+                    "nome": "Procura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete Antiviolenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di orientamento per i diritti delle Donne ONLUS"
+                },
+                {
+                    "nome": "AMMINISTRAZIONE LOCALE DI VALLECORSA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vallecorsa",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefetture",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolte nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Procura della Repubblica",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Tribunale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Ordine degli avvocati",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Forze dell’Ordine",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolte nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Unità Sanitarie Locali",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolte nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Coldiretti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "L’Impegno",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Libera",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Unicef",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Avis",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Caritas",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "La casa Famiglia Leroux",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Coni",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "note": "Centro di Orientamento per le Donne. Promuove iniziative per combattere la violenza sulle donne."
+                },
+                {
+                    "nome": "AMMINISTRAZIONE LOCALE DI VILLA SANTO STEFANO",
+                    "tipo": "Ente territoriale",
+                    "comune": "Villa Santo Stefano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata a promuovere e sostenere azioni contro la violenza sulle donne."
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nei protocolli di intesa per la violenza di genere."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE - REGIONE LAZIO ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di Orientamento per le Donne, attivita di consulenza, assistenza e prevenzione"
+                },
+                {
+                    "nome": "AMMINISTRAZIONE LOCALE DI FALVATERRA",
+                    "tipo": "Ente territoriale",
+                    "comune": "Falvaterra",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora con Telefono Rosa per la creazione di una rete antiviolenza"
+                },
+                {
+                    "nome": "ASL",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nel protocollo d'intesa"
+                },
+                {
+                    "nome": "Coldiretti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete antiviolenza"
+                },
+                {
+                    "nome": "Imresa Donne",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete antiviolenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di Orientamento per le Donne, coinvolta nel progetto 'Piu Forti Insieme-Rete Antiviolenza'"
+                },
+                {
+                    "nome": "REGIONE LAZIO ODV",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "note": "Partner nel progetto 'Piu Forti Insieme-Rete Antiviolenza'"
+                },
+                {
+                    "nome": "AMMINISTRAZIONE LOCALE DI ARCE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Arce",
+                    "indirizzo": "",
+                    "ente_capofila": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "note": "Partner nel progetto 'Piu Forti Insieme-Rete Antiviolenza'"
+                },
+                {
+                    "nome": "Prefettura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella rete antiviolenza"
+                },
+                {
+                    "nome": "Amministrazione Provinciale",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nel progetto 'Piu Forti Insieme-Rete Antiviolenza'"
+                },
+                {
+                    "nome": "Unità Sanitarie Locali",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete antiviolenza"
+                },
+                {
+                    "nome": "Uffici Scolastici Provinciali",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolti nell'educazione e sensibilizzazione"
+                },
+                {
+                    "nome": "Coldiretti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partner nella rete antiviolenza"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di Orientamento per le Donne, parte del Protocollo d’Intesa 'Piu Forti Insieme'"
+                },
+                {
+                    "nome": "REGIONE LAZIO ODV",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Parte del Protocollo d’Intesa 'Piu Forti Insieme'"
+                },
+                {
+                    "nome": "AMMINISTRAZIONE LOCALE DI COLFELICE",
+                    "tipo": "Ente territoriale",
+                    "comune": "Colfelice",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Parte del Protocollo d’Intesa 'Piu Forti Insieme'"
+                },
+                {
+                    "nome": "UNITA SANITARIE LOCALI",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Parte della Rete Antiviolenza"
+                },
+                {
+                    "nome": "FORZE DELL'ORDINE",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Parte della Rete Antiviolenza"
+                },
+                {
+                    "nome": "Prefettura",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Parte dell'iniziativa 'Piu Forti Insieme'"
+                },
+                {
+                    "nome": "AMI",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Iniziativa per il contrasto alla violenza nei confronti delle donne"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Volontarie Telefono Rosa Frosinone",
+                    "note": "Centro di orientamento per i diritti delle Donne ONLUS; gestore del progetto 'Pit Forti Insieme-Rete Antiviolenza'."
+                },
+                {
+                    "nome": "Amministrazione Locale di Pastena",
+                    "tipo": "Ente territoriale",
+                    "comune": "Pastena",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Volontarie Telefono Rosa Frosinone",
+                    "note": "Partner nel progetto 'Pit Forti Insieme-Rete Antiviolenza'; promuove nuove case d'accoglienza per donne vittime di violenza."
+                },
+                {
+                    "nome": "Prefetture",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolte nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Procura della Repubblica",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Tribunale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Ordine degli avvocati",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Unità Sanitarie Locali",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolte nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Coldiretti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Associazione L’Impegno",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Libera",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Unicef",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Avis",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Caritas",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Casa Famiglia Leroux",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolta nella costruzione della Rete Antiviolenza."
+                },
+                {
+                    "nome": "Coni",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coinvolto nella costruzione della Rete Antiviolenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Sapienza Università di Roma",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "via dei Marsi n. 78",
+                    "ente_capofila": "",
+                    "note": "Facoltà di Medicina e Psicologia"
+                },
+                {
+                    "nome": "Ass.Volont. Telefono Rosa WAG FALCONE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ceccano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Rappresentata da Patrizia Palombo"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Università degli Studi UNIVERSITAS MERCATORUM",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "Piazza Mattei 10",
+                    "ente_capofila": "Università degli Studi UNIVERSITAS MERCATORUM",
+                    "note": "Gestore della convenzione per il tirocinio pratico-valutativo."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "Via G. Ealeane",
+                    "ente_capofila": "",
+                    "note": "Ospitante per tirocinio pratico-valutativo."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Università degli Studi dell'Aquila",
+                    "tipo": "Altro",
+                    "comune": "L'Aquila",
+                    "indirizzo": "Via Vetoio",
+                    "ente_capofila": "Università degli Studi dell'Aquila",
+                    "note": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche"
+                },
+                {
+                    "nome": "Associazione volontarie telefono rosa Frosinone Regione Lazio ODV Centro di Orientamento per le Donne",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ceccano",
+                    "indirizzo": "Via G. Falcone, 03023 Ceccano (FR)",
+                    "ente_capofila": "Associazione volontarie telefono rosa Frosinone Regione Lazio ODV",
+                    "note": ""
+                },
+                {
+                    "nome": "INAIL",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "I tirocinanti sono assicurati presso INAIL"
+                },
+                {
+                    "nome": "Regione Lazio",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ministero del Lavoro e della Previdenza Sociale",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Università Telematica eCampus",
+                    "tipo": "Altro",
+                    "comune": "Novedrate",
+                    "indirizzo": "via Isimbardi 10",
+                    "ente_capofila": "",
+                    "note": "Soggetto promotore della convenzione."
+                },
+                {
+                    "nome": "Comune di Ceccano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ceccano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Soggetto ospitante."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di orientamento per le donne."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008103723_4166---17-ConvenzioneconilLiceoScientificoeLinguisticoCECCANO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "LICEO SCIENTIFICO E LINGUISTICO STATALE p1 CECCANO",
+                    "tipo": "Altro",
+                    "comune": "Ceccano",
+                    "indirizzo": "Via Fabrateria Vetus snc",
+                    "ente_capofila": "",
+                    "note": "istituzione scolastica"
+                },
+                {
+                    "nome": "Associazione volontarie Telefono Rosa Frosinone Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ceccano",
+                    "indirizzo": "Via G. Falcone",
+                    "ente_capofila": "",
+                    "note": "Centro di Orientamento per le Donne, soggetto ospitante"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008104436_4166---18-ConvenzioneconilLiceoScientificoelinguisticoMartinoFileticodiFERENTINO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ISTITUTO DI ISTRUZIONE SUPERIORE MARTINO FILETICO",
+                    "tipo": "Altro",
+                    "comune": "Ferentino",
+                    "indirizzo": "Piazzale del Collegio Martino Filetico -03013 FERENTINO (FR)",
+                    "ente_capofila": "",
+                    "note": "Istituzione scolastica"
+                },
+                {
+                    "nome": "ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV-CENTRO DI ORIENTAMENTO PER LE DONNE",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Ceccano",
+                    "indirizzo": "via GIOVANNI FALCONE",
+                    "ente_capofila": "",
+                    "note": "Soggetto ospitante per il PCTO"
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Viterbo",
+                    "tipo": "Ente territoriale",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Viterbo",
+                    "note": "Capofila del Distretto VT3"
+                },
+                {
+                    "nome": "ASL di Viterbo",
+                    "tipo": "ASL",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Penelope",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Erinna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza Università della Tuscia",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Casa Rifugio",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Viterbo",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Provinciale Arma dei Carabinieri",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Viterbo",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine Avvocati di Viterbo",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Camera Civile di Viterbo",
+                    "tipo": "Altro",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazioni Terzo Settore",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Viterbo",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Udepe",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Prefettura- U.T.G. di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Amministrazione Provinciale di Frosinone",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria Locale di Frosinone",
+                    "tipo": "ASL",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consiglio dell’Ordine degli Avvocati di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Risorse Donna APS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "Risorse Donna APS",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Diaconia Soc. Coop Sociale",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "APS Calcutta",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Auser del Frusinate",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in attività di accoglienza e sostegno alle donne vittime di violenza."
+                },
+                {
+                    "nome": "Questura di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata a garantire la protezione e il supporto alle vittime di violenza."
+                },
+                {
+                    "nome": "Comando Provinciale dell’ Arma dei Carabinieri di Frosinone",
+                    "tipo": "Altro",
+                    "comune": "Frosinone",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata a garantire la protezione e il supporto alle vittime di violenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008150442_4166---1.Protocollo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Fondazione Arché Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Milano",
+                    "indirizzo": "Via Stresa, 6",
+                    "ente_capofila": "",
+                    "note": "Attiva dal 1991, si occupa di nucleo 'mamma e bambino' con disagio sociale."
+                },
+                {
+                    "nome": "Be Free Societa Cooperativa Sociale",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "Viale Glorioso, 14",
+                    "ente_capofila": "Fondazione Arché Onlus",
+                    "note": "Ente gestore del C.A.V. SOS Donna — “Nilde Iotti”. Contribuisce a contrastare la tratta di esseri umani."
+                },
+                {
+                    "nome": "C.A.V. SOS Donna",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Be Free Societa Cooperativa Sociale",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008150836_4166---2.prot.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "ASPIC per la scuola",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Vittore Carpaccio, 32",
+                    "ente_capofila": "",
+                    "note": "Attiva dal 1998, offre servizi di ascolto e orientamento."
+                },
+                {
+                    "nome": "Be Free Societa Cooperativa Sociale",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Biferno, 4",
+                    "ente_capofila": "",
+                    "note": "Contrasta la violenza di genere, gestisce un Centro Antiviolenza."
+                },
+                {
+                    "nome": "Associazione di promozione sociale DOMUS ASF",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via degli Urali, 30",
+                    "ente_capofila": "",
+                    "note": "Attiva sportello di ascolto psicologico."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008151247_4166---3.prot.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Italiano di Solidarieta don Mario Picchi ETS",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "Via Attilio Ambrosini, 129",
+                    "ente_capofila": "",
+                    "note": "Attivo dal 1971 nella lotta all’emarginazione ed esclusione sociale, specificatamente dal 2012 nel contrasto alla violenza di genere."
+                },
+                {
+                    "nome": "BeFree Coop. Soc.",
+                    "tipo": "Cooperativa sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Bifemo, 4",
+                    "ente_capofila": "",
+                    "note": "Dal 2007 combatte tratta, violenze e discriminazioni; gestore di case rifugio e centri antiviolenza."
+                },
+                {
+                    "nome": "CAV SOS Donna — Nilde Iotti",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "Via A. Ambrosini, ingresso via M. Musco",
+                    "ente_capofila": "BeFree Coop. Soc.",
+                    "note": "Attivo nel Municipio VIII."
+                },
+                {
+                    "nome": "La Casa",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "Via A. Ambrosini, ingresso via M. Musco",
+                    "ente_capofila": "Centro Italiano di Solidarieta don Mario Picchi ETS",
+                    "note": "Centro di Pronta Accoglienza per donne con o senza figli in situazione di grave disagio psico-sociale."
+                },
+                {
+                    "nome": "Il Giardino dei Ciliegi",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "Centro Italiano di Solidarieta don Mario Picchi ETS",
+                    "note": "Casa per la semiautonomia per donne, con o senza figli, fuoriuscite dai centri antiviolenza."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241008151837_4166---4.prot..txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Nuova Arca Societa Cooperativa Sociale",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collabora con la Cooperativa Be Free nell'ambito di formazione e reinserimento professionale."
+                },
+                {
+                    "nome": "Cooperativa Be Free",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva nel contrasto alla violenza di genere; opera presso il CAV Nilde Iotti."
+                },
+                {
+                    "nome": "CAV Nilde Iotti",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241009123601_4166---5.accordo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Millepiani APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Nicold Odero, 13 - 00154 Roma",
+                    "ente_capofila": "",
+                    "note": "Attiva dal 2012 come HUB di sviluppo al lavoro e economia sociale; partnership con Soc. Coop. BeFree."
+                },
+                {
+                    "nome": "Soc. Coop. BeFree",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva dal 2007 nel contrasto alla violenza di genere e tratta di esseri umani."
+                },
+                {
+                    "nome": "CAV Nilde Lotti",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Riconoscere OdV",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Servizio gratuito a supporto di cittadini con problemi di salute mentale."
+                },
+                {
+                    "nome": "Amaita Intercultura APS",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Programmi educativi interculturali."
+                },
+                {
+                    "nome": "LoosenArt",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Editoria ed esposizioni."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241009125120_4166---6.accordo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "BeFree",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Società Cooperativa Sociale contro Tratta, Violenze e Discriminazioni, collabora con il Municipio Roma VIII."
+                },
+                {
+                    "nome": "CAV Nilde Lotti",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attività di prevenzione, consulenza, orientamento e sostegno per le donne verso la fuoriuscita dalla violenza."
+                },
+                {
+                    "nome": "Municipio Roma VIII",
+                    "tipo": "Ente territoriale",
+                    "comune": "Roma",
+                    "indirizzo": "Via Benedetto Croce 50 — 00142",
+                    "ente_capofila": "Roma Capitale",
+                    "note": "Attento alle problematiche di genere e al contrasto della violenza sulle donne."
+                }
+            ]
+        }
+    },
+    {
+        "file": "12_2406_rta_12_241009125640_4166---7.accordo.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Replay Network aps",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Impegnata in azioni di sostegno a favore delle donne vittime di violenza."
+                },
+                {
+                    "nome": "Cooperativa Be Free",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Attiva dal 2007 nel contrasto alla violenza di genere e sostegno alle vittime."
+                },
+                {
+                    "nome": "CAV Nilde Lotti",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Opera nel Municipio VIII."
+                },
+                {
+                    "nome": "CAV Buonocore",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Opera nel Municipio XIV."
+                },
+                {
+                    "nome": "Associazione La Nuova Arca",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborazione in ambito sociale."
+                },
+                {
+                    "nome": "Centro di risorse PROXIMA",
+                    "tipo": "Altro",
+                    "comune": "Roma",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Supporta giovani e adulti con disturbo dello spettro autistico e altre disabilità."
+                }
+            ]
+        }
+    }
+]

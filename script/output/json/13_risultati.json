@@ -1,0 +1,1490 @@
+[
+    {
+        "file": "13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Chieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Chieti",
+                    "note": "Assessorato alle Politiche Sociali, Pari Opportunita, Polizia Municipale"
+                },
+                {
+                    "nome": "Prefettura — U.T.G. di Chieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Arma dei Carabinieri - Comando Provinciale",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Chieti — Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di I’ Aquila",
+                    "tipo": "Altro",
+                    "comune": "L’Aquila",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Casa Circondariale Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASL 02 di Chieti-Vasto-Lanciano",
+                    "tipo": "ASL",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Consultorio pubblico, Ser.D., Ginecologia ed Ostetricia, Pronto Soccorso, Pediatria"
+                },
+                {
+                    "nome": "Centro antiviolenza donna Cooperativa Alpha",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Chieti",
+                    "note": "Gestione sotto l’Alta Sorveglianza del Comune di Chieti, promuovendo dal 2012 con la L.31/06 il Centro Pilota antiviolenza donna"
+                },
+                {
+                    "nome": "Caritas diocesana",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di ascolto diocesano, Casa di accoglienza Mater Populi Teatina"
+                },
+                {
+                    "nome": "Comunita Papa Giovanni XXIII",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Fondazione Onlus Figlie dell’ Amore di Gesti e Maria",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "CNA/ Patronato / Epasa",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Guardiagrele",
+                    "tipo": "Ente territoriale",
+                    "comune": "Guardiagrele",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Assessorato alle Politiche Sociali e Pari Opportunita, Polizia Municipale."
+                },
+                {
+                    "nome": "Prefettura — U.T.G. di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura — Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Arma dei Carabinieri — Comando Provinciale",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di L’ Aquila",
+                    "tipo": "Altro",
+                    "comune": "L’Aquila",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro antiviolenza donna Maja-Cooperativa Alpha",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Guardiagrele",
+                    "indirizzo": "",
+                    "ente_capofila": "Cooperativa Alpha",
+                    "note": "Gestito dal Comune di Guardiagrele, offre supporto alle donne vittime di violenza."
+                },
+                {
+                    "nome": "ASL 02 di Chieti — Vasto — Lanciano",
+                    "tipo": "ASL",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Consultorio pubblico, Ser. D., Ginecologia ed Ostetricia, Pronto Soccorso, Pediatria."
+                },
+                {
+                    "nome": "Caritas Diocesana",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Centro di ascolto diocesano, Casa di accoglienza Mater Populi Teatina."
+                },
+                {
+                    "nome": "Comunita Papa Giovanni XXIII",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Fondazione San Camillo De Lellis",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "CNA",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promuove l'empowerment delle donne."
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune dell’Aquila",
+                    "tipo": "Ente territoriale",
+                    "comune": "L'Aquila",
+                    "indirizzo": "Via San Bernardino — Palazzo Fibbioni",
+                    "ente_capofila": "",
+                    "note": "Assessorato alle Politiche Sociali, Pari Opportunità"
+                },
+                {
+                    "nome": "Centro Antiviolenza Associazione \"Donatella Tellini\"",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "L'Aquila",
+                    "indirizzo": "Via Angelo Colagrande 2 A/B",
+                    "ente_capofila": "Comune dell’Aquila",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Donatella Tellini",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "L'Aquila",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Opera nell'area del contrasto alla violenza di genere"
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt",
+        "risultato": null
+    },
+    {
+        "file": "13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Ortona",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Chieti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Compagnia Carabinieri Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consultorio Famigliare A.Ge.",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione di promozione sociale Donn.é",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto Comprensivo n.1 “Matilde Serao”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto Comprensivo n.2 “F.P. Tosti”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituti di istruzione superiore “Acciaiuli-Enaudi”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto di istruzione superiore “Alessandra Volta”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consulta Giovanile Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Soggiorno Proposta Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Distretto sanitario territoriale Ortona",
+                    "tipo": "ASL",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro di salute mentale Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il tribunale di Chieti",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Chieti —Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza “Dafne”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Lanciano",
+                    "indirizzo": "via dei Frentani, n.54",
+                    "ente_capofila": "Associazione Dafne Onlus",
+                    "note": "Gestito dall’Associazione Dafne Onlus"
+                },
+                {
+                    "nome": "Associazione Dafne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Coordinatore della rete antiviolenza"
+                },
+                {
+                    "nome": "ASL N. 2 Abruzzo — Lanciano Chieti Vasto",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "CITADIVANZA ATA No",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "CRI - Casa Rifugio di Orsogna",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Orsogna",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Sportello SenzaViolenza Donne&Minori",
+                    "tipo": "Sportello collegato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Rete Antiviolenza Ortonese",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Costituzione di una rete territoriale antiviolenza."
+                },
+                {
+                    "nome": "Comune di Ortona",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Ortona",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Prefettura di Chieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Comando Compagnia Carabinieri Ortona",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Consultorio Famigliare A.Ge.",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Associazione di promozione sociale Donn.é",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Istituto Comprensivo n.1 “Matilde Serao”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Istituto Comprensivo n.2 “F.P. Tosti”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Istituti di istruzione superiore “Acciaiuli-Enaudi”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Istituto di istruzione superiore “Alessandra Volta”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Consulta Giovanile Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Soggiorno Proposta Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Distretto sanitario territoriale Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Centro di salute mentale Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Procura della Repubblica presso il tribunale di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Questura di Chieti — Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Rete Antiviolenza della Città di Lanciano e dell’Area Frentana",
+                    "tipo": "Altro",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Costituzione di una rete territoriale antiviolenza."
+                },
+                {
+                    "nome": "Comune di Lanciano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Lanciano",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "Associazione Dafne Onlus",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Lanciano",
+                    "indirizzo": "Via VI Vico Umberto |, 2",
+                    "ente_capofila": "Associazione Dafne Onlus",
+                    "note": "Coordinatore della rete antiviolenza."
+                },
+                {
+                    "nome": "ASL N. 2 Abruzzo — Lanciano Chieti Vasto",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                },
+                {
+                    "nome": "CRIA - Casa Rifugio di Orsogna",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al protocollo."
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Ortona",
+                    "tipo": "Ente territoriale",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Compagnia Carabinieri Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consultorio Famigliare A.Ge.",
+                    "tipo": "Servizio pubblico",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione di promozione sociale Donn.é",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto Comprensivo n.1 “Matilde Serao”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto Comprensivo n.2 “ F.P. Tosti”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituti di istruzione superiore “Acciaiuli-Enaudi”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Istituto di istruzione superiore “Alessandra Volta”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Consulta Giovanile Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Soggiorno Proposta Onlus",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Distretto sanitario territoriale Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro di salute mentale Ortona",
+                    "tipo": "Altro",
+                    "comune": "Ortona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il tribunale di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Chieti —Polizia di Stato",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza \"Dafne\"",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Lanciano",
+                    "indirizzo": "via dei Frentani, n.54",
+                    "ente_capofila": "Associazione Dafne Onlus",
+                    "note": "Gestito dall’Associazione Dafne Onlus"
+                },
+                {
+                    "nome": "Associazione Dafne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Lanciano",
+                    "note": "Coordinatore della rete antiviolenza"
+                },
+                {
+                    "nome": "Comune di Lanciano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Ente Capofila"
+                },
+                {
+                    "nome": "ASL N. 2 Abruzzo",
+                    "tipo": "ASL",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas Diocesana",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "I Colori dell'Iride",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "DeA- Donne e Aiuto",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Sportello SenzaViolenza Donne&Minori",
+                    "tipo": "Sportello collegato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "CRI - Casa Rifugio di Orsogna",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Orsogna",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro per I'Ilmpiego di Lanciano",
+                    "tipo": "Altro",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Castel Frentano",
+                    "tipo": "Ente territoriale",
+                    "comune": "Castel Frentano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Fossacesia",
+                    "tipo": "Ente territoriale",
+                    "comune": "Fossacesia",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Frisa",
+                    "tipo": "Ente territoriale",
+                    "comune": "Frisa",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Mozzagrogna",
+                    "tipo": "Ente territoriale",
+                    "comune": "Mozzagrogna",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Rocca San Giovanni",
+                    "tipo": "Ente territoriale",
+                    "comune": "Rocca San Giovanni",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Santa Maria Imbaro",
+                    "tipo": "Ente territoriale",
+                    "comune": "Santa Maria Imbaro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di San Vito Chietino",
+                    "tipo": "Ente territoriale",
+                    "comune": "San Vito Chietino",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Treglio",
+                    "tipo": "Ente territoriale",
+                    "comune": "Treglio",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Prefettura di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica di Lanciano",
+                    "tipo": "Altro",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando provinciale dei carabinieri di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Chieti",
+                    "tipo": "Altro",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Lanciano",
+                    "tipo": "Altro",
+                    "comune": "Lanciano",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Vasto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vasto",
+                    "indirizzo": "Piazza Barbacani, 2",
+                    "ente_capofila": "Comune di Vasto",
+                    "note": "Ente capofila della rete antiviolenza."
+                },
+                {
+                    "nome": "Prefettura di Chieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Vasto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Vasto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comando Compagnia Carabinieri di Chieti e di Vasto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Chieti",
+                    "tipo": "Ente territoriale",
+                    "comune": "Chieti",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Commissariato di PS di Vasto",
+                    "tipo": "Ente territoriale",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASL Lanciano",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Pronto Soccorso Osp. Civ. Vasto",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Lanciano",
+                    "note": ""
+                },
+                {
+                    "nome": "Dipartimento di Salute Mentale Osp. Civ. Vasto",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Lanciano",
+                    "note": ""
+                },
+                {
+                    "nome": "Divisione Ostetricia e Ginecologia Osp. Civ. Vasto",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Lanciano",
+                    "note": ""
+                },
+                {
+                    "nome": "Consultorio Familiare di Vasto",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Lanciano",
+                    "note": ""
+                },
+                {
+                    "nome": "Sert di Vasto",
+                    "tipo": "ASL",
+                    "comune": "Vasto",
+                    "indirizzo": "",
+                    "ente_capofila": "ASL Lanciano",
+                    "note": ""
+                },
+                {
+                    "nome": "Caritas Diocesana",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Fondazione Genova Rulli Casa Accoglienza per minori",
+                    "tipo": "Casa Rifugio",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione Dafne Onlus",
+                    "tipo": "Associazione di volontariato",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Associazione Dafne Onlus",
+                    "note": "Gestisce lo Sportello Antiviolenza DonnAttiva."
+                },
+                {
+                    "nome": "Akon Service S.a.s.",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Collaborazione nella gestione dello Sportello Antiviolenza DonnAttiva."
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Società Cooperativa Sociale Horizon Service",
+                    "tipo": "Consorzio socio-assistenziale",
+                    "comune": "Sulmona",
+                    "indirizzo": "via Pola n. 64/G",
+                    "ente_capofila": "",
+                    "note": "Gestisce una Casa Rifugio e due Centri Antiviolenza."
+                },
+                {
+                    "nome": "Comune di Sulmona",
+                    "tipo": "Ente territoriale",
+                    "comune": "Sulmona",
+                    "indirizzo": "via Mazara n.21",
+                    "ente_capofila": "",
+                    "note": "ECAD dell’Ambito Sociale Distrettuale n.4 “Peligno”."
+                },
+                {
+                    "nome": "Centro Antiviolenza “La Libellula”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "Società Cooperativa Sociale Horizon Service",
+                    "note": "Istituito nel 2008."
+                },
+                {
+                    "nome": "Centro Antiviolenza “Donna”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Castel di Sangro",
+                    "indirizzo": "",
+                    "ente_capofila": "Società Cooperativa Sociale Horizon Service",
+                    "note": "Istituito nel 2018."
+                },
+                {
+                    "nome": "Casa delle Donne",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "Società Cooperativa Sociale Horizon Service",
+                    "note": "Gestita dalla Horizon Service."
+                },
+                {
+                    "nome": "ASL n. 1 Avezzano-Sulmona-L’Aquila",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Promotore del Protocollo d’Intesa con la Horizon Service."
+                },
+                {
+                    "nome": "Servizi Sociali dell’Ambito Sociale n.17 “Valle Peligna”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipano al Protocollo d’Intesa."
+                },
+                {
+                    "nome": "Servizi Sociali dell’Ambito Sociale n.19 “Altosangro e Altipiano delle Cinque Miglia”",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipano al Protocollo d’Intesa."
+                },
+                {
+                    "nome": "Associazione di Promozione Sociale “La Ninfea”",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipante al Protocollo d’Intesa."
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Centro Antiviolenza “La Libellula”",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Servizio specializzato per il contrasto alla violenza sulle donne."
+                },
+                {
+                    "nome": "Casa delle Donne di Sulmona",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Struttura di accoglienza temporanea per donne vittime di violenza."
+                },
+                {
+                    "nome": "Comunità Montana Peligna",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce i servizi sociali del territorio."
+                },
+                {
+                    "nome": "Cooperativa Sociale Horizon Service",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore dei servizi sociali della Comunità Montana Peligna."
+                },
+                {
+                    "nome": "Comunità Montana Alto Sangro ed Altopiano delle Cinquemiglia",
+                    "tipo": "Ente territoriale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestisce i servizi sociali dell'ambito sociale 17."
+                },
+                {
+                    "nome": "Cooperativa Sociale Leonardo",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Gestore dei servizi sociali della Comunità Montana Alto Sangro."
+                },
+                {
+                    "nome": "Associazione di Promozione Sociale “La Ninfea”",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Sostiene processi di uscita dalla relazione violenta."
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Conferenza dei Sindaci",
+                    "tipo": "Altro",
+                    "comune": "Castel di Sangro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "In merito alla prevenzione e al contrasto della violenza nei confronti delle donne."
+                },
+                {
+                    "nome": "ASL n. 1 Avezzano-Sulmona-L'Aquila",
+                    "tipo": "ASL",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Società Cooperativa Sociale Horizon Service",
+                    "tipo": "Altro",
+                    "comune": "Sulmona",
+                    "indirizzo": "Via Pola 64G",
+                    "ente_capofila": "",
+                    "note": "Gestisce il Centro Antiviolenza 'La Libellula' e la Casa Rifugio 'La Casa delle Donne'."
+                },
+                {
+                    "nome": "Centro Antiviolenza 'La Libellula'",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "Società Cooperativa Sociale Horizon Service",
+                    "note": "Gestisce anche la Casa Rifugio 'La Casa delle Donne'."
+                },
+                {
+                    "nome": "Casa Rifugio 'La Casa delle Donne'",
+                    "tipo": "Casa Rifugio",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "Società Cooperativa Sociale Horizon Service",
+                    "note": ""
+                },
+                {
+                    "nome": "Associazione di Promozione Sociale 'La Ninfea'",
+                    "tipo": "Associazione di promozione sociale",
+                    "comune": "Sulmona",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Implementa programmi di sensibilizzazione sulla violenza."
+                },
+                {
+                    "nome": "Comune di Castel di Sangro",
+                    "tipo": "Ente territoriale",
+                    "comune": "Castel di Sangro",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Comune di Civitella Alfedena",
+                    "tipo": "Ente territoriale",
+                    "comune": "Civitella Alfedena",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                }
+            ]
+        }
+    },
+    {
+        "file": "13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt",
+        "risultato": {
+            "entities": [
+                {
+                    "nome": "Comune di Pescara",
+                    "tipo": "Ente territoriale",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "Comune di Pescara",
+                    "note": "Ente Capofila della Rete Interistituzionale Antiviolenza cittadina"
+                },
+                {
+                    "nome": "Prefettura di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Arma dei Carabinieri - Comando Provinciale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Guardia di Finanza — Comando Provinciale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Questura di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Tribunale per i Minorenni di L’Aquila",
+                    "tipo": "Altro",
+                    "comune": "L’Aquila",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di L’Aquila",
+                    "tipo": "Altro",
+                    "comune": "L’Aquila",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Polizia Locale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "ASL—Azienda Sanitaria Locale di Pescara",
+                    "tipo": "ASL",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Centro Antiviolenza ANANKE",
+                    "tipo": "Centro Antiviolenza",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione attiva nel sistema di sostegno"
+                },
+                {
+                    "nome": "CUAV-—Centro Uomini Autori di Violenza",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Servizi di prima accoglienza agli uomini autori di violenza"
+                },
+                {
+                    "nome": "Università degli Studi “Gabriele D’Annunzio” Chieti-Pescara",
+                    "tipo": "Altro",
+                    "comune": "Chieti-Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione a iniziative per pari opportunità"
+                },
+                {
+                    "nome": "Ufficio Scolastico Provinciale di Pescara",
+                    "tipo": "Altro",
+                    "comune": "Pescara",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Assistenti Sociali della Regione Abruzzo",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Avvocati di Pescara",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Pescara",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Ordine degli Psicologi della Regione Abruzzo",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
+                },
+                {
+                    "nome": "Enti del Terzo Settore",
+                    "tipo": "Altro",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": "Partecipazione attiva alle iniziative sul territorio"
+                }
+            ]
+        }
+    }
+]

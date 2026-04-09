@@ -1,0 +1,19 @@
+REPORT CONTROLLI - RETI TERRITORIALI CONTRO LA VIOLENZA SULLE DONNE
+========================================================================
+
+Numero reti: 12
+Numero righe tabella_soggetti: 412
+
+Soggetti senza macro_tipologia: 0
+Soggetti senza regione: 0
+Reti senza regione: 0
+Reti senza ambito territoriale: 0
+
+Soggetti senza alcun ruolo valorizzato: 91
+
+Controllo Prospetto 2: somma percentuali per regione
+- Toscana: 100.2 (VERIFICARE)
+
+Controllo Figura 4: attori coinvolti >= soggetti proponenti
+- Liguria: proponenti=0, attori=1 (OK)
+- Toscana: proponenti=18, attori=320 (OK)

@@ -1,0 +1,633 @@
+REPORT SOGGETTI V4
+
+Input JSON: G:\develpment\protocolli-intesa\output\json\step_1\09_risultati_enriched_2.4.json
+Totale record soggetti: 412
+Totale soggetti unici: 379
+
+1) CONTROLLI QUALITA
+- totale_record_soggetti: 412
+- totale_soggetti_unici: 379
+- soggetti_validi_localizzati: 341
+- soggetti_validi_non_localizzati: 0
+- soggetti_generici: 29
+- soggetti_esclusi: 9
+- potenziali_duplicati_record: 55
+
+2) TIPOLOGIE PULITE
+- Comuni: 119
+- Ente terzo settore - ETS (iscritto al RUNTS): 26
+- ASL (consultori familiari e altri servizi territoriali): 23
+- CAV/Centri Antiviolenza: 21
+- Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute): 19
+- Procura Ordinaria/Tribunale/Corte d'appello: 18
+- Altro: 15
+- Carabinieri/Polizia/altre forze dell'ordine: 10
+- Scuole/Ufficio scolastico provinciale e regionale: 9
+- Province/Città metropolitane: 9
+- Organismi di parità: 8
+- Sindacati/Associazioni di categoria: 8
+- Prefettura: 8
+- Polizia Municipale: 7
+- Servizi sociali comunali: 7
+- Questura: 7
+- Procura Minorile/Tribunale minorile: 5
+- Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti: 4
+- Enti territoriali sovracomunali: 4
+- Regioni/Province Autonome: 3
+- Università: 2
+- Ordine avvocati: 2
+- Ospedale (Pronto soccorso, ecc.): 2
+- Servizi per l'impiego: 2
+- Altri ordini professionali: 1
+- Case Rifugio: 1
+- Polizia provinciale: 1
+
+3) ATTORI COINVOLTI PULITI
+
+Enti territoriali / servizi comunali (133):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - Comando Polizia Municipale
+  - Comune di Abetone
+  - Comune di Agliana
+  - Comune di Arezzo
+  - Comune di Barberino del Mugello
+  - Comune di Bientina
+  - Comune di Borgo San Lorenzo
+  - Comune di Buggiano
+  - Comune di Buti
+  - Comune di Calci
+  - Comune di Calcinaia
+  - Comune di Campagnatico
+  - Comune di Campi Bisenzio
+  - Comune di Cantagallo
+  - Comune di Capalbio
+  - Comune di Capannoli
+  - Comune di Carmignano
+  - Comune di Carrara
+  - Comune di Casale Marittimo
+  - Comune di Casciana Terme-Lari
+  - Comune di Cascina
+  - Comune di Casole d'Elsa
+  - Comune di Castelfranco di Sotto
+  - Comune di Castellina Marittima
+  - Comune di Castelnuovo Val di Cecina
+  - Comune di Castiglione della Pescaia
+  - Comune di Cetona
+  - Comune di Chianciano Terme
+  - Comune di Chianni
+  - Comune di Chiesina Uzzanese
+  - Comune di Chiusi
+  - Comune di Cinigiano
+  - Comune di Civitella Paganico
+  - Comune di Colle di Val d'Elsa
+  - Comune di Crespina-Lorenzana
+  - Comune di Cutigliano
+  - Comune di Fauglia
+  - Comune di Figline e Incisa Valdarno
+  - Comune di Firenze
+  - Comune di Firenze: Area Tutela Valery
+  - Comune di Firenze: Servizi sociali
+  - Comune di Follonica
+  - Comune di Gavorrano
+  - Comune di Grosseto
+  - Comune di Guardistallo
+  - Comune di Isola del Giglio
+  - Comune di Lajatico
+  - Comune di Lamporecchio
+  - Comune di Larciano
+  - Comune di Lastra a Signa
+  - Comune di Livorno
+  - Comune di Magliano in Toscana
+  - Comune di Manciano
+  - Comune di Marliana
+  - Comune di Massa
+  - Comune di Massa Marittima
+  - Comune di Massa e Cozzile
+  - Comune di Monsummano Terme
+  - Comune di Montale
+  - Comune di Monte Argentario
+  - Comune di Montecatini Terme
+  - Comune di Montecatini Val Di Cecina
+  - Comune di Montemurlo
+  - Comune di Montepulciano
+  - Comune di Monterotondo Marittimo
+  - Comune di Montescudaio
+  - Comune di Monteverdi Marittimo
+  - Comune di Montieri
+  - Comune di Montignoso
+  - Comune di Montopoli Valdarno
+  - Comune di Orbetello
+  - Comune di Orciano Pisano
+  - Comune di Palaia
+  - Comune di Peccioli
+  - Comune di Pescia
+  - Comune di Pieve a Nievole
+  - Comune di Pisa
+  - Comune di Pistoia
+  - Comune di Piteglio
+  - Comune di Pitigliano
+  - Comune di Poggibonsi
+  - Comune di Poggio a Caiano
+  - Comune di Pomarance
+  - Comune di Ponsacco
+  - Comune di Pontassieve
+  - Comune di Ponte Buggianese
+  - Comune di Pontedera
+  - Comune di Prato
+  - Comune di Quarrata
+  - Comune di Radicondoli
+  - Comune di Riparbella
+  - Comune di Sambuca Pistoiese
+  - Comune di San Casciano Val di Pesa
+  - Comune di San Casciano dei Bagni
+  - Comune di San Gimignano
+  - Comune di San Giuliano Terme
+  - Comune di San Marcello Pistoiese
+  - Comune di San Miniato
+  - Comune di Santa Croce sull'Arno
+  - Comune di Santa Luce
+  - Comune di Santa Maria a Monte
+  - Comune di Sarteano
+  - Comune di Scandicci
+  - Comune di Scansano
+  - Comune di Scarlino
+  - Comune di Serravalle Pistoiese
+  - Comune di Sesto Fiorentino
+  - Comune di Sinalunga
+  - Comune di Sorano
+  - Comune di Tavarnelle Val di Pesa
+  - Comune di Terricciola
+  - Comune di Torrita di Siena
+  - Comune di Trequanda
+  - Comune di Uzzano
+  - Comune di Vaiano
+  - Comune di Vecchiano
+  - Comune di Vernio
+  - Comune di Vicopisano
+  - Comune di Volterra
+  - Fiorentina Nord Ovest: Servizi sociali
+  - Fiorentina Sud Est: Servizi sociali
+  - Mugello: Servizi sociali
+  - Polizia Municipale di Casole d'Elsa
+  - Polizia Municipale di Colle Val d'Elsa
+  - Polizia Municipale di Poggibonsi
+  - Polizia Municipale di Radicondoli
+  - Polizia Municipale di San Gimignano
+  - Polizie Municipali dei Comuni della Valdelsa
+  - Quartiere 5 del Comune di Firenze
+  - Referente Emergenza Sociale (RES) di zona
+  - SEUS - Servizio Emergenza Urgenza Sociale
+  - Servizi Sociali dei Comuni di Costa
+  - UTES - Unità Territoriali Emergenza Sociale
+
+Giustizia e forze dell'ordine (50):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+  - Arma dei Carabinieri-Comando provinciale di Lucca
+  - CPO dell'Ordine degli Avvocati di Siena
+  - Comando Provinciale Carabinieri di Livorno
+  - Comando Provinciale Carabinieri di Pistoia
+  - Comando Provinciale dei Carabinieri
+  - Comando Provinciale dei Carabinieri di Arezzo
+  - Comando Provinciale dei Carabinieri di Massa Carrara
+  - Comando Provinciale dell'Arma dei Carabinieri di Prato
+  - Comando Provinciale della Guardia di Finanza di Arezzo
+  - Comando Provinciale della Guardia di Finanza di Massa Carrara
+  - Comando Provinciale della Guardia di Finanza di Prato
+  - Corte d'Appello di Firenze
+  - Ordine degli Avvocati di Siena
+  - Prefettura Ufficio Territoriale del Governo di Prato
+  - Prefettura di Arezzo
+  - Prefettura di Livorno - Ufficio Territoriale del Governo
+  - Prefettura di Lucca
+  - Prefettura di Massa-Carrara
+  - Prefettura di Pisa
+  - Prefettura di Pistoia - Ufficio Territoriale di Governo
+  - Prefettura di Siena
+  - Procura Generale della Repubblica presso la Corte d'Appello di Firenze
+  - Procura Generale presso la Corte d'Appello di Genova
+  - Procura del Tribunale dei Minori di Genova
+  - Procura della Repubblica di Firenze
+  - Procura della Repubblica di Massa
+  - Procura della Repubblica di Pistoia
+  - Procura della Repubblica di Prato
+  - Procura della Repubblica di Siena
+  - Procura della Repubblica minorile
+  - Procura della Repubblica per i Minorenni di Firenze
+  - Procura della Repubblica presso il Tribunale
+  - Procura della Repubblica presso il Tribunale di Arezzo
+  - Procura della Repubblica presso il Tribunale di Massa
+  - Procura della Repubblica presso il Tribunale ordinario
+  - Procura della Repubblica presso il Tribunale per i Minorenni
+  - Procure della Repubblica presso il Tribunale del Distretto
+  - Questura di Arezzo
+  - Questura di Livorno
+  - Questura di Lucca
+  - Questura di Massa Carrara
+  - Questura di Pistoia
+  - Questura di Prato
+  - Questura di Siena
+  - Tribunale di Arezzo
+  - Tribunale di Livorno
+  - Tribunale di Massa
+  - Tribunale di Pisa
+  - Tribunale di Pistoia
+  - Tribunale per i Minorenni
+
+Associazionismo (37):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - AIED
+  - Arnera Società Cooperativa Sociale
+  - Ascom
+  - Associazione A.R.P.A
+  - Associazione Amica Donna
+  - Associazione Atelier Vantaggio Donna
+  - Associazione C.LF
+  - Associazione Donne In Movimento
+  - Associazione Eunice
+  - Associazione LUI APS
+  - Associazione Le Amiche di Mafalda
+  - Associazione Olympia de Gouges
+  - Associazione P.A. Humanitas
+  - Associazione Psicosfera
+  - Associazione Randi APS
+  - Associazioni del Terzo Settore
+  - CAM Centro Uomini Maltrattanti
+  - CAM Firenze
+  - CGIL Provinciale
+  - CIA
+  - CISL Provinciale
+  - CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia
+  - Centro di Ascolto CIF di Carrara
+  - Centro di Ascolto Sabine di Montignoso
+  - Centro di Ascolto Uomini Maltrattanti
+  - Comitato Regionale
+  - Confesercenti
+  - Federalberghi
+  - Ippogrifo APS
+  - Nuovo Maschile. Uomini liberi dalla violenza
+  - Punto di Ascolto territoriale di Arcidosso
+  - Punto di Ascolto territoriale di Capalbio
+  - Punto di Ascolto territoriale di Follonica
+  - Punto di Ascolto territoriale di Manciano
+  - Punto di ascolto territoriale di Grosseto
+  - UGL Provinciale
+  - UIL Provinciale
+
+Sanità e servizi territoriali (27):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - 118
+  - ARTI Servizi per il Lavoro di GR-LI
+  - ASL 12 Versilia
+  - ASL 2 Lucca
+  - ASL n. 3 Pistoia
+  - Azienda ASL7
+  - Azienda Ospedaliera Universitaria Pisana
+  - Azienda Sanitaria Locale n. 1 di Massa Carrara
+  - Azienda Sanitaria USL Toscana Centro
+  - Azienda Sanitaria USL Toscana Nord-Ovest
+  - Azienda USL 9 di Grosseto
+  - Azienda USL Toscana Nord Ovest (AUSL TNO
+  - Azienda USL Toscana Sud Est
+  - Azienda USL n.9 di Grosseto
+  - Azienda Usl n. 8
+  - Centro per l'Impiego di Livorno
+  - Codice Rosa
+  - Consultorio Azienda USL Toscana Sud Est Zona Valdelsa
+  - Fiorentina Nord Ovest: Codice Rosa
+  - Fiorentina Sud Est: Codice Rosa
+  - Mugello: Codice Rosa
+  - Ospedale (Pronto Soccorso
+  - Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est
+  - Rete Regionale Codice Rosa
+  - Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa
+  - U.O Pronto Soccorso Azienda USL 7 - Monoblocco Alta Val d'Elsa
+  - U.O.C. di Psicologia Azienda USL Toscana Sud Est
+
+CAV e Case Rifugio (22):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_PISA PREF E PROV.txt, 09_PRATO PREF.txt
+  - Associazione "Pronto Donna" Centro Antiviolenza
+  - Associazione Casa della donna
+  - Associazione Donne Insieme Valdelsa
+  - Associazione Frida
+  - Casa Rifugio D.I.V.E
+  - Centro Antiviolenza Associazione Artemisia APS
+  - Centro Antiviolenza Centro Donna Carrara
+  - Centro Antiviolenza Centro Donna Lunigiana
+  - Centro Antiviolenza Centro Donna della Lunigiana
+  - Centro Antiviolenza Centro Donna di Massa
+  - Centro Antiviolenza Donna chiama Donna di Carrara
+  - Centro Antiviolenza Duna di Massa
+  - Centro Antiviolenza La Nara
+  - Centro Antiviolenza di Grosseto
+  - Centro Antiviolenza di Orbetello
+  - Centro Donna Chiama Donna
+  - Centro Donna Lunigiana
+  - Centro Donna Provinciale
+  - Centro antiviolenza "Olympia de Gouges" di Grosseto e Orbetello
+  - Centro antiviolenza "Tutto e vita — Elisabetta Fiorilli" Grosseto
+  - Centro antiviolenza Artemisia
+  - Centro antiviolenza di Mantepescali
+
+Altri attori istituzionali / professionali (20):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - Centro Pari Opportunità Valdelsa
+  - Centro Pari Opportunità Valdichiana
+  - Comitato Pari Opportunita dell'Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena
+  - Consigliera Provinciale di Parità
+  - Consigliera di Parità della Provincia di Livorno
+  - Consigliera di Parità della Provincia di Pisa
+  - Consigliera di Parità di Lucca
+  - MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato
+  - Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena
+  - Scuole
+  - Ufficio Scolastico Provinciale
+  - Ufficio Scolastico Provinciale di Arezzo
+  - Ufficio Scolastico Provinciale di Grosseto
+  - Ufficio Scolastico Provinciale di Lucca
+  - Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa
+  - Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI
+  - Ufficio Scolastico Territoriale di Arezzo
+  - Ufficio delle Consigliere di Parità per la Provincia di Arezzo
+  - Università degli Studi di Firenze
+  - Università degli Studi di Pisa
+
+Ambiti socio-sanitari (19):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
+  - Conferenza Zonale dei Sindaci del Valdarno
+  - Conferenza Zonale dei Sindaci della Valdichiana Aretina
+  - Conferenza dei Sindaci ASL 2 zona Piana di Lucca
+  - Conferenza dei Sindaci ASL 2 zona Valle del Serchio
+  - Conferenza dei Sindaci della Zona Aretina
+  - Conferenza del Sindaci ASL 12 zona Versilia
+  - Fondazione Territori Sociali Altavaldelsa
+  - Servizi Sociali e Sanitari della Società della Salute
+  - Società della Salute Alta Val d'Elsa
+  - Società della Salute Area Pratese
+  - Società della Salute Fiorentina Nord Ovest
+  - Società della Salute Fiorentina Sud Est
+  - Società della Salute Firenze
+  - Società della Salute Mugello
+  - Società della Salute Valdinievole
+  - Società della Salute Zona Alta Valdicecina-Valdera
+  - Società della Salute Zona Empolese Valdarno Valdelsa
+  - Società della Salute Zona Pisana
+  - Società della Salute della Lunigiana
+
+Altro (13):
+  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+  - Articolazioni zonali delle conferenze dei sindaci del territorio provinciale
+  - Comitato di Area Vasta
+  - Direzione Diritti di cittadinanza e coesione sociale
+  - European Society Stress Traumatic Studies
+  - Filiale di Livorno della Banca d'Italia
+  - Giudice tutelare
+  - Gruppo di lavoro Tavolo Privacy di Regione Toscana
+  - Istituto di assistenza pubblico privato
+  - Magistratura di Sorveglianza
+  - Osservatorio Sociale Regionale
+  - SERD
+  - SMA
+  - SSR
+
+Province/Città metropolitane (10):
+  file: 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
+  - Città Metropolitana di Firenze
+  - Polizia provinciale
+  - Provincia di Arezzo
+  - Provincia di Grosseto
+  - Provincia di Livorno
+  - Provincia di Lucca
+  - Provincia di Massa Carrara
+  - Provincia di Pisa
+  - Provincia di Pistoia
+  - Provincia di Prato
+
+Enti territoriali sovracomunali (4):
+  file: 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - Comunità Montana del Cetona
+  - Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino
+  - Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana
+  - Unione dei comuni Montani Amiata Grossetana
+
+Regioni/Province Autonome (2):
+  file: 09_APUANE_2015 Protocollo Prefettura.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+  - Giunta della Regione Toscana
+  - Regione Toscana
+
+4) SOGGETTI INCARICATI DI GESTIRE / MONITORARE / COORDINARE
+- file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Associazione Casa della donna | entita: Associazione Casa della donna | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Associazione Donne Insieme Valdelsa | entita: Associazione Donne Insieme Valdelsa | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Associazione Frida | entita: Associazione Frida | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 09_GROSSETO 2022 fpdf.txt | soggetto_incaricato: Associazione Olympia de Gouges | entita: Associazione Olympia de Gouges | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: gestione
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Autorita giudiziaria | entita: Autorita giudiziaria | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | soggetto_incaricato: CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia | entita: CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: coordinamento
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Centro Pari Opportunità Valdelsa | entita: Centro Pari Opportunità Valdelsa | tipo: Organismi di parità | macro: Altri attori istituzionali / professionali | ruoli: coordinamento
+- file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_incaricato: Centro Pari Opportunità Valdichiana | entita: Centro Pari Opportunità Valdichiana | tipo: Organismi di parità | macro: Altri attori istituzionali / professionali | ruoli: coordinamento
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | soggetto_incaricato: Centro antiviolenza Artemisia | entita: Centro antiviolenza Artemisia | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Comitato Regionale | entita: Comitato Regionale | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: coordinamento
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Comitato di Area Vasta | entita: Comitato di Area Vasta | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | soggetto_incaricato: Comune di Firenze: Area Tutela Valery | entita: Comune di Firenze: Area Tutela Valery | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: gestione
+- file: 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt | soggetto_incaricato: Comune di Livorno | entita: Comune di Livorno | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_incaricato: Comunità Montana del Cetona | entita: Comunità Montana del Cetona | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Fondazione Territori Sociali Altavaldelsa | entita: Fondazione Territori Sociali Altavaldelsa | tipo: Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute) | macro: Ambiti socio-sanitari | ruoli: gestione
+- file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Nuovo Maschile. Uomini liberi dalla violenza | entita: Nuovo Maschile. Uomini liberi dalla violenza | tipo: Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti | macro: Associazionismo | ruoli: gestione
+- file: 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt | soggetto_incaricato: Osservatorio Sociale Regionale | entita: Osservatorio Sociale Regionale | tipo: Altro | macro: Altro | ruoli: monitoraggio
+- file: 09_AREZZO Prot_2024-2026.txt | soggetto_incaricato: Prefettura di Arezzo | entita: Prefettura di Arezzo | tipo: Prefettura | macro: Giustizia e forze dell'ordine | ruoli: coordinamento
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Pronto Soccorso | entita: Pronto Soccorso | tipo: Ospedale (Pronto soccorso, ecc.) | macro: Sanità e servizi territoriali | ruoli: gestione
+- file: 09_AREZZO Prot_2024-2026.txt | soggetto_incaricato: Provincia di Arezzo | entita: Provincia di Arezzo | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
+- file: 09_GROSSETO 2022 fpdf.txt | soggetto_incaricato: Provincia di Grosseto | entita: Provincia di Grosseto | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
+- file: 09_LUCCA PROV.txt | soggetto_incaricato: Provincia di Lucca | entita: Provincia di Lucca | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
+- file: 09_PISTOIA PROV .txt | soggetto_incaricato: Provincia di Pistoia | entita: Provincia di Pistoia | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
+- file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Regione Toscana | entita: Regione Toscana | tipo: Regioni/Province Autonome | macro: Regioni/Province Autonome | ruoli: coordinamento
+- file: 09_PRATO PREF.txt | soggetto_incaricato: Società della Salute Area Pratese | entita: Società della Salute Area Pratese | tipo: Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute) | macro: Ambiti socio-sanitari | ruoli: coordinamento
+
+5) SOGGETTI PROPONENTI
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Centro Pari Opportunità Valdelsa
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Poggibonsi
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Colle di Val d'Elsa
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di San Gimignano
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Casole d'Elsa
+- file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Radicondoli
+- file: 09_LUCCA PROV.txt | soggetto_proponente: Provincia di Lucca
+- file: 09_PISA PREF E PROV.txt | soggetto_proponente: Prefettura di Pisa
+- file: 09_PISA PREF E PROV.txt | soggetto_proponente: Provincia di Pisa
+- file: 09_PRATO PREF.txt | soggetto_proponente: Società della Salute Area Pratese
+- file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_proponente: Centro Pari Opportunità Valdichiana
+
+6) FIRMATARI
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Prefettura di Massa-Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Provincia di Massa Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comune di Massa
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comune di Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comune di Montignoso
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Tribunale di Massa
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Procura della Repubblica di Massa
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Azienda Sanitaria Locale n. 1 di Massa Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Società della Salute della Lunigiana
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Ufficio Scolastico Provinciale
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Questura di Massa Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comando Provinciale dei Carabinieri di Massa Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comando Provinciale della Guardia di Finanza di Massa Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro Antiviolenza Duna di Massa
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro Antiviolenza Centro Donna di Massa
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro Antiviolenza Donna chiama Donna di Carrara
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro Antiviolenza Centro Donna della Lunigiana
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro di Ascolto Sabine di Montignoso
+- file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Centro di Ascolto CIF di Carrara
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Prefettura di Arezzo
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Provincia di Arezzo
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Tribunale di Arezzo
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Procura della Repubblica presso il Tribunale di Arezzo
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Azienda USL Toscana Sud Est
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Conferenza dei Sindaci della Zona Aretina
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Conferenza Zonale dei Sindaci del Valdarno
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Conferenza Zonale dei Sindaci della Valdichiana Aretina
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Consigliera Provinciale di Parità
+- file: 09_AREZZO Prot_2024-2026.txt | firmatario: Associazione "Pronto Donna" Centro Antiviolenza
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Società della Salute Firenze
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Comune di Firenze
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Società della Salute Mugello
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Società della Salute Fiorentina Nord Ovest
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Società della Salute Fiorentina Sud Est
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Città Metropolitana di Firenze
+- file: 09_FIRENZE Linee-di-indirizzo2024.txt | firmatario: Centro Antiviolenza Associazione Artemisia APS
+- file: 09_LUCCA PROV.txt | firmatario: Provincia di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Prefettura di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Procura della Repubblica
+- file: 09_LUCCA PROV.txt | firmatario: Questura di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Arma dei Carabinieri-Comando provinciale di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Conferenza dei Sindaci ASL 2 zona Piana di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Conferenza dei Sindaci ASL 2 zona Valle del Serchio
+- file: 09_LUCCA PROV.txt | firmatario: Conferenza del Sindaci ASL 12 zona Versilia
+- file: 09_LUCCA PROV.txt | firmatario: Comuni
+- file: 09_LUCCA PROV.txt | firmatario: ASL 2 Lucca
+- file: 09_LUCCA PROV.txt | firmatario: ASL 12 Versilia
+- file: 09_LUCCA PROV.txt | firmatario: Consigliera di Parità di Lucca
+- file: 09_LUCCA PROV.txt | firmatario: Associazioni del Terzo Settore
+- file: 09_LUCCA PROV.txt | firmatario: Centri Antiviolenza
+- file: 09_LUCCA PROV.txt | firmatario: Ufficio Scolastico Provinciale di Lucca
+- file: 09_PISA PREF E PROV.txt | firmatario: Prefettura di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Provincia di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Bientina
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Buti
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Calci
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Calcinaia
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Capannoli
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Casale Marittimo
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Casciana Terme-Lari
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Cascina
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Castellina Marittima
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Castelfranco di Sotto
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Castelnuovo Val di Cecina
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Chianni
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Crespina-Lorenzana
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Fauglia
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Guardistallo
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Lajatico
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Montecatini Val Di Cecina
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Montescudaio
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Monteverdi Marittimo
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Montopoli Valdarno
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Orciano Pisano
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Palaia
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Peccioli
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Pomarance
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Ponsacco
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Pontedera
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Riparbella
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Santa Croce sull'Arno
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Santa Luce
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Santa Maria a Monte
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di San Giuliano Terme
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di San Miniato
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Terricciola
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Vecchiano
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Vicopisano
+- file: 09_PISA PREF E PROV.txt | firmatario: Comune di Volterra
+- file: 09_PISA PREF E PROV.txt | firmatario: Tribunale di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Procura della Repubblica
+- file: 09_PISA PREF E PROV.txt | firmatario: Forze dell'ordine
+- file: 09_PISA PREF E PROV.txt | firmatario: Università degli Studi di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Azienda Ospedaliera Universitaria Pisana
+- file: 09_PISA PREF E PROV.txt | firmatario: Azienda Sanitaria USL Toscana Nord-Ovest
+- file: 09_PISA PREF E PROV.txt | firmatario: Azienda Sanitaria USL Toscana Centro
+- file: 09_PISA PREF E PROV.txt | firmatario: Società della Salute Zona Pisana
+- file: 09_PISA PREF E PROV.txt | firmatario: Società della Salute Zona Alta Valdicecina-Valdera
+- file: 09_PISA PREF E PROV.txt | firmatario: Società della Salute Zona Empolese Valdarno Valdelsa
+- file: 09_PISA PREF E PROV.txt | firmatario: Consigliera di Parità della Provincia di Pisa
+- file: 09_PISA PREF E PROV.txt | firmatario: Centri Antiviolenza
+- file: 09_PISA PREF E PROV.txt | firmatario: Associazione Casa della donna
+- file: 09_PISA PREF E PROV.txt | firmatario: Associazione Frida
+- file: 09_PISA PREF E PROV.txt | firmatario: Associazione Eunice
+- file: 09_PISA PREF E PROV.txt | firmatario: Associazione Le Amiche di Mafalda
+- file: 09_PISA PREF E PROV.txt | firmatario: Associazione Donne In Movimento
+- file: 09_PISA PREF E PROV.txt | firmatario: AIED
+- file: 09_PISA PREF E PROV.txt | firmatario: Nuovo Maschile. Uomini liberi dalla violenza
+- file: 09_PISA PREF E PROV.txt | firmatario: Arnera Società Cooperativa Sociale
+- file: 09_PISTOIA PROV .txt | firmatario: Provincia di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Abetone
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Agliana
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Buggiano
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Chiesina Uzzanese
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Cutigliano
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Lamporecchio
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Larciano
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Marliana
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Massa e Cozzile
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Monsummano Terme
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Montale
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Montecatini Terme
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Pescia
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Pieve a Nievole
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Piteglio
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Ponte Buggianese
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Quarrata
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Sambuca Pistoiese
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di San Marcello Pistoiese
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Serravalle Pistoiese
+- file: 09_PISTOIA PROV .txt | firmatario: Comune di Uzzano
+- file: 09_PISTOIA PROV .txt | firmatario: Procura della Repubblica di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Tribunale di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Prefettura di Pistoia - Ufficio Territoriale di Governo
+- file: 09_PISTOIA PROV .txt | firmatario: Questura di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Comando Provinciale Carabinieri di Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: ASL n. 3 Pistoia
+- file: 09_PISTOIA PROV .txt | firmatario: Società della Salute Valdinievole
+- file: 09_PISTOIA PROV .txt | firmatario: Ufficio Scolastico Provinciale
+- file: 09_PISTOIA PROV .txt | firmatario: Consigliera Provinciale di Parità
+- file: 09_PISTOIA PROV .txt | firmatario: CGIL Provinciale
+- file: 09_PISTOIA PROV .txt | firmatario: CISL Provinciale
+- file: 09_PISTOIA PROV .txt | firmatario: UIL Provinciale
+- file: 09_PISTOIA PROV .txt | firmatario: UGL Provinciale
+- file: 09_PISTOIA PROV .txt | firmatario: 365giornialfemmile
+- file: 09_PISTOIA PROV .txt | firmatario: CAM
+- file: 09_PRATO PREF.txt | firmatario: Prefettura Ufficio Territoriale del Governo di Prato
+- file: 09_PRATO PREF.txt | firmatario: Procura della Repubblica di Prato
+- file: 09_PRATO PREF.txt | firmatario: Questura di Prato
+- file: 09_PRATO PREF.txt | firmatario: Comando Provinciale dell'Arma dei Carabinieri di Prato
+- file: 09_PRATO PREF.txt | firmatario: Comando Provinciale della Guardia di Finanza di Prato
+- file: 09_PRATO PREF.txt | firmatario: Società della Salute Area Pratese
+- file: 09_PRATO PREF.txt | firmatario: Comune di Cantagallo
+- file: 09_PRATO PREF.txt | firmatario: Comune di Carmignano
+- file: 09_PRATO PREF.txt | firmatario: Comune di Montemurlo
+- file: 09_PRATO PREF.txt | firmatario: Comune di Poggio a Caiano
+- file: 09_PRATO PREF.txt | firmatario: Comune di Prato
+- file: 09_PRATO PREF.txt | firmatario: Comune di Vaiano
+- file: 09_PRATO PREF.txt | firmatario: Comune di Vernio
+- file: 09_PRATO PREF.txt | firmatario: Provincia di Prato
+- file: 09_PRATO PREF.txt | firmatario: Azienda Sanitaria USL Toscana Centro
+- file: 09_PRATO PREF.txt | firmatario: MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato
+- file: 09_PRATO PREF.txt | firmatario: Centro Antiviolenza La Nara - Alice Cooperativa Sociale
+- file: 09_PRATO PREF.txt | firmatario: Centro di Ascolto Uomini Maltrattanti
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Regione Toscana
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Procura Generale della Repubblica presso la Corte d'Appello di Firenze
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Procure della Repubblica presso il Tribunale del Distretto
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Procura della Repubblica per i Minorenni di Firenze
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Procura Generale presso la Corte d'Appello di Genova
+- file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | firmatario: Procura della Repubblica presso il Tribunale di Massa

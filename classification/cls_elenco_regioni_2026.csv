@@ -1,0 +1,21 @@
+﻿Codice Ripartizione geografica;Codice Regione;Regione;Ripartizione geografica;Flag tipo regione;Tipo regione;Codice fiscale;Codice NUTS2 2024
+1;01;Piemonte;Nord-ovest;1;Regione a Statuto ordinario;80087670016;ITC1
+1;02;Valle d'Aosta/Vallée d'Aoste;Nord-ovest;2;Regione a Statuto speciale;80002270074;ITC2
+1;03;Lombardia;Nord-ovest;1;Regione a Statuto ordinario;80050050154;ITC4
+2;04;Trentino-Alto Adige/Südtirol;Nord-est;2;Regione a Statuto speciale;80003690221;
+2;05;Veneto;Nord-est;1;Regione a Statuto ordinario;80007580279;ITH3
+2;06;Friuli-Venezia Giulia;Nord-est;2;Regione a Statuto speciale;80014930327;ITH4
+1;07;Liguria;Nord-ovest;1;Regione a Statuto ordinario;00849050109;ITC3
+2;08;Emilia-Romagna;Nord-est;1;Regione a Statuto ordinario;80062590379;ITH5
+3;09;Toscana;Centro;1;Regione a Statuto ordinario;01386030488;ITI1
+3;10;Umbria;Centro;1;Regione a Statuto ordinario;80000130544;ITI2
+3;11;Marche;Centro;1;Regione a Statuto ordinario;80008630420;ITI3
+3;12;Lazio;Centro;1;Regione a Statuto ordinario;80143490581;ITI4
+4;13;Abruzzo;Sud;1;Regione a Statuto ordinario;80003170661;ITF1
+4;14;Molise;Sud;1;Regione a Statuto ordinario;00169440708;ITF2
+4;15;Campania;Sud;1;Regione a Statuto ordinario;80011990639;ITF3
+4;16;Puglia;Sud;1;Regione a Statuto ordinario;80017210727;ITF4
+4;17;Basilicata;Sud;1;Regione a Statuto ordinario;80002950766;ITF5
+4;18;Calabria;Sud;1;Regione a Statuto ordinario;02205340793;ITF6
+5;19;Sicilia;Isole;2;Regione a Statuto speciale;80012000826;ITG1
+5;20;Sardegna;Isole;2;Regione a Statuto speciale;80002870923;ITG2

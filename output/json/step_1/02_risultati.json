@@ -4,28 +4,44 @@
         "risultato": {
             "entities": [
                 {
-                    "nome": "Centro donne contro la violenza",
-                    "tipo": "Centro Antiviolenza",
+                    "nome": "Consiglio Regionale della Valle d'Aosta",
+                    "tipo": "Regioni/Province Autonome",
                     "comune": "",
                     "indirizzo": "",
                     "ente_capofila": "",
-                    "note": "gestito dalla Regione, promuove e sostiene attività per donne vittime di violenza di genere."
+                    "note": ""
                 },
                 {
-                    "nome": "Azienda USL della Valle d'Aosta",
+                    "nome": "Centro antiviolenza",
+                    "tipo": "CAV/Centri Antiviolenza",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "Consiglio Regionale della Valle d'Aosta",
+                    "note": "Promuove e sostiene attività contro la violenza di genere."
+                },
+                {
+                    "nome": "Azienda USL",
                     "tipo": "ASL",
                     "comune": "",
                     "indirizzo": "",
                     "ente_capofila": "",
-                    "note": "rappresentata nel Forum permanente contro le molestie e la violenza di genere."
+                    "note": "Coinvolta nel servizio di prima accoglienza e assistenza."
                 },
                 {
-                    "nome": "Consulta regionale per le pari opportunità",
-                    "tipo": "Altro",
+                    "nome": "Fondazione Caritas",
+                    "tipo": "Associazioni",
                     "comune": "",
                     "indirizzo": "",
                     "ente_capofila": "",
-                    "note": "collabora con il Centro antiviolenza."
+                    "note": "Attiva nel supporto alle donne maltrattate."
+                },
+                {
+                    "nome": "Università della Valle d'Aosta/Université de la Vallée d'Aoste",
+                    "tipo": "Università",
+                    "comune": "",
+                    "indirizzo": "",
+                    "ente_capofila": "",
+                    "note": ""
                 },
                 {
                     "nome": "Servizio Migranti",
@@ -33,31 +49,15 @@
                     "comune": "",
                     "indirizzo": "",
                     "ente_capofila": "",
-                    "note": "rappresentato nel Forum permanente contro le molestie e la violenza di genere."
+                    "note": ""
                 },
                 {
-                    "nome": "Fondazione Caritas",
+                    "nome": "Osservatorio regionale sulla violenza di genere",
                     "tipo": "Altro",
                     "comune": "",
                     "indirizzo": "",
                     "ente_capofila": "",
-                    "note": "coinvolta nel servizio di prima accoglienza per donne maltrattate."
-                },
-                {
-                    "nome": "Università della Valle d'Aosta / Université de la Vallée d'Aoste",
-                    "tipo": "Altro",
-                    "comune": "",
-                    "indirizzo": "",
-                    "ente_capofila": "",
-                    "note": "rappresentata nel Forum permanente contro le molestie e la violenza di genere."
-                },
-                {
-                    "nome": "Giunta regionale della Valle d'Aosta",
-                    "tipo": "Ente territoriale",
-                    "comune": "",
-                    "indirizzo": "",
-                    "ente_capofila": "",
-                    "note": "gestisce e coordina le attività di intervento contro la violenza di genere."
+                    "note": "Monitora la violenza di genere."
                 }
             ]
         }

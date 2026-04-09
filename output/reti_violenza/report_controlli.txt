@@ -1,27 +1,30 @@
 REPORT CONTROLLI S4
 
 Sorgente soggetti puliti V4: G:\develpment\protocolli-intesa\output\reports\soggetti_unici_puliti.csv
-Numero righe tabella_soggetti: 341
-Numero reti/protocolli: 12
-Numero regioni/PA tabella_reti: 1
+Numero righe tabella_soggetti: 746
+Numero reti/protocolli: 30
+Numero regioni/PA tabella_reti: 4
 
 Macro-tipologie in tabella_soggetti:
-- Enti territoriali / servizi comunali: 133
-- Giustizia e forze dell'ordine: 50
-- Associazionismo: 38
-- Sanità e servizi territoriali: 27
-- CAV e Case Rifugio: 22
-- Altri attori istituzionali / professionali: 20
-- Ambiti socio-sanitari: 19
-- Altro: 15
-- Province/Città metropolitane: 10
-- Enti territoriali sovracomunali: 4
+- Enti territoriali / servizi comunali: 263
+- Giustizia e forze dell'ordine: 104
+- Sanità e servizi territoriali: 91
+- CAV e Case Rifugio: 83
+- Associazionismo: 74
+- Altri attori istituzionali / professionali: 39
+- Altro: 33
+- Ambiti socio-sanitari: 20
+- Enti territoriali sovracomunali: 19
+- Province/Città metropolitane: 17
 - Regioni/Province Autonome: 3
 
 Ambiti territoriali in tabella_reti:
-- Ambito regionale/Prov. Autonome: 10
-- Area metropolitana/provinciale: 1
+- Ambito regionale/Prov. Autonome: 24
+- Area metropolitana/provinciale: 4
+- Ambito distrettuale - legale: 1
 - Ambito sociale: 1
 
 Controllo somme percentuali Prospetto 2:
+- Emilia-Romagna: 99.9
 - Toscana: 100.1
+- nan: 100.1

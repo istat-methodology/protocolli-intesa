@@ -1,127 +1,218 @@
 REPORT SOGGETTI V4
 
-Input JSON: G:\develpment\protocolli-intesa\output\json\step_1\09_risultati_enriched_2.4.json
-Totale record soggetti: 412
-Totale soggetti unici: 379
+Input JSON: G:\develpment\protocolli-intesa\output\json\merged\all_risultati_enriched_2.4.json
+Totale record soggetti: 1051
+Totale soggetti unici: 958
 
 1) CONTROLLI QUALITA
-- totale_record_soggetti: 412
-- totale_soggetti_unici: 379
-- soggetti_validi_localizzati: 341
-- soggetti_validi_non_localizzati: 0
-- soggetti_generici: 29
+- totale_record_soggetti: 1051
+- totale_soggetti_unici: 958
+- soggetti_validi_localizzati: 682
+- soggetti_validi_non_localizzati: 64
+- soggetti_generici: 203
 - soggetti_esclusi: 9
-- potenziali_duplicati_record: 55
+- potenziali_duplicati_record: 153
 
 2) TIPOLOGIE PULITE
-- Comuni: 119
-- Ente terzo settore - ETS (iscritto al RUNTS): 26
-- ASL (consultori familiari e altri servizi territoriali): 23
-- CAV/Centri Antiviolenza: 21
-- Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute): 19
-- Procura Ordinaria/Tribunale/Corte d'appello: 18
-- Altro: 15
-- Carabinieri/Polizia/altre forze dell'ordine: 10
-- Scuole/Ufficio scolastico provinciale e regionale: 9
-- Province/Città metropolitane: 9
-- Organismi di parità: 8
-- Sindacati/Associazioni di categoria: 8
-- Prefettura: 8
-- Polizia Municipale: 7
-- Servizi sociali comunali: 7
-- Questura: 7
-- Procura Minorile/Tribunale minorile: 5
-- Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti: 4
-- Enti territoriali sovracomunali: 4
+- Comuni: 230
+- CAV/Centri Antiviolenza: 62
+- Ente terzo settore - ETS (iscritto al RUNTS): 45
+- ASL (consultori familiari e altri servizi territoriali): 41
+- Altro: 31
+- Procura Ordinaria/Tribunale/Corte d'appello: 31
+- Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute): 20
+- Carabinieri/Polizia/altre forze dell'ordine: 20
+- Prefettura: 20
+- Sindacati/Associazioni di categoria: 19
+- Enti territoriali sovracomunali: 19
+- Servizi sociali comunali: 18
+- Questura: 18
+- Scuole/Ufficio scolastico provinciale e regionale: 16
+- Province/Città metropolitane: 16
+- Polizia Municipale: 15
+- Organismi di parità: 13
+- Procura Minorile/Tribunale minorile: 10
+- Ospedale (Pronto soccorso, ecc.): 7
+- Università: 6
+- Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti: 6
+- Ordine avvocati: 5
 - Regioni/Province Autonome: 3
-- Università: 2
-- Ordine avvocati: 2
-- Ospedale (Pronto soccorso, ecc.): 2
+- Altri ordini professionali: 2
+- Ordine medici e odontoiatri e Ordine farmacisti: 2
+- Case Rifugio: 2
 - Servizi per l'impiego: 2
-- Altri ordini professionali: 1
-- Case Rifugio: 1
+- Ambiti della programmazione sociale e socio-sanitari (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute): 1
+- ALTRI ENTI DEL TERZO SETTORE: 1
 - Polizia provinciale: 1
 
 3) ATTORI COINVOLTI PULITI
 
-Enti territoriali / servizi comunali (133):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+Enti territoriali / servizi comunali (263):
+  file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt, 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt, 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 08_2406_rta_08_241015092024_4166---Protocollooperativo.txt, 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - ASP Città di Bologna
+  - Città di Castelfranco Emilia
   - Comando Polizia Municipale
+  - Comando di Polizia Municipale di Brisighella
+  - Comando di Polizia Municipale di Casola Valsenio
+  - Comando di Polizia Municipale di Castel Bolognese
+  - Comando di Polizia Municipale di Faenza
+  - Comando di Polizia Municipale di Riolo Terme
+  - Comando di Polizia Municipale di Solarolo
   - Comune di Abetone
   - Comune di Agliana
+  - Comune di Alto Reno Terme
+  - Comune di Anzola dell'Emilia
   - Comune di Arezzo
+  - Comune di Argelato
   - Comune di Barberino del Mugello
+  - Comune di Baricella
+  - Comune di Bentivoglio
   - Comune di Bientina
+  - Comune di Bologna
   - Comune di Borgo San Lorenzo
+  - Comune di Borgo Tossignano
+  - Comune di Brisighella
+  - Comune di Budrio
   - Comune di Buggiano
   - Comune di Buti
   - Comune di Calci
   - Comune di Calcinaia
+  - Comune di Calderara di Reno
   - Comune di Campagnatico
   - Comune di Campi Bisenzio
+  - Comune di Camugnano
   - Comune di Cantagallo
   - Comune di Capalbio
   - Comune di Capannoli
   - Comune di Carmignano
   - Comune di Carrara
   - Comune di Casale Marittimo
+  - Comune di Casalecchio di Reno
+  - Comune di Casalfiumanese
   - Comune di Casciana Terme-Lari
   - Comune di Cascina
+  - Comune di Casola Valsenio
   - Comune di Casole d'Elsa
+  - Comune di Castel Bolognese
+  - Comune di Castel Guelfo di Bologna
+  - Comune di Castel Maggiore
+  - Comune di Castel San Giovanni
+  - Comune di Castel San Pietro Terme
+  - Comune di Castel d'Aiano
+  - Comune di Castel del Rio
+  - Comune di Castel di Casio
   - Comune di Castelfranco di Sotto
   - Comune di Castellina Marittima
+  - Comune di Castello d'Argile
   - Comune di Castelnuovo Val di Cecina
+  - Comune di Castenaso
+  - Comune di Castiglione dei Pepoli
   - Comune di Castiglione della Pescaia
+  - Comune di Cattolica
+  - Comune di Cento
+  - Comune di Cervia
+  - Comune di Cesena
   - Comune di Cetona
   - Comune di Chianciano Terme
   - Comune di Chianni
+  - Comune di Chiavari
   - Comune di Chiesina Uzzanese
   - Comune di Chiusi
   - Comune di Cinigiano
   - Comune di Civitella Paganico
+  - Comune di Codigoro
   - Comune di Colle di Val d'Elsa
+  - Comune di Comacchio
+  - Comune di Copparo
+  - Comune di Coriano
   - Comune di Crespina-Lorenzana
+  - Comune di Crevalcore
   - Comune di Cutigliano
+  - Comune di Dozza
+  - Comune di Faenza
   - Comune di Fauglia
+  - Comune di Ferrara
   - Comune di Figline e Incisa Valdarno
+  - Comune di Fiorano Modenese
+  - Comune di Fiorenzuola d'Arda
   - Comune di Firenze
   - Comune di Firenze: Area Tutela Valery
   - Comune di Firenze: Servizi sociali
   - Comune di Follonica
+  - Comune di Fontanelice
+  - Comune di Forli
+  - Comune di Formigine
+  - Comune di Gaggio Montano
+  - Comune di Galliera
   - Comune di Gavorrano
+  - Comune di Gemmano
+  - Comune di Genova
+  - Comune di Granarolo dell'Emilia
+  - Comune di Grizzana Morandi
   - Comune di Grosseto
   - Comune di Guardistallo
+  - Comune di Imola
   - Comune di Isola del Giglio
+  - Comune di Jolanda di Savoia
+  - Comune di La Spezia
   - Comune di Lajatico
   - Comune di Lamporecchio
   - Comune di Larciano
   - Comune di Lastra a Signa
   - Comune di Livorno
+  - Comune di Lizzano in Belvedere
+  - Comune di Loiano
   - Comune di Magliano in Toscana
+  - Comune di Malalbergo
   - Comune di Manciano
+  - Comune di Maranello
   - Comune di Marliana
+  - Comune di Marzabotto
+  - Comune di Masi Torello
   - Comune di Massa
   - Comune di Massa Marittima
   - Comune di Massa e Cozzile
+  - Comune di Medicina
+  - Comune di Minerbio
+  - Comune di Mirandola
+  - Comune di Misano Adriatico
+  - Comune di Modena
+  - Comune di Molinella
+  - Comune di Mondaino
+  - Comune di Monghidoro
   - Comune di Monsummano Terme
   - Comune di Montale
   - Comune di Monte Argentario
+  - Comune di Monte San Pietro
   - Comune di Montecatini Terme
   - Comune di Montecatini Val Di Cecina
+  - Comune di Montefiore Conca
+  - Comune di Montegridolfo
   - Comune di Montemurlo
   - Comune di Montepulciano
+  - Comune di Monterenzio
   - Comune di Monterotondo Marittimo
   - Comune di Montescudaio
+  - Comune di Montescudo-Montecolombo
+  - Comune di Montese
   - Comune di Monteverdi Marittimo
   - Comune di Montieri
   - Comune di Montignoso
   - Comune di Montopoli Valdarno
+  - Comune di Monzuno
+  - Comune di Morciano di Romagna
+  - Comune di Mordano
+  - Comune di Novafeltria
   - Comune di Orbetello
   - Comune di Orciano Pisano
+  - Comune di Ozzano dell'Emilia
   - Comune di Palaia
   - Comune di Peccioli
   - Comune di Pescia
+  - Comune di Piacenza
+  - Comune di Pianoro
   - Comune di Pieve a Nievole
+  - Comune di Pieve di Cento
   - Comune di Pisa
   - Comune di Pistoia
   - Comune di Piteglio
@@ -136,38 +227,71 @@ Enti territoriali / servizi comunali (133):
   - Comune di Prato
   - Comune di Quarrata
   - Comune di Radicondoli
+  - Comune di Ravenna
+  - Comune di Reggio Emilia
+  - Comune di Riccione
+  - Comune di Rimini
+  - Comune di Riolo Terme
   - Comune di Riparbella
+  - Comune di Riva del Po
+  - Comune di Russi
+  - Comune di Sala Bolognese
+  - Comune di Saludecio
   - Comune di Sambuca Pistoiese
+  - Comune di San Benedetto Val di Sambro
   - Comune di San Casciano Val di Pesa
   - Comune di San Casciano dei Bagni
+  - Comune di San Cesario sul Panaro
+  - Comune di San Clemente
   - Comune di San Gimignano
+  - Comune di San Giorgio di Piano
+  - Comune di San Giovanni in Marignano
+  - Comune di San Giovanni in Persiceto
   - Comune di San Giuliano Terme
+  - Comune di San Lazzaro di Savena
   - Comune di San Marcello Pistoiese
   - Comune di San Miniato
+  - Comune di San Pietro in Casale
+  - Comune di Sanremo
+  - Comune di Sant'Agata Bolognese
   - Comune di Santa Croce sull'Arno
   - Comune di Santa Luce
   - Comune di Santa Maria a Monte
+  - Comune di Santarcangelo di Romagna
   - Comune di Sarteano
+  - Comune di Sasso Marconi
+  - Comune di Sassuolo
+  - Comune di Savona
   - Comune di Scandicci
   - Comune di Scansano
   - Comune di Scarlino
   - Comune di Serravalle Pistoiese
   - Comune di Sesto Fiorentino
   - Comune di Sinalunga
+  - Comune di Solarolo
   - Comune di Sorano
   - Comune di Tavarnelle Val di Pesa
   - Comune di Terricciola
   - Comune di Torrita di Siena
   - Comune di Trequanda
+  - Comune di Tresignana
   - Comune di Uzzano
   - Comune di Vaiano
+  - Comune di Valsamoggia
   - Comune di Vecchiano
+  - Comune di Vergato
   - Comune di Vernio
+  - Comune di Verucchio
   - Comune di Vicopisano
+  - Comune di Voghiera
   - Comune di Volterra
+  - Comune di Zola Predosa
+  - Consorzio Servizi Sociali di Imola
   - Fiorentina Nord Ovest: Servizi sociali
   - Fiorentina Sud Est: Servizi sociali
   - Mugello: Servizi sociali
+  - Polizia Municipale Comune di Cavezzo
+  - Polizia Municipale Comune di Finale Emilia
   - Polizia Municipale di Casole d'Elsa
   - Polizia Municipale di Colle Val d'Elsa
   - Polizia Municipale di Poggibonsi
@@ -177,182 +301,395 @@ Enti territoriali / servizi comunali (133):
   - Quartiere 5 del Comune di Firenze
   - Referente Emergenza Sociale (RES) di zona
   - SEUS - Servizio Emergenza Urgenza Sociale
+  - Servizi Sociali Comune di Camposanto
+  - Servizi Sociali Comune di Cavezzo
+  - Servizi Sociali Comune di Concordia
+  - Servizi Sociali Comune di Finale Emilia
+  - Servizi Sociali Comune di Medolla
+  - Servizi Sociali Comune di Mirandola
+  - Servizi Sociali Comune di San Felice Panaro
+  - Servizi Sociali Comune di San Possidonio
+  - Servizi Sociali Comune di San Prospero
   - Servizi Sociali dei Comuni di Costa
   - UTES - Unità Territoriali Emergenza Sociale
 
-Giustizia e forze dell'ordine (50):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+Giustizia e forze dell'ordine (104):
+  file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+  - Arma dei Carabinieri, Comando Provinciale di Bologna
   - Arma dei Carabinieri-Comando provinciale di Lucca
+  - Avvocati
   - CPO dell'Ordine degli Avvocati di Siena
+  - Carabinieri del territorio della provincia di Ravenna
   - Comando Provinciale Carabinieri di Livorno
   - Comando Provinciale Carabinieri di Pistoia
+  - Comando Provinciale Carabinieri di Reggio Emilia
   - Comando Provinciale dei Carabinieri
   - Comando Provinciale dei Carabinieri di Arezzo
+  - Comando Provinciale dei Carabinieri di Ferrara
   - Comando Provinciale dei Carabinieri di Massa Carrara
+  - Comando Provinciale dei Carabinieri di Modena
+  - Comando Provinciale dei Carabinieri di Rimini
   - Comando Provinciale dell'Arma dei Carabinieri di Prato
   - Comando Provinciale della Guardia di Finanza di Arezzo
+  - Comando Provinciale della Guardia di Finanza di Ferrara
   - Comando Provinciale della Guardia di Finanza di Massa Carrara
   - Comando Provinciale della Guardia di Finanza di Prato
+  - Comando provinciale dei Carabinieri di Bologna
+  - Commissariato di P.S. di Faenza
   - Corte d'Appello di Firenze
+  - Guardia di Finanza di Modena
+  - Ordine degli Avvocati di Ferrara
+  - Ordine degli Avvocati di Reggio Emilia
   - Ordine degli Avvocati di Siena
+  - Prefettura - Ufficio territoriale del Governo di Piacenza
   - Prefettura Ufficio Territoriale del Governo di Prato
   - Prefettura di Arezzo
+  - Prefettura di Bologna
+  - Prefettura di Ferrara
   - Prefettura di Livorno - Ufficio Territoriale del Governo
   - Prefettura di Lucca
   - Prefettura di Massa-Carrara
+  - Prefettura di Modena
+  - Prefettura di Piacenza
   - Prefettura di Pisa
   - Prefettura di Pistoia - Ufficio Territoriale di Governo
+  - Prefettura di Ravenna
+  - Prefettura di Reggio Emilia
+  - Prefettura di Rimini
   - Prefettura di Siena
+  - Prefettura — U.T.G. di Genova
+  - Prefettura — U.T.G. di Imperia
+  - Prefettura — U.T.G. di La Spezia
+  - Prefettura — U.T.G. di Savona
+  - Presidenza del Tribunale di Rimini
   - Procura Generale della Repubblica presso la Corte d'Appello di Firenze
   - Procura Generale presso la Corte d'Appello di Genova
   - Procura del Tribunale dei Minori di Genova
   - Procura della Repubblica di Firenze
+  - Procura della Repubblica di Forli
   - Procura della Repubblica di Massa
+  - Procura della Repubblica di Piacenza
   - Procura della Repubblica di Pistoia
   - Procura della Repubblica di Prato
+  - Procura della Repubblica di Reggio Emilia
   - Procura della Repubblica di Siena
   - Procura della Repubblica minorile
   - Procura della Repubblica per i Minorenni di Firenze
   - Procura della Repubblica presso il Tribunale
   - Procura della Repubblica presso il Tribunale di Arezzo
+  - Procura della Repubblica presso il Tribunale di Bologna
+  - Procura della Repubblica presso il Tribunale di Ferrara
+  - Procura della Repubblica presso il Tribunale di Genova
+  - Procura della Repubblica presso il Tribunale di Imperia
+  - Procura della Repubblica presso il Tribunale di La Spezia
   - Procura della Repubblica presso il Tribunale di Massa
+  - Procura della Repubblica presso il Tribunale di Rimini
+  - Procura della Repubblica presso il Tribunale di Savona
   - Procura della Repubblica presso il Tribunale ordinario
   - Procura della Repubblica presso il Tribunale per i Minorenni
+  - Procura della Repubblica presso il Tribunale per i Minorenni dell'Emilia Romagna di Bologna
+  - Procura della Repubblica presso il Tribunale per i Minorenni di Genova
+  - Procura presso il Tribunale dei minori di Bologna
   - Procure della Repubblica presso il Tribunale del Distretto
   - Questura di Arezzo
+  - Questura di Bologna
+  - Questura di Ferrara
+  - Questura di Genova
+  - Questura di Imperia
+  - Questura di La Spezia
   - Questura di Livorno
   - Questura di Lucca
   - Questura di Massa Carrara
+  - Questura di Modena
+  - Questura di Piacenza
   - Questura di Pistoia
   - Questura di Prato
+  - Questura di Ravenna
+  - Questura di Reggio Emilia
+  - Questura di Rimini
+  - Questura di Savona
   - Questura di Siena
+  - Tribunale dei Minori di Bologna
   - Tribunale di Arezzo
+  - Tribunale di Ferrara
   - Tribunale di Livorno
   - Tribunale di Massa
   - Tribunale di Pisa
   - Tribunale di Pistoia
+  - Tribunale di Reggio Emilia
   - Tribunale per i Minorenni
+  - Tribunale per i Minorenni dell'Emilia Romagna di Bologna
 
-Associazionismo (37):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+Associazionismo (69):
+  file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt, 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt, 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
   - AIED
+  - AIPI
+  - Agora soc. coop. soc
+  - Arci Solidarieta Genova ODV
   - Arnera Società Cooperativa Sociale
   - Ascom
+  - Ascom Confcommercio Ferrara
   - Associazione A.R.P.A
   - Associazione Amica Donna
   - Associazione Atelier Vantaggio Donna
   - Associazione C.LF
+  - Associazione Centro di Aiuto alla Vita di Cesena
   - Associazione Donne In Movimento
   - Associazione Eunice
+  - Associazione Grazia e Pace
+  - Associazione Gruppo Donne e Giustizia
   - Associazione LUI APS
   - Associazione Le Amiche di Mafalda
+  - Associazione Mater Caritatis
+  - Associazione MondoDonna Onlus
   - Associazione Olympia de Gouges
   - Associazione P.A. Humanitas
   - Associazione Psicosfera
   - Associazione Randi APS
+  - Associazione SOS Donna
   - Associazioni del Terzo Settore
   - CAM Centro Uomini Maltrattanti
+  - CAM Centro di Ascolto per Uomini Maltrattanti APS di Ferrara
   - CAM Firenze
   - CGIL Provinciale
+  - CGIL — Bologna
   - CIA
   - CISL Provinciale
   - CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia
+  - CNA Bologna
   - Centro di Ascolto CIF di Carrara
   - Centro di Ascolto Sabine di Montignoso
   - Centro di Ascolto Uomini Maltrattanti
+  - Centro di Ascolto per Uomini Maltrattanti di Ferrara
   - Comitato Regionale
+  - Confcommercio ASCOM Bologna
   - Confesercenti
+  - Confesercenti Bologna
+  - Coordinamento Donne UIL Emilia Romagna sede di Piacenza
+  - Dono Società cooperativa sociale
   - Federalberghi
+  - Federfarma Ferrara
+  - Fondazione Auxilium
+  - Forum Donne Giuriste di Reggio Emilia
+  - Il Biscione Società Cooperativa Sociale
+  - Il Cesto Onlus Cooperativa Sociale
   - Ippogrifo APS
+  - Lanza del Vasto Società Cooperativa Sociale
+  - Liberitutti Società Cooperativa Sociale
   - Nuovo Maschile. Uomini liberi dalla violenza
   - Punto di Ascolto territoriale di Arcidosso
   - Punto di Ascolto territoriale di Capalbio
   - Punto di Ascolto territoriale di Follonica
   - Punto di Ascolto territoriale di Manciano
   - Punto di ascolto territoriale di Grosseto
+  - Sindacato Confederale CGIL Ferrara
+  - Sindacato Confederale CISL Ferrara
+  - Sindacato Confederale UIL Ferrara
+  - Tl Melograno Cooperativa Sociale Onlus
+  - UDI Unione Donne in Italia - Sede di Ferrara
   - UGL Provinciale
   - UIL Provinciale
+  - UIL — Bologna
+  - Unione Donne in Italia — APS Ferrara
 
-Sanità e servizi territoriali (27):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
-  - 118
-  - ARTI Servizi per il Lavoro di GR-LI
-  - ASL 12 Versilia
-  - ASL 2 Lucca
-  - ASL n. 3 Pistoia
-  - Azienda ASL7
-  - Azienda Ospedaliera Universitaria Pisana
-  - Azienda Sanitaria Locale n. 1 di Massa Carrara
-  - Azienda Sanitaria USL Toscana Centro
-  - Azienda Sanitaria USL Toscana Nord-Ovest
-  - Azienda USL 9 di Grosseto
-  - Azienda USL Toscana Nord Ovest (AUSL TNO
-  - Azienda USL Toscana Sud Est
-  - Azienda USL n.9 di Grosseto
-  - Azienda Usl n. 8
-  - Centro per l'Impiego di Livorno
-  - Codice Rosa
-  - Consultorio Azienda USL Toscana Sud Est Zona Valdelsa
-  - Fiorentina Nord Ovest: Codice Rosa
-  - Fiorentina Sud Est: Codice Rosa
-  - Mugello: Codice Rosa
-  - Ospedale (Pronto Soccorso
-  - Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est
-  - Rete Regionale Codice Rosa
-  - Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa
-  - U.O Pronto Soccorso Azienda USL 7 - Monoblocco Alta Val d'Elsa
-  - U.O.C. di Psicologia Azienda USL Toscana Sud Est
-
-CAV e Case Rifugio (22):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_PISA PREF E PROV.txt, 09_PRATO PREF.txt
+CAV e Case Rifugio (64):
+  file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt, 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt, 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt, 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_PISA PREF E PROV.txt, 09_PRATO PREF.txt
+  - ASP Città di Piacenza
+  - Associazione "Centro Donna Giustizia" di Ferrara
   - Associazione "Pronto Donna" Centro Antiviolenza
   - Associazione Casa della donna
   - Associazione Donne Insieme Valdelsa
   - Associazione Frida
+  - Associazione MondoDonna
+  - Associazione Nondasola di Reggio Emilia
+  - Associazione SOS Donna
+  - Associazione SOS Donna - Faenza
+  - Associazione di volontariato DEMETRA DONNE IN AIUTO ODV
+  - Associazione di volontariato LINEA ROSA ODV
+  - Associazione di volontariato SOS DONNA ODV
+  - CASA delle donne per non subire violenza
   - Casa Rifugio D.I.V.E
+  - Casa delle Donne
+  - Casa delle donne contro la violenza Centro antiviolenza onlus
+  - Centro Antiviolenza Artemisia Gentileschi
   - Centro Antiviolenza Associazione Artemisia APS
+  - Centro Antiviolenza Casa delle Donne
   - Centro Antiviolenza Centro Donna Carrara
   - Centro Antiviolenza Centro Donna Lunigiana
   - Centro Antiviolenza Centro Donna della Lunigiana
   - Centro Antiviolenza Centro Donna di Massa
   - Centro Antiviolenza Donna chiama Donna di Carrara
   - Centro Antiviolenza Duna di Massa
+  - Centro Antiviolenza La Città delle Donne o.d.v
   - Centro Antiviolenza La Nara
+  - Centro Antiviolenza Piacenza "Ass. La Città delle Donne o.d.v
+  - Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza
+  - Centro Antiviolenza del Comune di Rimini "Rompi il silenzio
   - Centro Antiviolenza di Grosseto
   - Centro Antiviolenza di Orbetello
+  - Centro Antiviolenza distrettuale di Riccione "CHIAMA ChiAMA
   - Centro Donna Chiama Donna
+  - Centro Donna Giustizia APS di Ferrara
   - Centro Donna Lunigiana
   - Centro Donna Provinciale
+  - Centro Donna del Comune di Cesena
+  - Centro Donna del Comune di Cesenatico
+  - Centro Donna del Comune di Forli
   - Centro antiviolenza "Olympia de Gouges" di Grosseto e Orbetello
   - Centro antiviolenza "Tutto e vita — Elisabetta Fiorilli" Grosseto
   - Centro antiviolenza Artemisia
   - Centro antiviolenza di Mantepescali
+  - Centro per non subire violenza (da U.D.1
+  - Forum delle Donne di Cesena
+  - Il Cerchio delle Relazioni Società Cooperativa Sociale - Centro Antiviolenza Mascherona
+  - MondoDonna
+  - Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo
+  - PerLeDonne
+  - PerLeDonne — Imola
+  - Punto Antiviolenza Decentrato
+  - Rompi il silenzio ONLUS
+  - SOS Donna
+  - Sportello Antiviolenza Girasole
+  - Sportello Antiviolenza Iris - Codigoro
+  - Sportello Antiviolenza Iris - Comacchio
+  - Sportello Antiviolenza NONtiscordardiME
+  - Sportello Antiviolenza Viola
+  - Telefono Donna Centro AntiViolenza CIF
+  - Telefono Donna Centro AntiViolenza CIF APS
+  - Trama di Terre
+  - UDI
 
-Altri attori istituzionali / professionali (20):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+Sanità e servizi territoriali (50):
+  file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - 118
+  - A.U.S.L. di Piacenza
+  - ARTI Servizi per il Lavoro di GR-LI
+  - ASL 12 Versilia
+  - ASL 2 Lucca
+  - ASL n. 3 Pistoia
+  - AUSL Piacenza
+  - Ausl di Ravenna - Distretto Sanitario di Faenza
+  - Azienda ASL7
+  - Azienda Ospedaliera Santa Maria Nuova di Reggio Emilia
+  - Azienda Ospedaliera Universitaria Pisana
+  - Azienda Ospedaliera Universitaria di Ferrara
+  - Azienda Ospedaliero - Universitaria Policlinico di Modena
+  - Azienda Ospedaliero Universitaria di Ferrara
+  - Azienda Sanitaria Locale di Reggio Emilia
+  - Azienda Sanitaria Locale n. 1 di Massa Carrara
+  - Azienda Sanitaria USL Toscana Centro
+  - Azienda Sanitaria USL Toscana Nord-Ovest
+  - Azienda USL 9 di Grosseto
+  - Azienda USL Toscana Nord Ovest (AUSL TNO
+  - Azienda USL Toscana Sud Est
+  - Azienda USL di Bologna
+  - Azienda USL di Ferrara
+  - Azienda USL di Piacenza
+  - Azienda USL n.9 di Grosseto
+  - Azienda Unità Sanitaria Locale della Romagna
+  - Azienda Unità Sanitaria Locale di Ferrara
+  - Azienda Unità Sanitaria Locale di Modena
+  - Azienda Unità Sanitaria Locale di Piacenza
+  - Azienda Usl n. 8
+  - Centri di Salute Mentale (CSM) del Distretto di Reggio Emilia
+  - Centro per l'Impiego di Livorno
+  - Codice Rosa
+  - Consultori familiari Ferrara
+  - Consultorio Azienda USL Toscana Sud Est Zona Valdelsa
+  - Distretto Sanitario di Faenza
+  - Distretto Sanitario di Lugo
+  - Distretto Sanitario di Ravenna
+  - Fiorentina Nord Ovest: Codice Rosa
+  - Fiorentina Sud Est: Codice Rosa
+  - Mugello: Codice Rosa
+  - Ospedale (Pronto Soccorso
+  - Pronto Soccorso Generale e Ostetrico-Ginecologico Ferrara
+  - Pronto Soccorso del presidio ospedaliero di Lavagna
+  - Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est
+  - Rete Regionale Codice Rosa
+  - Servizio 118 di Ferrara
+  - Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa
+  - U.O Pronto Soccorso Azienda USL 7 - Monoblocco Alta Val d'Elsa
+  - U.O.C. di Psicologia Azienda USL Toscana Sud Est
+
+Altri attori istituzionali / professionali (39):
+  file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - Ambito territoriale per la provincia di Piacenza
+  - Campus di Rimini
   - Centro Pari Opportunità Valdelsa
   - Centro Pari Opportunità Valdichiana
   - Comitato Pari Opportunita dell'Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena
+  - Comitato Pari Opportunita presso l'Ordine degli Avvocati di Ferrara
   - Consigliera Provinciale di Parità
+  - Consigliera di Parità Provinciale di Reggio Emilia
   - Consigliera di Parità della Provincia di Livorno
+  - Consigliera di Parità della Provincia di Modena
+  - Consigliera di Parità della Provincia di Piacenza
   - Consigliera di Parità della Provincia di Pisa
+  - Consigliera di Parità della Provincia di Rimini
   - Consigliera di Parità di Lucca
+  - Istituzioni scolastiche autonome della provincia di Ferrara
+  - MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena
   - MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato
   - Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena
+  - Ordine dei Farmacisti di Ferrara
+  - Ordine dei Giornalisti di Ferrara
+  - Ordine dei Medici Chirurghi e degli Odontoiatri di Ferrara
   - Scuole
   - Ufficio Scolastico Provinciale
   - Ufficio Scolastico Provinciale di Arezzo
   - Ufficio Scolastico Provinciale di Grosseto
   - Ufficio Scolastico Provinciale di Lucca
+  - Ufficio Scolastico Provinciale di Reggio Emilia
+  - Ufficio Scolastico Regionale VI Ambito Territoriale di Ferrara
   - Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa
+  - Ufficio Scolastico Regionale per l'Emilia Romagna Ufficio VI, Ambito Territoriale di Ferrara Provinciale
   - Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI
   - Ufficio Scolastico Territoriale di Arezzo
   - Ufficio delle Consigliere di Parità per la Provincia di Arezzo
+  - Ufficio scolastico provinciale di Modena
+  - Università degli Studi di Ferrara
   - Università degli Studi di Firenze
+  - Università degli Studi di Genova
   - Università degli Studi di Pisa
+  - Università di Modena
 
-Ambiti socio-sanitari (19):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
+Altro (31):
+  file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 08_2406_rta_08_241015092024_4166---Protocollooperativo.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
+  - AFM - Farmacie Comunali Ferrara
+  - Agenzia per il lavoro di Piacenza
+  - Alleanza delle Cooperative Italiane — Bologna
+  - Arcidiocesi di Bologna
+  - Articolazioni zonali delle conferenze dei sindaci del territorio provinciale
+  - Banca d'Italia Filiale di Piacenza
+  - Casa Circondariale di Rimini
+  - Comitato di Area Vasta
+  - Conferenza Territoriale Sociale e Sanitaria Metropolitana di Bologna (CTSSM
+  - Consiglieri di Fiducia del Comune di Bologna
+  - Coordinamento dei Centri Antiviolenza dell'Emilia Romagna
+  - Direzione Diritti di cittadinanza e coesione sociale
+  - Direzione della Casa Circondariale di Rimini
+  - European Society Stress Traumatic Studies
+  - Filiale di Livorno della Banca d'Italia
+  - Giudice tutelare
+  - Gruppo di lavoro Tavolo Privacy di Regione Toscana
+  - Ispettorato territoriale del lavoro di Piacenza
+  - Istituto di assistenza pubblico privato
+  - MEDIBASE Area Nord - Cooperativa dei Medici di Famiglia dell‘Area Nord della Provincia di Modena
+  - Magistratura di Sorveglianza
+  - Osservatorio Sociale Regionale
+  - Pronto Intervento Emergenza Minori Provincia di Modena
+  - Rotary Club Ferrara
+  - SERD
+  - SMA
+  - SSR
+  - Segreteria Tecnica del DSS 15 (Comune di Chiavari
+  - Servizio di Pronto Intervento Emergenza Minori della Provincia di Modena
+  - Ufficio Esecuzione Penale Esterna di Rimini
+  - Ufficio di Presidenza della Conferenza Territoriale Sociale e Sanitaria (CTSS) della Provincia di Piacenza
+
+Ambiti socio-sanitari (20):
+  file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt, 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
   - Conferenza Zonale dei Sindaci del Valdarno
   - Conferenza Zonale dei Sindaci della Valdichiana Aretina
   - Conferenza dei Sindaci ASL 2 zona Piana di Lucca
@@ -372,42 +709,49 @@ Ambiti socio-sanitari (19):
   - Società della Salute Zona Empolese Valdarno Valdelsa
   - Società della Salute Zona Pisana
   - Società della Salute della Lunigiana
+  - centri di accoglienza del sistema SAI del Comune di Genova
 
-Altro (13):
-  file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
-  - Articolazioni zonali delle conferenze dei sindaci del territorio provinciale
-  - Comitato di Area Vasta
-  - Direzione Diritti di cittadinanza e coesione sociale
-  - European Society Stress Traumatic Studies
-  - Filiale di Livorno della Banca d'Italia
-  - Giudice tutelare
-  - Gruppo di lavoro Tavolo Privacy di Regione Toscana
-  - Istituto di assistenza pubblico privato
-  - Magistratura di Sorveglianza
-  - Osservatorio Sociale Regionale
-  - SERD
-  - SMA
-  - SSR
+Enti territoriali sovracomunali (19):
+  file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt, 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt, 08_2406_rta_08_241015092024_4166---Protocollooperativo.txt, 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
+  - Comunità Montana del Cetona
+  - Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino
+  - Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana
+  - Nuovo Circondario Imolese
+  - Unione Comuni del Sorbara
+  - Unione Reno Galliera
+  - Unione Rubicone e Mare
+  - Unione Terre d'Acqua
+  - Unione Terre di Castelli
+  - Unione Terre e Fiumi
+  - Unione dei Comuni Modenesi Area Nord
+  - Unione dei Comuni Valli del Reno, Lavino e Samoggia
+  - Unione dei Comuni del Distretto Ceramico
+  - Unione dei Comuni del Frignano
+  - Unione dei Comuni dell'Appennino bolognese
+  - Unione dei Comuni della Bassa Romagna
+  - Unione dei Comuni della Romagna Faentina
+  - Unione dei comuni Montani Amiata Grossetana
+  - Unione delle Terre d'Argine
 
-Province/Città metropolitane (10):
-  file: 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
+Province/Città metropolitane (17):
+  file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt, 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt, 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt, 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt, 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt, 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt, 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt, 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt, 08_2406_rta_08_241015092005_4166---DG216-2024.txt, 08_2406_rta_08_241015092024_4166---Protocollooperativo.txt, 09_APUANE_2015 Protocollo Prefettura.txt, 09_AREZZO Prot_2024-2026.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_LUCCA PROV.txt, 09_PISA PREF E PROV.txt, 09_PISTOIA PROV .txt, 09_PRATO PREF.txt
   - Città Metropolitana di Firenze
+  - Città Metropolitana di Genova
+  - Città metropolitana di Bologna
   - Polizia provinciale
   - Provincia di Arezzo
+  - Provincia di Bologna
   - Provincia di Grosseto
   - Provincia di Livorno
   - Provincia di Lucca
   - Provincia di Massa Carrara
+  - Provincia di Modena
+  - Provincia di Piacenza
   - Provincia di Pisa
   - Provincia di Pistoia
   - Provincia di Prato
-
-Enti territoriali sovracomunali (4):
-  file: 09_AREZZO Prot_2024-2026.txt, 09_GROSSETO 2022 fpdf.txt, 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt
-  - Comunità Montana del Cetona
-  - Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino
-  - Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana
-  - Unione dei comuni Montani Amiata Grossetana
+  - Provincia di Reggio Emilia
+  - Provincia di Rimini
 
 Regioni/Province Autonome (2):
   file: 09_APUANE_2015 Protocollo Prefettura.txt, 09_FIRENZE Linee-di-indirizzo2024.txt, 09_GROSSETO 2022 fpdf.txt, 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt, 09_PISA PREF E PROV.txt, 09_PRATO PREF.txt, 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt
@@ -415,33 +759,106 @@ Regioni/Province Autonome (2):
   - Regione Toscana
 
 4) SOGGETTI INCARICATI DI GESTIRE / MONITORARE / COORDINARE
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_incaricato: ASP Cesena Valle del Savio | entita: ASP Cesena Valle del Savio | tipo: Altro | macro: Altro | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: ASP Circondario Imolese | entita: ASP Circondario Imolese | tipo: Servizi sociali comunali | macro: Enti territoriali / servizi comunali | ruoli: gestione
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_incaricato: Agenzia regionale per il lavoro | entita: Agenzia regionale per il lavoro | tipo: Altro | macro: Altro | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Appennino Bolognese | entita: Unione dei Comuni dell'Appennino bolognese | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Assistenza Servizi alla Persona (ASSP) Unione Terre e Fiumi | entita: Assistenza Servizi alla Persona (ASSP) Unione Terre e Fiumi | tipo: Altro | macro: Altro | ruoli: gestione
 - file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Associazione Casa della donna | entita: Associazione Casa della donna | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Associazione Donne Insieme Valdelsa | entita: Associazione Donne Insieme Valdelsa | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Associazione Frida | entita: Associazione Frida | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_incaricato: Associazione Grazia e Pace | entita: Associazione Grazia e Pace | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: gestione
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | soggetto_incaricato: Associazione Nondasola di Reggio Emilia | entita: Associazione Nondasola di Reggio Emilia | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_GROSSETO 2022 fpdf.txt | soggetto_incaricato: Associazione Olympia de Gouges | entita: Associazione Olympia de Gouges | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: gestione
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | soggetto_incaricato: Associazione SOS Donna - Faenza | entita: Associazione SOS Donna - Faenza | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | soggetto_incaricato: Associazione di volontariato DEMETRA DONNE IN AIUTO ODV | entita: Associazione di volontariato DEMETRA DONNE IN AIUTO ODV | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | soggetto_incaricato: Associazione di volontariato LINEA ROSA ODV | entita: Associazione di volontariato LINEA ROSA ODV | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | soggetto_incaricato: Associazione di volontariato SOS DONNA ODV | entita: Associazione di volontariato SOS DONNA ODV | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Autorita giudiziaria | entita: Autorita giudiziaria | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Azienda Ospedaliera Universitaria di Ferrara | entita: Azienda Ospedaliera Universitaria di Ferrara | tipo: ASL (consultori familiari e altri servizi territoriali) | macro: Sanità e servizi territoriali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Azienda USL di Ferrara | entita: Azienda USL di Ferrara | tipo: ASL (consultori familiari e altri servizi territoriali) | macro: Sanità e servizi territoriali | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: CASA delle donne per non subire violenza | entita: CASA delle donne per non subire violenza | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_APUANE_2015 Protocollo Prefettura.txt | soggetto_incaricato: CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia | entita: CISMAI – Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_incaricato: Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza | entita: Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Centro Donna Giustizia APS di Ferrara | entita: Centro Donna Giustizia APS di Ferrara | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: coordinamento, gestione
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Centro Pari Opportunità Valdelsa | entita: Centro Pari Opportunità Valdelsa | tipo: Organismi di parità | macro: Altri attori istituzionali / professionali | ruoli: coordinamento
 - file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_incaricato: Centro Pari Opportunità Valdichiana | entita: Centro Pari Opportunità Valdichiana | tipo: Organismi di parità | macro: Altri attori istituzionali / professionali | ruoli: coordinamento
 - file: 09_FIRENZE Linee-di-indirizzo2024.txt | soggetto_incaricato: Centro antiviolenza Artemisia | entita: Centro antiviolenza Artemisia | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Città metropolitana di Bologna | entita: Città metropolitana di Bologna | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
 - file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Comitato Regionale | entita: Comitato Regionale | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: coordinamento
 - file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Comitato di Area Vasta | entita: Comitato di Area Vasta | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | soggetto_incaricato: Comune capofila del Servizio Sociale Associato dei Comuni di Ravenna, Cervia e Russi | entita: Comune di Ravenna | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | soggetto_incaricato: Comune di Chiavari | entita: Comune di Chiavari | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | soggetto_incaricato: Comune di Chiavari | entita: Comune di Chiavari | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | soggetto_incaricato: Comune di Faenza | entita: Comune di Faenza | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Comune di Ferrara | entita: Comune di Ferrara | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
 - file: 09_FIRENZE Linee-di-indirizzo2024.txt | soggetto_incaricato: Comune di Firenze: Area Tutela Valery | entita: Comune di Firenze: Area Tutela Valery | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: gestione
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | soggetto_incaricato: Comune di La Spezia | entita: Comune di La Spezia | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
 - file: 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt | soggetto_incaricato: Comune di Livorno | entita: Comune di Livorno | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | soggetto_incaricato: Comune di Sanremo | entita: Comune di Sanremo | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | soggetto_incaricato: Comune di Savona | entita: Comune di Savona | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
 - file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_incaricato: Comunità Montana del Cetona | entita: Comunità Montana del Cetona | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_incaricato: Coop.va Sociale Librazione | entita: Coop.va Sociale Librazione | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: gestione
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Cooperativa Girogirotondo | entita: Cooperativa Girogirotondo | tipo: Ente terzo settore - ETS (iscritto al RUNTS) | macro: Associazionismo | ruoli: gestione
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | soggetto_incaricato: Distretto di Riccione | entita: Comune di Cattolica | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_incaricato: Fondazione Territori Sociali Altavaldelsa | entita: Fondazione Territori Sociali Altavaldelsa | tipo: Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute) | macro: Ambiti socio-sanitari | ruoli: gestione
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: INPS | entita: INPS | tipo: Altro | macro: Altro | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Imola | entita: Nuovo Circondario Imolese | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: MondoDonna | entita: MondoDonna | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Nuovo Maschile. Uomini liberi dalla violenza | entita: Nuovo Maschile. Uomini liberi dalla violenza | tipo: Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti | macro: Associazionismo | ruoli: gestione
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | soggetto_incaricato: Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo | entita: Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo | tipo: Case Rifugio | macro: CAV e Case Rifugio | ruoli: gestione
 - file: 09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt | soggetto_incaricato: Osservatorio Sociale Regionale | entita: Osservatorio Sociale Regionale | tipo: Altro | macro: Altro | ruoli: monitoraggio
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Pianura Est | entita: Unione Reno Galliera | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Pianura Est | entita: Unione Reno Galliera | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Pianura Ovest | entita: Unione Terre d'Acqua | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
 - file: 09_AREZZO Prot_2024-2026.txt | soggetto_incaricato: Prefettura di Arezzo | entita: Prefettura di Arezzo | tipo: Prefettura | macro: Giustizia e forze dell'ordine | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | soggetto_incaricato: Prefettura di Ferrara | entita: Prefettura di Ferrara | tipo: Prefettura | macro: Giustizia e forze dell'ordine | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Prefettura di Ferrara | entita: Prefettura di Ferrara | tipo: Prefettura | macro: Giustizia e forze dell'ordine | ruoli: coordinamento
 - file: 09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt | soggetto_incaricato: Pronto Soccorso | entita: Pronto Soccorso | tipo: Ospedale (Pronto soccorso, ecc.) | macro: Sanità e servizi territoriali | ruoli: gestione
 - file: 09_AREZZO Prot_2024-2026.txt | soggetto_incaricato: Provincia di Arezzo | entita: Provincia di Arezzo | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
 - file: 09_GROSSETO 2022 fpdf.txt | soggetto_incaricato: Provincia di Grosseto | entita: Provincia di Grosseto | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
 - file: 09_LUCCA PROV.txt | soggetto_incaricato: Provincia di Lucca | entita: Provincia di Lucca | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
 - file: 09_PISTOIA PROV .txt | soggetto_incaricato: Provincia di Pistoia | entita: Provincia di Pistoia | tipo: Province/Città metropolitane | macro: Province/Città metropolitane | ruoli: coordinamento
 - file: 09_PISA PREF E PROV.txt | soggetto_incaricato: Regione Toscana | entita: Regione Toscana | tipo: Regioni/Province Autonome | macro: Regioni/Province Autonome | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Reno, Lavino e Samoggia | entita: Unione dei Comuni Valli del Reno, Lavino e Samoggia | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_incaricato: Rompi il silenzio ONLUS | entita: Rompi il silenzio ONLUS | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_incaricato: SOS Donna | entita: SOS Donna | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Savena Idice | entita: Comune di San Lazzaro di Savena | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
 - file: 09_PRATO PREF.txt | soggetto_incaricato: Società della Salute Area Pratese | entita: Società della Salute Area Pratese | tipo: Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute) | macro: Ambiti socio-sanitari | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_incaricato: Soggetto capofila | entita: Comune di Piacenza | tipo: Comuni | macro: Enti territoriali / servizi comunali | ruoli: coordinamento
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | soggetto_incaricato: Tavolo Interistituzionale di contrasto alla violenza alle donne | entita: Tavolo Interistituzionale di contrasto alla violenza alle donne | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | soggetto_incaricato: Tavolo di Coordinamento del sistema degli interventi per il contrasto, il trattamento della violenza maschile contro le donne e il loro reinserimento socio-lavorativo | entita: Tavolo di Coordinamento del sistema degli interventi per il contrasto, il trattamento della violenza maschile contro le donne e il loro reinserimento socio-lavorativo | tipo: Altro | macro: Altro | ruoli: coordinamento
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | soggetto_incaricato: Telefono Donna Centro AntiViolenza CIF APS | entita: Telefono Donna Centro AntiViolenza CIF APS | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_incaricato: Trama di Terre | entita: Trama di Terre | tipo: CAV/Centri Antiviolenza | macro: CAV e Case Rifugio | ruoli: gestione
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_incaricato: Unione Terre e Fiumi | entita: Unione Terre e Fiumi | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: gestione
+- file: 08_2406_rta_08_241015092024_4166---Protocollooperativo.txt | soggetto_incaricato: Unione dei Comuni Modenesi Area Nord | entita: Unione dei Comuni Modenesi Area Nord | tipo: Enti territoriali sovracomunali | macro: Enti territoriali sovracomunali | ruoli: gestione
 
 5) SOGGETTI PROPONENTI
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | soggetto_proponente: Regione Liguria
+- file: 08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt | soggetto_proponente: Città metropolitana di Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | soggetto_proponente: Città metropolitana di Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | soggetto_proponente: Regione Emilia-Romagna
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | soggetto_proponente: Prefettura di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | soggetto_proponente: Comune di Ferrara
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_proponente: Città Metropolitana di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_proponente: Comune di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_proponente: Regione Emilia - Romagna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_proponente: Arcidiocesi di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | soggetto_proponente: Fondazione San Petronio Onlus
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | soggetto_proponente: Prefettura di Rimini
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | soggetto_proponente: Prefettura - Ufficio territoriale del Governo di Forli-Cesena
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | soggetto_proponente: Comune di Reggio Emilia
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | soggetto_proponente: Prefettura di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | soggetto_proponente: Provincia di Modena
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | soggetto_proponente: Prefettura - Ufficio territoriale del Governo di Piacenza
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_proponente: Comune di Piacenza
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_proponente: Comune di Fiorenzuola d'Arda
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_proponente: Comune di Castel San Giovanni
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_proponente: Azienda USL di Piacenza
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | soggetto_proponente: Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza
+- file: 08_2406_rta_08_241015092005_4166---DG216-2024.txt | soggetto_proponente: Comune di Piacenza
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | soggetto_proponente: Comune di Faenza
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | soggetto_proponente: Associazione SOS Donna - Faenza
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Centro Pari Opportunità Valdelsa
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Poggibonsi
 - file: 09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt | soggetto_proponente: Comune di Colle di Val d'Elsa
@@ -455,6 +872,306 @@ Regioni/Province Autonome (2):
 - file: 09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt | soggetto_proponente: Centro Pari Opportunità Valdichiana
 
 6) FIRMATARI
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | firmatario: Comune di Chiavari
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | firmatario: Azienda Sanitaria Locale n. 4 "Sistema Sanitario Regione Liguria
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | firmatario: Telefono Donna Centro AntiViolenza CIF APS
+- file: 07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt | firmatario: Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Il Cerchio delle Relazioni Società Cooperativa Sociale
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Centro per non subire violenza (da U.D.L
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Agora Soc. Coop. Soc
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Arci
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Fondazione Auxilium
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Il Melograno Cooperativa Sociale Onlus
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Il Biscione Società Cooperativa Sociale
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Il Cesto Onlus Cooperativa Sociale
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Lanza del Vasto Società Cooperativa Sociale
+- file: 07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt | firmatario: Liberitutti Società Cooperativa Sociale
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Regione Liguria
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comune di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Città Metropolitana di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Prefettura — U.T.G. di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Prefettura — U.T.G. di Imperia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Prefettura — U.T.G. di La Spezia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Prefettura — U.T.G. di Savona
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura Generale presso la Corte d'Appello di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura della Repubblica presso il Tribunale di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura della Repubblica presso il Tribunale di Imperia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura della Repubblica presso il Tribunale di La Spezia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura della Repubblica presso il Tribunale di Savona
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Procura della Repubblica presso il Tribunale per i Minorenni di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Legione Carabinieri Liguria
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comando Regionale della Guardia di Finanza della Liguria
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Questura di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Questura di Imperia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Questura di La Spezia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Questura di Savona
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Università degli Studi di Genova
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Ufficio Scolastico Regionale per la Liguria
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Azienda Ligure Sanitaria (A.Li.Sa
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: ANCI Liguria
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comune di La Spezia
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comune di Savona
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comune di Sanremo
+- file: 07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt | firmatario: Comune di Chiavari
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Città metropolitana di Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Regione Emilia-Romagna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Alto Reno Terme
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Anzola dell'Emilia
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Argelato
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Baricella
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Bentivoglio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Borgo Tossignano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Budrio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Calderara di Reno
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Camugnano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Casalecchio di Reno
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Casalfiumanese
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel d'Aiano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel del Rio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel di Casio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel Guelfo di Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel Maggiore
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castel San Pietro Terme
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castello d'Argile
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castenaso
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Castiglione dei Pepoli
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Crevalcore
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Dozza
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Fontanelice
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Gaggio Montano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Galliera
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Granarolo dell'Emilia
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Grizzana Morandi
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Imola
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Lizzano in Belvedere
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Loiano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Malalbergo
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Marzabotto
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Medicina
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Minerbio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Molinella
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Monghidoro
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Monte San Pietro
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Monterenzio
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Monzuno
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Mordano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Ozzano dell'Emilia
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Pianoro
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Pieve di Cento
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Sala Bolognese
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di San Benedetto Val di Sambro
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di San Giorgio di Piano
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di San Giovanni in Persiceto
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di San Lazzaro di Savena
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di San Pietro in Casale
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Sant'Agata Bolognese
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Sasso Marconi
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Valsamoggia
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Vergato
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Comune di Zola Predosa
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: ACER Bologna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: SOLARIS s.r.l
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: CGIL
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: CISL
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UIL
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: SICET
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: SUNIA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UNIAT
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UNIONE INQUILINI
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: AIDA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: CONIA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: APPC
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: AIPI
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: ASSPI
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: CONFABITARE
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UPPI
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UNIONCASA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: ASSOCASA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: FEDER.CASA
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: APE
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Associazione MondoDonna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Associazione SOS Donna
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Casa delle donne per non subire violenza
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Per Le Donne - Imola
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: UDI
+- file: 08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt | firmatario: Trama di Terre
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Prefettura di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comune di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Tribunale di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Procura della Repubblica presso il Tribunale di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Tribunale per i Minorenni dell'Emilia Romagna di Bologna
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Procura della Repubblica presso il Tribunale per i Minorenni dell'Emilia Romagna di Bologna
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Questura di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comando Provinciale dei Carabinieri di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comando Provinciale della Guardia di Finanza di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Università degli Studi di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comune di Cento
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comune di Codigoro
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Comune di Copparo
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ufficio Scolastico Regionale VI Ambito Territoriale di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Azienda Unità Sanitaria Locale di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Azienda Ospedaliero Universitaria di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ordine degli Avvocati di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ordine dei Giornalisti di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ordine dei Medici Chirurghi e degli Odontoiatri di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ordine dei Farmacisti di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Federfarma Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: AFM - Farmacie Comunali Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Associazione "Centro Donna Giustizia" di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Centro di Ascolto per Uomini Maltrattanti di Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Unione Donne in Italia — APS Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Rotary Club Ferrara
+- file: 08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt | firmatario: Ascom Confcommercio Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comune di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comune di Jolanda di Savoia
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comune di Masi Torello
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comune di Voghiera
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Unione Terre e Fiumi
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Azienda Ospedaliera Universitaria di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Azienda USL di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comando Provinciale dei Carabinieri di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Questura di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Università degli Studi di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Centro Donna Giustizia APS di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: CAM Centro di Ascolto per Uomini Maltrattanti APS di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: UDI Unione Donne in Italia - Sede di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Ordine degli Avvocati di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Comitato Pari Opportunita presso l'Ordine degli Avvocati di Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Sindacato Confederale CGIL Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Sindacato Confederale CISL Ferrara
+- file: 08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt | firmatario: Sindacato Confederale UIL Ferrara
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Città Metropolitana di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Comune di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Regione Emilia - Romagna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Arcidiocesi di Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Fondazione San Petronio Onlus
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Associazione MondoDonna Onlus
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Associazione SOS Donna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Casa delle donne per non subire violenza
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: PerLeDonne — Imola
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: UDI — Unione Donne Italiane
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Trama di terre
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Alleanza delle Cooperative Italiane — Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: CNA Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Confartigianato Imprese di Bologna e Imola
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Confcommercio ASCOM Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Confesercenti Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: Confindustria Emilia Area Centro: le imprese di Bologna, Ferrara e Modena
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: CGIL — Bologna
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: CISL Area metropolitana Bolognese
+- file: 08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt | firmatario: UIL — Bologna
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Prefettura di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Provincia di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Cattolica
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Tribunale di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Procura della Repubblica presso il Tribunale di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Ufficio Esecuzione Penale Esterna di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Casa Circondariale di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Azienda Unità Sanitaria Locale Romagna
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VII - Ambito territoriale di Forli-Cesena e Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Questura di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comando Provinciale dei Carabinieri di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Consigliera di Parità della Provincia di Rimini
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Centro Antiviolenza del Comune di Rimini "Rompi il Silenzio
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Centro Antiviolenza distrettuale di Riccione "CHIAMA ChiAMA
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Bellaria-Igea Marina
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Coriano
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Misano Adriatico
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Montescudo-Montecolombo
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Morciano di Romagna
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Novafeltria
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Riccione
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di San Clemente
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di San Giovanni in Marignano
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Santarcangelo di Romagna
+- file: 08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt | firmatario: Comune di Verucchio
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Prefettura - Ufficio territoriale del Governo di Forli-Cesena
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Procura della Repubblica di Forli
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Provincia di Forli-Cesena
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Comune di Forli
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Comune di Cesena
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Unione Rubicone e Mare
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: AUSL della Romagna
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Ufficio Scolastico regionale per l'Emilia-Romagna
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Ambito territoriale per la provincia di Forli-Cesena
+- file: 08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt | firmatario: Università degli Studi di Bologna — Dipartimento di Psicologia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Comune di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Prefettura di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Tribunale di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Procura della Repubblica di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Questura di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Comando Provinciale Carabinieri di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Azienda Sanitaria Locale di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Azienda Ospedaliera Santa Maria Nuova di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Ufficio Scolastico Provinciale di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Ordine degli Avvocati di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Associazione Nondasola di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Forum Donne Giuriste di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Provincia di Reggio Emilia
+- file: 08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt | firmatario: Consigliera di Parità Provinciale di Reggio Emilia
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Prefettura di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Provincia di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Questura di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comando Provinciale dei Carabinieri di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Università degli Studi di Modena e Reggio Emilia
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione dei Comuni del Distretto Ceramico
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione delle Terre d'Argine
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione Comuni del Sorbara
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione Comuni modenesi dell'Area Nord
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione Terre di Castelli
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Unione dei Comuni del Frignano
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Sassuolo
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Fiorano Modenese
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Maranello
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Formigine
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di Montese
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Città di Castelfranco Emilia
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Comune di San Cesario sul Panaro
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Azienda Unità Sanitaria Locale di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Azienda Ospedaliero - Universitaria Policlinico di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Consigliera di Parità della Provincia di Modena
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Associazione Gruppo Donne e Giustizia
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Casa delle donne contro la violenza Centro antiviolenza onlus
+- file: 08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt | firmatario: Vivere Donna onlus - Centro antiviolenza
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Unione dei Comuni della Bassa Romagna
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Unione dei Comuni della Romagna Faentina
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Comune di Ravenna
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Azienda USL della Romagna
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Associazione di volontariato DEMETRA DONNE IN AIUTO ODV
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Associazione di volontariato SOS DONNA ODV
+- file: 08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt | firmatario: Associazione di volontariato LINEA ROSA ODV
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Prefettura - Ufficio territoriale del Governo di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Procura della Repubblica di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Provincia di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Comune di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Questura di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Comando Provinciale dell'Arma dei Carabinieri
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Comando Provinciale della Guardia Finanza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Banca d'Italia Filiale di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: AUSL Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Ufficio Scolastico regionale per l'Emilia-Romagna
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Ambito territoriale per la provincia di Piacenza
+- file: 08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt | firmatario: Centro Antiviolenza Piacenza "Ass. La Città delle Donne o.d.v
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | firmatario: Comune di Piacenza
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | firmatario: Comune di Fiorenzuola d'Arda
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | firmatario: Comune di Castel San Giovanni
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | firmatario: Azienda USL di Piacenza
+- file: 08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt | firmatario: Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Faenza
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Brisighella
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Castel Bolognese
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Casola Valsenio
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Riolo Terme
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Comune di Solarolo
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Prefettura di Ravenna
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Questura di Ravenna
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Ausl di Ravenna - Distretto Sanitario di Faenza
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Consigliera di Parità provinciale
+- file: 08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt | firmatario: Associazione SOS Donna - Faenza
 - file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Prefettura di Massa-Carrara
 - file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Provincia di Massa Carrara
 - file: 09_APUANE_2015 Protocollo Prefettura.txt | firmatario: Comune di Massa

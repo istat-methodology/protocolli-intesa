@@ -1,0 +1,413 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comune di Poggibonsi,Comuni,Poggibonsi,,comune,Poggibonsi,exact,052022,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comune di Colle di Val d’Elsa,Comuni,Colle di Val d’Elsa,,comune,Colle di Val d'Elsa,exact,052012,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comune di San Gimignano,Comuni,San Gimignano,,comune,San Gimignano,exact,052028,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comune di Casole d’Elsa,Comuni,Casole d’Elsa,,comune,Casole d'Elsa,exact,052004,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comune di Radicondoli,Comuni,Radicondoli,,comune,Radicondoli,exact,052025,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Centro Pari Opportunità Valdelsa,Organismi di parità,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Associazione Donne Insieme Valdelsa,CAV/Centri Antiviolenza,,COLLE DI VAL D'ELSA,comune_runts,Colle di Val d'Elsa,exact,052012,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Casa Rifugio D.I.V.E.,Case Rifugio,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Azienda USL Toscana Sud Est,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Consultorio Azienda USL Toscana Sud Est Zona Valdelsa,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,U.O.C. di Psicologia Azienda USL Toscana Sud Est,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,U.O Pronto Soccorso Azienda USL 7 – Monoblocco Alta Val d’Elsa,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est,"Ospedale (Pronto soccorso, ecc.)",,,nome,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,SEUS - Servizio Emergenza Urgenza Sociale,Altro,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,UTES - Unità Territoriali Emergenza Sociale,Altro,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,118,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Fondazione Territori Sociali Altavaldelsa,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Società della Salute Alta Val d'Elsa,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Servizi sociali comunali,Servizi sociali comunali,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizie Municipali dei Comuni della Valdelsa,Polizia Municipale,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizia Municipale di Poggibonsi,Polizia Municipale,Poggibonsi,,comune,Poggibonsi,exact,052022,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizia Municipale di Colle Val d’Elsa,Polizia Municipale,Colle di Val d’Elsa,,comune,Colle di Val d'Elsa,exact,052012,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizia Municipale di San Gimignano,Polizia Municipale,San Gimignano,,comune,San Gimignano,exact,052028,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizia Municipale di Casole d’Elsa,Polizia Municipale,Casole d’Elsa,,comune,Casole d'Elsa,exact,052004,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Polizia Municipale di Radicondoli,Polizia Municipale,Radicondoli,,comune,Radicondoli,exact,052025,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Prefettura di Siena,Prefettura,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Procura della Repubblica di Siena,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Forze di Polizia Giudiziaria,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Questura di Siena,Questura,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Associazione Atelier Vantaggio Donna,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CASTELFIORENTINO,comune_runts,Castelfiorentino,exact,048010,248,Firenze,FI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,CAM Firenze,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,SMA,Altro,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,SERD,Altro,,,none,,none,,,,,,
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Ordine degli Avvocati di Siena,Ordine avvocati,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,CPO dell’Ordine degli Avvocati di Siena,Organismi di parità,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena,Altri ordini professionali,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,Comitato Pari Opportunità dell’Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena,Organismi di parità,,,nome,Siena,exact,052032,052,Siena,SI,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Prefettura di Massa-Carrara,Prefettura,Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Provincia di Massa Carrara,Province/Città metropolitane,Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Comune di Massa,Comuni,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Comune di Carrara,Comuni,Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Comune di Montignoso,Comuni,Montignoso,,comune,Montignoso,exact,045011,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Tribunale di Massa,Procura Ordinaria/Tribunale/Corte d'appello,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Procura della Repubblica di Massa,Procura Ordinaria/Tribunale/Corte d'appello,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Ufficio Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Azienda Sanitaria Locale n. 1 di Massa Carrara,ASL (consultori familiari e altri servizi territoriali),Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Societa della Salute della Lunigiana,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Questura di Massa Carrara,Questura,Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Comando Provinciale dei Carabinieri di Massa Carrara,Carabinieri/Polizia/altre forze dell'ordine,Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Comando Provinciale della Guardia di Finanza di Massa Carrara,Carabinieri/Polizia/altre forze dell'ordine,Massa Carrara,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Duna di Massa,CAV/Centri Antiviolenza,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Centro Donna di Massa,CAV/Centri Antiviolenza,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Donna chiama Donna di Carrara,CAV/Centri Antiviolenza,Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Centro Donna della Lunigiana,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Centro di Ascolto Sabine di Montignoso,CAV/Centri Antiviolenza,Montignoso,,comune,Montignoso,exact,045011,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro di Ascolto Centro Italiano Femminile di Carrara,Centri/Sportelli di ascolto,Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Associazione A.R.P.A.,Ente terzo settore - ETS (iscritto al RUNTS),Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Associazione C.LF.,Ente terzo settore - ETS (iscritto al RUNTS),Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Donna Provinciale,CAV/Centri Antiviolenza,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Donna Chiama Donna,CAV/Centri Antiviolenza,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Donna Lunigiana,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Sabine,CAV/Centri Antiviolenza,Montignoso,,comune,Montignoso,exact,045011,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Servizi Sociali dei Comuni di Costa,Servizi sociali comunali,,,nome,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Servizi Sociali e Sanitari della Societa della Salute,Servizi sociali comunali,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Ospedale (Pronto Soccorso),"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Consultorio principale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Direttore Sanitario,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Organizzazione delle Nazioni Unite,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Unione Europea,ORGANIZZAZIONI DI VOLONTARIATO,,FIRENZE,comune_runts,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Organizzazione Mondiale della Sanita,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Consiglio d'Europa,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Istat,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,C.I.S.M.A.I.,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Regione Toscana,Regioni/Province Autonome,Toscana,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Giunta della Regione Toscana,Regioni/Province Autonome,Toscana,,comune,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Procura della Repubblica di Firenze,Procura Ordinaria/Tribunale/Corte d'appello,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Presidenza del Consiglio dei Ministri,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Conferenza unificata Stato-Regioni,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Terzo Settore,Altro,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Procura della Repubblica presso il Tribunale ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Procura della Repubblica minorile,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Procura del Tribunale dei Minori di Genova,Procura Minorile/Tribunale minorile,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Centro Donna Lunigiana,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_APUANE_2015 Protocollo Prefettura.txt,Centro di Ascolto C.I.F. di Carrara,Centri/Sportelli di ascolto,Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_APUANE_2015 Protocollo Prefettura.txt,Centro Antiviolenza Centro Donna Carrara,CAV/Centri Antiviolenza,Carrara,,comune,Carrara,exact,045003,045,Massa-Carrara,MS,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Prefettura di Arezzo,Prefettura,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Provincia di Arezzo,Province/Città metropolitane,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Tribunale di Arezzo,Procura Ordinaria/Tribunale/Corte d'appello,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Procura della Repubblica presso il Tribunale di Arezzo,Procura Ordinaria/Tribunale/Corte d'appello,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Azienda USL Toscana Sud Est,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI,Scuole/Ufficio scolastico provinciale e regionale,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Conferenza dei Sindaci della Zona Aretina,Comuni,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino,Comuni,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Conferenza Zonale dei Sindaci del Valdarno,Comuni,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Conferenza Zonale dei Sindaci della Valdichiana Aretina,Comuni,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana,Comuni,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Consigliera Provinciale di Parità,Organismi di parità,,,nome,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Associazione “Pronto Donna” Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Comune di Arezzo,Comuni,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Azienda Usl n. 8,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Ufficio Scolastico Territoriale di Arezzo,Scuole/Ufficio scolastico provinciale e regionale,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Ufficio Scolastico Provinciale di Arezzo,Scuole/Ufficio scolastico provinciale e regionale,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Ufficio delle Consigliere di Parità per la Provincia di Arezzo,Organismi di parità,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Zone Socio-Sanitarie,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,FF.OO.,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_AREZZO Prot_2024-2026.txt,Questura di Arezzo,Questura,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Comando Provinciale dei Carabinieri di Arezzo,Carabinieri/Polizia/altre forze dell'ordine,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_AREZZO Prot_2024-2026.txt,Comando Provinciale della Guardia di Finanza di Arezzo,Carabinieri/Polizia/altre forze dell'ordine,Arezzo,,comune,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Societa della Salute Firenze,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Comune di Firenze,Comuni,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Societa della Salute Mugello,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Societa della Salute Fiorentina Nord Ovest,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Societa della Salute Fiorentina Sud Est,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Citta Metropolitana di Firenze,Province/Città metropolitane,,,nome,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Centro Antiviolenza Associazione Artemisia APS,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Centro antiviolenza Artemisia,CAV/Centri Antiviolenza,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Codice Rosa,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Comune di Firenze: Servizi sociali,Servizi sociali comunali,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Comune di Firenze: Area Tutela Valery,Servizi sociali comunali,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Quartiere 5 del Comune di Firenze,Comuni,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Barberino del Mugello,Comuni,Barberino del Mugello,,comune,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Borgo San Lorenzo,Comuni,Borgo San Lorenzo,,comune,Borgo San Lorenzo,exact,048004,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Campi Bisenzio,Comuni,Campi Bisenzio,,comune,Campi Bisenzio,exact,048006,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Sesto Fiorentino,Comuni,Sesto Fiorentino,,comune,Sesto Fiorentino,exact,048043,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Lastra a Signa,Comuni,Lastra a Signa,,comune,Lastra a Signa,exact,048024,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Scandicci,Comuni,Scandicci,,comune,Scandicci,exact,048041,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Tavarnelle Val di Pesa,Comuni,Tavarnelle Val di Pesa,,comune,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,San Casciano Val di Pesa,Comuni,San Casciano Val di Pesa,,comune,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Figline e Incisa Valdarno,Comuni,Figline e Incisa Valdarno,,comune,Figline e Incisa Valdarno,exact,048052,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Pontassieve,Comuni,Pontassieve,,comune,Pontassieve,exact,048033,248,Firenze,FI,09,Toscana
+09_FIRENZE Linee-di-indirizzo2024.txt,Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Fiorentina Nord Ovest: Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Fiorentina Sud Est: Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Mugello: Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Fiorentina Nord Ovest: Codice Rosa,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Fiorentina Sud Est: Codice Rosa,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Mugello: Codice Rosa,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,SEUS - Servizio emergenza urgenza sociale,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Referente Emergenza Sociale (RES) di zona,Altro,,,nome,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,CAM Centro Uomini Maltrattanti,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Autorita giudiziaria,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Procura minorile,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Tribunale Ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Presidente del Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,Regione Toscana,Regioni/Province Autonome,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,European Society Stress Traumatic Studies,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,OMS,Altro,,,none,,none,,,,,,
+09_FIRENZE Linee-di-indirizzo2024.txt,CISMAI,Altro,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Provincia di Grosseto,Province/Città metropolitane,Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Azienda USL Toscana Sud est,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Centro antiviolenza “Olympia de Gouges” di Grosseto e Orbetello,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Centro antiviolenza “Tutto é vita — Elisabetta Fiorilli” Grosseto,CAV/Centri Antiviolenza,Grosseto,GROSSETO,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Campagnatico,Comuni,Campagnatico,,comune,Campagnatico,exact,053002,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Capalbio,Comuni,Capalbio,,comune,Capalbio,exact,053003,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Castiglione della Pescaia,Comuni,Castiglione della Pescaia,,comune,Castiglione della Pescaia,exact,053006,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Cinigiano,Comuni,Cinigiano,,comune,Cinigiano,exact,053007,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Civitella Paganico,Comuni,Civitella Paganico,,comune,Civitella Paganico,exact,053008,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Follonica,Comuni,Follonica,,comune,Follonica,exact,053009,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Gavorrano,Comuni,Gavorrano,,comune,Gavorrano,exact,053010,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Grosseto,Comuni,Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Isola del Giglio,Comuni,Isola del Giglio,,comune,Isola del Giglio,exact,053012,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Magliano in Toscana,Comuni,Magliano in Toscana,,comune,Magliano in Toscana,exact,053013,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Manciano,Comuni,Manciano,,comune,Manciano,exact,053014,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Massa Marittima,Comuni,Massa Marittima,,comune,Massa Marittima,exact,053015,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Monte Argentario,Comuni,Monte Argentario,,comune,Monte Argentario,exact,053016,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Monterotondo Marittimo,Comuni,Monterotondo Marittimo,,comune,Monterotondo Marittimo,exact,053027,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Montieri,Comuni,Montieri,,comune,Montieri,exact,053017,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Orbetello,Comuni,Orbetello,,comune,Orbetello,exact,053018,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Pitigliano,Comuni,Pitigliano,,comune,Pitigliano,exact,053019,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Scansano,Comuni,Scansano,,comune,Scansano,exact,053023,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Scarlino,Comuni,Scarlino,,comune,Scarlino,exact,053024,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Unione dei comuni Montani Amiata Grossetana,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Comune di Sorano,Comuni,Sorano,,comune,Sorano,exact,053026,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Centro Antiviolenza di Grosseto,CAV/Centri Antiviolenza,Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Centro Antiviolenza di Orbetello,CAV/Centri Antiviolenza,Orbetello,,comune,Orbetello,exact,053018,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Centro antiviolenza di Mantepescali,CAV/Centri Antiviolenza,Mantepescali,,comune,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Punto di ascolto territoriale di Grosseto,Centri/Sportelli di ascolto,Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Punto di Ascolto territoriale di Follonica,Centri/Sportelli di ascolto,Follonica,,comune,Follonica,exact,053009,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Punto di Ascolto territoriale di Arcidosso,Centri/Sportelli di ascolto,Arcidosso,,comune,Arcidosso,exact,053001,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Punto di Ascolto territoriale di Manciano,Centri/Sportelli di ascolto,Manciano,,comune,Manciano,exact,053014,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Punto di Ascolto territoriale di Capalbio,Centri/Sportelli di ascolto,Capalbio,,comune,Capalbio,exact,053003,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Ufficio Scolastico Provinciale di Grosseto,Scuole/Ufficio scolastico provinciale e regionale,Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Regione Toscana,Regioni/Province Autonome,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Articolazioni zonali delle conferenze dei sindaci del territorio provinciale,Altro,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Azienda USL n.9 di Grosseto,ASL (consultori familiari e altri servizi territoriali),Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Associazione Olympia de Gouges,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,GROSSETO,comune_runts,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Ascom,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,CIA,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Confesercenti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Federalberghi,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Polizia provinciale,Polizia Municipale,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Associazione P.A. Humanitas,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Corte d'Appello di Firenze,Procura Ordinaria/Tribunale/Corte d'appello,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Procura Generale della Repubblica presso la Corte d'Appello di Firenze,Procura Ordinaria/Tribunale/Corte d'appello,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Procure della Repubblica presso il Tribunale del Distretto,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_GROSSETO 2022 fpdf.txt,Procura della Repubblica per i Minorenni di Firenze,Procura Minorile/Tribunale minorile,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_GROSSETO 2022 fpdf.txt,Procura Generale presso la Corte d'Appello di Genova,Procura Ordinaria/Tribunale/Corte d'appello,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+09_GROSSETO 2022 fpdf.txt,Procura della Repubblica presso il Tribunale di Massa,Procura Ordinaria/Tribunale/Corte d'appello,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Comune di Livorno,Comuni,Livorno,,comune,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Provincia di Livorno,Province/Città metropolitane,,,nome,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Prefettura di Livorno - Ufficio Territoriale del Governo,Prefettura,,,nome,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Questura di Livorno,Questura,,,nome,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Tribunale di Livorno,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Azienda USL Toscana Nord Ovest (AUSL TNO),ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Università degli Studi di Firenze,Università,,,nome,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Filiale di Livorno della Banca d'Italia,Altro,,,nome,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Consigliera di Parità della Provincia di Livorno,Organismi di parità,,,nome,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,ARTI Servizi per il Lavoro di GR-LI,Servizi per l'impiego,,,nome,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Comando Provinciale Carabinieri di Livorno,Carabinieri/Polizia/altre forze dell'ordine,,,nome,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Comando Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Ippogrifo APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LIVORNO,comune_runts,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Associazione Randi APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LIVORNO,comune_runts,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Associazione LUI APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LIVORNO,comune_runts,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Associazione Psicosfera,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LIVORNO,comune_runts,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Centro per l'Impiego di Livorno,Servizi per l'impiego,Livorno,,comune,Livorno,exact,049009,049,Livorno,LI,09,Toscana
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Servizio Sanitario della Toscana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Regione Toscana,Regioni/Province Autonome,,,none,,none,,,,,,
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,Osservatorio Sociale Regionale,Altro,,,none,,none,,,,,,
+09_LUCCA PROV.txt,Provincia di Lucca,Province/Città metropolitane,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Prefettura di Lucca,Prefettura,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_LUCCA PROV.txt,Questura di Lucca,Questura,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Arma dei Carabinieri-Comando provinciale di Lucca,Carabinieri/Polizia/altre forze dell'ordine,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Conferenza dei Sindaci ASL 2 zona Piana di Lucca,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Conferenza dei Sindaci ASL 2 zona Valle del Serchio,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_LUCCA PROV.txt,Conferenza del Sindaci ASL 12 zona Versilia,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_LUCCA PROV.txt,Comuni,Comuni,,,none,,none,,,,,,
+09_LUCCA PROV.txt,ASL 2 Lucca,ASL (consultori familiari e altri servizi territoriali),Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,ASL 12 Versilia,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_LUCCA PROV.txt,Consigliera di Parita di Lucca,Organismi di parità,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_LUCCA PROV.txt,Associazioni del Terzo Settore,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+09_LUCCA PROV.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_LUCCA PROV.txt,Ufficio Scolastico Provinciale di Lucca,Scuole/Ufficio scolastico provinciale e regionale,Lucca,,comune,Lucca,exact,046017,046,Lucca,LU,09,Toscana
+09_PISA PREF E PROV.txt,Prefettura di Pisa,Prefettura,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Provincia di Pisa,Province/Città metropolitane,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Pisa,Comuni,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Bientina,Comuni,Bientina,,comune,Bientina,exact,050001,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Buti,Comuni,Buti,,comune,Buti,exact,050002,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Calci,Comuni,Calci,,comune,Calci,exact,050003,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Calcinaia,Comuni,Calcinaia,,comune,Calcinaia,exact,050004,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Capannoli,Comuni,Capannoli,,comune,Capannoli,exact,050005,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Casale Marittimo,Comuni,Casale Marittimo,,comune,Casale Marittimo,exact,050006,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Casciana Terme-Lari,Comuni,Casciana Terme-Lari,,comune,Casciana Terme Lari,exact,050040,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Cascina,Comuni,Cascina,,comune,Cascina,exact,050008,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Castellina Marittima,Comuni,Castellina Marittima,,comune,Castellina Marittima,exact,050010,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Castelfranco di Sotto,Comuni,Castelfranco di Sotto,,comune,Castelfranco di Sotto,exact,050009,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Castelnuovo Val di Cecina,Comuni,Castelnuovo Val di Cecina,,comune,,none,,,,,,
+09_PISA PREF E PROV.txt,Comune di Chianni,Comuni,Chianni,,comune,Chianni,exact,050012,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Crespina-Lorenzana,Comuni,Crespina-Lorenzana,,comune,Crespina Lorenzana,exact,050041,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Fauglia,Comuni,Fauglia,,comune,Fauglia,exact,050014,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Guardistallo,Comuni,Guardistallo,,comune,Guardistallo,exact,050015,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Lajatico,Comuni,Lajatico,,comune,Lajatico,exact,050016,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Montecatini Val Di Cecina,Comuni,Montecatini Val Di Cecina,,comune,Montecatini Val di Cecina,exact,050019,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Montescudaio,Comuni,Montescudaio,,comune,Montescudaio,exact,050020,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Monteverdi Marittimo,Comuni,Monteverdi Marittimo,,comune,Monteverdi Marittimo,exact,050021,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Montopoli Valdarno,Comuni,Montopoli Valdarno,,comune,,none,,,,,,
+09_PISA PREF E PROV.txt,Comune di Orciano Pisano,Comuni,Orciano Pisano,,comune,Orciano Pisano,exact,050023,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Palaia,Comuni,Palaia,,comune,Palaia,exact,050024,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Peccioli,Comuni,Peccioli,,comune,Peccioli,exact,050025,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Pomarance,Comuni,Pomarance,,comune,Pomarance,exact,050027,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Ponsacco,Comuni,Ponsacco,,comune,Ponsacco,exact,050028,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Pontedera,Comuni,Pontedera,,comune,Pontedera,exact,050029,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Riparbella,Comuni,Riparbella,,comune,Riparbella,exact,050030,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Santa Croce sull'Arno,Comuni,Santa Croce sull'Arno,,comune,Santa Croce sull'Arno,exact,050033,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Santa Luce,Comuni,Santa Luce,,comune,Santa Luce,exact,050034,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Santa Maria a Monte,Comuni,Santa Maria a Monte,,comune,Santa Maria a Monte,exact,050035,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di San Giuliano Terme,Comuni,San Giuliano Terme,,comune,San Giuliano Terme,exact,050031,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di San Miniato,Comuni,San Miniato,,comune,San Miniato,exact,050032,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Terricciola,Comuni,Terricciola,,comune,Terricciola,exact,050036,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Vecchiano,Comuni,Vecchiano,,comune,Vecchiano,exact,050037,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Vicopisano,Comuni,Vicopisano,,comune,Vicopisano,exact,050038,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Comune di Volterra,Comuni,Volterra,,comune,Volterra,exact,050039,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Tribunale di Pisa,Procura Ordinaria/Tribunale/Corte d'appello,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Università degli Studi di Pisa,Università,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa,Scuole/Ufficio scolastico provinciale e regionale,,,nome,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Azienda Ospedaliera Universitaria Pisana,"Ospedale (Pronto soccorso, ecc.)",Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Azienda Sanitaria USL Toscana Nord-Ovest,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Azienda Sanitaria USL Toscana Centro,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Società della Salute Zona Pisana,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Società della Salute Zona Alta Valdicecina-Valdera,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Società della Salute Zona Empolese Valdarno Valdelsa,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Consigliera di Parita della Provincia di Pisa,Organismi di parità,Pisa,,comune,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Centri Antiviolenza riconosciuti dalla Regione Toscana,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Associazione Casa della donna,CAV/Centri Antiviolenza,,PISA,comune_runts,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Associazione Frida,CAV/Centri Antiviolenza,,SAN MINIATO,comune_runts,San Miniato,exact,050032,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Associazione Eunice,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,PONTEDERA,comune_runts,Pontedera,exact,050029,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Associazione Le Amiche di Mafalda,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,POMARANCE,comune_runts,Pomarance,exact,050027,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Associazione Donne In Movimento,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,PISA,comune_runts,Pisa,exact,050026,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,AIED,Altro,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Nuovo Maschile. Uomini liberi dalla violenza,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Arnera Societa Cooperativa Sociale,IMPRESE SOCIALI,,PONTEDERA,comune_runts,Pontedera,exact,050029,050,Pisa,PI,09,Toscana
+09_PISA PREF E PROV.txt,Regione Toscana,Regioni/Province Autonome,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Procura della Repubblica presso il Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Procura della Repubblica presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_PISA PREF E PROV.txt,Magistratura di Sorveglianza,Altro,,,nome,,none,,,,,,
+09_PISTOIA PROV .txt,Provincia di Pistoia,Province/Città metropolitane,,,nome,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Pistoia,Comuni,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Abetone,Comuni,Abetone,,comune,,none,,,,,,
+09_PISTOIA PROV .txt,Comune di Agliana,Comuni,Agliana,,comune,Agliana,exact,047002,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Buggiano,Comuni,Buggiano,,comune,Buggiano,exact,047003,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Chiesina Uzzanese,Comuni,Chiesina Uzzanese,,comune,Chiesina Uzzanese,exact,047022,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Cutigliano,Comuni,Cutigliano,,comune,,none,,,,,,
+09_PISTOIA PROV .txt,Comune di Lamporecchio,Comuni,Lamporecchio,,comune,Lamporecchio,exact,047005,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Larciano,Comuni,Larciano,,comune,Larciano,exact,047006,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Marliana,Comuni,Marliana,,comune,Marliana,exact,047007,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Massa e Cozzile,Comuni,Massa e Cozzile,,comune,Massa e Cozzile,exact,047008,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Monsummano Terme,Comuni,Monsummano Terme,,comune,Monsummano Terme,exact,047009,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Montale,Comuni,Montale,,comune,Montale,exact,047010,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Montecatini Terme,Comuni,Montecatini Terme,,comune,Montecatini-Terme,exact,047011,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Pescia,Comuni,Pescia,,comune,Pescia,exact,047012,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Pieve a Nievole,Comuni,Pieve a Nievole,,comune,Pieve a Nievole,exact,047013,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Piteglio,Comuni,Piteglio,,comune,,none,,,,,,
+09_PISTOIA PROV .txt,Comune di Ponte Buggianese,Comuni,Ponte Buggianese,,comune,Ponte Buggianese,exact,047016,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Quarrata,Comuni,Quarrata,,comune,Quarrata,exact,047017,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Sambuca Pistoiese,Comuni,Sambuca Pistoiese,,comune,Sambuca Pistoiese,exact,047018,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di San Marcello Pistoiese,Comuni,San Marcello Pistoiese,,comune,,none,,,,,,
+09_PISTOIA PROV .txt,Comune di Serravalle Pistoiese,Comuni,Serravalle Pistoiese,,comune,Serravalle Pistoiese,exact,047020,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comune di Uzzano,Comuni,Uzzano,,comune,Uzzano,exact,047021,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Procura della Repubblica di Pistoia,Procura Ordinaria/Tribunale/Corte d'appello,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Tribunale di Pistoia,Procura Ordinaria/Tribunale/Corte d'appello,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Prefettura di Pistoia - Ufficio Territoriale di Governo,Prefettura,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Questura di Pistoia,Questura,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Comando Provinciale Carabinieri di Pistoia,Carabinieri/Polizia/altre forze dell'ordine,Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,ASL n. 3 Pistoia,ASL (consultori familiari e altri servizi territoriali),Pistoia,,comune,Pistoia,exact,047014,047,Pistoia,PT,09,Toscana
+09_PISTOIA PROV .txt,Societa della Salute Valdinievole,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_PISTOIA PROV .txt,Ufficio Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,Consigliera Provinciale di Parita,Organismi di parità,,,nome,,none,,,,,,
+09_PISTOIA PROV .txt,CGIL Provinciale,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,CISL Provinciale,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,UIL Provinciale,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,UGL Provinciale,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,365giornialfemmile,Altro,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,CAM,Altro,,,none,,none,,,,,,
+09_PISTOIA PROV .txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_PRATO PREF.txt,Prefettura Ufficio Territoriale del Governo di Prato,Prefettura,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Procura della Repubblica di Prato,Procura Ordinaria/Tribunale/Corte d'appello,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Questura di Prato,Questura,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comando Provinciale dell’Arma dei Carabinieri di Prato,Carabinieri/Polizia/altre forze dell'ordine,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comando Provinciale della Guardia di Finanza di Prato,Carabinieri/Polizia/altre forze dell'ordine,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Società della Salute Area Pratese,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_PRATO PREF.txt,Comune di Cantagallo,Comuni,Cantagallo,,comune,Cantagallo,exact,100001,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Carmignano,Comuni,Carmignano,,comune,Carmignano,exact,100002,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Montemurlo,Comuni,Montemurlo,,comune,Montemurlo,exact,100003,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Poggio a Caiano,Comuni,Poggio a Caiano,,comune,Poggio a Caiano,exact,100004,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Prato,Comuni,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Vaiano,Comuni,Vaiano,,comune,Vaiano,exact,100006,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Comune di Vernio,Comuni,Vernio,,comune,Vernio,exact,100007,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Provincia di Prato,Province/Città metropolitane,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Azienda Sanitaria USL Toscana Centro,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_PRATO PREF.txt,MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato,Scuole/Ufficio scolastico provinciale e regionale,Prato,,comune,Prato,exact,100005,100,Prato,PO,09,Toscana
+09_PRATO PREF.txt,Centro Antiviolenza La Nara,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_PRATO PREF.txt,Alice Cooperativa Sociale,ORGANIZZAZIONI DI VOLONTARIATO,,FIRENZE,comune_runts,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_PRATO PREF.txt,Centro di Ascolto Uomini Maltrattanti,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,FIRENZE,comune_runts,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_PRATO PREF.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_PRATO PREF.txt,Regione Toscana,Regioni/Province Autonome,,,none,,none,,,,,,
+09_PRATO PREF.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,AREZZO,comune_runts,Arezzo,exact,051002,051,Arezzo,AR,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Regione Toscana,Regioni/Province Autonome,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Procura Generale della Repubblica presso la Corte d’Appello di Firenze,Procura Ordinaria/Tribunale/Corte d'appello,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Procure della Repubblica presso il Tribunale del Distretto,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Procura della Repubblica per i Minorenni di Firenze,Procura Minorile/Tribunale minorile,Firenze,,comune,Firenze,exact,048017,248,Firenze,FI,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Procura Generale presso la Corte d’Appello di Genova,Procura Ordinaria/Tribunale/Corte d'appello,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Procura della Repubblica presso il Tribunale di Massa,Procura Ordinaria/Tribunale/Corte d'appello,Massa,,comune,Massa,exact,045010,045,Massa-Carrara,MS,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,SSR,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Azienda USL 9 di Grosseto,ASL (consultori familiari e altri servizi territoriali),Grosseto,,comune,Grosseto,exact,053011,053,Grosseto,GR,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Aziende sanitarie toscane,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Rete Regionale Codice Rosa,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Comitato Regionale,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,EMPOLI,comune_runts,Empoli,exact,048014,248,Firenze,FI,09,Toscana
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Comitato di Area Vasta,Altro,,,nome,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Referenti Aziendali,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Direzione Diritti di cittadinanza e coesione sociale,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Gruppo di lavoro Tavolo Privacy di Regione Toscana,Altro,,,nome,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Aziende Sanitarie,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Polizia Giudiziaria,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Autorità giudiziaria,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Giudice tutelare,Altro,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Questura,Questura,,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Ambulatorio,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Unità Operativa,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Consultorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Comunità di tipo familiare,Altro,,,nome,,none,,,,,,
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,Istituto di assistenza pubblico privato,Altro,,,nome,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Cetona,Comuni,Cetona,,comune,Cetona,exact,052008,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Chianciano Terme,Comuni,Chianciano Terme,,comune,Chianciano Terme,exact,052009,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Montepulciano,Comuni,Montepulciano,,comune,Montepulciano,exact,052015,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di San Casciano dei Bagni,Comuni,San Casciano dei Bagni,,comune,San Casciano dei Bagni,exact,052027,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Sarteano,Comuni,Sarteano,,comune,Sarteano,exact,052031,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Chiusi,Comuni,Chiusi,,comune,Chiusi,exact,052011,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Sinalunga,Comuni,Sinalunga,,comune,Sinalunga,exact,052033,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Torrita di Siena,Comuni,Torrita di Siena,,comune,Torrita di Siena,exact,052035,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comune di Trequanda,Comuni,Trequanda,,comune,Trequanda,exact,052036,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Comunità Montana del Cetona,Altro,,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Centro Pari Opportunità Valdichiana,Altro,,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Associazione Amica Donna,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,MONTEPULCIANO,comune_runts,Montepulciano,exact,052015,052,Siena,SI,09,Toscana
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Azienda ASL7,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Pronto soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Consultorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Società della salute,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,

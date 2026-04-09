@@ -16,11 +16,23 @@ try:
 except Exception:
     RAPIDFUZZ_OK = False
 
+
 # ------------------------------------------------------
 # CONFIG
 # ------------------------------------------------------
+from region_config import get_reg_code, print_reg_code, build_region_file
 
-JSON_STEP1_FOLDER = r"output/json/step_1/"
+reg_code = get_reg_code(default="09", required=True)
+print_reg_code(reg_code)
+
+
+CLASSIFICATION_FOLDER = r"classification"
+
+JSON_STEP2_FOLDER = r"output/json/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
+
+INPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.3.json")
+OUTPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.4.json")
+
 ROLE_ORDER = ["firmatario", "soggetto_proponente", "attore"]
 
 # ------------------------------------------------------
@@ -311,11 +323,7 @@ def assegna_ruoli_soggetti_avanzato(
 # ------------------------------------------------------
 
 def main():
-    reg_code = "09"
-
-    INPUT_JSON = Path(JSON_STEP1_FOLDER) / f"{reg_code}_risultati_enriched_2.3.json"
-    OUTPUT_JSON = Path(JSON_STEP1_FOLDER) / f"{reg_code}_risultati_enriched_2.4.json"
-
+    
     print("INPUT_JSON:", INPUT_JSON)
     print("OUTPUT_JSON:", OUTPUT_JSON)
 

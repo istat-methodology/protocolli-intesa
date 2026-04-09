@@ -6,9 +6,21 @@ import pandas as pd
 import unicodedata
 from collections import Counter
 
+from region_config import get_reg_code, print_reg_code, build_region_file
+
+reg_code = get_reg_code(default="09", required=True)
+print_reg_code(reg_code)
+
+
 CLASSIFICATION_FOLDER = r"classification"
+JSON_STEP1_FOLDER = r"output/json/step_1" # Directory per i JSON con i risultati di Step 1 (estrazione nomi soggetti)
+JSON_STEP2_FOLDER = r"output/json/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
+INPUT_JSON = build_region_file(JSON_STEP1_FOLDER, reg_code, "risultati.json")
+
+OUTPUT_JSON_TMP = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.1.1.json")
+OUTPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.1.2.json")
+
 RUNTS_FILE = os.path.join(CLASSIFICATION_FOLDER, "cls_runts.csv")
-JSON_STEP1_FOLDER = r"output/json/step_1"
 PATH_LISTA_CAV = os.path.join(CLASSIFICATION_FOLDER, "cls_cav.csv")
 
 testi = []
@@ -1025,8 +1037,7 @@ def suggest_actions_from_report(rows, top_n: int = 30,
 # =========================================================
 
 if __name__ == "__main__":
-    reg_code = "09"
-
+    
     print("RUNTS_FILE:", RUNTS_FILE)
 
     # --- Load CAV ---
@@ -1062,14 +1073,12 @@ if __name__ == "__main__":
     print("RUNTS righe indicizzate:", len(fuzzy_rows))
 
     # --- Pass 1 ---
-    INPUT_JSON = f"{JSON_STEP1_FOLDER}/{reg_code}_risultati.json"
-    OUTPUT_JSON = f"{JSON_STEP1_FOLDER}/{reg_code}_risultati_enriched_2.1.1.json"
     print("Input JSON da arricchire:", INPUT_JSON)
-    print("Output JSON arricchito:", OUTPUT_JSON)
+    print("Output JSON arricchito:", OUTPUT_JSON_TMP)
 
     enrich_step1_json_with_runts(
         INPUT_JSON=INPUT_JSON,
-        OUTPUT_JSON=OUTPUT_JSON,
+        OUTPUT_JSON=OUTPUT_JSON_TMP,
         idx_exact=idx_exact,
         idx_compact=idx_compact,
         prefix_list=prefix_list,
@@ -1085,18 +1094,16 @@ if __name__ == "__main__":
     )
 
     # --- Pass 2 con ALIAS_MAP auto ---
-    rows_none = report_top_non_matches(OUTPUT_JSON, top_n=50, min_best_score=70, only_how="none")
+    rows_none = report_top_non_matches(OUTPUT_JSON_TMP, top_n=50, min_best_score=70, only_how="none")
 
     ALIAS_MAP = build_alias_map_from_report(rows_none, top_n=10, min_score=92)
     print("\nALIAS_MAP (auto top 10):")
     for k, v in ALIAS_MAP.items():
         print(f"- {k} -> {v}")
 
-    OUTPUT_JSON_2 = OUTPUT_JSON.replace(".1.json", ".2.json")
-
     enrich_step1_json_with_runts(
         INPUT_JSON=INPUT_JSON,
-        OUTPUT_JSON=OUTPUT_JSON_2,
+        OUTPUT_JSON=OUTPUT_JSON,
         idx_exact=idx_exact,
         idx_compact=idx_compact,
         prefix_list=prefix_list,
@@ -1112,12 +1119,12 @@ if __name__ == "__main__":
     )
 
     # --- Report finali ---
-    rows_none_final = report_top_non_matches(OUTPUT_JSON_2, top_n=30, min_best_score=70, only_how="none")
-    rows_prefix = report_top_non_matches(OUTPUT_JSON_2, top_n=30, min_best_score=70, only_how="prefix")
+    rows_none_final = report_top_non_matches(OUTPUT_JSON, top_n=30, min_best_score=70, only_how="none")
+    rows_prefix = report_top_non_matches(OUTPUT_JSON, top_n=30, min_best_score=70, only_how="prefix")
     suggestions = suggest_actions_from_report(rows_none_final, top_n=30)
 
     # --- Debug CAV matches ---
-    PATH_JSON = OUTPUT_JSON_2
+    PATH_JSON = OUTPUT_JSON
 
     with open(PATH_JSON, "r", encoding="utf-8") as f:
         data = json.load(f)

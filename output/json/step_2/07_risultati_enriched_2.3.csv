@@ -1,0 +1,103 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Comune di Chiavari,Comuni,Chiavari,,comune,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Azienda Sanitaria Locale n. 4 “Sistema Sanitario Regione Liguria”,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Telefono Donna Centro AntiViolenza CIF APS,CAV/Centri Antiviolenza,,CHIAVARI,comune_runts,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo,Case Rifugio,,CHIAVARI,comune_runts,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Distretti Sociosanitari n. 14,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Distretti Sociosanitari n. 15,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Distretti Sociosanitari n. 16,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Regione Liguria,Regioni/Province Autonome,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Pronto Soccorso del presidio ospedaliero di Lavagna,"Ospedale (Pronto soccorso, ecc.)",,,nome,Lavagna,exact,010028,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,U.O. di Ostetricia e Ginecologia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Dipartimento di Salute Mentale e delle Dipendenze dell’ASL n. 4 “Sistema Sanitario Regione Liguria”,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Struttura Semplice Dipartimentale Consultorio Familiare dell’ASL n. 4 “Sistema Sanitario Regione Liguria”,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Servizio Sociale del Comune di residenza,Servizi sociali comunali,,,nome,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Servizi Sociali degli Ambiti Territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Segreteria Tecnica del DSS 15 (Comune di Chiavari),Altro,,,nome,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Equipe Integrata Sovradistrettuale Maltrattamento e Abuso,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,DMPO Direzione Medica del Presidio Ospedaliero,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Procura della Repubblica presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Comune di residenza della donna,Comuni,,,nome,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,ATS di riferimento per residenza,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Servizio Sociale del Comune dove viene reperita la donna,Servizi sociali comunali,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,"Tavolo di Coordinamento del sistema degli interventi per il contrasto, il trattamento della violenza maschile contro le donne e il loro reinserimento socio-lavorativo",Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Equipe Multiprofessionale Sovradistrettuale Maltrattamento e Abuso,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Medici di Medicina generale,Altro,,,nome,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,Pediatri di Libera Scelta,Altro,,,nome,,none,,,,,,
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,operatori del III settore,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Il Cerchio delle Relazioni Societa Cooperativa Sociale - Centro Antiviolenza Mascherona,CAV/Centri Antiviolenza,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Centro per non subire violenza (da U.D.1.),CAV/Centri Antiviolenza,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Agora soc. coop. soc.,Ente terzo settore - ETS (iscritto al RUNTS),Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Arci Solidarieta Genova ODV,ORGANIZZAZIONI DI VOLONTARIATO,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Fondazione Auxilium,IMPRESE SOCIALI,Genova,SANREMO,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Tl Melograno Cooperativa Sociale Onlus,Ente terzo settore - ETS (iscritto al RUNTS),Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Il Biscione Societa Cooperativa Sociale,IMPRESE SOCIALI,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Il Cesto Onlus Cooperativa Sociale,ORGANIZZAZIONI DI VOLONTARIATO,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Lanza del Vasto Societa Cooperativa Sociale,IMPRESE SOCIALI,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Liberitutti Societa Cooperativa Sociale,Ente terzo settore - ETS (iscritto al RUNTS),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Dono Societa cooperativa sociale,IMPRESE SOCIALI,Genova,GENOVA,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,la rete D.iRe,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,UNHCR,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,centri di accoglienza del sistema SAI del Comune di Genova,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Comune di Genova,Comuni,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,centri di accoglienza straordinaria predisposto dalle Prefetture,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Prefetture,Prefettura,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Istituzioni,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,FF.OO,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Servizi Sanitari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Tribunali,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Questura Ufficio immigrazione,Questura,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Ufficio Asilo Politico,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Commissione Territoriale,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Consolati,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,Rete dei servizi SAI,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Regione Liguria,Regioni/Province Autonome,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comune di Genova,Comuni,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Citta Metropolitana di Genova,Province/Città metropolitane,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Prefettura — U.T.G. di Genova,Prefettura,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Prefettura — U.T.G. di Imperia,Prefettura,Imperia,,comune,Imperia,exact,008031,008,Imperia,IM,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Prefettura — U.T.G. di La Spezia,Prefettura,La Spezia,,comune,La Spezia,exact,011015,011,La Spezia,SP,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Prefettura — U.T.G. di Savona,Prefettura,Savona,,comune,Savona,exact,009056,009,Savona,SV,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura Generale presso la Corte d’Appello di Genova,Procura Ordinaria/Tribunale/Corte d'appello,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura della Repubblica presso il Tribunale di Genova,Procura Ordinaria/Tribunale/Corte d'appello,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura della Repubblica presso il Tribunale di Imperia,Procura Ordinaria/Tribunale/Corte d'appello,Imperia,,comune,Imperia,exact,008031,008,Imperia,IM,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura della Repubblica presso il Tribunale di La Spezia,Procura Ordinaria/Tribunale/Corte d'appello,La Spezia,,comune,La Spezia,exact,011015,011,La Spezia,SP,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura della Repubblica presso il Tribunale di Savona,Procura Ordinaria/Tribunale/Corte d'appello,Savona,,comune,Savona,exact,009056,009,Savona,SV,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Procura della Repubblica presso il Tribunale per i Minorenni di Genova,Procura Minorile/Tribunale minorile,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Legione Carabinieri Liguria,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comando Regionale della Guardia di Finanza della Liguria,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Questura di Genova,Questura,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Questura di Imperia,Questura,Imperia,,comune,Imperia,exact,008031,008,Imperia,IM,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Questura di La Spezia,Questura,La Spezia,,comune,La Spezia,exact,011015,011,La Spezia,SP,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Questura di Savona,Questura,Savona,,comune,Savona,exact,009056,009,Savona,SV,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Universita degli Studi di Genova,Università,Genova,,comune,Genova,exact,010025,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Ufficio Scolastico Regionale per la Liguria,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Azienda Ligure Sanitaria (A.Li.Sa.),ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,ANCI Liguria,Altro,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comune di La Spezia,Comuni,La Spezia,,comune,La Spezia,exact,011015,011,La Spezia,SP,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comune di Savona,Comuni,Savona,,comune,Savona,exact,009056,009,Savona,SV,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comune di Sanremo,Comuni,Sanremo,,comune,Sanremo,exact,008055,008,Imperia,IM,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Comune di Chiavari,Comuni,Chiavari,,comune,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,AS.L. 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,AS.L. 2,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,AS.L. 3,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,AS.L. 4,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,A.S.L. 5,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Ente Ospedaliero Ospedali Galliera,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,IRCCS Ospedale Policlinico San Martino,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,IRCCS Istituto Giannina Gaslini,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Ospedale Evangelico Internazionale,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza ISV,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Telefono Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Artemisia Gentileschi,CAV/Centri Antiviolenza,,ALBENGA,comune_runts,Albenga,exact,009002,009,Savona,SV,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Mascherona e Casa Rifugio Elisa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza e Casa Rifugio Per non subire violenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Casa Pandora Margherita Ferro,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Pandora,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Telefono Donna Centro AntiViolenza CIF,CAV/Centri Antiviolenza,,CHIAVARI,comune_runts,Chiavari,exact,010015,210,Genova,GE,07,Liguria
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Irene,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Centro Antiviolenza Mai più sola e Casa Rifugio Franca Viola,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Casa Rifugio L’isola che c’è,Case Rifugio,,,none,,none,,,,,,
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,Casa Rifugio Marina,Case Rifugio,,,none,,none,,,,,,

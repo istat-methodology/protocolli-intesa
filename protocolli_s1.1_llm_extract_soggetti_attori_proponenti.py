@@ -472,6 +472,16 @@ Soggetti disponibili:
 {soggetti_estratti}
 """
 
+
+from region_config import get_reg_code, print_reg_code, build_region_file
+
+reg_code = get_reg_code(default="09", required=True)
+print_reg_code(reg_code)
+
+TXT_FOLDER = "data/txt"
+
+OUTPUT_JSON = build_region_file("output/json/step_1", reg_code, "risultati.json")
+
 # =========================================================
 # HELPERS
 # =========================================================
@@ -738,17 +748,34 @@ def print_result(risultati, reg_code):
 
     print(f"✅ Risultati salvati in: {output_file}")
 
-
 # =========================================================
 # MAIN
 # =========================================================
+import argparse
+import json
+
+def parse_region_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--reg_code", type=str, default=None, help="Codice regione singolo, es. 09")
+    parser.add_argument("--start_reg", type=str, default=None, help="Codice regione iniziale, es. 09")
+    parser.add_argument("--end_reg", type=str, default=None, help="Codice regione finale, es. 13")
+    args = parser.parse_args()
+
+    if args.reg_code is not None:
+        reg = int(str(args.reg_code).zfill(2))
+        return reg, reg
+
+    start_reg = int(str(args.start_reg).zfill(2)) if args.start_reg is not None else 9
+    end_reg = int(str(args.end_reg).zfill(2)) if args.end_reg is not None else start_reg
+
+    return start_reg, end_reg
+
 
 if __name__ == "__main__":
-    start_reg = 9
-    end_reg = 9
+    start_reg, end_reg = parse_region_args()
 
     for reg_code in range(start_reg, end_reg + 1):
-        print(f"\n================ REGIONE {reg_code} ================\n")
+        print(f"\n================ REGIONE {reg_code:02d} ================\n")
 
         testi = uploadfile(reg_code)
 
@@ -765,3 +792,33 @@ if __name__ == "__main__":
 
         print(json.dumps(merged_result[:2], indent=4, ensure_ascii=False))
         print_result(merged_result, reg_code)
+
+
+
+# =========================================================
+# MAIN
+# =========================================================
+
+
+#if __name__ == "__main__":
+#    start_reg = 9
+#    end_reg = 9
+
+#    for reg_code in range(start_reg, end_reg + 1):
+#        print(f"\n================ REGIONE {reg_code} ================\n")
+
+#        testi = uploadfile(reg_code)
+
+#        risultati_1 = extract_step1(testi)
+#        risultati_2 = extract_step2(testi, risultati_1)
+#        risultati_3 = extract_step3(testi, risultati_1)
+
+#        merged_result = merge_all_results(
+#           testi,
+#            risultati_1,
+#            risultati_2,
+#           risultati_3
+#        )
+
+#        print(json.dumps(merged_result[:2], indent=4, ensure_ascii=False))
+#        print_result(merged_result, reg_code)

@@ -13,6 +13,18 @@ from collections import Counter
 # ------------------------------------------------------
 # CONFIG
 # ------------------------------------------------------
+from region_config import get_reg_code, print_reg_code, build_region_file
+
+reg_code = get_reg_code(default="09", required=True)
+print_reg_code(reg_code)
+
+
+CLASSIFICATION_FOLDER = r"classification"
+
+JSON_STEP2_FOLDER = r"output/json/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
+
+INPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.1.2.json")
+OUTPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.2.json")
 
 CLASSIFICATION_FOLDER = r"classification/"
 SOVRACOMUNALI_CSV = os.path.join(
@@ -575,9 +587,7 @@ def debug_sovracomunali(sovracomunali_csv):
 # ------------------------------------------------------
 
 def main():
-    reg_code = "09"
-    INPUT_JSON = Path(JSON_STEP1_FOLDER) / f"{reg_code}_risultati_enriched_2.1.2.json"
-    OUTPUT_JSON = Path(JSON_STEP1_FOLDER) / f"{reg_code}_risultati_enriched_2.2.json"
+
 
     print("INPUT:", INPUT_JSON)
     print("OUTPUT:", OUTPUT_JSON)

@@ -1,0 +1,538 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Città metropolitana di Bologna,Province/Città metropolitane,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Comune di Bologna,Comuni,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Comune di Imola,Comuni,Imola,,comune,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Comune di San Lazzaro di Savena,Comuni,San Lazzaro di Savena,,comune,San Lazzaro di Savena,exact,037054,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,"Unione dei Comuni Valli del Reno, Lavino e Samoggia",Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Unione Reno Galliera,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Unione Terre d’Acqua,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Unione dei Comuni dell’Appennino bolognese,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Nuovo Circondario Imolese,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,CASA delle donne per non subire violenza,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Trama di Terre,CAV/Centri Antiviolenza,,IMOLA,comune_runts,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,MondoDonna,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,UDI,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,SOS Donna,CAV/Centri Antiviolenza,,FAENZA,comune_runts,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,PerLeDonne,CAV/Centri Antiviolenza,,IMOLA,comune_runts,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Conferenza Territoriale Sociale e Sanitaria Metropolitana di Bologna (CTSSM),"Ambiti della programmazione sociale e socio-sanitari (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Consorzio Servizi Sociali di Imola,Servizi sociali comunali,Imola,,comune,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,ASP Circondario Imolese,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Comune di Bologna,Comuni,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Provincia di Bologna,Province/Città metropolitane,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Prefettura di Bologna,Prefettura,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Procura della Repubblica presso il Tribunale di Bologna,Procura Ordinaria/Tribunale/Corte d'appello,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Procura presso il Tribunale dei minori di Bologna,Procura Minorile/Tribunale minorile,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Questura di Bologna,Questura,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Comando provinciale dei Carabinieri di Bologna,Carabinieri/Polizia/altre forze dell'ordine,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,ASP Città di Bologna,Servizi sociali comunali,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Azienda USL di Bologna,ASL (consultori familiari e altri servizi territoriali),Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,Unione Reno Galliera,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Città metropolitana di Bologna,Province/Città metropolitane,,,nome,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Bologna,Comuni,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Alto Reno Terme,Comuni,Alto Reno Terme,,comune,Alto Reno Terme,exact,037062,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Anzola dell’Emilia,Comuni,Anzola dell’Emilia,,comune,Anzola dell'Emilia,exact,037001,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Argelato,Comuni,Argelato,,comune,Argelato,exact,037002,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Baricella,Comuni,Baricella,,comune,Baricella,exact,037003,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Bentivoglio,Comuni,Bentivoglio,,comune,Bentivoglio,exact,037005,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Borgo Tossignano,Comuni,Borgo Tossignano,,comune,Borgo Tossignano,exact,037007,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Budrio,Comuni,Budrio,,comune,Budrio,exact,037008,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Calderara di Reno,Comuni,Calderara di Reno,,comune,Calderara di Reno,exact,037009,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Camugnano,Comuni,Camugnano,,comune,Camugnano,exact,037010,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Casalecchio di Reno,Comuni,Casalecchio di Reno,,comune,Casalecchio di Reno,exact,037011,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Casalfiumanese,Comuni,Casalfiumanese,,comune,Casalfiumanese,exact,037012,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel d’Aiano,Comuni,Castel d’Aiano,,comune,Castel d'Aiano,exact,037013,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel del Rio,Comuni,Castel del Rio,,comune,Castel del Rio,exact,037014,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel di Casio,Comuni,Castel di Casio,,comune,Castel di Casio,exact,037015,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel Guelfo di Bologna,Comuni,Castel Guelfo di Bologna,,comune,Castel Guelfo di Bologna,exact,037016,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel Maggiore,Comuni,Castel Maggiore,,comune,Castel Maggiore,exact,037019,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castel San Pietro Terme,Comuni,Castel San Pietro Terme,,comune,Castel San Pietro Terme,exact,037020,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castello d’Argile,Comuni,Castello d’Argile,,comune,Castello d'Argile,exact,037017,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castenaso,Comuni,Castenaso,,comune,Castenaso,exact,037021,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Castiglione dei Pepoli,Comuni,Castiglione dei Pepoli,,comune,Castiglione dei Pepoli,exact,037022,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Crevalcore,Comuni,Crevalcore,,comune,Crevalcore,exact,037024,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Dozza,Comuni,Dozza,,comune,Dozza,exact,037025,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Fontanelice,Comuni,Fontanelice,,comune,Fontanelice,exact,037026,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Gaggio Montano,Comuni,Gaggio Montano,,comune,Gaggio Montano,exact,037027,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Galliera,Comuni,Galliera,,comune,Galliera,exact,037028,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Granarolo dell’Emilia,Comuni,Granarolo dell’Emilia,,comune,Granarolo dell'Emilia,exact,037030,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Grizzana Morandi,Comuni,Grizzana Morandi,,comune,Grizzana Morandi,exact,037031,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Imola,Comuni,Imola,,comune,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Lizzano in Belvedere,Comuni,Lizzano in Belvedere,,comune,Lizzano in Belvedere,exact,037033,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Loiano,Comuni,Loiano,,comune,Loiano,exact,037034,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Malalbergo,Comuni,Malalbergo,,comune,Malalbergo,exact,037035,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Marzabotto,Comuni,Marzabotto,,comune,Marzabotto,exact,037036,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Medicina,Comuni,Medicina,,comune,Medicina,exact,037037,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Minerbio,Comuni,Minerbio,,comune,Minerbio,exact,037038,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Molinella,Comuni,Molinella,,comune,Molinella,exact,037039,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Monghidoro,Comuni,Monghidoro,,comune,Monghidoro,exact,037040,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Monte San Pietro,Comuni,Monte San Pietro,,comune,Monte San Pietro,exact,037042,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Monterenzio,Comuni,Monterenzio,,comune,Monterenzio,exact,037041,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Monzuno,Comuni,Monzuno,,comune,Monzuno,exact,037044,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Mordano,Comuni,Mordano,,comune,Mordano,exact,037045,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Ozzano dell’Emilia,Comuni,Ozzano dell’Emilia,,comune,Ozzano dell'Emilia,exact,037046,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Pianoro,Comuni,Pianoro,,comune,Pianoro,exact,037047,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Pieve di Cento,Comuni,Pieve di Cento,,comune,Pieve di Cento,exact,037048,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Sala Bolognese,Comuni,Sala Bolognese,,comune,Sala Bolognese,exact,037050,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Benedetto Val di Sambro,Comuni,San Benedetto Val di Sambro,,comune,San Benedetto Val di Sambro,exact,037051,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Giorgio di Piano,Comuni,San Giorgio di Piano,,comune,San Giorgio di Piano,exact,037052,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Giovanni in Persiceto,Comuni,San Giovanni in Persiceto,,comune,San Giovanni in Persiceto,exact,037053,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Lazzaro di Savena,Comuni,San Lazzaro di Savena,,comune,San Lazzaro di Savena,exact,037054,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Pietro in Casale,Comuni,San Pietro in Casale,,comune,San Pietro in Casale,exact,037055,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Sant’Agata Bolognese,Comuni,Sant’Agata Bolognese,,comune,Sant'Agata Bolognese,exact,037056,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Sasso Marconi,Comuni,Sasso Marconi,,comune,Sasso Marconi,exact,037057,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Valsamoggia,Comuni,Valsamoggia,,comune,Valsamoggia,exact,037061,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Vergato,Comuni,Vergato,,comune,Vergato,exact,037059,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Zola Predosa,Comuni,Zola Predosa,,comune,Zola Predosa,exact,037060,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,ACER Bologna,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,SOLARIS s.r.l.,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,CGIL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,CISL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UIL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,SICET,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,SUNIA,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UNIAT,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UNIONE INQUILINI,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,AIDA,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,CONIA,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,APPC,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,AIPI,IMPRESE SOCIALI,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,ASSPI,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,CONFABITARE,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UPPI,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UNIONCASA,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,ASSOCASA,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,FEDER.CASA,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,APE,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Associazione MondoDonna,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Associazione SOS Donna,CAV/Centri Antiviolenza,,FAENZA,comune_runts,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Casa delle donne per non subire violenza,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Per Le Donne - Imola,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,UDI,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Trama di Terre,CAV/Centri Antiviolenza,,IMOLA,comune_runts,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Consulta per le pari opportunità,Organismi di parità,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Conferenza Territoriale Sociale e Sanitaria Metropolitana di Bologna (CTSSM),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Dipartimento per le Pari Opportunità della Presidenza del Consiglio dei Ministri,Organismi di parità,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Consiglio metropolitano,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Imola,Comuni,Imola,,comune,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di San Lazzaro di Savena,Comuni,San Lazzaro di Savena,,comune,San Lazzaro di Savena,exact,037054,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Sasso Marconi,Comuni,Sasso Marconi,,comune,Sasso Marconi,exact,037057,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comune di Bologna,Comuni,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,ACER Bologna,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Associazione Piccoli Proprietari Case,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Confcommercio Ascom Bologna,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,"Arma dei Carabinieri, Comando Provinciale di Bologna",Carabinieri/Polizia/altre forze dell'ordine,,,nome,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,Aziende Casa del territorio metropolitano comunque denominate,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Prefettura di Ferrara,Prefettura,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comune di Ferrara,Comuni,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Tribunale di Ferrara,Procura Ordinaria/Tribunale/Corte d'appello,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Procura della Repubblica presso il Tribunale di Ferrara,Procura Ordinaria/Tribunale/Corte d'appello,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Tribunale per i Minorenni dell’Emilia Romagna di Bologna,Procura Minorile/Tribunale minorile,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Procura della Repubblica presso il Tribunale per i Minorenni dell’Emilia Romagna di Bologna,Procura Minorile/Tribunale minorile,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Questura di Ferrara,Questura,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comando Provinciale dei Carabinieri di Ferrara,Carabinieri/Polizia/altre forze dell'ordine,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comando Provinciale della Guardia di Finanza di Ferrara,Carabinieri/Polizia/altre forze dell'ordine,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Universita degli Studi di Ferrara,Università,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comune di Cento,Comuni,Cento,,comune,Cento,exact,038004,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comune di Codigoro,Comuni,Codigoro,,comune,Codigoro,exact,038005,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Comune di Copparo,Comuni,Copparo,,comune,Copparo,exact,038007,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ufficio Scolastico Regionale VI Ambito Territoriale di Ferrara,Scuole/Ufficio scolastico provinciale e regionale,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Azienda Unita Sanitaria Locale di Ferrara,ASL (consultori familiari e altri servizi territoriali),Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Azienda Ospedaliero Universitaria di Ferrara,"Ospedale (Pronto soccorso, ecc.)",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ordine degli Avvocati di Ferrara,Ordine avvocati,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ordine dei Giornalisti di Ferrara,Altri ordini professionali,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ordine dei Medici Chirurghi e degli Odontoiatri di Ferrara,Ordine medici e odontoiatri e Ordine farmacisti,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ordine dei Farmacisti di Ferrara,Ordine medici e odontoiatri e Ordine farmacisti,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Federfarma Ferrara,Sindacati/Associazioni di categoria,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,AFM - Farmacie Comunali Ferrara,Altro,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Associazione “Centro Donna Giustizia” di Ferrara,CAV/Centri Antiviolenza,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Centro di Ascolto per Uomini Maltrattanti di Ferrara,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Unione Donne in Italia — APS Ferrara,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Ferrara,FERRARA,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Rotary Club Ferrara,Altro,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ascom Confcommercio Ferrara,Sindacati/Associazioni di categoria,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Case rifugio,Case Rifugio,,,none,,none,,,,,,
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Pronto Soccorso Generale e Ostetrico-Ginecologico Ferrara,"Ospedale (Pronto soccorso, ecc.)",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Consultori familiari Ferrara,ASL (consultori familiari e altri servizi territoriali),Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Istituzioni scolastiche autonome della provincia di Ferrara,Scuole/Ufficio scolastico provinciale e regionale,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Conferenza Provinciale Permanente,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,Ministero dell'Interno,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Ferrara,Comuni,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Jolanda di Savoia,Comuni,Jolanda di Savoia,,comune,Jolanda di Savoia,exact,038010,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Masi Torello,Comuni,Masi Torello,,comune,Masi Torello,exact,038012,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Voghiera,Comuni,Voghiera,,comune,Voghiera,exact,038023,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Unione Terre e Fiumi,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Copparo,Comuni,Copparo,,comune,Copparo,exact,038007,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Riva del Po,Comuni,Riva del Po,,comune,Riva del Po,exact,038029,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Tresignana,Comuni,Tresignana,,comune,Tresignana,exact,038030,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Azienda Ospedaliera Universitaria di Ferrara,"Ospedale (Pronto soccorso, ecc.)",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Azienda USL di Ferrara,ASL (consultori familiari e altri servizi territoriali),Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Assistenza Servizi alla Persona (ASSP) Unione Terre e Fiumi,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Servizio 118 di Ferrara,"Ospedale (Pronto soccorso, ecc.)",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Centri Salute Donna,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Spazio Giovani,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Case della Comunità,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,MMG,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,PLS,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Centro Pubblico LIBERIAMOCI DALLA VIOLENZA (LDV),"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comando Provinciale dei Carabinieri di Ferrara,Carabinieri/Polizia/altre forze dell'ordine,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Questura di Ferrara,Questura,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Squadra Mobile,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Università degli Studi di Ferrara,Università,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Centro Donna Giustizia APS di Ferrara,CAV/Centri Antiviolenza,Ferrara,FERRARA,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,DIRe Donne in Rete contro la violenza,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Coordinamento dei Centri Antiviolenza dell’Emilia Romagna,ALTRI ENTI DEL TERZO SETTORE,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comune di Comacchio,Comuni,Comacchio,,comune,Comacchio,exact,038006,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Cooperativa Girogirotondo,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Punto Antiviolenza Decentrato,CAV/Centri Antiviolenza,Cento,,comune,Cento,exact,038004,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportello Antiviolenza Iris - Codigoro,CAV/Centri Antiviolenza,Codigoro,,comune,Codigoro,exact,038005,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportello Antiviolenza Iris - Comacchio,CAV/Centri Antiviolenza,Comacchio,,comune,Comacchio,exact,038006,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportello Antiviolenza Viola,CAV/Centri Antiviolenza,Argenta,,comune,Argenta,exact,038001,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportello Antiviolenza NONtiscordardiME,CAV/Centri Antiviolenza,Copparo,,comune,Copparo,exact,038007,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportello Antiviolenza Girasole,CAV/Centri Antiviolenza,Bondeno,,comune,Bondeno,exact,038003,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,CAM Centro di Ascolto per Uomini Maltrattanti APS di Ferrara,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,UDI Unione Donne in Italia – Sede di Ferrara,Ente terzo settore - ETS (iscritto al RUNTS),Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Ordine degli Avvocati di Ferrara,Ordine avvocati,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Comitato Pari Opportunità presso l'Ordine degli Avvocati di Ferrara,Organismi di parità,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sindacato Confederale CGIL Ferrara,Sindacati/Associazioni di categoria,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sindacato Confederale CISL Ferrara,Sindacati/Associazioni di categoria,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sindacato Confederale UIL Ferrara,Sindacati/Associazioni di categoria,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Prefettura di Ferrara,Prefettura,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,INPS,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,"Ufficio Scolastico Regionale per l’Emilia Romagna Ufficio VI, Ambito Territoriale di Ferrara Provinciale",Scuole/Ufficio scolastico provinciale e regionale,Ferrara,,comune,Ferrara,exact,038008,038,Ferrara,FE,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Servizi Sociali di competenza,Servizi sociali comunali,,,nome,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Sportelli PUA Unione Terre e Fiumi,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,UONPIA - Casa della Salute Terre e Fiumi,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Tribunale dei Minori di Bologna,Procura Minorile/Tribunale minorile,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Tribunale ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Ufficio Esecuzione Penale Esterna,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Carcere,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,Avvocati,Ordine avvocati,,RIMINI,comune_runts,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Città Metropolitana di Bologna,Province/Città metropolitane,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Comune di Bologna,Comuni,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Regione Emilia - Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Arcidiocesi di Bologna,Altro,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Fondazione San Petronio Onlus,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Associazione MondoDonna Onlus,IMPRESE SOCIALI,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Associazione SOS Donna,ORGANIZZAZIONI DI VOLONTARIATO,,FAENZA,comune_runts,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Casa delle donne per non subire violenza,CAV/Centri Antiviolenza,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,PerLeDonne — Imola,CAV/Centri Antiviolenza,Imola,,comune,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,UDI — Unione Donne Italiane,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Trama di terre,CAV/Centri Antiviolenza,,IMOLA,comune_runts,Imola,exact,037032,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Alleanza delle Cooperative Italiane — Bologna,Altro,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,CNA Bologna,Sindacati/Associazioni di categoria,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Confartigianato Imprese di Bologna e Imola,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Confcommercio ASCOM Bologna,Sindacati/Associazioni di categoria,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Confesercenti Bologna,Sindacati/Associazioni di categoria,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,"Confindustria Emilia Area Centro: le imprese di Bologna, Ferrara e Modena",Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,CGIL — Bologna,Sindacati/Associazioni di categoria,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,CISL Area metropolitana Bolognese,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,UIL — Bologna,Sindacati/Associazioni di categoria,Bologna,,comune,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Insieme per il lavoro,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Sportello comunale per il lavoro,Servizi per l'impiego,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Agenzia regionale per il lavoro,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,CTSSM,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Uffici Pari opportunità,Organismi di parità,,,none,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Consigliera di Fiducia della Città metropolitana,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,Consiglieri di Fiducia del Comune di Bologna,Altro,,,nome,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Prefettura di Rimini,Prefettura,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Provincia di Rimini,Province/Città metropolitane,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Rimini,Comuni,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Cattolica,Comuni,Cattolica,,comune,Cattolica,exact,099002,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Coriano,Comuni,Coriano,,comune,Coriano,exact,099003,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Gemmano,Comuni,Gemmano,,comune,Gemmano,exact,099004,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Misano Adriatico,Comuni,Misano Adriatico,,comune,Misano Adriatico,exact,099005,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Mondaino,Comuni,Mondaino,,comune,Mondaino,exact,099006,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Montefiore Conca,Comuni,Montefiore Conca,,comune,Montefiore Conca,exact,099008,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Montescudo-Montecolombo,Comuni,Montescudo-Montecolombo,,comune,Montescudo-Monte Colombo,compact,099029,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Montegridolfo,Comuni,Montegridolfo,,comune,Montegridolfo,exact,099009,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Morciano di Romagna,Comuni,Morciano di Romagna,,comune,Morciano di Romagna,exact,099011,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Novafeltria,Comuni,Novafeltria,,comune,Novafeltria,exact,099023,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Riccione,Comuni,Riccione,,comune,Riccione,exact,099013,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Saludecio,Comuni,Saludecio,,comune,Saludecio,exact,099015,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di San Clemente,Comuni,San Clemente,,comune,San Clemente,exact,099016,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di San Giovanni in Marignano,Comuni,San Giovanni in Marignano,,comune,San Giovanni in Marignano,exact,099017,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Santarcangelo di Romagna,Comuni,Santarcangelo di Romagna,,comune,Santarcangelo di Romagna,exact,099018,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comune di Verucchio,Comuni,Verucchio,,comune,Verucchio,exact,099020,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Azienda Unita Sanitaria Locale della Romagna,ASL (consultori familiari e altri servizi territoriali),Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Azienda Unita Sanitaria Locale Romagna,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Centro Antiviolenza del Comune di Rimini “Rompi il silenzio”,CAV/Centri Antiviolenza,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Centro Antiviolenza distrettuale di Riccione “CHIAMA ChiAMA”,CAV/Centri Antiviolenza,Riccione,,comune,Riccione,exact,099013,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Casa Rifugio distrettuale “Artemisia”,Case Rifugio,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Ufficio Scolastico Regionale per l’Emilia Romagna - Ufficio VII - Ambito territoriale di Forli-Cesena e Rimini,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Ufficio Esecuzione Penale Esterna di Rimini,Altro,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Casa Circondariale di Rimini,Altro,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Questura di Rimini,Questura,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Comando Provinciale dei Carabinieri di Rimini,Carabinieri/Polizia/altre forze dell'ordine,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Consigliera di Parita della Provincia di Rimini,Organismi di parità,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Presidenza del Tribunale di Rimini,Procura Ordinaria/Tribunale/Corte d'appello,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Procura della Repubblica presso il Tribunale di Rimini,Procura Ordinaria/Tribunale/Corte d'appello,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Direzione della Casa Circondariale di Rimini,Altro,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Campus di Rimini,Università,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Conferenza Territoriale Sociale e Sanitaria,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Direzioni Scolastiche,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Direzione della Casa Circondariale di Rimini,Altro,Rimini,,comune,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Centri LDV “liberiamoci dalla Violenza”,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Associazione Nazionale dei Comuni Italia - A.N.C.I.,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Di.Re - Donne in Rete contro la violenza,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Ufficio Scolastico Territoriale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Servizi sociali dei Comuni,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Servizi di tutela minori,Servizi sociali comunali,,,nome,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Sportello Lavoro,Servizi per l'impiego,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Coordinamento regionale delle Case e dei Centri antiviolenza dell’Emilia Romagna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Prefettura - Ufficio territoriale del Governo di Forli-Cesena,Prefettura,,,nome,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Procura della Repubblica di Forli,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Forlì,exact,040012,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Provincia di Forli-Cesena,Province/Città metropolitane,,,nome,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Comune di Forli,Comuni,Forli,,comune,Forlì,exact,040012,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Comune di Cesena,Comuni,Cesena,,comune,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Unione Rubicone e Mare,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,AUSL della Romagna,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Ufficio Scolastico regionale per l’Emilia-Romagna,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Ambito territoriale per la provincia di Forli-Cesena,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Università degli Studi di Bologna — Dipartimento di Psicologia,Università,,,nome,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Questura della Provincia,Questura,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Comando Prov.le Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Comando Prov.le Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Centro Donna del Comune di Forli,CAV/Centri Antiviolenza,Forli,,comune,Forlì,exact,040012,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Centro Donna del Comune di Cesena,CAV/Centri Antiviolenza,Cesena,,comune,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Centro Donna del Comune di Cesenatico,CAV/Centri Antiviolenza,Cesenatico,,comune,Cesenatico,exact,040008,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Sportello Antiviolenza ALBA,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,SOS Donna,CAV/Centri Antiviolenza,,FAENZA,comune_runts,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Rompi il silenzio ONLUS,CAV/Centri Antiviolenza,,RIMINI,comune_runts,Rimini,exact,099014,099,Rimini,RN,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,ASP Cesena Valle del Savio,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,ASP del Rubicone,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Associazione Mater Caritatis,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CESENA,comune_runts,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Caritas Diocesana,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Associazione Grazia e Pace,ORGANIZZAZIONI DI VOLONTARIATO,,CESENA,comune_runts,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Coop.va Sociale Librazione,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Associazione Centro di Aiuto alla Vita di Cesena,ORGANIZZAZIONI DI VOLONTARIATO,Cesena,CESENA,comune,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Associazione Consultorio per la Famiglia Don Giorgini,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Associazione Per le Donne,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Forum delle Donne di Cesena,CAV/Centri Antiviolenza,Cesena,,comune,Cesena,exact,040007,040,Forlì-Cesena,FC,08,Emilia-Romagna
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Assessorato Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Centro Territoriale Permanente per l’Educazione degli Adulti,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Rete DO.MINO,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Rete IRENE,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Consultorio familiare dell’Azienda USL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Ordine degli Avvocati,Ordine avvocati,,,none,,none,,,,,,
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,Fondazione Forense di Forli-Cesena,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Comune di Reggio Emilia,Comuni,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Prefettura di Reggio Emilia,Prefettura,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Tribunale di Reggio Emilia,Procura Ordinaria/Tribunale/Corte d'appello,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Procura della Repubblica di Reggio Emilia,Procura Ordinaria/Tribunale/Corte d'appello,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Questura di Reggio Emilia,Questura,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Comando Provinciale Carabinieri di Reggio Emilia,Carabinieri/Polizia/altre forze dell'ordine,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Azienda Sanitaria Locale di Reggio Emilia,ASL (consultori familiari e altri servizi territoriali),Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Azienda Ospedaliera Santa Maria Nuova di Reggio Emilia,"Ospedale (Pronto soccorso, ecc.)",Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ufficio Scolastico Provinciale di Reggio Emilia,Scuole/Ufficio scolastico provinciale e regionale,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ordine degli Avvocati di Reggio Emilia,Ordine avvocati,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Associazione Nondasola di Reggio Emilia,CAV/Centri Antiviolenza,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Forum Donne Giuriste di Reggio Emilia,Ente terzo settore - ETS (iscritto al RUNTS),Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Provincia di Reggio Emilia,Province/Città metropolitane,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Consigliera di Parità Provinciale di Reggio Emilia,Organismi di parità,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Casa delle Donne,CAV/Centri Antiviolenza,Reggio Emilia,PARMA,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Poli territoriali di Servizio Sociale,Servizi sociali comunali,,,nome,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Istituzione nidi e scuole materne,Settore educativo comunale,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Officina educativa,Settore educativo comunale,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Direzioni scolastiche,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Consultori familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Dipartimento di Salute Mentale,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Centri di Salute Mentale (CSM) del Distretto di Reggio Emilia,ASL (consultori familiari e altri servizi territoriali),Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Struttura Operativa Medicina Legale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Servizio Sociale Ospedaliero,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Centro per l’impiego,Servizi per l'impiego,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Tavolo Interistituzionale di contrasto alla violenza alle donne,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Tavolo tecnico,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Sportelli Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Polizia Giudiziaria,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Sezione della Squadra Mobile - Ufficio Minori,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Stazione dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Procura dei Minori,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Centro Antiviolenza Casa delle Donne,CAV/Centri Antiviolenza,Reggio Emilia,,comune,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Sportello presso sede Ordine degli Avvocati,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Università di Modena,Università,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Modena Group Stalking,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Dipartimento Pari Opportunità della Presidenza del Consiglio dei Ministri,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Rete Nazionale Antiviolenza,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ambito Territoriale di Rete (ATR),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ministero per le Pari Opportunità,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ministero della Difesa,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ministero dell’Interno,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,Ministero dell’Istruzione,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Prefettura di Modena,Prefettura,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Provincia di Modena,Province/Città metropolitane,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Modena,Comuni,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Questura di Modena,Questura,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comando Provinciale dei Carabinieri di Modena,Carabinieri/Polizia/altre forze dell'ordine,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Università degli Studi di Modena e Reggio Emilia,Università,,,nome,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena,Scuole/Ufficio scolastico provinciale e regionale,,,nome,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione dei Comuni del Distretto Ceramico,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione delle Terre d'Argine,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione Comuni del Sorbara,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione Comuni modenesi dell’Area Nord,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione Terre di Castelli,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Unione dei Comuni del Frignano,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Sassuolo,Comuni,Sassuolo,,comune,Sassuolo,exact,036040,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Fiorano Modenese,Comuni,Fiorano Modenese,,comune,Fiorano Modenese,exact,036013,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Maranello,Comuni,Maranello,,comune,Maranello,exact,036019,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Formigine,Comuni,Formigine,,comune,Formigine,exact,036015,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di Montese,Comuni,Montese,,comune,Montese,exact,036026,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Città di Castelfranco Emilia,Comuni,Castelfranco Emilia,,comune,Castelfranco Emilia,exact,036006,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Comune di San Cesario sul Panaro,Comuni,San Cesario sul Panaro,,comune,San Cesario sul Panaro,exact,036036,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Azienda Unita Sanitaria Locale di Modena,ASL (consultori familiari e altri servizi territoriali),Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Azienda Ospedaliero - Universitaria Policlinico di Modena,"Ospedale (Pronto soccorso, ecc.)",Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Consigliera di parità della Provincia di Modena,Organismi di parità,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Associazione Gruppo Donne e Giustizia,ORGANIZZAZIONI DI VOLONTARIATO,,MODENA,comune_runts,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Casa delle donne contro la violenza Centro antiviolenza onlus,CAV/Centri Antiviolenza,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Vivere Donna onlus - Centro antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Guardia di Finanza di Modena,Carabinieri/Polizia/altre forze dell'ordine,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Ufficio scolastico provinciale di Modena,Scuole/Ufficio scolastico provinciale e regionale,Modena,,comune,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Commissione Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Conferenza delle Elette,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Consigliere di Parità,Organismi di parità,,,nome,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Centro LDV (Liberiamoci dalla violenza – Centro di accompagnamento al cambiamento per uomini dell'Azienda Unita Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna),"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Centri Salute Mentale Adulti,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Servizio Dipendenze Patologiche,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Psicologia Clinica,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Ospedali,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Medici di Medicina Generale,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,Pediatri di Libera Scelta,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Unione dei Comuni della Bassa Romagna,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Unione dei Comuni della Romagna Faentina,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Comune di Ravenna,Comuni,Ravenna,,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Comune di Cervia,Comuni,Cervia,,comune,Cervia,exact,039007,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Comune di Russi,Comuni,Russi,,comune,Russi,exact,039016,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Azienda USL della Romagna,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Associazione di volontariato DEMETRA DONNE IN AIUTO ODV,CAV/Centri Antiviolenza,Lugo,LUGO,comune,Lugo,exact,039012,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Associazione di volontariato SOS DONNA ODV,CAV/Centri Antiviolenza,Faenza,FAENZA,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Associazione di volontariato LINEA ROSA ODV,CAV/Centri Antiviolenza,Ravenna,RAVENNA,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Distretto Sanitario di Ravenna,ASL (consultori familiari e altri servizi territoriali),Ravenna,,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Distretto Sanitario di Faenza,ASL (consultori familiari e altri servizi territoriali),Faenza,,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,Distretto Sanitario di Lugo,ASL (consultori familiari e altri servizi territoriali),Lugo,,comune,Lugo,exact,039012,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,"Servizio Sociale Associato dei Comuni di Ravenna, Cervia e Russi",Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,U.O.NPIA,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Prefettura - Ufficio territoriale del Governo di Piacenza,Prefettura,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Procura della Repubblica di Piacenza,Procura Ordinaria/Tribunale/Corte d'appello,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Provincia di Piacenza,Province/Città metropolitane,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Comune di Piacenza,Comuni,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Questura di Piacenza,Questura,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Comando Provinciale dell’Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Comando Provinciale della Guardia Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Banca d'Italia Filiale di Piacenza,Altro,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,AUSL Piacenza,ASL (consultori familiari e altri servizi territoriali),Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Azienda Unita Sanitaria Locale di Piacenza,ASL (consultori familiari e altri servizi territoriali),Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,SERVIZIO SANITARIO REGIONALE EMILIA-ROMAGNA,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Ufficio Scolastico regionale per l’Emilia-Romagna,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Ambito territoriale per la provincia di Piacenza,Scuole/Ufficio scolastico provinciale e regionale,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Centro Antiviolenza Piacenza “Ass. La Citta delle Donne o.d.v.”,CAV/Centri Antiviolenza,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Centro Antiviolenza La Citta delle Donne o.d.v.,CAV/Centri Antiviolenza,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Osservatorio Regionale R.E.R.,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Ufficio di Statistica della Regione Emilia Romagna,Regioni/Province Autonome,,,nome,,none,,,,,,
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Comune di Piacenza,Comuni,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Comune di Fiorenzuola d'Arda,Comuni,Fiorenzuola d'Arda,,comune,Fiorenzuola d'Arda,exact,033021,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Comune di Castel San Giovanni,Comuni,Castel San Giovanni,,comune,Castel San Giovanni,exact,033013,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Azienda USL di Piacenza,ASL (consultori familiari e altri servizi territoriali),,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza,CAV/Centri Antiviolenza,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,ASP Città di Piacenza,CAV/Centri Antiviolenza,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Rete nazionale D.i.R.e.,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Coordinamento dei Centri Antiviolenza dell’Emilia Romagna,ALTRI ENTI DEL TERZO SETTORE,,BOLOGNA,comune_runts,Bologna,exact,037006,237,Bologna,BO,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Ufficio di Presidenza della Conferenza Territoriale Sociale e Sanitaria (CTSS) della Provincia di Piacenza,Altro,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Provincia di Piacenza,Province/Città metropolitane,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Servizi del Comune di Residenza,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Psicologia di Base,Altro,,,nome,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Ostetricia e Ginecologia,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Comune di Piacenza,Comuni,Piacenza,,comune,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Provincia di Piacenza,Province/Città metropolitane,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Consigliera di parità della Provincia di Piacenza,Organismi di parità,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Coordinamento Donne CGIL Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Coordinamento Pari Opportunità CISL Parma Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Coordinamento Donne UIL Emilia Romagna sede di Piacenza,Sindacati/Associazioni di categoria,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Confindustria Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Confapi Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,CNA Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Confcommercio Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Confesercenti Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Legacoop Emilia Ovest Piacenza,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Prefettura di Piacenza,Prefettura,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,A.U.S.L. di Piacenza,ASL (consultori familiari e altri servizi territoriali),,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Ispettorato territoriale del lavoro di Piacenza,Altro,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,Agenzia per il lavoro di Piacenza,Altro,,,nome,Piacenza,exact,033032,033,Piacenza,PC,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Provincia di Modena,Province/Città metropolitane,,,nome,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Comune di Mirandola,Comuni,Mirandola,,comune,Mirandola,exact,036022,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Comuni dell’Area Nord,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali dei Comuni,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Unione dei Comuni Modenesi Area Nord,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Sanitari ospedalieri e del Distretto,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Consiglio della Giunta Provinciale,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Tribunale ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,FFOO,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Autorità Giudiziaria,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizio Tutela Minori dell’Unione,Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali del Comune di residenza,Servizi sociali comunali,,,nome,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizio di Pronto Intervento Emergenza Minori della Provincia di Modena,Altro,,,nome,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Pronto Intervento 118,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Reparto Ostetricia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Guardia Medica,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Telefoni Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Polizia Municipale Comune di Cavezzo,Polizia Municipale,Cavezzo,,comune,Cavezzo,exact,036009,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Polizia Municipale Comune di Finale Emilia,Polizia Municipale,Finale Emilia,,comune,Finale Emilia,exact,036012,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Mirandola,Servizi sociali comunali,Mirandola,,comune,Mirandola,exact,036022,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Camposanto,Servizi sociali comunali,Camposanto,,comune,Camposanto,exact,036004,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Cavezzo,Servizi sociali comunali,Cavezzo,,comune,Cavezzo,exact,036009,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Concordia,Servizi sociali comunali,Concordia,,comune,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Finale Emilia,Servizi sociali comunali,Finale Emilia,,comune,Finale Emilia,exact,036012,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di Medolla,Servizi sociali comunali,Medolla,,comune,Medolla,exact,036021,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di San Felice Panaro,Servizi sociali comunali,San Felice sul Panaro,,comune,San Felice sul Panaro,exact,036037,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di San Possidonio,Servizi sociali comunali,San Possidonio,,comune,San Possidonio,exact,036038,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Servizi Sociali Comune di San Prospero,Servizi sociali comunali,San Prospero,,comune,San Prospero,exact,036039,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,"Servizio Sociale Minori, Famiglie, Giovani – Unione Comuni Area Nord",Altro,,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Pronto Intervento Emergenza Minori Provincia di Modena,Altro,,,nome,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Consultorio Familiare Ginecologia e Ostetricia,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,MEDIBASE Area Nord – Cooperativa dei Medici di Famiglia dell‘Area Nord della Provincia di Modena,Altro,,,nome,Modena,exact,036023,036,Modena,MO,08,Emilia-Romagna
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,LDV Liberiamoci dalla Violenza,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,Associazione Casa delle donne di Modena contro la violenza,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Faenza,Comuni,Faenza,,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Brisighella,Comuni,Brisighella,,comune,Brisighella,exact,039004,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Castel Bolognese,Comuni,Castel Bolognese,,comune,Castel Bolognese,exact,039006,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Casola Valsenio,Comuni,Casola Valsenio,,comune,Casola Valsenio,exact,039005,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Riolo Terme,Comuni,Riolo Terme,,comune,Riolo Terme,exact,039015,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comune di Solarolo,Comuni,Solarolo,,comune,Solarolo,exact,039018,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Prefettura di Ravenna,Prefettura,Ravenna,,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Questura di Ravenna,Questura,Ravenna,,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Ausl di Ravenna - Distretto Sanitario di Faenza,ASL (consultori familiari e altri servizi territoriali),,,nome,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Consigliera di Parita provinciale,Organismi di parità,,,nome,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Associazione SOS Donna - Faenza,CAV/Centri Antiviolenza,Faenza,FAENZA,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Faenza,Polizia Municipale,Faenza,,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Brisighella,Polizia Municipale,Brisighella,,comune,Brisighella,exact,039004,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Castel Bolognese,Polizia Municipale,Castel Bolognese,,comune,Castel Bolognese,exact,039006,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Casola Valsenio,Polizia Municipale,Casola Valsenio,,comune,Casola Valsenio,exact,039005,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Riolo Terme,Polizia Municipale,Riolo Terme,,comune,Riolo Terme,exact,039015,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Comando di Polizia Municipale di Solarolo,Polizia Municipale,Solarolo,,comune,Solarolo,exact,039018,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Servizio Sociale Associato,Servizi sociali comunali,,,none,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Servizio Fenice,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Presidenza del Consiglio dei Ministri - Dipartimento per le Pari Opportunita,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Regione Emilia-Romagna,Regioni/Province Autonome,,,none,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Carabinieri del territorio della provincia di Ravenna,Carabinieri/Polizia/altre forze dell'ordine,Ravenna,,comune,Ravenna,exact,039014,039,Ravenna,RA,08,Emilia-Romagna
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,Commissariato di P.S. di Faenza,Carabinieri/Polizia/altre forze dell'ordine,Faenza,,comune,Faenza,exact,039010,039,Ravenna,RA,08,Emilia-Romagna

@@ -5,9 +5,25 @@ Questo repository contiene dati, classificazioni e metodi per l'analisi dei prot
 
 
 Come procedere: 
+In primis si dovrà essere eseguita l'estrazione dei dati dai testi attraverso
 
+lo 
+py protocolli_s1.1_llm_extract_soggetti_attori_proponenti.py
 
-per eseguire enrichment:
+uso: 
+protocolli_s1.1_llm_extract_soggetti_attori_proponenti.py 
+
+[-h]
+
+Una sola regione:
+
+[--reg_code REG_CODE]  :
+
+Un range:
+
+[--start_reg START_REG]  [--end_reg END_REG]
+
+Una volta concluso il processo di estrazione attraverso LLM si potrà passare alla fase successiva di esecuzione degli script per avviare l'enrichment dei dati estratti:
 
 Una sola regione:
 

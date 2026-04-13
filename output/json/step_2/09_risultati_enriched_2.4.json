@@ -6790,7 +6790,7 @@
         "ente_capofila": "",
         "note": "",
         "match_lista_cav": true,
-        "match_lista_cav_nome": "Centro Antiviolenza Olympia Orbetello  Associazione Olympia de Gouges",
+        "match_lista_cav_nome": "Centro Antiviolenza Olympia Orbetello ï¿½ Associazione Olympia de Gouges",
         "match_lista_cav_score": 300,
         "match_lista_cav_overlap_tokens": [
           "ANTIVIOLENZA",
@@ -7855,7 +7855,7 @@
         "ente_capofila": "",
         "note": "Articolazione di Olympia de Gouges",
         "match_lista_cav": true,
-        "match_lista_cav_nome": "Centro Antiviolenza Olympia Orbetello  Associazione Olympia de Gouges",
+        "match_lista_cav_nome": "Centro Antiviolenza Olympia Orbetello ï¿½ Associazione Olympia de Gouges",
         "match_lista_cav_score": 240,
         "match_lista_cav_overlap_tokens": [
           "ANTIVIOLENZA",
@@ -8333,7 +8333,7 @@
         "ente_capofila": "",
         "note": "gestore del centro antiviolenza 'Olympia de Gouges'",
         "match_lista_cav": true,
-        "match_lista_cav_nome": "Centro Antiviolenza Olympia  Associazione Olympia de Gouges onlus",
+        "match_lista_cav_nome": "Centro Antiviolenza Olympia ï¿½ Associazione Olympia de Gouges onlus",
         "match_lista_cav_score": 850,
         "match_lista_cav_overlap_tokens": [
           "ASSOCIAZIONE",

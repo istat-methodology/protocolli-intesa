@@ -1,0 +1,182 @@
+[
+  {
+    "codice_soggetti_questionari": "1",
+    "denominazione_soggetti_questionari": "CAV",
+    "codice_aggregazione_2": "1",
+    "descrizione_aggregazione_2": "CAV"
+  },
+  {
+    "codice_soggetti_questionari": "2",
+    "denominazione_soggetti_questionari": "Case Rifugio",
+    "codice_aggregazione_2": "1",
+    "descrizione_aggregazione_2": "CAV"
+  },
+  {
+    "codice_soggetti_questionari": "3",
+    "denominazione_soggetti_questionari": "Comuni",
+    "codice_aggregazione_2": "3",
+    "descrizione_aggregazione_2": "Servizi comunali"
+  },
+  {
+    "codice_soggetti_questionari": "4",
+    "denominazione_soggetti_questionari": "Polizia Municipale",
+    "codice_aggregazione_2": "3",
+    "descrizione_aggregazione_2": "Servizi comunali"
+  },
+  {
+    "codice_soggetti_questionari": "5",
+    "denominazione_soggetti_questionari": "Settore educativo comunale",
+    "codice_aggregazione_2": "7",
+    "descrizione_aggregazione_2": "Settore Educativo"
+  },
+  {
+    "codice_soggetti_questionari": "6",
+    "denominazione_soggetti_questionari": "Servizi sociali comunali",
+    "codice_aggregazione_2": "3",
+    "descrizione_aggregazione_2": "Servizi comunali"
+  },
+  {
+    "codice_soggetti_questionari": "7",
+    "denominazione_soggetti_questionari": "Servizio abusi e maltrattamenti comunale",
+    "codice_aggregazione_2": "3",
+    "descrizione_aggregazione_2": "Servizi comunali"
+  },
+  {
+    "codice_soggetti_questionari": "8",
+    "denominazione_soggetti_questionari": "Province/Città metropolitane",
+    "codice_aggregazione_2": "10",
+    "descrizione_aggregazione_2": "Province/Città metropolitane"
+  },
+  {
+    "codice_soggetti_questionari": "9",
+    "denominazione_soggetti_questionari": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+    "codice_aggregazione_2": "6",
+    "descrizione_aggregazione_2": "Territorio"
+  },
+  {
+    "codice_soggetti_questionari": "10",
+    "denominazione_soggetti_questionari": "Regioni/province Autonome",
+    "codice_aggregazione_2": "5",
+    "descrizione_aggregazione_2": "Regioni/province Autonome"
+  },
+  {
+    "codice_soggetti_questionari": "11",
+    "denominazione_soggetti_questionari": "Ospedale (Pronto soccorso, ecc.)",
+    "codice_aggregazione_2": "4",
+    "descrizione_aggregazione_2": "settore sanitario"
+  },
+  {
+    "codice_soggetti_questionari": "12",
+    "denominazione_soggetti_questionari": "ASL (consultori familiari e altri servizi territoriali)",
+    "codice_aggregazione_2": "4",
+    "descrizione_aggregazione_2": "settore sanitario"
+  },
+  {
+    "codice_soggetti_questionari": "13",
+    "denominazione_soggetti_questionari": "Prefettura",
+    "codice_aggregazione_2": "2",
+    "descrizione_aggregazione_2": "Settore giudiziario"
+  },
+  {
+    "codice_soggetti_questionari": "14",
+    "denominazione_soggetti_questionari": "Questura",
+    "codice_aggregazione_2": "2",
+    "descrizione_aggregazione_2": "Settore giudiziario"
+  },
+  {
+    "codice_soggetti_questionari": "15",
+    "denominazione_soggetti_questionari": "Carabinieri/Polizia/altre forze dell'ordine",
+    "codice_aggregazione_2": "2",
+    "descrizione_aggregazione_2": "Settore giudiziario"
+  },
+  {
+    "codice_soggetti_questionari": "16",
+    "denominazione_soggetti_questionari": "Scuole/Ufficio scolastico provinciale e regionale",
+    "codice_aggregazione_2": "7",
+    "descrizione_aggregazione_2": "Settore Educativo"
+  },
+  {
+    "codice_soggetti_questionari": "17",
+    "denominazione_soggetti_questionari": "Procura Minorile/ Tribunale minorile",
+    "codice_aggregazione_2": "2",
+    "descrizione_aggregazione_2": "Settore giudiziario"
+  },
+  {
+    "codice_soggetti_questionari": "18",
+    "denominazione_soggetti_questionari": "Procura Ordinaria/Tribunale/Corte d'appello",
+    "codice_aggregazione_2": "2",
+    "descrizione_aggregazione_2": "Settore giudiziario"
+  },
+  {
+    "codice_soggetti_questionari": "19",
+    "denominazione_soggetti_questionari": "Ordine avvocati",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "20",
+    "denominazione_soggetti_questionari": "Ordine psicologi e Ordine assistenti sociali",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "21",
+    "denominazione_soggetti_questionari": "Ordine medici e odontoiatri e Ordine farmacisti",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "22",
+    "denominazione_soggetti_questionari": "Altri ordini professionali (infermieri, ostetriche, giornalisti, commercialisti, ecc.)",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "23",
+    "denominazione_soggetti_questionari": "Organismi di parità",
+    "codice_aggregazione_2": "6",
+    "descrizione_aggregazione_2": "Territorio"
+  },
+  {
+    "codice_soggetti_questionari": "24",
+    "denominazione_soggetti_questionari": "Ente terzo settore - ETS (iscritto al RUNTS)[1]",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "25",
+    "denominazione_soggetti_questionari": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "26",
+    "denominazione_soggetti_questionari": "Servizi per l'impiego",
+    "codice_aggregazione_2": "6",
+    "descrizione_aggregazione_2": "Territorio"
+  },
+  {
+    "codice_soggetti_questionari": "27",
+    "denominazione_soggetti_questionari": "Sindacati/Associazioni di categoria",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "28",
+    "denominazione_soggetti_questionari": "Università",
+    "codice_aggregazione_2": "7",
+    "descrizione_aggregazione_2": "Settore Educativo"
+  },
+  {
+    "codice_soggetti_questionari": "29",
+    "denominazione_soggetti_questionari": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+    "codice_aggregazione_2": "8",
+    "descrizione_aggregazione_2": "associazionismo"
+  },
+  {
+    "codice_soggetti_questionari": "30",
+    "denominazione_soggetti_questionari": "Altro",
+    "codice_aggregazione_2": "9",
+    "descrizione_aggregazione_2": "altro"
+  }
+]

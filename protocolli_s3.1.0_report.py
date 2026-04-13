@@ -32,6 +32,32 @@ PROVINCE = {
 
 FILE_REGION_RE = re.compile(r"^(\d{2})[_ ]")
 
+
+REGION_CODE_TO_NAME = {
+    "01": "Piemonte",
+    "02": "Valle d'Aosta/Vallée d'Aoste",
+    "03": "Lombardia",
+    "04": "Bolzano/Bozen",
+    "05": "Trento",
+    "06": "Veneto",
+    "07": "Liguria",
+    "08": "Emilia-Romagna",
+    "09": "Toscana",
+    "10": "Umbria",
+    "11": "Marche",
+    "12": "Lazio",
+    "13": "Abruzzo",
+    "14": "Molise",
+    "15": "Campania",
+    "16": "Puglia",
+    "17": "Basilicata",
+    "18": "Calabria",
+    "19": "Sicilia",
+    "20": "Sardegna",
+    "21": "Friuli-Venezia Giulia",
+}
+
+
 BARE_COMUNI = {
     "BARBERINO DEL MUGELLO", "BORGO SAN LORENZO", "CAMPI BISENZIO",
     "FIGLINE E INCISA VALDARNO", "LASTRA A SIGNA", "PONTASSIEVE",
@@ -167,9 +193,33 @@ def get_entities_list_ref(file_item: dict) -> list:
 
 def load_json(path: Path) -> list:
     obj = json.loads(path.read_text(encoding="utf-8"))
-    if not isinstance(obj, list):
-        raise ValueError("Il JSON di input deve contenere una lista")
-    return obj
+
+    # formato nuovo: {"totale_file_enriched_2_4": ..., "regioni": {"07": {"files": [...]}}}
+    if isinstance(obj, dict) and "regioni" in obj:
+        flat = []
+        for reg_code, blocco in (obj.get("regioni") or {}).items():
+            reg_name = REGION_CODE_TO_NAME.get(str(reg_code).zfill(2), "")
+            for file_item in blocco.get("files", []) or []:
+                file_item = dict(file_item)
+                file_item["_regione_code"] = str(reg_code).zfill(2)
+                file_item["_regione_name"] = reg_name
+                flat.append(file_item)
+        return flat
+
+    # formato vecchio: lista piatta di file
+    if isinstance(obj, list):
+        flat = []
+        for file_item in obj:
+            if isinstance(file_item, dict):
+                file_item = dict(file_item)
+                m = FILE_REGION_RE.search(clean(file_item.get("file")))
+                if m:
+                    file_item["_regione_code"] = m.group(1)
+                    file_item["_regione_name"] = REGION_CODE_TO_NAME.get(m.group(1), "")
+                flat.append(file_item)
+        return flat
+
+    raise ValueError("Formato JSON non supportato")
 
 
 def standardize_tipo(tipo: str) -> str:
@@ -179,8 +229,8 @@ def standardize_tipo(tipo: str) -> str:
 
 def infer_file_region(file_name: str) -> str:
     m = FILE_REGION_RE.search(file_name)
-    if m and m.group(1) == "09":
-        return "Toscana"
+    if m:
+        return REGION_CODE_TO_NAME.get(m.group(1), "")
     return ""
 
 
@@ -507,6 +557,175 @@ def dedupe_unique(rows: List[Dict[str, Any]]) -> Tuple[List[Dict[str, Any]], Lis
     return unique_rows, dup_rows
 
 
+
+def build_attori_regionali_disaggregati(valid_rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    rows = []
+    for r in valid_rows:
+        if not (r["ruolo_attore"] or not r["ruoli_documentali_aggregati"]):
+            continue
+        rows.append({
+            "regione": r["regione_finale"],
+            "provincia": r["provincia_finale"],
+            "macro_categoria": r["macro_categoria"],
+            "tipo_standard": r["tipo_standard"],
+            "nome_canonico": r["nome_canonico"],
+            "file": r["files"],
+            "n_record_aggregati": r.get("n_record_aggregati", 1),
+        })
+    rows.sort(key=lambda x: (x["regione"], x["macro_categoria"], x["tipo_standard"], x["nome_canonico"]))
+    return rows
+
+
+def build_attori_per_regione_macro(valid_rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    c = Counter()
+    for r in valid_rows:
+        if not (r["ruolo_attore"] or not r["ruoli_documentali_aggregati"]):
+            continue
+        c[(r["regione_finale"], r["macro_categoria"])] += 1
+    out = [
+        {"regione": reg, "macro_categoria": macro, "numerosita": n}
+        for (reg, macro), n in c.items()
+    ]
+    out.sort(key=lambda x: (x["regione"], -x["numerosita"], x["macro_categoria"]))
+    return out
+
+
+def build_attori_disaggregati_macro_tipologia(valid_rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    grouped = defaultdict(set)
+    grouped_regions = defaultdict(set)
+    grouped_files = defaultdict(set)
+    for r in valid_rows:
+        if not (r["ruolo_attore"] or not r["ruoli_documentali_aggregati"]):
+            continue
+        key = (r["macro_categoria"], r["tipo_standard"])
+        grouped[key].add(r["nome_canonico"])
+        if r["regione_finale"]:
+            grouped_regions[key].add(r["regione_finale"])
+        for f in r["files"].split(" | ") if r.get("files") else []:
+            if f:
+                grouped_files[key].add(f)
+
+    out = []
+    for (macro, tipo), nomi in grouped.items():
+        out.append({
+            "macro_categoria": macro,
+            "tipo_standard": tipo,
+            "numerosita_attori": len(nomi),
+            "attori": " | ".join(sorted(nomi)),
+            "n_regioni": len(grouped_regions[(macro, tipo)]),
+            "regioni": " | ".join(sorted(grouped_regions[(macro, tipo)])),
+            "n_file": len(grouped_files[(macro, tipo)]),
+            "files": " | ".join(sorted(grouped_files[(macro, tipo)])),
+        })
+    out.sort(key=lambda x: (x["macro_categoria"], -x["numerosita_attori"], x["tipo_standard"]))
+    return out
+########################################################
+#
+# Costruzione tabella soggetti proponenti
+#
+# La regione di riferimento è presa da "regione_finale" 
+# se presente, altrimenti da "_regione_name" (inserito in 
+# fase di caricamento), altrimenti inferita dal nome del file, altrimenti "ND".#
+# La tabella finale è disaggregata per regione, soggetto 
+# proponente,  tipo e macro categoria.
+#
+##########################################################
+def resolve_row_region(row: Dict[str, Any]) -> str:
+    reg = clean(row.get("regione_finale"))
+    if reg:
+        return reg
+
+    reg = clean(row.get("_regione_name"))
+    if reg:
+        return reg
+
+    reg = infer_file_region(clean(row.get("file")))
+    return reg or "ND"
+
+def build_soggetti_gestione(data: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    out = []
+    seen = set()
+
+    for file_item in data:
+        file_name = clean(file_item.get("file"))
+
+        regione = (
+            clean(file_item.get("_regione_name"))
+            or infer_file_region(file_name)
+            or "ND"
+        )
+
+        for ent in get_entities_list_ref(file_item):
+            ruoli = extract_ruoli_gestione(ent)
+            if not ruoli:
+                continue
+
+            soggetto = choose_soggetto_incaricato(ent)
+            nome = canonicalize_name(clean(ent.get("nome")), clean(ent.get("tipo")))
+            tipo = standardize_tipo_from_name(nome, clean(ent.get("tipo")))
+
+            key = (
+                regione,
+                norm_key(soggetto),
+                norm_key(nome),
+                "|".join(sorted(ruoli)),
+                file_name,
+            )
+            if key in seen:
+                continue
+            seen.add(key)
+
+            out.append({
+                "regione": regione,
+                "file": file_name,
+                "soggetto_incaricato": soggetto,
+                "nome_entita": nome,
+                "tipo_entita": tipo,
+                "macro_categoria": macro_categoria(tipo),
+                "ruoli": ", ".join(ruoli),
+                "ente_capofila": good_capofila(ent.get("ente_capofila")),
+                "note": clean(ent.get("note")),
+            })
+
+    out.sort(key=lambda x: (x["regione"], x["file"], x["soggetto_incaricato"]))
+    return out
+
+def build_soggetti_proponenti(unique_rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    out = []
+
+    for row in unique_rows:
+        if not row.get("ruolo_proponente"):
+            continue
+
+        out.append({
+            "regione": resolve_row_region(row),
+            "file": row.get("file", ""),
+            "soggetto_proponente": row.get("nome_canonico", ""),
+            "tipo": row.get("tipo_standard", ""),
+            "macro_categoria": row.get("macro_categoria", ""),
+        })
+
+    out.sort(key=lambda x: (x["regione"], x["file"], x["soggetto_proponente"]))
+    return out
+
+def build_firmatari(unique_rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    out = []
+
+    for row in unique_rows:
+        if not row.get("ruolo_firmatario"):
+            continue
+
+        out.append({
+            "regione": resolve_row_region(row),
+            "file": row.get("file", ""),
+            "firmatario": row.get("nome_canonico", ""),
+            "tipo": row.get("tipo_standard", ""),
+            "macro_categoria": row.get("macro_categoria", ""),
+        })
+
+    out.sort(key=lambda x: (x["regione"], x["file"], x["firmatario"]))
+    return out
+
 def build_outputs(data: list) -> Dict[str, Any]:
     rows = derive_records(data)
     unique_rows, dup_rows = dedupe_unique(rows)
@@ -535,32 +754,9 @@ def build_outputs(data: list) -> Dict[str, Any]:
         })
     attori_coinvolti.sort(key=lambda x: (-x["numerosita"], x["macro_categoria"]))
 
-    soggetti_gestione = []
-    seen = set()
-    for file_item in data:
-        file_name = clean(file_item.get("file"))
-        for ent in get_entities_list_ref(file_item):
-            ruoli = extract_ruoli_gestione(ent)
-            if not ruoli:
-                continue
-            soggetto = choose_soggetto_incaricato(ent)
-            nome = canonicalize_name(clean(ent.get("nome")), clean(ent.get("tipo")))
-            tipo = standardize_tipo_from_name(nome, clean(ent.get("tipo")))
-            key = (norm_key(soggetto), norm_key(nome), "|".join(ruoli), file_name)
-            if key in seen:
-                continue
-            seen.add(key)
-            soggetti_gestione.append({
-                "file": file_name,
-                "soggetto_incaricato": soggetto,
-                "nome_entita": nome,
-                "tipo_entita": tipo,
-                "macro_categoria": macro_categoria(tipo),
-                "ruoli": ", ".join(ruoli),
-                "ente_capofila": good_capofila(ent.get("ente_capofila")),
-                "note": clean(ent.get("note")),
-            })
-    soggetti_gestione.sort(key=lambda x: (x["soggetto_incaricato"], x["file"]))
+
+    soggetti_gestione= []
+    soggetti_gestione = build_soggetti_gestione(data)
 
     proponenti_rows, firmatari_rows = [], []
     for file_item in data:
@@ -584,6 +780,16 @@ def build_outputs(data: list) -> Dict[str, Any]:
         {"indicatore": "potenziali_duplicati_record", "valore": len(dup_rows)},
     ]
 
+    attori_regionali_disaggregati = build_attori_regionali_disaggregati(valid_rows)
+    attori_per_regione_macro = build_attori_per_regione_macro(valid_rows)
+    attori_disaggregati_macro_tipologia = build_attori_disaggregati_macro_tipologia(valid_rows)
+
+    #soggetti_gestione = build_soggetti_gestione(soggetti_gestione_rows)
+    soggetti_proponenti = build_soggetti_proponenti(unique_rows)
+    firmatari = build_firmatari(unique_rows)
+
+
+
     return {
         "record_rows": rows,
         "unique_rows": unique_rows,
@@ -592,9 +798,12 @@ def build_outputs(data: list) -> Dict[str, Any]:
         "tipologie_numerosita": tipologie,
         "attori_coinvolti": attori_coinvolti,
         "soggetti_gestione": soggetti_gestione,
-        "soggetti_proponenti": proponenti_rows,
-        "firmatari": firmatari_rows,
+        "soggetti_proponenti": soggetti_proponenti,
+        "firmatari": firmatari,
         "report_controlli_qualita": qc_rows,
+        "attori_regionali_disaggregati": attori_regionali_disaggregati,
+        "attori_per_regione_macro": attori_per_regione_macro,
+        "attori_disaggregati_macro_tipologia": attori_disaggregati_macro_tipologia,
     }
 
 
@@ -638,61 +847,271 @@ def write_graphml(valid_rows: List[Dict[str, Any]], output_csv: Path, output_gra
     nx.write_graphml(G, output_graphml)
 
 
+
 def write_txt_report(outputs: Dict[str, Any], out_txt: Path, input_json: Path):
+    from collections import defaultdict, Counter
+
     qc_map = {r["indicatore"]: r["valore"] for r in outputs["report_controlli_qualita"]}
+
     lines = []
-    lines.append("REPORT SOGGETTI V4\n")
+    lines.append("REPORT SOGGETTI V5\n")
     lines.append(f"Input JSON: {input_json}")
     lines.append(f"Totale record soggetti: {qc_map.get('totale_record_soggetti', 0)}")
-    lines.append(f"Totale soggetti unici: {qc_map.get('totale_soggetti_unici', 0)}\n")
+    lines.append(f"Totale soggetti unici: {qc_map.get('totale_soggetti_unici', 0)}")
+    lines.append("")
 
-    lines.append("1) CONTROLLI QUALITA")
+    # =====================================================
+    # 1) CONTROLLI QUALITÀ
+    # =====================================================
+    lines.append("1) CONTROLLI QUALITÀ")
     for r in outputs["report_controlli_qualita"]:
         lines.append(f"- {r['indicatore']}: {r['valore']}")
+    lines.append("")
 
-    lines.append("\n2) TIPOLOGIE PULITE")
-    for row in outputs["tipologie_numerosita"]:
-        lines.append(f"- {row['tipo']}: {row['numerosita']}")
+    # =====================================================
+    # 2) RAGGRUPPAMENTO REGIONALE
+    # =====================================================
+    lines.append("2) RAGGRUPPAMENTO REGIONALE")
 
-    lines.append("\n3) ATTORI COINVOLTI PULITI")
-    for row in outputs["attori_coinvolti"]:
-        lines.append(f"\n{row['macro_categoria']} ({row['numerosita']}):")
-        if row.get("files"):
-            lines.append("  file: " + ", ".join(row["files"]))
-        for nome in row["attori"]:
-            lines.append(f"  - {nome}")
+    per_reg_macro = defaultdict(list)
+    for row in outputs.get("attori_per_regione_macro", []):
+        reg = row.get("regione", "") or "ND"
+        per_reg_macro[reg].append(row)
 
-    lines.append("\n4) SOGGETTI INCARICATI DI GESTIRE / MONITORARE / COORDINARE")
-    if not outputs["soggetti_gestione"]:
+    if not per_reg_macro:
+        lines.append("- Nessun dato regionale disponibile.")
+    else:
+        for reg in sorted(per_reg_macro.keys()):
+            righe_reg = per_reg_macro[reg]
+            totale_reg = sum(x.get("numerosita", 0) for x in righe_reg)
+
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
+            lines.append(f"Totale attori: {totale_reg}")
+
+            for row in sorted(righe_reg, key=lambda x: (-x.get("numerosita", 0), x.get("macro_categoria", ""))):
+                lines.append(f"  - {row['macro_categoria']}: {row['numerosita']}")
+    lines.append("")
+
+    # =====================================================
+    # 3) TIPOLOGIE PULITE PER REGIONE
+    # =====================================================
+    lines.append("3) TIPOLOGIE PULITE PER REGIONE")
+
+    tipologie_reg = defaultdict(Counter)
+    for row in outputs.get("unique_rows", []):
+        reg = row.get("regione_finale", "") or "ND"
+        tipo = row.get("tipo_standard", "") or "ND"
+        tipologie_reg[reg][tipo] += 1
+
+    if not tipologie_reg:
+        lines.append("- Nessun dato disponibile.")
+    else:
+        for reg in sorted(tipologie_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
+            for tipo, n in tipologie_reg[reg].most_common():
+                lines.append(f"- {tipo}: {n}")
+    lines.append("")
+
+    # =====================================================
+    # 4) ATTORI COINVOLTI PULITI PER REGIONE
+    # =====================================================
+    lines.append("4) ATTORI COINVOLTI PULITI PER REGIONE")
+
+    attori_reg = defaultdict(lambda: defaultdict(lambda: {"attori": set(), "files": set()}))
+    for row in outputs.get("unique_rows", []):
+        reg = row.get("regione_finale", "") or "ND"
+        macro = row.get("macro_categoria", "") or "ND"
+        nome = row.get("nome_canonico", "") or "ND"
+
+        attori_reg[reg][macro]["attori"].add(nome)
+
+        for f in (row.get("files", "") or "").split(" | "):
+            f = f.strip()
+            if f:
+                attori_reg[reg][macro]["files"].add(f)
+
+    if not attori_reg:
+        lines.append("- Nessun dato disponibile.")
+    else:
+        for reg in sorted(attori_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
+
+            macro_rows = []
+            for macro, payload in attori_reg[reg].items():
+                macro_rows.append({
+                    "macro": macro,
+                    "n": len(payload["attori"]),
+                    "attori": sorted(payload["attori"]),
+                    "files": sorted(payload["files"]),
+                })
+
+            macro_rows.sort(key=lambda x: (-x["n"], x["macro"]))
+
+            for row in macro_rows:
+                lines.append(f"\n{row['macro']} ({row['n']}):")
+                if row["files"]:
+                    lines.append("  file: " + ", ".join(row["files"]))
+                for nome in row["attori"]:
+                    lines.append(f"  - {nome}")
+    lines.append("")
+
+    # =====================================================
+    # 5) ATTORI DISAGGREGATI PER MACRO-TIPOLOGIA E REGIONE
+    # =====================================================
+    lines.append("5) ATTORI DISAGGREGATI PER MACRO-TIPOLOGIA E REGIONE")
+
+    macro_tipo_reg = defaultdict(list)
+    for row in outputs.get("attori_regionali_disaggregati", []):
+        reg = row.get("regione", "") or "ND"
+        macro_tipo_reg[reg].append(row)
+
+    if not macro_tipo_reg:
+        lines.append("- Nessun dato disponibile.")
+    else:
+        for reg in sorted(macro_tipo_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
+
+            counter = Counter()
+            tipi_per_macro = defaultdict(Counter)
+
+            for row in macro_tipo_reg[reg]:
+                macro = row.get("macro_categoria", "") or "ND"
+                tipo = row.get("tipo_standard", "") or "ND"
+                counter[macro] += 1
+                tipi_per_macro[macro][tipo] += 1
+
+            for macro, n in counter.most_common():
+                lines.append(f"- {macro}: {n}")
+                for tipo, nt in tipi_per_macro[macro].most_common():
+                    lines.append(f"    • {tipo}: {nt}")
+    lines.append("")
+
+    # =====================================================
+    # 6) SOGGETTI INCARICATI DI GESTIRE / MONITORARE / COORDINARE PER REGIONE
+    # =====================================================
+    lines.append("6) SOGGETTI INCARICATI DI GESTIRE / MONITORARE / COORDINARE PER REGIONE")
+
+    gestione_reg = defaultdict(lambda: defaultdict(list))
+
+    for row in outputs.get("soggetti_gestione", []):
+        reg = row.get("regione", "") or "ND"
+        file_name = row.get("file", "") or "ND"
+        gestione_reg[reg][file_name].append(row)
+
+    if not gestione_reg:
         lines.append("- Nessun soggetto rilevato.")
     else:
-        for row in outputs["soggetti_gestione"]:
-            lines.append(
-                f"- file: {row['file']} | soggetto_incaricato: {row['soggetto_incaricato']} | "
-                f"entita: {row['nome_entita']} | tipo: {row['tipo_entita']} | "
-                f"macro: {row['macro_categoria']} | ruoli: {row['ruoli']}"
-            )
+        for reg in sorted(gestione_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
 
-    lines.append("\n5) SOGGETTI PROPONENTI")
-    if not outputs["soggetti_proponenti"]:
+            for file_name in sorted(gestione_reg[reg].keys()):
+                lines.append("")
+                lines.append(f"  FILE: {file_name}")
+
+                for row in sorted(
+                    gestione_reg[reg][file_name],
+                    key=lambda x: (x.get("macro_categoria", ""), x.get("soggetto_incaricato", ""))
+                ):
+                    lines.append(f"    - {row.get('soggetto_incaricato', '')}")
+                    lines.append(f"      entità: {row.get('nome_entita', '')}")
+                    lines.append(f"      tipo: {row.get('tipo_entita', '')}")
+                    lines.append(f"      macro: {row.get('macro_categoria', '')}")
+                    lines.append(f"      ruoli: {row.get('ruoli', '')}")
+
+                    ente_capofila = row.get("ente_capofila", "")
+                    note = row.get("note", "")
+
+                    if ente_capofila:
+                        lines.append(f"      ente_capofila: {ente_capofila}")
+                    if note:
+                        lines.append(f"      note: {note}")
+
+    lines.append("")
+
+    # =====================================================
+    # 7) SOGGETTI PROPONENTI PER REGIONE
+    # =====================================================
+    lines.append("7) SOGGETTI PROPONENTI PER REGIONE")
+
+    proponenti_reg = defaultdict(lambda: defaultdict(list))
+
+    for row in outputs.get("soggetti_proponenti", []):
+        reg = row.get("regione", "") or "ND"
+        file_name = row.get("file", "") or "ND"
+        proponenti_reg[reg][file_name].append(row)
+
+    if not proponenti_reg:
         lines.append("- Nessun soggetto proponente rilevato.")
     else:
-        for row in outputs["soggetti_proponenti"]:
-            lines.append(f"- file: {row['file']} | soggetto_proponente: {row['soggetto_proponente']}")
+        for reg in sorted(proponenti_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
 
-    lines.append("\n6) FIRMATARI")
-    if not outputs["firmatari"]:
+            for file_name in sorted(proponenti_reg[reg].keys()):
+                lines.append("")
+                lines.append(f"  FILE: {file_name}")
+
+                soggetti = sorted({r.get("soggetto_proponente", "") for r in proponenti_reg[reg][file_name] if r.get("soggetto_proponente")})
+                for soggetto in soggetti:
+                    lines.append(f"    - {soggetto}")
+
+    lines.append("")
+
+
+    # =====================================================
+    # 8) FIRMATARI PER REGIONE
+    # =====================================================
+    lines.append("8) FIRMATARI PER REGIONE")
+
+    firmatari_reg = defaultdict(lambda: defaultdict(list))
+
+    for row in outputs.get("firmatari", []):
+        reg = row.get("regione", "") or "ND"
+        file_name = row.get("file", "") or "ND"
+        firmatari_reg[reg][file_name].append(row)
+
+    if not firmatari_reg:
         lines.append("- Nessun firmatario rilevato.")
     else:
-        for row in outputs["firmatari"]:
-            lines.append(f"- file: {row['file']} | firmatario: {row['firmatario']}")
+        for reg in sorted(firmatari_reg.keys()):
+            lines.append("")
+            lines.append(f"REGIONE: {reg}")
+
+            for file_name in sorted(firmatari_reg[reg].keys()):
+                lines.append("")
+                lines.append(f"  FILE: {file_name}")
+
+                soggetti = sorted({r.get("firmatario", "") for r in firmatari_reg[reg][file_name] if r.get("firmatario")})
+                for soggetto in soggetti:
+                    lines.append(f"    - {soggetto}")
+
+    lines.append("")
+    # =====================================================
+    # 9) RIEPILOGO GLOBALE PER MACRO-TIPOLOGIA
+    # =====================================================
+    lines.append("9) RIEPILOGO GLOBALE PER MACRO-TIPOLOGIA")
+
+    macro_global = Counter()
+    for row in outputs.get("attori_per_regione_macro", []):
+        macro_global[row["macro_categoria"]] += row["numerosita"]
+
+    if not macro_global:
+        lines.append("- Nessun dato disponibile.")
+    else:
+        for macro, n in macro_global.most_common():
+            lines.append(f"- {macro}: {n}")
+    lines.append("")
 
     out_txt.write_text("\n".join(lines), encoding="utf-8")
 
-
 def main():
-    output_dir = r"\output\reports"
-    input_json= r"output\json\merged\all_risultati_enriched_2.4.json"
+    output_dir = r"output\reports"
+    input_json = r"output\json\merged\all_risultati_enriched_2.4.json"
 
     input_json = Path(input_json)
     if not input_json.exists():
@@ -724,6 +1143,11 @@ def main():
         })
     write_csv(attori_flat, out_dir / "attori_coinvolti_puliti.csv")
 
+    # Nuove uscite disaggregate
+    write_csv(outputs["attori_regionali_disaggregati"], out_dir / "attori_disaggregati_regione.csv")
+    write_csv(outputs["attori_per_regione_macro"], out_dir / "attori_disaggregati_regione_macro.csv")
+    write_csv(outputs["attori_disaggregati_macro_tipologia"], out_dir / "attori_disaggregati_macro_tipologia.csv")
+
     write_graphml(outputs["unique_rows"], out_dir / "rete_attori_protocollo_pulita.csv", out_dir / "network_attori_pulito.graphml")
 
     report_struct = {
@@ -731,11 +1155,17 @@ def main():
         "report_controlli_qualita": outputs["report_controlli_qualita"],
         "tipologia_numerosita": outputs["tipologie_numerosita"],
         "attori_coinvolti": outputs["attori_coinvolti"],
+        "attori_regionali_disaggregati": outputs["attori_regionali_disaggregati"],
+        "attori_per_regione_macro": outputs["attori_per_regione_macro"],
+        "attori_disaggregati_macro_tipologia": outputs["attori_disaggregati_macro_tipologia"],
         "soggetti_incaricati_gestione_monitoraggio_coordinamento": outputs["soggetti_gestione"],
         "soggetti_proponenti": outputs["soggetti_proponenti"],
         "firmatari": outputs["firmatari"],
     }
-    (out_dir / "report_strutturato_v4.json").write_text(json.dumps(report_struct, indent=2, ensure_ascii=False), encoding="utf-8")
+    (out_dir / "report_strutturato_v4.json").write_text(
+        json.dumps(report_struct, indent=2, ensure_ascii=False),
+        encoding="utf-8"
+    )
     write_txt_report(outputs, out_dir / "report_sintetico_v4.txt", input_json)
 
     print(f"OK: report V4 creati in {out_dir}")
@@ -743,5 +1173,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-

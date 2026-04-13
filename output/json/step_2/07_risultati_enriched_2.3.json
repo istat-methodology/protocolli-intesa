@@ -4097,8 +4097,8 @@
         "ente_capofila": "",
         "note": "Soggetto aderente; struttura con doppia funzione",
         "match_lista_cav": true,
-        "match_lista_cav_nome": "Centro Antiviolenza Mai più sola",
-        "match_lista_cav_score": 900,
+        "match_lista_cav_nome": "Centro Antiviolenza Mai piï¿½ sola",
+        "match_lista_cav_score": 370,
         "match_lista_cav_overlap_tokens": [
           "ANTIVIOLENZA",
           "CENTRO",

@@ -522,7 +522,7 @@
     </node>
     <node id="Servizi sociali">
       <data key="d0">Servizi sociali</data>
-      <data key="d1">2</data>
+      <data key="d1">3</data>
     </node>
     <node id="Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa">
       <data key="d0">Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa</data>
@@ -872,9 +872,17 @@
       <data key="d0">MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena</data>
       <data key="d1">1</data>
     </node>
+    <node id="Medici di Medicina Generale">
+      <data key="d0">Medici di Medicina Generale</data>
+      <data key="d1">1</data>
+    </node>
     <node id="Ospedali">
       <data key="d0">Ospedali</data>
       <data key="d1">1</data>
+    </node>
+    <node id="Pediatri di Libera Scelta">
+      <data key="d0">Pediatri di Libera Scelta</data>
+      <data key="d1">2</data>
     </node>
     <node id="Prefettura di Modena">
       <data key="d0">Prefettura di Modena</data>
@@ -978,7 +986,7 @@
     </node>
     <node id="Forze dell'ordine">
       <data key="d0">Forze dell'ordine</data>
-      <data key="d1">2</data>
+      <data key="d1">3</data>
     </node>
     <node id="Prefettura di Arezzo">
       <data key="d0">Prefettura di Arezzo</data>
@@ -3342,10 +3350,6 @@
     </node>
     <node id="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d0">Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo</data>
-      <data key="d1">1</data>
-    </node>
-    <node id="Pediatri di Libera Scelta">
-      <data key="d0">Pediatri di Libera Scelta</data>
       <data key="d1">1</data>
     </node>
     <node id="Pronto Soccorso del presidio ospedaliero di Lavagna">
@@ -11306,6 +11310,105 @@
     <edge source="Servizi sociali" target="UTES - Unità Territoriali Emergenza Sociale">
       <data key="d2">1</data>
     </edge>
+    <edge source="Servizi sociali" target="AFM - Farmacie Comunali Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ascom Confcommercio Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Associazione &quot;Centro Donna Giustizia&quot; di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Azienda Ospedaliero Universitaria di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Azienda Unità Sanitaria Locale di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Case rifugio">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Centro di Ascolto per Uomini Maltrattanti di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comando Provinciale dei Carabinieri di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comando Provinciale della Guardia di Finanza di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comune di Cento">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comune di Codigoro">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comune di Copparo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Comune di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Conferenza Provinciale Permanente">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Consultori familiari Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Federfarma Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Istituzioni scolastiche autonome della provincia di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ministero dell'Interno">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ordine degli Avvocati di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ordine dei Farmacisti di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ordine dei Giornalisti di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ordine dei Medici Chirurghi e degli Odontoiatri di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Prefettura di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Procura della Repubblica presso il Tribunale di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Procura della Repubblica presso il Tribunale per i Minorenni dell'Emilia Romagna di Bologna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Pronto Soccorso Generale e Ostetrico-Ginecologico Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Questura di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Rotary Club Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Tribunale di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Tribunale per i Minorenni dell'Emilia Romagna di Bologna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Ufficio Scolastico Regionale VI Ambito Territoriale di Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Unione Donne in Italia — APS Ferrara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Servizi sociali" target="Università degli Studi di Ferrara">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Servizi sociali" target="Agora soc. coop. soc">
       <data key="d2">1</data>
     </edge>
@@ -15032,7 +15135,13 @@
     <edge source="Associazione Gruppo Donne e Giustizia" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Associazione Gruppo Donne e Giustizia" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Associazione Gruppo Donne e Giustizia" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Associazione Gruppo Donne e Giustizia" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Associazione Gruppo Donne e Giustizia" target="Prefettura di Modena">
@@ -15134,7 +15243,13 @@
     <edge source="Azienda Ospedaliero - Universitaria Policlinico di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Azienda Ospedaliero - Universitaria Policlinico di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Azienda Ospedaliero - Universitaria Policlinico di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Azienda Ospedaliero - Universitaria Policlinico di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Azienda Ospedaliero - Universitaria Policlinico di Modena" target="Prefettura di Modena">
@@ -15233,7 +15348,13 @@
     <edge source="Azienda Unità Sanitaria Locale di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Azienda Unità Sanitaria Locale di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Azienda Unità Sanitaria Locale di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Azienda Unità Sanitaria Locale di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Azienda Unità Sanitaria Locale di Modena" target="Prefettura di Modena">
@@ -15329,7 +15450,13 @@
     <edge source="Casa delle donne contro la violenza Centro antiviolenza onlus" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Casa delle donne contro la violenza Centro antiviolenza onlus" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Casa delle donne contro la violenza Centro antiviolenza onlus" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Casa delle donne contro la violenza Centro antiviolenza onlus" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Casa delle donne contro la violenza Centro antiviolenza onlus" target="Prefettura di Modena">
@@ -15422,7 +15549,13 @@
     <edge source="Centri Salute Mentale Adulti" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Centri Salute Mentale Adulti" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Centri Salute Mentale Adulti" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Centri Salute Mentale Adulti" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Centri Salute Mentale Adulti" target="Prefettura di Modena">
@@ -15512,7 +15645,13 @@
     <edge source="Centro LDV (Liberiamoci dalla violenza - Centro di accompagnamento al cambiamento per uomini dell'Azienda Unità Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Centro LDV (Liberiamoci dalla violenza - Centro di accompagnamento al cambiamento per uomini dell'Azienda Unità Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Centro LDV (Liberiamoci dalla violenza - Centro di accompagnamento al cambiamento per uomini dell'Azienda Unità Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Centro LDV (Liberiamoci dalla violenza - Centro di accompagnamento al cambiamento per uomini dell'Azienda Unità Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Centro LDV (Liberiamoci dalla violenza - Centro di accompagnamento al cambiamento per uomini dell'Azienda Unità Sanitaria Locale di Modena - Servizio sanitario regionale Emilia Romagna" target="Prefettura di Modena">
@@ -15599,7 +15738,13 @@
     <edge source="Città di Castelfranco Emilia" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Città di Castelfranco Emilia" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Città di Castelfranco Emilia" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Città di Castelfranco Emilia" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Città di Castelfranco Emilia" target="Prefettura di Modena">
@@ -15683,7 +15828,13 @@
     <edge source="Comando Provinciale dei Carabinieri di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comando Provinciale dei Carabinieri di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comando Provinciale dei Carabinieri di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comando Provinciale dei Carabinieri di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comando Provinciale dei Carabinieri di Modena" target="Prefettura di Modena">
@@ -15764,7 +15915,13 @@
     <edge source="Commissione Pari Opportunita" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Commissione Pari Opportunita" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Commissione Pari Opportunita" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Commissione Pari Opportunita" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Commissione Pari Opportunita" target="Prefettura di Modena">
@@ -15842,7 +15999,13 @@
     <edge source="Comune di Fiorano Modenese" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Fiorano Modenese" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Fiorano Modenese" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Fiorano Modenese" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Fiorano Modenese" target="Prefettura di Modena">
@@ -15917,7 +16080,13 @@
     <edge source="Comune di Formigine" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Formigine" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Formigine" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Formigine" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Formigine" target="Prefettura di Modena">
@@ -15989,7 +16158,13 @@
     <edge source="Comune di Maranello" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Maranello" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Maranello" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Maranello" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Maranello" target="Prefettura di Modena">
@@ -16058,7 +16233,13 @@
     <edge source="Comune di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Modena" target="Prefettura di Modena">
@@ -16124,7 +16305,13 @@
     <edge source="Comune di Montese" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Montese" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Montese" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Montese" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Montese" target="Prefettura di Modena">
@@ -16187,7 +16374,13 @@
     <edge source="Comune di San Cesario sul Panaro" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di San Cesario sul Panaro" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di San Cesario sul Panaro" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di San Cesario sul Panaro" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di San Cesario sul Panaro" target="Prefettura di Modena">
@@ -16247,7 +16440,13 @@
     <edge source="Comune di Sassuolo" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Comune di Sassuolo" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Comune di Sassuolo" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Comune di Sassuolo" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Comune di Sassuolo" target="Prefettura di Modena">
@@ -16304,7 +16503,13 @@
     <edge source="Conferenza delle Elette" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Conferenza delle Elette" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Conferenza delle Elette" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Conferenza delle Elette" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Conferenza delle Elette" target="Prefettura di Modena">
@@ -16358,7 +16563,13 @@
     <edge source="Consigliera di Parità della Provincia di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Consigliera di Parità della Provincia di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Consigliera di Parità della Provincia di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Consigliera di Parità della Provincia di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Consigliera di Parità della Provincia di Modena" target="Prefettura di Modena">
@@ -16409,7 +16620,13 @@
     <edge source="Consigliere di Parità" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Consigliere di Parità" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Consigliere di Parità" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Consigliere di Parità" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Consigliere di Parità" target="Prefettura di Modena">
@@ -16457,7 +16674,13 @@
     <edge source="Guardia di Finanza di Modena" target="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena">
       <data key="d2">1</data>
     </edge>
+    <edge source="Guardia di Finanza di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Guardia di Finanza di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Guardia di Finanza di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Guardia di Finanza di Modena" target="Prefettura di Modena">
@@ -16502,7 +16725,13 @@
     <edge source="Guardia di Finanza di Modena" target="Vivere Donna onlus - Centro antiviolenza">
       <data key="d2">1</data>
     </edge>
+    <edge source="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena" target="Medici di Medicina Generale">
+      <data key="d2">1</data>
+    </edge>
     <edge source="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena" target="Prefettura di Modena">
@@ -16547,6 +16776,57 @@
     <edge source="MIUR - Ufficio Scolastico Regionale per l'Emilia Romagna - Ufficio VIII Ambito Territoriale per la provincia di Modena" target="Vivere Donna onlus - Centro antiviolenza">
       <data key="d2">1</data>
     </edge>
+    <edge source="Medici di Medicina Generale" target="Ospedali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Pediatri di Libera Scelta">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Prefettura di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Provincia di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Psicologia Clinica">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Questura di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Servizio Dipendenze Patologiche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Ufficio scolastico provinciale di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione Comuni del Sorbara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione Comuni modenesi dell'Area Nord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione Terre di Castelli">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione dei Comuni del Distretto Ceramico">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione dei Comuni del Frignano">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Unione delle Terre d'Argine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Università degli Studi di Modena e Reggio Emilia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Medici di Medicina Generale" target="Vivere Donna onlus - Centro antiviolenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Ospedali" target="Pediatri di Libera Scelta">
+      <data key="d2">1</data>
+    </edge>
     <edge source="Ospedali" target="Prefettura di Modena">
       <data key="d2">1</data>
     </edge>
@@ -16587,6 +16867,126 @@
       <data key="d2">1</data>
     </edge>
     <edge source="Ospedali" target="Vivere Donna onlus - Centro antiviolenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Prefettura di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Provincia di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Psicologia Clinica">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Questura di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Servizio Dipendenze Patologiche">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Ufficio scolastico provinciale di Modena">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione Comuni del Sorbara">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione Comuni modenesi dell'Area Nord">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione Terre di Castelli">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione dei Comuni del Distretto Ceramico">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione dei Comuni del Frignano">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Unione delle Terre d'Argine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Università degli Studi di Modena e Reggio Emilia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Vivere Donna onlus - Centro antiviolenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="ATS di riferimento per residenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Azienda Sanitaria Locale n. 4 &quot;Sistema Sanitario Regione Liguria">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Comune di Chiavari">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Comune di residenza della donna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="DMPO Direzione Medica del Presidio Ospedaliero">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Dipartimento di Salute Mentale e delle Dipendenze dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Distretti Sociosanitari n. 14">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Distretti Sociosanitari n. 15">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Distretti Sociosanitari n. 16">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Equipe Integrata Sovradistrettuale Maltrattamento e Abuso">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Equipe Multiprofessionale Sovradistrettuale Maltrattamento e Abuso">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Forze dell'ordine">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Medici di Medicina generale">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Procura della Repubblica presso il Tribunale per i Minorenni">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Regione Liguria">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Segreteria Tecnica del DSS 15 (Comune di Chiavari">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Servizi Sociali degli Ambiti Territoriali">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Servizio Sociale del Comune di residenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Servizio Sociale del Comune dove viene reperita la donna">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Struttura Semplice Dipartimentale Consultorio Familiare dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Tavolo di Coordinamento del sistema degli interventi per il contrasto, il trattamento della violenza maschile contro le donne e il loro reinserimento socio-lavorativo">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="Telefono Donna Centro AntiViolenza CIF APS">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="U.O. di Ostetricia e Ginecologia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Pediatri di Libera Scelta" target="operatori del III settore">
       <data key="d2">1</data>
     </edge>
     <edge source="Prefettura di Modena" target="Provincia di Modena">
@@ -17459,9 +17859,6 @@
     <edge source="Forze dell'ordine" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Forze dell'ordine" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Forze dell'ordine" target="Procura della Repubblica presso il Tribunale per i Minorenni">
       <data key="d2">1</data>
     </edge>
@@ -17496,6 +17893,36 @@
       <data key="d2">1</data>
     </edge>
     <edge source="Forze dell'ordine" target="operatori del III settore">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="ASP Città di Piacenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Azienda USL di Piacenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Centro Antiviolenza Telefono Rosa Piacenza - Associazione La Città delle Donne - ODV Piacenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Comune di Castel San Giovanni">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Comune di Fiorenzuola d'Arda">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Ostetricia e Ginecologia">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Psicologia di Base">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Rete nazionale D.i.R.e">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Servizi del Comune di Residenza">
+      <data key="d2">1</data>
+    </edge>
+    <edge source="Forze dell'ordine" target="Ufficio di Presidenza della Conferenza Territoriale Sociale e Sanitaria (CTSS) della Provincia di Piacenza">
       <data key="d2">1</data>
     </edge>
     <edge source="Prefettura di Arezzo" target="Procura della Repubblica presso il Tribunale di Arezzo">
@@ -26751,9 +27178,6 @@
       <data key="d2">1</data>
     </edge>
     <edge source="Procura della Repubblica presso il Tribunale per i Minorenni" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Procura della Repubblica presso il Tribunale per i Minorenni" target="Pediatri di Libera Scelta">
       <data key="d2">1</data>
     </edge>
     <edge source="Procura della Repubblica presso il Tribunale per i Minorenni" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
@@ -54326,9 +54750,6 @@
     <edge source="ATS di riferimento per residenza" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="ATS di riferimento per residenza" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="ATS di riferimento per residenza" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54395,9 +54816,6 @@
     <edge source="Azienda Sanitaria Locale n. 4 &quot;Sistema Sanitario Regione Liguria" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Azienda Sanitaria Locale n. 4 &quot;Sistema Sanitario Regione Liguria" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Azienda Sanitaria Locale n. 4 &quot;Sistema Sanitario Regione Liguria" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54461,9 +54879,6 @@
     <edge source="Comune di Chiavari" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Comune di Chiavari" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Comune di Chiavari" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54524,9 +54939,6 @@
     <edge source="Comune di residenza della donna" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Comune di residenza della donna" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Comune di residenza della donna" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54584,9 +54996,6 @@
     <edge source="DMPO Direzione Medica del Presidio Ospedaliero" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="DMPO Direzione Medica del Presidio Ospedaliero" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="DMPO Direzione Medica del Presidio Ospedaliero" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54641,9 +55050,6 @@
     <edge source="Dipartimento di Salute Mentale e delle Dipendenze dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Dipartimento di Salute Mentale e delle Dipendenze dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Dipartimento di Salute Mentale e delle Dipendenze dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54695,9 +55101,6 @@
     <edge source="Distretti Sociosanitari n. 14" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Distretti Sociosanitari n. 14" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Distretti Sociosanitari n. 14" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54746,9 +55149,6 @@
     <edge source="Distretti Sociosanitari n. 15" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Distretti Sociosanitari n. 15" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Distretti Sociosanitari n. 15" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54794,9 +55194,6 @@
     <edge source="Distretti Sociosanitari n. 16" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Distretti Sociosanitari n. 16" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Distretti Sociosanitari n. 16" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54839,9 +55236,6 @@
     <edge source="Equipe Integrata Sovradistrettuale Maltrattamento e Abuso" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Equipe Integrata Sovradistrettuale Maltrattamento e Abuso" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Equipe Integrata Sovradistrettuale Maltrattamento e Abuso" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54881,9 +55275,6 @@
     <edge source="Equipe Multiprofessionale Sovradistrettuale Maltrattamento e Abuso" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Equipe Multiprofessionale Sovradistrettuale Maltrattamento e Abuso" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Equipe Multiprofessionale Sovradistrettuale Maltrattamento e Abuso" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54920,9 +55311,6 @@
     <edge source="Medici di Medicina generale" target="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo">
       <data key="d2">1</data>
     </edge>
-    <edge source="Medici di Medicina generale" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Medici di Medicina generale" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54956,9 +55344,6 @@
     <edge source="Medici di Medicina generale" target="operatori del III settore">
       <data key="d2">1</data>
     </edge>
-    <edge source="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo" target="Pediatri di Libera Scelta">
-      <data key="d2">1</data>
-    </edge>
     <edge source="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
       <data key="d2">1</data>
     </edge>
@@ -54990,39 +55375,6 @@
       <data key="d2">1</data>
     </edge>
     <edge source="Opera Diocesana Madonna dei Bambini Villaggio del Ragazzo" target="operatori del III settore">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Pronto Soccorso del presidio ospedaliero di Lavagna">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Regione Liguria">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Segreteria Tecnica del DSS 15 (Comune di Chiavari">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Servizi Sociali degli Ambiti Territoriali">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Servizio Sociale del Comune di residenza">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Servizio Sociale del Comune dove viene reperita la donna">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Struttura Semplice Dipartimentale Consultorio Familiare dell'ASL n. 4 &quot;Sistema Sanitario Regione Liguria">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Tavolo di Coordinamento del sistema degli interventi per il contrasto, il trattamento della violenza maschile contro le donne e il loro reinserimento socio-lavorativo">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="Telefono Donna Centro AntiViolenza CIF APS">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="U.O. di Ostetricia e Ginecologia">
-      <data key="d2">1</data>
-    </edge>
-    <edge source="Pediatri di Libera Scelta" target="operatori del III settore">
       <data key="d2">1</data>
     </edge>
     <edge source="Pronto Soccorso del presidio ospedaliero di Lavagna" target="Regione Liguria">

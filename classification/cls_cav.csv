@@ -1,8 +1,9 @@
+
 ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PROVINCIA;COD_COMUNE;ID_DUG;INDIRIZZO;NUM_CIVICO;LOCALITA;UBICAZIONE;CAP;TELEFONO;FAX;EMAIL;SITO_WEB;COD_REGIONE_SEDE_AMM;COD_PROVINCIA_SEDE_AMM;COD_COMUNE_SEDE_AMM;ID_DUG_SEDE_AMM;INDIRIZZO_SEDE_AMM;NUM_CIVICO_SEDE_AMM;LOCALITA_SEDE_AMM;UBICAZIONE_SEDE_AMM;CAP_SEDE_AMM;TELEFONO_SEDE_AMM;FAX_SEDE_AMM;EMAIL_SEDE_AMM;NOTE;COGNOME_PERSONA_FISICA;NOME_PERSONA_FISICA;CAMPO_JOLLY1;CAMPO_JOLLY2;CAMPO_JOLLY3;ID_TIPO_ACQUISIZIONE;ID_STATO_RISPONDENTE;ID_TIPO_ESITO;ID_UTENTE;LIV_MONITORAGGIO_1;LIV_MONITORAGGIO_2;LIV_MONITORAGGIO_3;LIV_MONITORAGGIO_4
 17;CAV1300001;Centro Antiviolenza Donnattiva;13;069;099;;Via Anelli;20;Vasto;;66054;0873366152;;donna.attiva@comune.vasto.ch.it;;;;;;;;;;;;;;;UTE1300001;;;;;1;1;;CAV1300001;13;13;1;2
 18;CAV1300002;Centro Anitviolenza Donne Non sei sola;13;069;058;;Via Giovanni XIII;80;Ortona;;66026;0859064550;;antiviolenzanonseisola@gmail.com;;;;;;;;;;;;;;;UTE1300002;;;;;1;1;;CAV1300002;13;13;1;2
 19;CAV1300003;Centro Antiviolena Donatella Tellini le melusine;13;066;049;;Via Angelo Colagrande;2/A-2/B;L'Aquila;;67100;3400905655;;centroantiviolenza.laquila@gmail.com;;;;;;;;;;;;;;;UTE1300003;;;;;1;1;;CAV1300003;13;13;1;2
-20;CAV1300004;Centro Antiviolenza Donn.è;13;069;058;;Corso Vittorio Emanuele;3;Ortona;;66026;0859121231;;centro.apsdonne@gmail.com;;;;;;;;;;;;;;;UTE1300004;;;;;1;1;;CAV1300004;13;13;1;2
+20;CAV1300004;Centro Antiviolenza Donn.ï¿½;13;069;058;;Corso Vittorio Emanuele;3;Ortona;;66026;0859121231;;centro.apsdonne@gmail.com;;;;;;;;;;;;;;;UTE1300004;;;;;1;1;;CAV1300004;13;13;1;2
 21;CAV1300005;Centro Antiviolenza Ananke Pescara;13;068;028;;Via Tavo;248;Pescara;;65128;0854283851;0854315294;info@centroananke.it;;;;;;;;;;;;;;;UTE1300005;;;;;1;1;;CAV1300005;13;13;1;2
 22;CAV1300006;Centro Antiviolenza La Libellula;13;066;098;;Via Pola;64/G;Sulmona;;67039;0864566918;;cav.libellula@alice.it;;;;;;;;;;;;;;;UTE1300006;;;;;1;1;;CAV1300006;13;13;1;2
 23;CAV1300007;Centro Anitiviolenza La Fenice;13;067;041;;Via Trento e Trieste;8;Teramo;;64100;0861029009;;lafenice@provincia.teramo.it;;;;;;;;;;;;;;;UTE1300007;;;;;1;1;;CAV1300007;13;13;1;2
@@ -11,7 +12,7 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 26;CAV1700001;Centro Antiviolenza Convenzione Comune Potenza e Ass. Telefono Donna;17;076;063;;Via dei Ligustri;32;Potenza;;85100;097155551;;info@telefonodonnapotenza.it;;;;;;;;;;;;;presidente@telefonodonnapotenza.it;info@telefonodonnapotenza.it sostituisce presidente@telefonodonnapotenza.it come da telefonata 25.07.2024. FG;UTE1700001;;;;;1;1;;CAV1700001;17;17;1;2
 27;CAV1800001;Centro antiviolenza Angela Morabito;18;080;063;;Via Vallone Mariannazzo;snc;Reggio Calabria;;89123;0965890135  800170940;0965890769;piccolaopera@pec.it;;;;;;;;;;;;;;;UTE1800001;;;;;1;1;;CAV1800001;18;18;1;2
 28;CAV1800002;Centro ascolto Ariel;18;080;063;;Via Scacchieri;5;Gallico (RC);;89100;0965371373 800435325;;centroariel@pec.it;;;;;;;;;;;;;centroascoltoarielrc@gmail.com;;UTE1800002;;;;;1;1;;CAV1800002;18;18;1;2
-29;CAV1800003;Centro Aiuto Donna;18;079;023;;C.da Corvo via della Solidarietà;1;Catanzaro;;88100;0961789006 0961730405 800909194;;cittasolidale@arubapec.it;;;;;;;;;;;;;;;UTE1800003;;;;;1;1;;CAV1800003;18;18;1;2
+29;CAV1800003;Centro Aiuto Donna;18;079;023;;C.da Corvo via della Solidarietï¿½;1;Catanzaro;;88100;0961789006 0961730405 800909194;;cittasolidale@arubapec.it;;;;;;;;;;;;;;;UTE1800003;;;;;1;1;;CAV1800003;18;18;1;2
 30;CAV1800004;Centro Antiviolenza Demetra;18;079;160;;Via Trento;51;Lamezia Terme;;88046;3487913804 3336989921 3277872647  800550403;;assmagomerlino@arubapec.it;;;;;;;;;;;;;;;UTE1800004;;;;;1;1;;CAV1800004;18;18;1;2
 31;CAV1800005;Centro contro la violenza alle donne Roberta Lanzino;18;078;045;;Via Ernesto Fagiani;17;Cosenza;;87100;098436311 3298981723;;centroantiviolenzalanzino@pec.it;;;;;;;;;;;;;;;UTE1800005;;;;;1;1;;CAV1800005;18;18;1;2
 32;CAV1800006;Centro antiviolenza Mondo Rosa;18;079;023;;via Lucrezia della Valle;106;Catanzaro;;88100;0961769722  0961552036  800757657;;ccscatanzaro@pec.it;;;;;;;;;;;;;;;UTE1800006;;;;;1;1;;CAV1800006;18;18;1;2
@@ -34,14 +35,14 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 77;CAV0800002;SOS DONNA;08;037;006;;;;;;;051434345;;sosdonna.bo@gmail.com;;;;;;;;;;;;;;;UTE0800002;;;;;1;1;;CAV0800002;08;08;1;2
 78;CAV0800003;Casa delle donne per non subire violenza;08;037;006;;;;;;;051333173;;casadonne@women.it;;;;;;;;;;;;;;;UTE0800003;;;;;1;1;;CAV0800003;08;08;1;2
 79;CAV0800004;CHIAMA chiAMA;08;037;006;;;;;;;3371201876;;chiamachiama@mondodonna-onlus.it;;;;;;;;;;;;;;;UTE0800004;;;;;1;1;;CAV0800004;08;08;1;2
-80;CAV0800005;Centro Donna – Centro Antiviolenza del Comune di Cesena;08;040;007;;;;;;;0547355738;;centrodonna@comune.cesena.fc.it;;;;;;;;;;;;;;;UTE0800005;;;;;1;1;;CAV0800005;08;08;1;2
+80;CAV0800005;Centro Donna ï¿½ Centro Antiviolenza del Comune di Cesena;08;040;007;;;;;;;0547355738;;centrodonna@comune.cesena.fc.it;;;;;;;;;;;;;;;UTE0800005;;;;;1;1;;CAV0800005;08;08;1;2
 81;CAV0800006;Centro Donna Giustizia di Ferrara;08;038;008;;;;;;;0532247440;;udv@centrodonnagiustizia.it;;;;;;;;;;;;;;;UTE0800006;;;;;1;1;;CAV0800006;08;08;1;2
-82;CAV0800007;Centro Donna Comune di Forlì;08;040;012;;;;;;;0543712660;;centrodonna@comune.forli.fc.it;;;;;;;;;;;;;;;UTE0800007;;;;;1;1;;CAV0800007;08;08;1;2
+82;CAV0800007;Centro Donna Comune di Forlï¿½;08;040;012;;;;;;;0543712660;;centrodonna@comune.forli.fc.it;;;;;;;;;;;;;;;UTE0800007;;;;;1;1;;CAV0800007;08;08;1;2
 83;CAV0800008;Trama di Terre;08;037;032;;;;;;;3935596688;;antiviolenza@tramaditerre.org;;;;;;;;;;;;;;;UTE0800008;;;;;1;1;;CAV0800008;08;08;1;2
 84;CAV0800009;PerLeDonne;08;037;032;;;;;;;3703252034;;centroantiviolenzaimola@gmail.com;;;;;;;;;;;;;;;UTE0800009;;;;;1;1;;CAV0800009;08;08;1;2
 85;CAV0800010;Centro Antiviolenza;08;036;023;;;;;;;059361050;;most@donnecontroviolenza.it;;;;;;;;;;;;;;;UTE0800010;;;;;1;1;;CAV0800010;08;08;1;2
 86;CAV0800011;Associazione Centro Antiviolenza;08;034;027;;;;;;;0521238885;;acavpr@gmail.com;;;;;;;;;;;;;;;UTE0800011;;;;;1;1;;CAV0800011;08;08;1;2
-87;CAV0800012;Centro antiviolenza di Piacenza Associazione la Città delle donne ODV;08;033;032;;;;;;;0523334833;;centroantiviolenzapc.donne@gmail.com;;;;;;;;;;;;;;;UTE0800012;;;;;1;1;;CAV0800012;08;08;1;2
+87;CAV0800012;Centro antiviolenza di Piacenza Associazione la Cittï¿½ delle donne ODV;08;033;032;;;;;;;0523334833;;centroantiviolenzapc.donne@gmail.com;;;;;;;;;;;;;;;UTE0800012;;;;;1;1;;CAV0800012;08;08;1;2
 88;CAV0800013;Linea Rosa;08;039;014;;;;;;;0544216316;;linearosa@racine.ra.it;;;;;;;;;;;;;;;UTE0800013;;;;;1;1;;CAV0800013;08;08;1;2
 89;CAV0800014;Casa delle donne;08;035;033;;;;;;;0522585643;;info@nondasola.it;;;;;;;;;;;;;;;UTE0800014;;;;;1;1;;CAV0800014;08;08;1;2
 90;CAV0800015;Rompi Il Silenzio;08;099;014;;;;;;;3465016665;;rompiilsilenzio@virgilio.it;;;;;;;;;;;;;;;UTE0800015;;;;;1;1;;CAV0800015;08;08;1;2
@@ -54,14 +55,14 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 97;CAV0600003;Associazione di volontariato IOTUNOIVOI Donne Insieme;06;030;129;;via Martignacco;23;;;;0423421011  3351389212;;antigone@iotunoivoi.it;;;;;;;;;;;;;;;UTE0600003;;;;;1;1;;CAV0600003;06;06;1;2
 98;CAV0600004;Associazione S.O.S. ROSA-Onlus;06;031;007;;via Diaz;5;;;;048132954;;sosrosagorizia@gmail.com;;;;;;;;;;;;;;;UTE0600004;;;;;1;1;;CAV0600004;06;06;1;2
 99;CAV0600005;Associazione Voce donna;06;093;033;;viale Dante;19;;;;043421779;;vocedonnapn@gmail.com;;;;;;;;;;;;;;;UTE0600005;;;;;1;1;;CAV0600005;06;06;1;2
-100;CAV0600006;Servizio Zero Tolerance – contro la violenza sulle donne;06;030;129;;via San Valentino;20;UDINE;;;800531135;;zerotolerance@comune.udine.it;;;;;;;;;;;;;;;UTE0600006;;;;;1;1;;CAV0600006;06;06;1;2
-102;CAV1200002;Centro Maree per donne in difficoltà e vittime di violenza;12;058;091;;Via Monte delle Capre;23;Roma;;00148;066535499 0665793182;;centromaree.roma@gmail.com;;;;;;;;;;;;;;;UTE1200002;;;;;1;1;;CAV1200002;12;12;1;2
-103;CAV1200003;Centro Antiviolenza per donne che non vogliono più subire violenza;12;058;091;;Viale di Villa Pamphili;71/c;Roma;;00152;065810926;;ceproant@tiscalinet.it;;;;;;;;;;;;;;;UTE1200003;;;;;1;1;;CAV1200003;12;12;1;2
-104;CAV1200004;Centro prov. accoglienza e ass. soc. donne in difficoltà La Ginestra;12;058;110;;Via Colle Tocciarello;1;Valmontone (RM);;00038;069591187;;cadd.valmontone@libero.it;;;;;;;;;;;;;;;UTE1200004;;;;;1;1;;CAV1200004;12;12;1;2
+100;CAV0600006;Servizio Zero Tolerance ï¿½ contro la violenza sulle donne;06;030;129;;via San Valentino;20;UDINE;;;800531135;;zerotolerance@comune.udine.it;;;;;;;;;;;;;;;UTE0600006;;;;;1;1;;CAV0600006;06;06;1;2
+102;CAV1200002;Centro Maree per donne in difficoltï¿½ e vittime di violenza;12;058;091;;Via Monte delle Capre;23;Roma;;00148;066535499 0665793182;;centromaree.roma@gmail.com;;;;;;;;;;;;;;;UTE1200002;;;;;1;1;;CAV1200002;12;12;1;2
+103;CAV1200003;Centro Antiviolenza per donne che non vogliono piï¿½ subire violenza;12;058;091;;Viale di Villa Pamphili;71/c;Roma;;00152;065810926;;ceproant@tiscalinet.it;;;;;;;;;;;;;;;UTE1200003;;;;;1;1;;CAV1200003;12;12;1;2
+104;CAV1200004;Centro prov. accoglienza e ass. soc. donne in difficoltï¿½ La Ginestra;12;058;110;;Via Colle Tocciarello;1;Valmontone (RM);;00038;069591187;;cadd.valmontone@libero.it;;;;;;;;;;;;;;;UTE1200004;;;;;1;1;;CAV1200004;12;12;1;2
 106;CAV1200006;Centro Donna Lilith Onlus;12;059;011;;Via Fratelli Bandiera;34;Latina;;04100;0773664165;;info@centrodonnalilith.it;;;;;;;;;;;;;;;UTE1200006;;;;;1;1;;CAV1200006;12;12;1;2
 107;CAV1200007;Ass. Volontarie Telefono Rosa Frosinone Centro Orientamento per le donne;12;060;024;;Giovanni Falcone;snc;Ceccano (FR);;03023;07751886011;;telefonorosaceccano@libero.it;;;;;;;;;;;;;;;UTE1200007;;;;;1;1;;CAV1200007;12;12;1;2
-108;CAV1200008;Centro Antiviolenza Mai più Ferite;12;060;038;;corso della Repubblica;130;Frosinone;;03100;3453920312;;infomaipiuferite@libero.it;;;;;;;;;;;;;;;UTE1200008;;;;;1;1;;CAV1200008;12;12;1;2
-109;CAV1200009;Nuove opportunità a sostegno delle donne vittime di violenza;12;060;038;;Piazza VI Dicembre;snc;Frosinone;;03100;800582999;;mendilloauserfr@gmail.com;;;;;;;;;;;;;;;UTE1200009;;;;;1;1;;CAV1200009;12;12;1;2
+108;CAV1200008;Centro Antiviolenza Mai piï¿½ Ferite;12;060;038;;corso della Repubblica;130;Frosinone;;03100;3453920312;;infomaipiuferite@libero.it;;;;;;;;;;;;;;;UTE1200008;;;;;1;1;;CAV1200008;12;12;1;2
+109;CAV1200009;Nuove opportunitï¿½ a sostegno delle donne vittime di violenza;12;060;038;;Piazza VI Dicembre;snc;Frosinone;;03100;800582999;;mendilloauserfr@gmail.com;;;;;;;;;;;;;;;UTE1200009;;;;;1;1;;CAV1200009;12;12;1;2
 110;CAV0700001;Centro ISV - Insieme Senza Violenza;07;008;055;;Viale Matteotti;28;Imperia;;18100;3938872711;;info@centroisv.it;;;;;;;;;;;;;;;UTE0700001;;;;;1;1;;CAV0700001;07;07;1;2
 111;CAV0700002;Telefono Donna;07;009;056;;Via Sormano;12;Savona;;17100;0198313399;;telefonodonnasv@gmail.com;;;;;;;;;;;;;;;UTE0700002;;;;;1;1;;CAV0700002;07;07;1;2
 112;CAV0700003;Centro Antiviolenza Mascherona;07;010;025;;Piazza Colombo;3/7;Genova;;16121;3491163601;;antiviolenzamascherona@ilcerchiodellerelazioni.it;;;;;;;;;;;;;;;UTE0700003;;;;;1;1;;CAV0700003;07;07;1;2
@@ -70,7 +71,7 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 115;CAV0700006;Telefono Donna Centro AntiViolenza CIF;07;010;015;;Piazza Fenice;5/1B;Chiavari;;16043;0185309912;;info@telefonodonnatigullio.it;;;;;;;;;;;;;;;UTE0700006;;;;;1;1;;CAV0700006;07;07;1;2
 116;CAV0700007;Centro Antiviolenza Irene;07;011;015;;Via Migliari;21;La Spezia;;19121;0187023944;;stopviolenza@comune.sp.it;;;;;;;;;;;;;;;UTE0700007;;;;;1;1;;CAV0700007;07;07;1;2
 117;CAV0300001;Ass. Donne Insieme Contro la Violenza;03;015;173;;;;;;;0290422123;;info@donneinsieme.org;;;;;;;;;;;;;;;UTE0300001;;;;;1;1;;CAV0300001;03;03;1;2
-118;CAV0300002;Ass. L'Altra Metà del Cielo-Telefono Donna di Merate;03;097;048;;;;;;;0399900678;;segreteria@altrametadelcielo.org;;;;;;;;;;;;;;;UTE0300002;;;;;1;1;;CAV0300002;03;03;1;2
+118;CAV0300002;Ass. L'Altra Metï¿½ del Cielo-Telefono Donna di Merate;03;097;048;;;;;;;0399900678;;segreteria@altrametadelcielo.org;;;;;;;;;;;;;;;UTE0300002;;;;;1;1;;CAV0300002;03;03;1;2
 119;CAV0300003;Donna Si-cura;03;012;128;;;;;;;03321785132;;donnasi-cura@libero.it;;;;;;;;;;;;;;;UTE0300003;;;;;1;1;;CAV0300003;03;03;1;2
 120;CAV0300004;A.I.D.A. Onlus -  Associazione Incontro Donne Antiviolenza;03;019;036;;;;;;;0372801427;;info@aidacremona.it;;;;;;;;;;;;;;;UTE0300004;;;;;1;1;;CAV0300004;03;03;1;2
 121;CAV0300005;Ass. C.H.I.A.R.A.;03;018;182;;;;;;;3831915589;;presidentechiara@gmail.com;;;;;;;;;;;;;;;UTE0300005;;;;;1;1;;CAV0300005;03;03;1;2
@@ -88,19 +89,19 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 133;CAV0300017;EOS;03;012;133;;;;;;;0332231271;;eosvarese4@gmail.com;;;;;;;;;;;;;;;UTE0300017;;;;;1;1;;CAV0300017;03;03;1;2
 134;CAV0300018;ICORE;03;012;078;;;;;;;0331618959;;ass.icore@gmail.com;;;;;;;;;;;;;;;UTE0300018;;;;;1;1;;CAV0300018;03;03;1;2
 135;CAV0300019;Il Coraggio di Frida;03;014;061;;;;;;;335346178;;coraggiodifrida@gmail.com;;;;;;;;;;;;;;;UTE0300019;;;;;1;1;;CAV0300019;03;03;1;2
-136;CAV0300020;La Metà di niente-Ass. L'Orsa Minore Onlus;03;098;031;;;;;;;0371840477;;presidente.centroantiviolenza@gmail.com;;;;;;;;;;;;;;;UTE0300020;;;;;1;1;;CAV0300020;03;03;1;2
-137;CAV0300021;M.I.A. Onlus – AssociazioneMovimento Incontro Ascolto;03;019;021;;;;;;;0375061754;;gruppomia@gmail.com;;;;;;;;;;;;;;;UTE0300021;;;;;1;1;;CAV0300021;03;03;1;2
+136;CAV0300020;La Metï¿½ di niente-Ass. L'Orsa Minore Onlus;03;098;031;;;;;;;0371840477;;presidente.centroantiviolenza@gmail.com;;;;;;;;;;;;;;;UTE0300020;;;;;1;1;;CAV0300020;03;03;1;2
+137;CAV0300021;M.I.A. Onlus ï¿½ AssociazioneMovimento Incontro Ascolto;03;019;021;;;;;;;0375061754;;gruppomia@gmail.com;;;;;;;;;;;;;;;UTE0300021;;;;;1;1;;CAV0300021;03;03;1;2
 138;CAV0300022;Se.D-Caritas Ambrosiana;03;015;146;;;;;;;0276037352;;maltrattamentodonne@caritasambrosiana.it;;;;;;;;;;;;;;;UTE0300022;;;;;1;1;;CAV0300022;03;03;1;2
 139;CAV0300023;SED-Farsi Prossimo;03;015;146;;;;;;;0276037353;;maltrattamentodonne@caritasambrosiana.it;;;;;;;;;;;;;;;UTE0300023;;;;;1;1;;CAV0300023;03;03;1;2
 140;CAV0300024;SVSeD-Soccorso Violenza Sessuale e Domestica-FONDAZIONE IRCCS CA' GRANDA OSPEDALE MAGGIORE POLICLINICO;03;015;146;;;;;;;0255038585;;svsed@policlinico.mi.it;;;;;;;;;;;;;;;UTE0300024;;;;;1;1;;CAV0300024;03;03;1;2
 141;CAV0300025;SVSDONNAIUTADONNA ONLUS;03;015;146;;;;;;;0255038520;;svsdadonlus@gmail.com;;;;;;;;;;;;;;;UTE0300025;;;;;1;1;;CAV0300025;03;03;1;2
 142;CAV0300026;Telefono Donna Como onlus;03;013;075;;;;;;;031304585;;segreteria@telefonodonnacomo.it;;;;;;;;;;;;;;;UTE0300026;;;;;1;1;;CAV0300026;03;03;1;2
 143;CAV0300027;Telefono Donna Lecco;03;097;042;;;;;;;0341363484;;teldonnalecco@gmail.com;;;;;;;;;;;;;;aggiornata email 4/04/2024;UTE0300027;;;;;1;1;;CAV0300027;03;03;1;2
-144;CAV0300028;Telefono Donna Onlus Sede Operativa di Magenta;03;015;130;;;;;;;029735411;;centroantiviolenzatd@comune.magenta.mi.it;;;;;;;;;;;;;;A seguito di riscontro telefonico di data 18.08.2023 l'indirizzo e-mail corretto del centro è: centroantiviolenzatd@comune.magenta.mi.it che va a sostituire centroantiviolenzatd@comunedimagenta.it FG;UTE0300028;;;;;1;1;;CAV0300028;03;03;1;2
+144;CAV0300028;Telefono Donna Onlus Sede Operativa di Magenta;03;015;130;;;;;;;029735411;;centroantiviolenzatd@comune.magenta.mi.it;;;;;;;;;;;;;;A seguito di riscontro telefonico di data 18.08.2023 l'indirizzo e-mail corretto del centro ï¿½: centroantiviolenzatd@comune.magenta.mi.it che va a sostituire centroantiviolenzatd@comunedimagenta.it FG;UTE0300028;;;;;1;1;;CAV0300028;03;03;1;2
 145;CAV0300029;VErso NUove Strade-Centro Antiviolenza Sovrambito Nord Milano;03;015;077;;;;;;;0222199730;;centrovenus.info@gmail.com;;;;;;;;;;;;;;;UTE0300029;;;;;1;1;;CAV0300029;03;03;1;2
 146;CAV0300030;Associazione volontarie Telefono Rosa;03;020;030;;;;;;;0376225656;;telefonorosamantova@gmail.com;;;;;;;;;;;;;;;UTE0300030;;;;;1;1;;CAV0300030;03;03;1;2
 147;CAV0300031;CAV di Mantova;03;020;030;;;;;;;0376 325737;;sosviolenza@centroaiutovitamantova.it;;;;;;;;;;;;;;;UTE0300031;;;;;1;1;;CAV0300031;03;03;1;2
-148;CAV0300032;Associazione Aiuto Donna Onlus;03;016;024;;;;;;;035212933;;info@aiutodonna.it ;;;;;;;;;;;;;;;UTE0300032;;;;;1;1;;CAV0300032;03;03;1;2
+148;CAV0300032;Associazione Aiuto Donna Onlus;03;016;024;;;;;;;035212933;;info@aiutodonna.itï¿½;;;;;;;;;;;;;;;UTE0300032;;;;;1;1;;CAV0300032;03;03;1;2
 149;CAV0300033;Kore coop. Donna tutto per te;03;018;177;;;;;;;3491422751;;korecooperativa@virgilio.it;;;;;;;;;;;;;;;UTE0300033;;;;;1;1;;CAV0300033;03;03;1;2
 150;CAV1100001;Centro Antiviolenza Parla con noi;11;041;044;;Via Diaz;10;;;61121;0721639014;;parlaconnoi@provincia.ps.it;;;;;;;;;;;;;;;UTE1100001;;;;;1;1;;CAV1100001;11;11;1;2
 151;CAV1100002;Centro Antiviolenza Donne e Giustizia;11;042;002;;Via Cialdini;24a;;;60122;071205376;;donne.giustizia@gmail.com;;;;;;;;;;;;;;;UTE1100002;;;;;1;1;;CAV1100002;11;11;1;2
@@ -115,16 +116,16 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 160;CAV0100005;CENTRI ANTIVIOLENZA E.M.M.A. ONLUS;01;001;272;;via G. Passalcqua;6;Torino;;10093;0115187438;;donnefuturo@emmacentriantiviolenza;;;;;;;;;;;;;;;UTE0100005;;;;;1;1;;CAV0100005;01;01;1;2
 161;CAV0100006;Arci Valle Susa;01;001;090;;Via Torino;9/6;Collegno;;10093;0114032271;;centrodonna@arci.it;;;;;;;;;;;;;;;UTE0100006;;;;;1;1;;CAV0100006;01;01;1;2
 162;CAV0100007;SVOLTA DONNA ODV;01;001;191;;Stradale Fenestrelle;1;Pinerolo;;10064;0121 062380;;centroantiviolenza@svoltadonna.onmicrosoft.com;;;;;;;;;;;;;;;UTE0100007;;;;;1;1;;CAV0100007;01;01;1;2
-163;CAV0100008;Città di Torino;01;001;272;;Via Trana;3/a;Torino;;10122;01101131500;;centroantiviolenza@comune.torino.it;;;;;;;;;;;;;;;UTE0100008;;;;;1;1;;CAV0100008;01;01;1;2
+163;CAV0100008;Cittï¿½ di Torino;01;001;272;;Via Trana;3/a;Torino;;10122;01101131500;;centroantiviolenza@comune.torino.it;;;;;;;;;;;;;;;UTE0100008;;;;;1;1;;CAV0100008;01;01;1;2
 164;CAV0100009;CISS Ossola;01;103;028;;Via Mizzoccola;28;Domodossola;;28845;3356978767;;segreteria@ciss-ossola.it;;;;;;;;;;;;;;;UTE0100009;;;;;1;1;;CAV0100009;01;01;1;2
 165;CAV0100010;Consorzio socio-assistenziale del Cuneese;01;004;078;;Via bongianni;36;Cuneo;;12100;0171334181;;centrofamiglie@csac-cn.it;;;;;;;;;;;;;;;UTE0100010;;;;;1;1;;CAV0100010;01;01;1;2
 166;CAV0100011;Consorzio intercomunale servizio socio-assistenziali Biella orientale-C.I.S.S.A.B.O.;01;096;004;;Via Caraccio;4;Biella;;13900;800266233;;centroantiviolenza@cissabo.org;;;;;;;;;;;;;;;UTE0100011;;;;;1;1;;CAV0100011;01;01;1;2
 167;CAV0100012;Comune di Novara;01;003;106;;via Bottini;8;Novara;;28100;3482695812;;violenzano@comune.novara.it;;;;;;;;;;;;;;;UTE0100012;;;;;1;1;;CAV0100012;01;01;1;2
-168;CAV0100013;Ass. Unione donne 3° Millennio;01;001;272;;Via Vanchiglia;6;Torino;;10124;0112639710;;donneterzomillennio@gmail.com;;;;;;;;;;;;;;;UTE0100013;;;;;1;1;;CAV0100013;01;01;1;2
+168;CAV0100013;Ass. Unione donne 3ï¿½ Millennio;01;001;272;;Via Vanchiglia;6;Torino;;10124;0112639710;;donneterzomillennio@gmail.com;;;;;;;;;;;;;;;UTE0100013;;;;;1;1;;CAV0100013;01;01;1;2
 169;CAV0100014;Futuro donna;01;004;066;;Via Case Rosse;1;San Bernardino- Ceva;;12073;3735088683;;futuro.donna@tiscali.it;;;;;;;;;;;;;;;UTE0100014;;;;;1;1;;CAV0100014;01;01;1;2
 170;CAV1600001;Centro Antiviolenza Paola Labriola;16;072;006;;;;;;;0805741461;;info@pec.giraffaonlus.it;;;;;;;;;;;;;;;UTE1600001;;;;;1;1;;CAV1600001;16;16;1;2
 171;CAV1600002;Centro Antiviolenza Safiya;16;072;035;;;;;;;3332640790;;safiya.onlus@pec.it;;;;;;;;;;;;;;;UTE1600002;;;;;1;1;;CAV1600002;16;16;1;2
-172;CAV1600003;Centro Antiviolenza Li.A (Libertà e autodeterminazione);16;072;021;;;;;;;3889898797;;centroantiviolenzalia@gmail.com;;;;;;;;;;;;;;;UTE1600003;;;;;1;1;;CAV1600003;16;16;1;2
+172;CAV1600003;Centro Antiviolenza Li.A (Libertï¿½ e autodeterminazione);16;072;021;;;;;;;3889898797;;centroantiviolenzalia@gmail.com;;;;;;;;;;;;;;;UTE1600003;;;;;1;1;;CAV1600003;16;16;1;2
 173;CAV1600004;Centro Antiviolenza Osservatorio Giulia e Rossella;16;110;002;;;;;;;0883414659;;osservatoriogiuliaerossella@pec.it;;;;;;;;;;;;;;aggiornato telefono 9/08/2023;UTE1600004;;;;;1;1;;CAV1600004;16;16;1;2
 174;CAV1600005;Centro Antiviolenza Save;16;110;009;;;;;;;0883501407;;promosocialetrani@pec.it;;;;;;;;;;;;;;;UTE1600005;;;;;1;1;;CAV1600005;16;16;1;2
 175;CAV1600006;Centro Antiviolenza RiscoprirSi;16;110;001;;;;;;;0883764901;;cav@pec.riscoprirsi.it;;;;;;;;;;;;;;;UTE1600006;;;;;1;1;;CAV1600006;16;16;1;2
@@ -162,14 +163,14 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 215;CAV0900001;Pronto Donna;09;051;002;;Piazzetta delle Logge del Grano;15;Arezzo;;52100;0575355053;;centroantiviolenza@prontodonna.it;;;;;;;;;;;;;info@prontodonna.it;;UTE0900001;;;;;1;1;;CAV0900001;09;09;1;2
 216;CAV0900002;Artemisia APS;09;048;017;;Via del Mezzetta;1/int;Firenze;;50135;055601375;;amministrazione@artemisiacentroantiviolenza.it;;;;;;;;;;;;;;;UTE0900002;;;;;1;1;;CAV0900002;09;09;1;2
 217;CAV0900003;Centro Aiuto Donna Lilith;09;048;014;;Via XX Settembre;17;Empoli;;50053;0571725156;;centrolilith@anpas.empoli.fi.it;;;;;;;;;;;;;;;UTE0900003;;;;;1;1;;CAV0900003;09;09;1;2
-218;CAV0900004;Centro Antiviolenza Olympia – Associazione Olympia de Gouges onlus;09;053;011;;Via Ansedonia;6;Grosseto;;58100;0564413884;;segreteria@olympiadegouges.net;;;;;;;;;;;;;comunicazione@olympiadegouges.net;;UTE0900004;;;;;1;1;;CAV0900004;09;09;1;2
-219;CAV0900005;Centro Antiviolenza Olympia Orbetello – Associazione Olympia de Gouges;09;053;018;;Via Carlo Steeb;2;Orbetello;;58015;3489376554;;cavorbetello@olympiadegouges.net;;;;;;;;;;;;;;;UTE0900005;;;;;1;1;;CAV0900005;09;09;1;2
+218;CAV0900004;Centro Antiviolenza Olympia ï¿½ Associazione Olympia de Gouges onlus;09;053;011;;Via Ansedonia;6;Grosseto;;58100;0564413884;;segreteria@olympiadegouges.net;;;;;;;;;;;;;comunicazione@olympiadegouges.net;;UTE0900004;;;;;1;1;;CAV0900004;09;09;1;2
+219;CAV0900005;Centro Antiviolenza Olympia Orbetello ï¿½ Associazione Olympia de Gouges;09;053;018;;Via Carlo Steeb;2;Orbetello;;58015;3489376554;;cavorbetello@olympiadegouges.net;;;;;;;;;;;;;;;UTE0900005;;;;;1;1;;CAV0900005;09;09;1;2
 221;CAV0900007;Centro Donna Piombino;09;049;012;;Via Lerario;92;Piobino;;;056549419;;centroantiviolenza@tiscali.it;;;;;;;;;;;;;;;UTE0900007;;;;;1;1;;CAV0900007;09;09;1;2
 222;CAV0900008;Ippogrifo;09;049;009;;P.zza della Repubblica;47;Livorno;;57125;0586889594;;ippogrifo@alicia.it;;;;;;;;;;;;;;;UTE0900008;;;;;1;1;;CAV0900008;09;09;1;2
 223;CAV0900009;Randi APS ETS;09;049;009;;Via della Maddalena;4;Livorno;;57100;3392785450;;resivi@libero.it;;;;;;;;;;;;;;;UTE0900009;;;;;1;1;;CAV0900009;09;09;1;2
-224;CAV0900010;“L'una per l'altra” della Casa delle donne APS di Viareggio;09;046;033;;Via Marco Polo;6;Viareggio;;55049;058456136;;centroantiviolenzaviareggio@gmail.com;;;;;;;;;;;;;refrein@virgilio.it;;UTE0900010;;;;;1;1;;CAV0900010;09;09;1;2
+224;CAV0900010;ï¿½L'una per l'altraï¿½ della Casa delle donne APS di Viareggio;09;046;033;;Via Marco Polo;6;Viareggio;;55049;058456136;;centroantiviolenzaviareggio@gmail.com;;;;;;;;;;;;;refrein@virgilio.it;;UTE0900010;;;;;1;1;;CAV0900010;09;09;1;2
 225;CAV0900011;E.T.S. Centro Antiviolenza Luna A.P.S.;09;046;017;;Via Ungaretti;86;Lucca;;55100;0583997928;;presidente@associazioneluna.it;;;;;;;;;;;;;;;UTE0900011;;;;;1;1;;CAV0900011;09;09;1;2
-226;CAV0900012;Centro Donna Lunigiana;09;045;014;;c/o Casa della salute – Mulazzo loc. Arpiola;;Mulazzo (MS);;54026;0187460683;;centrodonna1@gmail.com;;;;;;;;;;;;;angela.simonelli@uslnordovest.toscana.it;;UTE0900012;;;;;1;1;;CAV0900012;09;09;1;2
+226;CAV0900012;Centro Donna Lunigiana;09;045;014;;c/o Casa della salute ï¿½ Mulazzo loc. Arpiola;;Mulazzo (MS);;54026;0187460683;;centrodonna1@gmail.com;;;;;;;;;;;;;angela.simonelli@uslnordovest.toscana.it;;UTE0900012;;;;;1;1;;CAV0900012;09;09;1;2
 227;CAV0900013;Sabine;09;045;011;;Via Sforza;58;Montignoso (MS);;54038;3291286257;;associazionesabine2020@gmail.com;;;;;;;;;;;;;;;UTE0900013;;;;;1;1;;CAV0900013;09;09;1;2
 228;CAV0900014;Donna chiama Donna;09;045;003;;Piazza CV Lodovici;1;Carrara;;54033;058571299;;barbara.tedeschi@comune.carrara.ms.it;;;;;;;;;;;;;;;UTE0900014;;;;;1;1;;CAV0900014;09;09;1;2
 229;CAV0900015;D.U.N.A. Donne Unite Nell'Antiviolenza;09;045;010;;Via delle Pinete;116;Massa;;54100;3776994263;;associarpa@gmail.com;;;;;;;;;;;;;;;UTE0900015;;;;;1;1;;CAV0900015;09;09;1;2
@@ -184,8 +185,8 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 238;CAV0900024;Donne Insieme Valdelsa;09;052;012;;Via XXV Aprile;122;Colle di Valdelsa (SI);;53034;0577602273;;donneinsiemevaldelsa@gmail.com;;;;;;;;;;;;;;;UTE0900024;;;;;1;1;;CAV0900024;09;09;1;2
 239;CAV1000001;Centro Antiviolenza Catia Doriana Bellini;10;054;039;;Via della Milizia;4;;;06134;0755941326 3423029409;;centroantiviolenzaperugia@gmail.com;;;;;;;;;;;;;;;UTE1000001;;;;;1;1;;CAV1000001;10;10;1;2
 240;CAV1000002;Centro Antiviolenza Liberetutte;10;055;032;;Via Campomicciolo;1;;;05100;0744288069;;scarperosse.tr@gmail.com;;;;;;;;;;;;;;;UTE1000002;;;;;1;1;;CAV1000002;10;10;1;2
-241;CAV1000003;Centro Antiviolenza L’Albero di Antonia;10;055;023;;Viale I Maggio;36;;;05019;0763300944;;alberodiantonia51@yahoo.it;;;;;;;;;;;;;;;UTE1000003;;;;;1;1;;CAV1000003;10;10;1;2
-242;CAV0200001;Centro donne contro la violenza di Aosta;02;007;003;;Via Torino;18;Aosta;1° piano;11100;0165238750;;cdvaosta@libero.it;;;;;;;;;;;;;;;UTE0200001;;;;;1;1;;CAV0200001;02;02;1;2
+241;CAV1000003;Centro Antiviolenza Lï¿½Albero di Antonia;10;055;023;;Viale I Maggio;36;;;05019;0763300944;;alberodiantonia51@yahoo.it;;;;;;;;;;;;;;;UTE1000003;;;;;1;1;;CAV1000003;10;10;1;2
+242;CAV0200001;Centro donne contro la violenza di Aosta;02;007;003;;Via Torino;18;Aosta;1ï¿½ piano;11100;0165238750;;cdvaosta@libero.it;;;;;;;;;;;;;;;UTE0200001;;;;;1;1;;CAV0200001;02;02;1;2
 243;CAV0500001;Centro Antiviolenza Belluno DONNA;05;025;021;;Viale Roma;64;Ponte nelle Alpi;;32014;0437981577;;bellunodonna@libero.it;;;;;;;;;;;;;sabrina.campigotto@gmail.com;;UTE0500001;;;;;1;1;;CAV0500001;05;05;1;2
 244;CAV0500002;Centro Antiviolenza Alta Padovana;05;028;019;;via Nicoletti;c/o ex scuola elementare di Facca;Cittadella;;35031;0498721277;;info@centrodonnapadova.it;;;;;;;;;;;;;;;UTE0500002;;;;;1;1;;CAV0500002;05;05;1;2
 245;CAV0500003;Centro Antiviolenza Donne Deste;05;028;037;;Via San Rocco;15;Este;;35042;0498721277;;donnedeste@centrodonnapadova.it;;;;;;;;;;;;;;;UTE0500003;;;;;1;1;;CAV0500003;05;05;1;2
@@ -198,8 +199,8 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 252;CAV0500010;Centro Antiviolenza Vittorio Veneto;05;026;092;;Piazza del Popolo;15;Vittorio Veneto;;31029;0438569450;;centroantiviolenza@comune.vittorio-veneto.tv.it;;;;;;;;;;;;;schies@comune.vittorio-veneto.tv.it;;UTE0500010;;;;;1;1;;CAV0500010;05;05;1;2
 253;CAV0500011;Civico Donna;05;027;008;;viale Vespucci;;Chioggia;;30015;800195359;;centroantiviolenza.chioggia@gmail.com;;;;;;;;;;;;;;;UTE0500011;;;;;1;1;;CAV0500011;05;05;1;2
 254;CAV0500012;Centro Antiviolenza Sonia;05;027;026;;Largo S.Giorgio;3;Noale;;30030;3492420066;;soniantiviolenza@isidecoop.com;;;;;;;;;;;;;;;UTE0500012;;;;;1;1;;CAV0500012;05;05;1;2
-255;CAV0500013;Centro di Ascolto per la violenza di genere Città Gentili;05;027;029;;Via Giacomo Leopardi;19;Portogruaro;;30026;3311310636;;info@larco.org;;;;;;;;;;;;;;;UTE0500013;;;;;1;1;;CAV0500013;05;05;1;2
-256;CAV0500014;Centro Antiviolenza ed Antistalking la Magnolia;05;027;033;;via Ca' Boldù;120;San Donà di Piave;;30027;0421596104;;segreteria@fondazioneferriolibo.it;;;;;;;;;;;;;;;UTE0500014;;;;;1;1;;CAV0500014;05;05;1;2
+255;CAV0500013;Centro di Ascolto per la violenza di genere Cittï¿½ Gentili;05;027;029;;Via Giacomo Leopardi;19;Portogruaro;;30026;3311310636;;info@larco.org;;;;;;;;;;;;;;;UTE0500013;;;;;1;1;;CAV0500013;05;05;1;2
+256;CAV0500014;Centro Antiviolenza ed Antistalking la Magnolia;05;027;033;;via Ca' Boldï¿½;120;San Donï¿½ di Piave;;30027;0421596104;;segreteria@fondazioneferriolibo.it;;;;;;;;;;;;;;;UTE0500014;;;;;1;1;;CAV0500014;05;05;1;2
 257;CAV0500015;Centro Antiviolenza del Comune di Venezia;05;027;042;;Viale Garibaldi;155/A;Mestre;;30174;0415349215;;centro.antiviolenza@comune.venezia.it;;;;;;;;;;;;;;;UTE0500015;;;;;1;1;;CAV0500015;05;05;1;2
 258;CAV0500016;Centro Antiviolenza Estia;05;027;042;;Via Bissagola;14;Mestre;;30173;3429757092;;estiantiviolenza@isidecoop.com;;;;;;;;;;;;;;;UTE0500016;;;;;1;1;;CAV0500016;05;05;1;2
 259;CAV0500017;Spazio Donna;05;024;012;;via Schiavonetti;8;Bassano del Grappa;;36061;0424521483;;spaziodonna@hotmail.it;;;;;;;;;;;;;;;UTE0500017;;;;;1;1;;CAV0500017;05;05;1;2
@@ -208,9 +209,9 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 262;CAV0500020;Centro Antiviolenza P.E.T.R.A.;05;023;091;;Via Pallone;9/B;;;37121;800392722;;petra.antiviolenza@comune.verona.it;;;;;;;;;;;;;;;UTE0500020;;;;;1;1;;CAV0500020;05;05;1;2
 263;CAV0500021;TELEFONO ROSA VERONA;05;023;091;;Santa Toscana;9;Verona;;37129;0458015831;;trverona@gmail.com;;;;;;;;;;;;;;;UTE0500021;;;;;1;1;;CAV0500021;05;05;1;2
 264;CAV4100001;Centro d'Ascolto Antiviolenza dell'Associazione GEA-Bolzano;41;021;008;;Via del Ronco;21;Bolzano;;39100;800276433;;info@casadelledonnebz.it;;;;;;;;;;;;;;;UTE4100001;;;;;1;1;;CAV4100001;41;41;1;2
-265;CAV4100002;Centro d'Ascolto antiviolenza della Comunità Comprensoriale Valle Isarco;41;021;011;;Via Roma;7;Bressanone;;39042;800601330;;frauenhaus.brixen@bzgeis.org;;;;;;;;;;;;;;;UTE4100002;;;;;1;1;;CAV4100002;41;41;1;2
-266;CAV4100003;Centro d'Ascolto Antiviolenza della Comunità comprensoriale Alta Pusteria;41;021;013;;Via Michael Pacher;6;Brunico;;39031;800310303;;frauenhausdienst@bzgpust.it;;;;;;;;;;;;;;;UTE4100003;;;;;1;1;;CAV4100003;41;41;1;2
-267;CAV4100004;Centro d'Ascolto Antiviolenza dell'Ass. Donne contro la Violenza Frauen gegen gewalt Onlus-Merano;41;021;051;;Corso Libertà;184/a;Merano;;39012;800014008;;info@donnecontrolaviolenza.org;;;;;;;;;;;;;;;UTE4100004;;;;;1;1;;CAV4100004;41;41;1;2
+265;CAV4100002;Centro d'Ascolto antiviolenza della Comunitï¿½Comprensoriale Valle Isarco;41;021;011;;Via Roma;7;Bressanone;;39042;800601330;;frauenhaus.brixen@bzgeis.org;;;;;;;;;;;;;;;UTE4100002;;;;;1;1;;CAV4100002;41;41;1;2
+266;CAV4100003;Centro d'Ascolto Antiviolenza della Comunitï¿½ comprensoriale Alta Pusteria;41;021;013;;Via Michael Pacher;6;Brunico;;39031;800310303;;frauenhausdienst@bzgpust.it;;;;;;;;;;;;;;;UTE4100003;;;;;1;1;;CAV4100003;41;41;1;2
+267;CAV4100004;Centro d'Ascolto Antiviolenza dell'Ass. Donne contro la Violenza Frauen gegen gewalt Onlus-Merano;41;021;051;;Corso Libertï¿½;184/a;Merano;;39012;800014008;;info@donnecontrolaviolenza.org;;;;;;;;;;;;;;;UTE4100004;;;;;1;1;;CAV4100004;41;41;1;2
 268;CAV4200001;Centro Antiviolenza-Ass. Coordinamento Donne;42;022;205;;Via della Dogana;1;;;;0461220048;;centroantiviolenzatn@gmail.com;;;;;;;;;;;;;;;UTE4200001;;;;;1;1;;CAV4200001;42;42;1;2
 270;CAV1300010;Centro antiviolenza Liberadiosa;13;066;098;;Via Gorizia;18;Sulmona;;67039;0864660181;;associazioneladiosa@gmail.com;;;;;;;;;;;;;;;UTE1300010;;;;;1;1;;CAV1300010;13;13;1;2
 276;CAV1500049;Ananke;15;064;005;;Via Fontananuova;;Ariano Irpino;;83031;800589625;;ananke@pianosociale-a1.it;;;;;;;;;;;;;;;UTE1500049;;;;;1;1;;CAV1500049;15;15;1;2
@@ -223,18 +224,18 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 283;CAV1800010;Centro antiviolenza Comunale Paterno Calabro;18;078;094;;Piazza Municipio;9;Paterno Calabro (CS);;87040;3519184194;;sindaco.paternocalabro@asmepec.it;;;;;;;;;;;;;;;UTE1800010;;;;;1;1;;CAV1800010;18;18;1;2
 284;CAV1900016;Ass. Millecolori;19;082;053;;via Ammiraglio Persano;46;PALERMO;PALERMO;90142;0918437236 3391690885;;info@pec.millecolorionlus.org;;;;;;;;;;;;;;;UTE1900016;;;;;1;1;;CAV1900016;19;19;1;2
 285;CAV1900017;Ass. A.N.G.E.L.I. Lentini;19;089;011;;Via Catania;96/98;LENTINI;SIRACUSA;96016;0957835316;;presidenzaangeli@libero.it;;;;;;;;;;;;;;;UTE1900017;;;;;1;1;;CAV1900017;19;19;1;2
-287;CAV1900019;Gruppo Culturale di Più;19;088;003;;via degli Studi;16;COMISO;RAGUSA;97013;0932748377 3331051084;;susy.lopresti@gmail.com;;;;;;;;;;;;;;;UTE1900019;;;;;1;1;;CAV1900019;19;19;1;2
+287;CAV1900019;Gruppo Culturale di Piï¿½;19;088;003;;via degli Studi;16;COMISO;RAGUSA;97013;0932748377 3331051084;;susy.lopresti@gmail.com;;;;;;;;;;;;;;;UTE1900019;;;;;1;1;;CAV1900019;19;19;1;2
 288;CAV0300034;Donne e Diritti;03;015;146;;;;;;;0364536632;;centroantiviolenza@terreunite.it;;;;;;;;;;;;;;;UTE0300034;;;;;1;1;;CAV0300034;03;03;1;2
 289;CAV0300035;Telefono Donna Onlus -sede operativa Milano;03;015;146;;;;;;;0264443043;;telefonodonnaonline@libero.it;;;;;;;;;;;;;;;UTE0300035;;;;;1;1;;CAV0300035;03;03;1;2
 290;CAV0300036;La Stanza dello Scirocco;03;015;093;;;;;;;800049722;;cavcorsico@fondazione somaschi.it;;;;;;;;;;;;;;;UTE0300036;;;;;1;1;;CAV0300036;03;03;1;2
-295;CAV1000004;Centro regionale per le pari opportunità;10;054;039;;Via Giuseppe Mazzini PG;21;;;06121;0744484506;;c.antiviolenzatelefonodonna@gmail.com;;;;;;;;;;;;;;;UTE1000004;;;;;1;1;;CAV1000004;10;10;1;2
+295;CAV1000004;Centro regionale per le pari opportunitï¿½;10;054;039;;Via Giuseppe Mazzini PG;21;;;06121;0744484506;;c.antiviolenzatelefonodonna@gmail.com;;;;;;;;;;;;;;;UTE1000004;;;;;1;1;;CAV1000004;10;10;1;2
 303;CAV2000008;Centro Antiviolenza Donna Eleonora;20;095;038;;Via Tirso;8;;;09170;078371286;;info@centroantiviolenzaoristano.it;;;;;;;;;;;;;;;UTE2000008;;;;;1;1;;CAV2000008;20;20;1;2
 305;CAV0300040;Assoc. Rete di Dafne-Iseo;03;017;133;;;;;;;3392226941;;associazione@retedidaphne.it;;;;;;;;;;;;;;;UTE0300040;;;;;1;1;;CAV0300040;03;03;1;2
 306;CAV0300041;Centro R.I.T.A.;03;016;198;;;;;;;035303266;;centrorita@aiutodonna.it;;;;;;;;;;;;;;;UTE0300041;;;;;1;1;;CAV0300041;03;03;1;2
-307;CAV0300042;Centro Antiviolenza “Ascolta chi parla”;03;016;209;;;;;;;03519910067;;centroascoltachiparla@aiutodonna.it;;;;;;;;;;;;;;;UTE0300042;;;;;1;1;;CAV0300042;03;03;1;2
+307;CAV0300042;Centro Antiviolenza ï¿½Ascolta chi parlaï¿½;03;016;209;;;;;;;03519910067;;centroascoltachiparla@aiutodonna.it;;;;;;;;;;;;;;;UTE0300042;;;;;1;1;;CAV0300042;03;03;1;2
 308;CAV0300043;Centro Donna San Donato;03;015;192;;;;;;;0236527138;;cavsandonato@fondazionesomaschi.it;;;;;;;;;;;;;;;UTE0300043;;;;;1;1;;CAV0300043;03;03;1;2
 309;CAV0300044;Centro antiviolenza VIVADONNA;03;017;075;;;;;;;0308337422;;antiviolenzavalletrompia@gmail.com;;;;;;;;;;;;;;;UTE0300044;;;;;1;1;;CAV0300044;03;03;1;2
-310;CAV0300045;Centro antiviolenza  CHIARE ACQUE di Salò;03;017;067;;;;;;;3349713199;;info@centroantiviolenzachiareacque.it;;;;;;;;;;;;;;;UTE0300045;;;;;1;1;;CAV0300045;03;03;1;2
+310;CAV0300045;Centro antiviolenza  CHIARE ACQUE di Salï¿½;03;017;067;;;;;;;3349713199;;info@centroantiviolenzachiareacque.it;;;;;;;;;;;;;;;UTE0300045;;;;;1;1;;CAV0300045;03;03;1;2
 311;CAV0300046;Centro antiviolenza V.I.O.L.A. (Somaschi);03;015;142;;;;;;;3931667083;;centroantiviolenza@fondazionesomaschi.it;;;;;;;;;;;;;;;UTE0300046;;;;;1;1;;CAV0300046;03;03;1;2
 312;CAV0300047;Centro antiviolenza HARA ricomincio da me (Somaschi);03;015;182;;;;;;;3351820629;;centroantiviolenza@fondazionesomaschi.it;;;;;;;;;;;;;;;UTE0300047;;;;;1;1;;CAV0300047;03;03;1;2
 313;CAV0300048;Centro Donne Mantova;03;020;030;;;;;;;3899151596;;info@centrodonnemantova.it;;;;;;;;;;;;;;;UTE0300048;;;;;1;1;;CAV0300048;03;03;1;2
@@ -258,12 +259,12 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 332;CAV0500022;Centro Antiviolenza Legnago Donna;05;023;044;;;;Legnago;;37045;0442634912;;legnagodonna@gmail.com;;;;;;;;;;;;;giulia.leoni@comune.legnago.vr.it;;UTE0500022;;;;;1;1;;CAV0500022;05;05;1;2
 333;CAV0600007;Centro Antiviolenza Voce Donna ONLUS- Tolmezzo;06;030;121;;via del Din Renato;9;TOLMEZZO;;;0433949021;;vocedonna@gmail.com;;;;;;;;;;;;;;;UTE0600007;;;;;1;1;;CAV0600007;06;06;1;2
 334;CAV0100019;Uscire dal silenzio ODV;01;001;265;;Via Generale Dalla Chiesa;21;Settimo t.se;;10036;800688820;;usciredalsilenzio@gmail.com;;;;;;;;;;;;;;;UTE0100020;;;;;1;1;;CAV0100019;01;01;1;2
-335;CAV0100020;CISAS Consorzio intercomunale per i Servizi di Assistenza Sociale  Santhià;01;002;133;;via De Amicis;45;Santhià;;13048;0161 94248;;ricominciodaqui@cisassanthia.it;;;;;;;;;;;;;;;UTE0100021;;;;;1;1;;CAV0100020;01;01;1;2
+335;CAV0100020;CISAS Consorzio intercomunale per i Servizi di Assistenza Sociale  Santhiï¿½;01;002;133;;via De Amicis;45;Santhiï¿½;;13048;0161 94248;;ricominciodaqui@cisassanthia.it;;;;;;;;;;;;;;;UTE0100021;;;;;1;1;;CAV0100020;01;01;1;2
 336;CAV0100021;Comune di Vercelli;01;002;158;;via Fratelli Garrone;12;Vercelli;;13100;334 3113955;;eos@comune.vercelli.it;;;;;;;;;;;;;;;UTE0100019;;;;;1;1;;CAV0100021;01;01;1;2
 337;CAV0100022;Irene SC Impresa sociale;01;003;024;;via Ignazio Fornara;33;Borgomanero;;28021;351 0202597;;cav.areanordnovarese@gmail.com;;;;;;;;;;;;;;;UTE0100022;;;;;1;1;;CAV0100022;01;01;1;2
 339;CAV0500024;CENTRO ANTIVIOLENZA HAGAR;05;024;009;;Via Dalla Zuanna;13;Asiago;;36012;0424525065;;tabita@casasichem.org;;;;;;;;;;;;;;;UTE0500026;;;;;1;1;;CAV0500024;05;05;1;2
 340;CAV0700009;Centro Antiviolenza Artemisia Gentileschi APS;07;009;002;;Regione Bagnoli;39;Albenga;;17031;0182571517;;direzione@centroartemisiaalbenga.it;;;;;;;;;;;;;info@centroartemisiaalbenga.it;;UTE0700009;;;;;1;1;;CAV0700009;07;07;1;2
-341;CAV0900025;Non ti scordar di te;09;046;015;;Via Provinciale;6;Ponte di Campia – Gallicano (LU);;55027;0583 766094;;nontiscordardite@live.it;;;;;;;;;;;;;;;UTE0900025;;;;;1;1;;CAV0900025;09;09;1;2
+341;CAV0900025;Non ti scordar di te;09;046;015;;Via Provinciale;6;Ponte di Campia ï¿½ Gallicano (LU);;55027;0583 766094;;nontiscordardite@live.it;;;;;;;;;;;;;;;UTE0900025;;;;;1;1;;CAV0900025;09;09;1;2
 342;CAV1200018;Centro antiviolenza GEA (ex tre lune);12;058;047;;Via Monte Bianco;18;Guidonia Montecelio (RM);;00012;3490798572;;centroantiviolenza@guidonia.org;;;;;;;;;;;;;;;UTE1200020;;;;;1;1;;CAV1200018;12;12;1;2
 343;CAV1200019;Centro antiviolenza Alessia e Martina Capasso (ex Municipio 1);12;058;091;;Circonvallazione Trionfale;19;Roma;;00136;0669617873 3316493913;;cavtrionfale@differenzadonna.it;;;;;;;;;;;;;;;UTE1200019;;;;;1;1;;CAV1200019;12;12;1;2
 344;CAV1200020;Centro antiviolenza Titano (ex Municipio 3);12;058;091;;Via Titano;3;Roma;;00141;0669604434;;cavviatitano@gmail.com;;;;;;;;;;;;;;;UTE1200018;;;;;1;1;;CAV1200020;12;12;1;2
@@ -303,7 +304,7 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 393;CAV1900031;ASSOCIAZIONE CO.TU.LE.VI.;19;081;021;;Via XXX Gennaio - presso Palazzo di Giustizia;;TRAPANI;TRAPANI;91100;0923802433;;associazionecotulevi@gmail.com;;;;;;;;;;;;;;;UTE1900031;;;;;1;1;;CAV1900031;19;19;1;2
 395;CAV2000010;Centro antiviolenza interdistrettuale Ambiti PLUS di Sanluri e Guspini;20;111;067;;via Paganini;22;;;09025;800777991;;cavfeminas.mediocampidano@koinoscoop.it;;;;;;;;;;;;;;;UTE2000010;;;;;1;1;;CAV2000010;20;20;1;2
 397;CAV0100023;Centro antiviolenza Bra-Alba;01;004;029;;via Gianolio;22;;;12042;3204654644;;centroantiviolenza@comune.bra.cn.it;;;;;;;;;;;;;;;UTE0100023;;;;;1;1;;CAV0100023;01;01;1;2
-401;CAV0500026;CENTRO ANTIVIOLENZA LEUKÈ;05;028;060;;via Palù;2;Rubano;;35030;0498721277;;info@centrodonnapadova.it;;;;;;;;;;;;;;;UTE0500024;;;;;1;1;;CAV0500026;05;05;1;2
+401;CAV0500026;CENTRO ANTIVIOLENZA LEUKï¿½;05;028;060;;via Palï¿½;2;Rubano;;35030;0498721277;;info@centrodonnapadova.it;;;;;;;;;;;;;;;UTE0500024;;;;;1;1;;CAV0500026;05;05;1;2
 402;CAV0700010;Casa Pandora Margherita Ferro;07;010;025;;Via Piccone;13/2;Genova;;16159;0107314853;;centromferro@casapandora.it;;;;;;;;;;;;;;;UTE0700010;;;;;1;1;;CAV0700010;07;07;1;2
 403;CAV0800022;Centro antiviolenza Marielle;08;099;018;;;;;;;3465016665;;valmarecchia@rompiilsilenzio.org;;;;;;;;;;;;;;;UTE0800022;;;;;1;1;;CAV0800022;08;08;1;2
 404;CAV1000008;Centro Antiviolenza Foligno;10;054;018;;Via dei Molini;20 A;;;06034;389 2114733;;centroantiviolenzafoligno@gmail.com;;;;;;;;;;;;;;;UTE1000008;;;;;1;1;;CAV1000008;10;10;1;2
@@ -324,10 +325,10 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 419;CAV2000011;Centro antiviolenza Ambiti PLUS di Carbonia e Iglesias;20;107;003;;Via Porceddu;12;;;09013;800984434;;donnealtraguardopluscarbonia@gmail.com;;;;;;;;;;;;;;;UTE2000011;;;;;1;1;;CAV2000011;20;20;1;2
 420;CAV2000012;Centro antiviolenza Unione Comuni del Marghine;20;091;044;;Via S. Satta;19;;;08015;0785 222200/3;;info@unionemarghine.it;;;;;;;;;;;;;;;UTE2000012;;;;;1;1;;CAV2000012;20;20;1;2
 421;CAV2000013;Centro antiviolenza Spazio Donna PLUS Ozieri;20;090;052;;Via Tola;20;;;07014;0794124774;;coordinamentolares@hotmail.it;;;;;;;;;;;;;;;UTE2000013;;;;;1;1;;CAV2000013;20;20;1;2
-422;CAV1500073;Centro Antiviolenza Demetra è Donna;15;064;008;;via fontanatetta;;Avellino;;83100;08251885778;;cav@demetrasociale.it;;;;;;;;;;;;;;;UTE1500062;;;;;1;1;;CAV1500073;15;15;1;2
+422;CAV1500073;Centro Antiviolenza Demetra ï¿½ Donna;15;064;008;;via fontanatetta;;Avellino;;83100;08251885778;;cav@demetrasociale.it;;;;;;;;;;;;;;;UTE1500062;;;;;1;1;;CAV1500073;15;15;1;2
 423;CAV0300058;Il Cerchio della Luna;03;017;029;;Via Francesco Baracca;1;Brescia;;25128;3311256117;;ilcerchiodellaluna@libero.it;;;;;;;;;;;;;;;UTE0300058;;;;;1;1;;CAV0300058;03;03;1;2
 424;CAV0600008;CAV di Grado - Associazione S.O.S.ROSA ODV;06;031;009;;Via Fiume;11;;;34073;3391467750;;sosrosagrado@gmail.com;;;;;;;;;;;;;;;UTE0600008;;;;;1;1;;CAV0600008;06;06;1;2
-425;CAV0700011;Centro Antiviolenza Mai più sola;07;011;027;;Piazza Ricchetti;3;Sarzana;;19038;3343793354;;info@maipiusola.it;;;;;;;;;;;;;;;UTE0700011;;;;;1;1;;CAV0700011;07;07;1;2
+425;CAV0700011;Centro Antiviolenza Mai piï¿½ sola;07;011;027;;Piazza Ricchetti;3;Sarzana;;19038;3343793354;;info@maipiusola.it;;;;;;;;;;;;;;;UTE0700011;;;;;1;1;;CAV0700011;07;07;1;2
 426;CAV0800023;Centro Antiviolenza distrettuale UCMAN;08;036;021;;VIA MILANO;4;Medolla;;41036;3703068286;;sportelloascolto2020@libero.it;;;;;;;;;;;0592589511;;gulliver@gulliver.mo.it;la richiesta di iscrizione all?elenco regionale ha avuto esito negativo;UTE0800023;;;;;1;1;;03000100002;08;08;1;2
 428;CAV1000011;Centro Antiviolenza Magione;10;054;026;;Piazza Fra Giovanni di Pian di Carpine;16;MAGIONE;;06063;0758473063  3387211260;;cavmagione@gmail.com;;;;;;;;;;;;;;;UTE1000011;;;;;1;1;;CAV1000011;10;10;1;2
 429;CAV1200034;Teresa Buonocore;12;058;091;;Via Casal del Marmo;118;Roma;;00100;3312647130;;cav.casalmarmo@gmail.com;;;;;;;;;;;;;;;UTE1200034;;;;;1;1;;CAV1200034;12;12;1;2
@@ -342,10 +343,10 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 443;CAV1500084;ANNABELLA COZZOLINO - CENTRO ANTIVIOLENZA;15;063;064;;VIA MARCONI;39;Ercolano;;80056;0817881489  8001927;;cavercolano@proodos.it;;;;;;;;;;;;;;;UTE1500084;;;;;1;1;;CAV1500084;15;15;1;2
 444;CAV1500085;NON DA SOLA;15;063;037;;VIA MORGIONI;99;Ischia;;80077;3792022989;;orsinoirene@comuneischia.it;;;;;;;;;;;;;;;UTE1500085;;;;;1;1;;CAV1500085;15;15;1;2
 445;CAV1500086;CENTRO ANTIVIOLENZA DONNE IN ASCOLTO;15;061;046;;VIA FRATELLI CERVI;3;Lusciano;;81030;3332466962;;kalindaonlus@gmail.com;;;;;;;;;;;;;;;UTE1500086;;;;;1;1;;CAV1500086;15;15;1;2
-448;CAV1500089;APS MADDALENA;15;063;049;;VIA DIOCLEZIANO C/O MUNICIPALITÀ 10;330;Napoli;;80124;0817958010;;cavfuorigrotta@gmail.com ;;;;;;;;;;;;;antiviolenza.donna@comune.napoli.it;La mail cavfuorigrotta@gmail.com sostituisce quella generica antiviolenza.donna@comune.napoli.it come da telefonata 25.07.2024. FG;UTE1500089;;;;;1;1;;CAV1500089;15;15;1;2
+448;CAV1500089;APS MADDALENA;15;063;049;;VIA DIOCLEZIANO C/O MUNICIPALITï¿½ 10;330;Napoli;;80124;0817958010;;cavfuorigrotta@gmail.com ;;;;;;;;;;;;;antiviolenza.donna@comune.napoli.it;La mail cavfuorigrotta@gmail.com sostituisce quella generica antiviolenza.donna@comune.napoli.it come da telefonata 25.07.2024. FG;UTE1500089;;;;;1;1;;CAV1500089;15;15;1;2
 449;CAV1500090;ASSOCIAZIONE ARCI D ONNA NAPOLI ONLUS APS;15;063;049;;VIA CONCEZIONE A MONTECALVARIO C/O EX PALAZZETTO URBAN;26;Napoli;;80134;0817953191 0817953190;;cavmontecalvario@gmail.com;;;;;;;;;;;;;;;UTE1500090;;;;;1;1;;CAV1500090;15;15;1;2
-450;CAV1500091;COOPERATIVA SOCIALE DEDALUS;15;063;049;;VIA SANT'AGOSTINO DEGLI SCALZI C/O MUNICIPALITÀ 3;61;Napoli;;80136;0817952615;;antiviolenza.donna@comune.napoli.it;;;;;;;;;;;;;;;UTE1500091;;;;;1;1;;CAV1500091;15;15;1;2
-451;CAV1500092;LE KASSANDRE APS;15;063;049;;VIA HEMINGWAY MUNICIPALITÀ 4;120;Napoli;;80147;3880973350;;antiviolenza.donna@comune.napoli.it;;;;;;;;;;;;;;;UTE1500092;;;;;1;1;;CAV1500092;15;15;1;2
+450;CAV1500091;COOPERATIVA SOCIALE DEDALUS;15;063;049;;VIA SANT'AGOSTINO DEGLI SCALZI C/O MUNICIPALITï¿½ 3;61;Napoli;;80136;0817952615;;antiviolenza.donna@comune.napoli.it;;;;;;;;;;;;;;;UTE1500091;;;;;1;1;;CAV1500091;15;15;1;2
+451;CAV1500092;LE KASSANDRE APS;15;063;049;;VIA HEMINGWAY MUNICIPALITï¿½ 4;120;Napoli;;80147;3880973350;;antiviolenza.donna@comune.napoli.it;;;;;;;;;;;;;;;UTE1500092;;;;;1;1;;CAV1500092;15;15;1;2
 452;CAV1500093;SALUTE DONNA APS;15;063;049;;VIA MORGHEN MUNICIPALITA' 5;5;Napoli;;80129;0817952254;;antiviolenza.donna@comune.napoli.it;;;;;;;;;;;;;;;UTE1500093;;;;;1;1;;CAV1500093;15;15;1;2
 453;CAV1500094;FUTURA;15;063;050;;PIAZZA DUOMO;1;Nola;;80035;800102590;;cavfuturan23@pec.it;;;;;;;;;;;;;;;UTE1500094;;;;;1;1;;CAV1500094;15;15;1;2
 454;CAV1500095;CENTRO ANTIVIOLENZA DI AMBITO NO VIOLENCE;15;065;089;;VIA VALLE;snc;Palomonte;;84020;0828994111;;centroantiviolenza@agoras10.it;;;;;;;;;;;;;;;UTE1500095;;;;;1;1;;CAV1500095;15;15;1;2
@@ -369,11 +370,11 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 474;CAV0300059;Felicita Morandi;03;012;133;;P.zza Biroldi  ang. Via Filippo del Ponte;;;;;0332299501;;fondazionefelicitamorandi@gmail.com;;;;;;;;;;;;;;;UTE0300059;;;;;1;1;;CAV0300059;03;03;1;2
 475;CAV0300060;CAV di Bresso;03;015;032;;;;;;;3356515413;;mittatron@virgilio.it;;;;;;;;;;;;;;;UTE0300060;;;;;1;1;;CAV0300060;03;03;1;2
 476;CAV0700012;Martina Rossi;07;010;047;;Via XXV Aprile;13/4;Recco;;16036;3346030961;;cavmartina.rossi@pernonsubireviolenza.it;;;;;;;;;;;;;pernonsubireviolenza@gmail.com;;UTE0700012;;;;;1;1;;CAV0700012;07;07;1;2
-477;CAV1200037;CAV Sapienza;12;058;091;;Viale dello Scalo di San Lorenzo;61/b;Roma-Facoltà di Medicina e psicologia;;00185;3665479783;;cavsapienza@uniroma1.it;;;;;;;;;;;;;;;UTE1200037;;;;;1;1;;CAV1200037;12;12;1;2
-478;CAV1200038;CAV Università della Tuscia;12;056;059;;via Santa Maria in Gradi;4;Viterbo;;01100;0761357803 34441525803;;cav@unitus.it;;;;;;;;;;;;;;;UTE1200038;;;;;1;1;;CAV1200038;12;12;1;2
-479;CAV1200039;CAV Sara Pietrantonio Università Roma Tre;12;058;091;;via Ostiense;147;Roma;;00154;0657331522;;cavsaradp.roma3@gmail.com;;;;;;;;;;;;;;;UTE1200039;;;;;1;1;;CAV1200039;12;12;1;2
-480;CAV1200040;CAV Elena Gianini Belotti Università Tor Vergata;12;058;091;;Via Columbia;1;Macro Area Lettere e Filosofia Edificio A 1° pian;;00133;3478547714;;centroantiviolenza@uniroma2.it;;;;;;;;;;;;;;;UTE1200040;;;;;1;1;;CAV1200040;12;12;1;2
-481;CAV1200041;CAV Università di Cassino;12;060;019;;via Sant’Angelo;;Cassino (FR);;03043;3458337033;;;;;;;;;;;;;;;;;UTE1200041;;;;;1;1;;CAV1200041;12;12;1;2
+477;CAV1200037;CAV Sapienza;12;058;091;;Viale dello Scalo di San Lorenzo;61/b;Roma-Facoltï¿½ di Medicina e psicologia;;00185;3665479783;;cavsapienza@uniroma1.it;;;;;;;;;;;;;;;UTE1200037;;;;;1;1;;CAV1200037;12;12;1;2
+478;CAV1200038;CAV Universitï¿½ della Tuscia;12;056;059;;via Santa Maria in Gradi;4;Viterbo;;01100;0761357803 34441525803;;cav@unitus.it;;;;;;;;;;;;;;;UTE1200038;;;;;1;1;;CAV1200038;12;12;1;2
+479;CAV1200039;CAV Sara Pietrantonio Universitï¿½ Roma Tre;12;058;091;;via Ostiense;147;Roma;;00154;0657331522;;cavsaradp.roma3@gmail.com;;;;;;;;;;;;;;;UTE1200039;;;;;1;1;;CAV1200039;12;12;1;2
+480;CAV1200040;CAV Elena Gianini Belotti Universitï¿½ Tor Vergata;12;058;091;;Via Columbia;1;Macro Area Lettere e Filosofia Edificio A 1ï¿½ pian;;00133;3478547714;;centroantiviolenza@uniroma2.it;;;;;;;;;;;;;;;UTE1200040;;;;;1;1;;CAV1200040;12;12;1;2
+481;CAV1200041;CAV Universitï¿½ di Cassino;12;060;019;;via Santï¿½Angelo;;Cassino (FR);;03043;3458337033;;;;;;;;;;;;;;;;;UTE1200041;;;;;1;1;;CAV1200041;12;12;1;2
 482;CAV1200042;Centro Antiviolenza Palmina Martinelli;12;058;091;;Via dei Gozzadini;38;Roma  [ Municipio XIII ] Roma Capitale;;00165;340 5931402;;cavpalminamartinelli@differenzadonna.it;;;;;;;;;;;;;;;UTE1200042;;;;;1;1;;CAV1200042;12;12;1;2
 483;CAV1200043;Centro Antiviolenza Angelina Merlin;12;058;091;;Via Roberto Lepetit  edificio III Scala B;176;Roma ( Municipio V ) Roma Capitale;;00155;366 6521451;;cav5.merlin@gmail.com;;;;;;;;;;;;;;;UTE1200043;;;;;1;1;;CAV1200043;12;12;1;2
 484;CAV1200045;Centro Antiviolenza Rinascita;12;060;019;;Via Giacomo Puccini;41;Cassino (FR);;03043;3486559602;;kalimess.odv@gmail.com;;;;;;;;;;;;;;;UTE1200045;;;;;1;1;;CAV1200045;12;12;1;2
@@ -393,7 +394,7 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 501;CAV1900039;Associazione CEDAV Onlus;19;083;048;;Via A. G. Cesareo;24;MESSINA;MESSINA;98100;0902130166 3472630913;;cedav@virgilio.it;;;;;;;;;;;;;;;UTE1900040;;;;;1;1;;CAV1900039;19;19;1;2
 502;CAV1900040;Cooperativa Sociale Luna Nuova;19;082;023;;Via U. La Malfa;65;CASTELDACCIA;PALERMO;90014;091954444;;presidenza@luna-nuova.org;;;;;;;;;;;;;;;UTE1900041;;;;;1;1;;CAV1900040;19;19;1;2
 503;CAV1900041;COOPERATIVA SOCIALE TRINACRIA ELIX;19;081;021;;Via Vittorio Emanuele;86;CALATAFIMI SEGESTA;TRAPANI;91013;09166614002 3274553727;;lauradelbosco@outlook.com;;;;;;;;;;;;;mirgatrinacria@gmail.com;;UTE1900042;;;;;1;1;;CAV1900041;19;19;1;2
-504;CAV2000014;Centro antiviolenza Mai più violate;20;091;095;;Via Vittorio Emanuele;23;;;08048;3450724180;;centroantiviolenza2012@gmail.com;;;;;;;;;;;;;;;UTE2000014;;;;;1;1;;CAV2000014;20;20;1;2
+504;CAV2000014;Centro antiviolenza Mai piï¿½ violate;20;091;095;;Via Vittorio Emanuele;23;;;08048;3450724180;;centroantiviolenza2012@gmail.com;;;;;;;;;;;;;;;UTE2000014;;;;;1;1;;CAV2000014;20;20;1;2
 505;CAV1200047;LiberA;12;059;019;;via giacomo matteotti;;;;04011;;;centroantiviolenzapriverno@gmail.com;;;;;;;;;;;;;;;UTE1200047;;;;;1;1;;CAV1200047;12;12;1;2
 506;CAV1000012;Centro Antiviolenza Telefono Donna (Tr);10;055;032;;Piazzale Bosco;3;Terni;;5100;3807808182;;c.antiviolenzatelefonodonnatr@gmail.com;;;;;;;;;;;;;;;UTE1000012;;;;;1;1;;CAV1000012;10;10;1;2
 507;CAV1200048;CAV Donatella Colasanti;12;059;028;;;;;;;;;;;;;;;;;;;;;;;;UTE1200048;;;;;1;1;;CAV1200048;12;12;1;2
@@ -404,6 +405,6 @@ ID_RISPONDENTE_RILEV;COD_ANAGRAFICA_RISP;NOME_ANAGRAFICA_RISP;COD_REGIONE;COD_PR
 512;CAV1500125;Rinascita donna;15;061;090;;Via Roma;12;;;81030;0813534502;;domigroupcoop@gmail.com;;;;;;;;;;;;;;;UTE1500125;;;;;1;1;;CAV1500125;15;15;1;2
 513;CAV1600031;Centro antiviolenza Rinascita Donna - ATS di Manfredonia;16;071;022;;;;;;;3495193603;;info@centroantiviolenzamanfredonia.it;;;;;;;;;;;;;;;UTE1600031;;;;;1;1;;CAV1600031;16;16;1;2
 514;CAV1900043;ASSOCIAZIONE ALBANUOVA;19;087;011;;Via Grazia;41/49;CALTAGIRONE;CATANIA;95041;335 719 5169;;;;;;;;;;;;;;;;;UTE1900043;;;;;1;1;;CAV1900043;19;19;1;2
-515;CAV1900044;COOPERATIVA SOCIALE SERENITA’;19;082;035;;VIA P. MATTARELLA;58;FICARAZZI;PALERMO;90011;3283509192;;mariapiateresi@libero.it;;;;;;;;;;;;;;;UTE1900044;;;;;1;1;;CAV1900044;19;19;1;2
-516;CAV1900045;Centro Antiviolenza PINK PROJECT;19;083;084;;VIA MEDICI;252;SANT’AGATA DI MILITELLO;MESSINA;98076;0941054182 3200570711;;pinkproject@pariopportunita.sicilia.it;;;;;;;;;;;;;;;UTE1900045;;;;;1;1;;CAV1900045;19;19;1;2
+515;CAV1900044;COOPERATIVA SOCIALE SERENITAï¿½;19;082;035;;VIA P. MATTARELLA;58;FICARAZZI;PALERMO;90011;3283509192;;mariapiateresi@libero.it;;;;;;;;;;;;;;;UTE1900044;;;;;1;1;;CAV1900044;19;19;1;2
+516;CAV1900045;Centro Antiviolenza PINK PROJECT;19;083;084;;VIA MEDICI;252;SANTï¿½AGATA DI MILITELLO;MESSINA;98076;0941054182 3200570711;;pinkproject@pariopportunita.sicilia.it;;;;;;;;;;;;;;;UTE1900045;;;;;1;1;;CAV1900045;19;19;1;2
 517;CAV4200002;Centro Antiviolenza-Ass. Coordinamento Donne sede di Rovereto;42;022;161;;VIA FLAIM;;;;;;;;;;;;;;;;;;;;;;UTE4200002;;;;;1;1;;CAV4200002;42;42;1;2

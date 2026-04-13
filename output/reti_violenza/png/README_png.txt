@@ -1,8 +1,6 @@
 PNG generati:
-- figura1_soggetti_promotori_per_tipo.png
+- figura1_soggetti_promotori_per_tipo10.png
 - figura2_soggetti_proponenti_per_regione.png
-- figura3_attori_coinvolti_per_tipo.png
+- figura3_attori_coinvolti_per_tipo10.png
 - figura4_proponenti_vs_attori_per_regione.png
 - figura5_ambiti_territoriali.png
-- figura6_cluster.png
-- Figura 1 aggregata per tipo_dettaglio

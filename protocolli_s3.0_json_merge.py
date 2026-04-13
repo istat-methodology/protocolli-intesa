@@ -58,6 +58,41 @@ def merge_json_files(json_paths: list[Path]) -> list:
     return merged
 
 
+def merge_json_files_by_region(json_paths: list[Path]) -> dict:
+    from collections import defaultdict
+
+    grouped_files = defaultdict(list)
+    grouped_json_names = defaultdict(list)
+
+    for path in json_paths:
+        reg_code = path.name[:2]
+        data = load_json_list(path)
+
+        print(f"📄 {path.name}: {len(data)} file | REGIONE {reg_code}")
+
+        grouped_files[reg_code].extend(data)
+        grouped_json_names[reg_code].append(path.name)
+
+    regioni = {}
+
+    for reg_code in sorted(grouped_files.keys()):
+        files_regione = grouped_files[reg_code]
+        json_names = sorted(grouped_json_names[reg_code])
+
+        regioni[reg_code] = {
+            "files_enriched_2_4": json_names,
+            "totale_file": len(files_regione),
+            "files": files_regione
+        }
+
+    result = {
+        "totale_file_enriched_2_4": sum(len(v) for v in grouped_json_names.values()),
+        "totale_regioni": len(regioni),
+        "regioni": regioni
+    }
+
+    return result
+
 def main():
     input_dir = Path(INPUT_DIR)
     output_json = Path(OUTPUT_JSON)
@@ -71,7 +106,8 @@ def main():
     for p in json_paths:
         print(" -", p.name)
 
-    merged = merge_json_files(json_paths)
+    #merged = merge_json_files(json_paths)
+    merged = merge_json_files_by_region(json_paths) 
 
     output_json.parent.mkdir(parents=True, exist_ok=True)
 

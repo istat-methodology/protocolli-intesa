@@ -1,0 +1,31 @@
+﻿codice_soggetti_questionari;denominazione_soggetti_questionari;;codice_aggregazione_2;descrizione_aggregazione_2
+1;CAV;;1;CAV
+2;Case Rifugio;;1;CAV
+3;Comuni;;3;Servizi comunali
+4;Polizia Municipale;;3;Servizi comunali
+5;Settore educativo comunale;;7;Settore Educativo
+6;Servizi sociali comunali;;3;Servizi comunali
+7;Servizio abusi e maltrattamenti comunale;;3;Servizi comunali
+8;Province/Città metropolitane;;10;Province/Città metropolitane
+9;Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute);;6;Territorio
+10;Regioni/province Autonome;;5;Regioni/province Autonome
+11;Ospedale (Pronto soccorso, ecc.);;4;settore sanitario
+12;ASL (consultori familiari e altri servizi territoriali);;4;settore sanitario
+13;Prefettura;;2;Settore giudiziario
+14;Questura;;2;Settore giudiziario
+15;Carabinieri/Polizia/altre forze dell'ordine;;2;Settore giudiziario
+16;Scuole/Ufficio scolastico provinciale e regionale;;7;Settore Educativo
+17;Procura Minorile/ Tribunale minorile;;2;Settore giudiziario
+18;Procura Ordinaria/Tribunale/Corte d'appello;;2;Settore giudiziario
+19;Ordine avvocati;;8;associazionismo
+20;Ordine psicologi e Ordine assistenti sociali;;8;associazionismo
+21;Ordine medici e odontoiatri e Ordine farmacisti;;8;associazionismo
+22;Altri ordini professionali (infermieri, ostetriche, giornalisti, commercialisti, ecc.);;8;associazionismo
+23;Organismi di parità;;6;Territorio
+24;Ente terzo settore - ETS (iscritto al RUNTS)[1];;8;associazionismo
+25;Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne;;8;associazionismo
+26;Servizi per l'impiego;;6;Territorio
+27;Sindacati/Associazioni di categoria;;8;associazionismo
+28;Università;;7;Settore Educativo
+29;Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti;;8;associazionismo
+30;Altro;;9;altro

@@ -1,4 +1,4 @@
-REPORT SOGGETTI INTEGRATO
+REPORT SOGGETTI 30-10
 Input JSON: output\json\merged\all_risultati_enriched_2.4.json
 Tabella aggregazione: aggregazioni\load_reference_table_30_to_10.json
 Totale record soggetti: 5913

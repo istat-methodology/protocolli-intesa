@@ -1,0 +1,187 @@
+REPORT CONTROLLI RETI VIOLENZA
+
+Totale reti: 261
+di cui per regione
+- Abruzzo: 13
+- Basilicata: 2
+- Calabria: 13
+- Emilia-Romagna: 15
+- Friuli-Venezia Giulia: 2
+- Lazio: 95
+- Liguria: 3
+- Lombardia: 27
+- Marche: 5
+- Piemonte: 22
+- Puglia: 37
+- Sardegna: 1
+- Toscana: 12
+- Trento: 3
+- Umbria: 1
+- Valle d'Aosta/Vallée d'Aoste: 1
+- Veneto: 9
+
+di cui per 10 classi
+- CAV: 34
+- Settore giudiziario: 16
+- Servizi comunali: 47
+- settore sanitario: 10
+- Territorio: 22
+- Settore Educativo: 11
+- associazionismo: 61
+- altro: 52
+- Province/Città metropolitane: 2
+- NON CLASSIFICATO: 6
+
+Totale soggetti: 4622
+di cui per regione
+- Abruzzo: 260
+- Basilicata: 10
+- Calabria: 183
+- Emilia-Romagna: 478
+- Friuli-Venezia Giulia: 88
+- Lazio: 575
+- Liguria: 96
+- Lombardia: 1050
+- Marche: 208
+- Piemonte: 350
+- Puglia: 398
+- Sardegna: 117
+- Toscana: 339
+- Trento: 135
+- Umbria: 45
+- Valle d'Aosta/Vallée d'Aoste: 22
+- Veneto: 268
+
+di cui per 10 classi
+- CAV: 539
+- Settore giudiziario: 492
+- Servizi comunali: 977
+- settore sanitario: 479
+- Regioni/province Autonome: 52
+- Territorio: 374
+- Settore Educativo: 232
+- associazionismo: 704
+- altro: 663
+- Province/Città metropolitane: 110
+
+Totale attori: 3729
+di cui per regione
+- Abruzzo: 217
+- Basilicata: 9
+- Calabria: 135
+- Emilia-Romagna: 419
+- Friuli-Venezia Giulia: 55
+- Lazio: 329
+- Liguria: 81
+- Lombardia: 972
+- Marche: 168
+- Piemonte: 238
+- Puglia: 296
+- Sardegna: 117
+- Toscana: 288
+- Trento: 119
+- Umbria: 45
+- Valle d'Aosta/Vallée d'Aoste: 10
+- Veneto: 231
+
+di cui per 10 classi
+- CAV: 453
+- Settore giudiziario: 433
+- Servizi comunali: 835
+- settore sanitario: 419
+- Regioni/province Autonome: 20
+- Territorio: 324
+- Settore Educativo: 160
+- associazionismo: 618
+- altro: 368
+- Province/Città metropolitane: 99
+
+Totale firmatari: 2721
+di cui per regione
+- Abruzzo: 206
+- Basilicata: 1
+- Calabria: 94
+- Emilia-Romagna: 287
+- Friuli-Venezia Giulia: 83
+- Lazio: 222
+- Liguria: 39
+- Lombardia: 814
+- Marche: 163
+- Piemonte: 154
+- Puglia: 159
+- Sardegna: 109
+- Toscana: 178
+- Trento: 51
+- Veneto: 161
+
+di cui per 10 classi
+- CAV: 266
+- Settore giudiziario: 351
+- Servizi comunali: 617
+- settore sanitario: 245
+- Regioni/province Autonome: 17
+- Territorio: 250
+- Settore Educativo: 133
+- associazionismo: 527
+- altro: 231
+- Province/Città metropolitane: 84
+
+Totale proponenti: 603
+di cui per regione
+- Abruzzo: 66
+- Calabria: 12
+- Emilia-Romagna: 85
+- Lazio: 32
+- Liguria: 1
+- Lombardia: 270
+- Marche: 6
+- Piemonte: 42
+- Puglia: 45
+- Sardegna: 1
+- Toscana: 18
+- Trento: 3
+- Umbria: 3
+- Valle d'Aosta/Vallée d'Aoste: 1
+- Veneto: 18
+
+di cui per 10 classi
+- CAV: 49
+- Settore giudiziario: 103
+- Servizi comunali: 109
+- settore sanitario: 73
+- Regioni/province Autonome: 10
+- Territorio: 63
+- Settore Educativo: 28
+- associazionismo: 92
+- altro: 52
+- Province/Città metropolitane: 24
+
+Totale governance: 381
+di cui per regione
+- Abruzzo: 15
+- Calabria: 16
+- Emilia-Romagna: 34
+- Friuli-Venezia Giulia: 10
+- Lazio: 32
+- Liguria: 8
+- Lombardia: 87
+- Marche: 14
+- Piemonte: 65
+- Puglia: 36
+- Toscana: 21
+- Trento: 8
+- Umbria: 11
+- Valle d'Aosta/Vallée d'Aoste: 2
+- Veneto: 22
+
+di cui per 10 classi
+- CAV: 61
+- Settore giudiziario: 11
+- Servizi comunali: 90
+- settore sanitario: 25
+- Regioni/province Autonome: 1
+- Territorio: 27
+- Settore Educativo: 5
+- associazionismo: 60
+- altro: 76
+- Province/Città metropolitane: 25

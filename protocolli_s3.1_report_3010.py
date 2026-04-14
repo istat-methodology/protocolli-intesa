@@ -21,7 +21,7 @@ import pandas as pd
 
 INPUT_JSON = Path(r"output\json\merged\all_risultati_enriched_2.4.json")
 AGGREGATION_FILE = Path(r"aggregazioni\load_reference_table_30_to_10.json")
-OUTPUT_DIR = Path(r"output\reports")
+OUTPUT_DIR = Path(r"output\reports\step_3.1")
 
 REGION_CODE_TO_NAME = {
     "01": "Piemonte",
@@ -934,7 +934,7 @@ def write_readme(out_dir: Path, input_json: Path, ref_path: Path, df_ref: pd.Dat
         "- report_sintetico.txt",
         "- report_strutturato.json",
     ]
-    (out_dir / "README_integrato.txt").write_text("\n".join(lines), encoding="utf-8")
+    (out_dir / "README_3010.txt").write_text("\n".join(lines), encoding="utf-8")
 
 
 
@@ -1237,7 +1237,7 @@ def build_report_struct(input_json: Path, aggregation_file: Path, qc_rows: List[
 def write_report_sintetico(report: Dict[str, Any], out_txt: Path) -> None:
     qc_map = {r["indicatore"]: r["valore"] for r in report.get("report_controlli_qualita", [])}
     lines = []
-    lines.append("REPORT SOGGETTI INTEGRATO")
+    lines.append("REPORT SOGGETTI 30-10")
     lines.append(f"Input JSON: {report.get('input_json', '')}")
     lines.append(f"Tabella aggregazione: {report.get('tabella_aggregazione', '')}")
     lines.append(f"Totale record soggetti: {qc_map.get('totale_record_soggetti', 0)}")
@@ -1500,12 +1500,12 @@ def main() -> None:
     export_json_outputs(out_dir, rows, unique_rows, valid_rows, df_ref)
 
     report = build_report_struct(input_json, aggregation_file if aggregation_file.exists() else Path("aggregazioni/load_reference_table_30_to_10.json"), qc_rows, unique_rows, valid_rows, dup_rows, df_ref)
-    (out_dir / "report_integrato.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
-    (out_dir / "report_strutturato.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    (out_dir / "report_3010.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    (out_dir / "report_3010_strutturato.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
     write_report_sintetico(report, out_dir / "report_sintetico.txt")
     write_readme(out_dir, input_json, aggregation_file, df_ref, rows, unique_rows, valid_rows)
 
-    print("OK: script integrato completato")
+    print("OK: script 3010 completato")
     print(f"Output: {out_dir}")
 
 

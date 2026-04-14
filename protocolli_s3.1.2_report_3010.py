@@ -21,7 +21,7 @@ import pandas as pd
 
 INPUT_JSON = Path(r"output\json\merged\all_risultati_enriched_2.4.json")
 AGGREGATION_FILE = Path(r"aggregazioni\load_reference_table_30_to_10.json")
-OUTPUT_DIR = Path(r"output\reports_integrati")
+OUTPUT_DIR = Path(r"output\reports")
 
 REGION_CODE_TO_NAME = {
     "01": "Piemonte",

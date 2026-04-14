@@ -1,6 +1,6 @@
 REPORT CONTROLLI RETI VIOLENZA
 
-Totale reti: 261
+Totale reti: 240
 di cui per regione
 - Abruzzo: 13
 - Basilicata: 2
@@ -12,7 +12,7 @@ di cui per regione
 - Lombardia: 27
 - Marche: 5
 - Piemonte: 22
-- Puglia: 37
+- Puglia: 16
 - Sardegna: 1
 - Toscana: 12
 - Trento: 3
@@ -21,18 +21,18 @@ di cui per regione
 - Veneto: 9
 
 di cui per 10 classi
-- CAV: 34
-- Settore giudiziario: 16
-- Servizi comunali: 47
-- settore sanitario: 10
-- Territorio: 22
-- Settore Educativo: 11
+- CAV: 31
+- Settore giudiziario: 13
+- Servizi comunali: 43
+- settore sanitario: 9
+- Territorio: 21
+- Settore Educativo: 10
 - associazionismo: 61
-- altro: 52
+- altro: 46
 - Province/Città metropolitane: 2
-- NON CLASSIFICATO: 6
+- NON CLASSIFICATO: 4
 
-Totale soggetti: 4622
+Totale soggetti: 4502
 di cui per regione
 - Abruzzo: 260
 - Basilicata: 10
@@ -44,7 +44,7 @@ di cui per regione
 - Lombardia: 1050
 - Marche: 208
 - Piemonte: 350
-- Puglia: 398
+- Puglia: 278
 - Sardegna: 117
 - Toscana: 339
 - Trento: 135
@@ -53,18 +53,18 @@ di cui per regione
 - Veneto: 268
 
 di cui per 10 classi
-- CAV: 539
-- Settore giudiziario: 492
-- Servizi comunali: 977
-- settore sanitario: 479
-- Regioni/province Autonome: 52
-- Territorio: 374
-- Settore Educativo: 232
-- associazionismo: 704
-- altro: 663
+- CAV: 527
+- Settore giudiziario: 479
+- Servizi comunali: 960
+- settore sanitario: 454
+- Regioni/province Autonome: 51
+- Territorio: 367
+- Settore Educativo: 226
+- associazionismo: 693
+- altro: 635
 - Province/Città metropolitane: 110
 
-Totale attori: 3729
+Totale attori: 3648
 di cui per regione
 - Abruzzo: 217
 - Basilicata: 9
@@ -76,7 +76,7 @@ di cui per regione
 - Lombardia: 972
 - Marche: 168
 - Piemonte: 238
-- Puglia: 296
+- Puglia: 215
 - Sardegna: 117
 - Toscana: 288
 - Trento: 119
@@ -85,18 +85,18 @@ di cui per regione
 - Veneto: 231
 
 di cui per 10 classi
-- CAV: 453
-- Settore giudiziario: 433
-- Servizi comunali: 835
-- settore sanitario: 419
+- CAV: 442
+- Settore giudiziario: 425
+- Servizi comunali: 820
+- settore sanitario: 400
 - Regioni/province Autonome: 20
-- Territorio: 324
-- Settore Educativo: 160
-- associazionismo: 618
-- altro: 368
+- Territorio: 319
+- Settore Educativo: 157
+- associazionismo: 611
+- altro: 355
 - Province/Città metropolitane: 99
 
-Totale firmatari: 2721
+Totale firmatari: 2689
 di cui per regione
 - Abruzzo: 206
 - Basilicata: 1
@@ -108,25 +108,25 @@ di cui per regione
 - Lombardia: 814
 - Marche: 163
 - Piemonte: 154
-- Puglia: 159
+- Puglia: 127
 - Sardegna: 109
 - Toscana: 178
 - Trento: 51
 - Veneto: 161
 
 di cui per 10 classi
-- CAV: 266
-- Settore giudiziario: 351
-- Servizi comunali: 617
-- settore sanitario: 245
+- CAV: 264
+- Settore giudiziario: 346
+- Servizi comunali: 610
+- settore sanitario: 238
 - Regioni/province Autonome: 17
-- Territorio: 250
+- Territorio: 248
 - Settore Educativo: 133
-- associazionismo: 527
-- altro: 231
+- associazionismo: 521
+- altro: 228
 - Province/Città metropolitane: 84
 
-Totale proponenti: 603
+Totale proponenti: 586
 di cui per regione
 - Abruzzo: 66
 - Calabria: 12
@@ -136,7 +136,7 @@ di cui per regione
 - Lombardia: 270
 - Marche: 6
 - Piemonte: 42
-- Puglia: 45
+- Puglia: 28
 - Sardegna: 1
 - Toscana: 18
 - Trento: 3
@@ -145,18 +145,18 @@ di cui per regione
 - Veneto: 18
 
 di cui per 10 classi
-- CAV: 49
-- Settore giudiziario: 103
+- CAV: 45
+- Settore giudiziario: 100
 - Servizi comunali: 109
-- settore sanitario: 73
+- settore sanitario: 65
 - Regioni/province Autonome: 10
-- Territorio: 63
+- Territorio: 62
 - Settore Educativo: 28
-- associazionismo: 92
+- associazionismo: 91
 - altro: 52
 - Province/Città metropolitane: 24
 
-Totale governance: 381
+Totale governance: 367
 di cui per regione
 - Abruzzo: 15
 - Calabria: 16
@@ -167,7 +167,7 @@ di cui per regione
 - Lombardia: 87
 - Marche: 14
 - Piemonte: 65
-- Puglia: 36
+- Puglia: 22
 - Toscana: 21
 - Trento: 8
 - Umbria: 11
@@ -175,13 +175,13 @@ di cui per regione
 - Veneto: 22
 
 di cui per 10 classi
-- CAV: 61
-- Settore giudiziario: 11
+- CAV: 58
+- Settore giudiziario: 10
 - Servizi comunali: 90
 - settore sanitario: 25
 - Regioni/province Autonome: 1
-- Territorio: 27
+- Territorio: 29
 - Settore Educativo: 5
-- associazionismo: 60
-- altro: 76
+- associazionismo: 53
+- altro: 71
 - Province/Città metropolitane: 25

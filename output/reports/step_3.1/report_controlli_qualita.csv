@@ -1,8 +1,8 @@
 ﻿indicatore,valore
-totale_record_soggetti,5913
-totale_soggetti_unici,4751
-soggetti_validi_localizzati,4622
+totale_record_soggetti,5496
+totale_soggetti_unici,4627
+soggetti_validi_localizzati,4502
 soggetti_validi_non_localizzati,0
-soggetti_generici,104
+soggetti_generici,100
 soggetti_esclusi,25
-potenziali_duplicati_record,1789
+potenziali_duplicati_record,1325

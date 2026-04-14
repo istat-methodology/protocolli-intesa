@@ -3,9 +3,9 @@ Input JSON: output\json\merged\all_risultati_enriched_2.4.json
 Tabella aggregazione: aggregazioni\load_reference_table_30_to_10.json
 Numero classi sorgente (30): 30
 Numero classi aggregate finali (10): 10
-Record elaborati: 5913
-Soggetti unici: 4751
-Soggetti validi localizzati: 4622
+Record elaborati: 5496
+Soggetti unici: 4627
+Soggetti validi localizzati: 4502
 
 Output principali:
 - soggetti_puliti_per_record.csv

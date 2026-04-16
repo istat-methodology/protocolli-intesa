@@ -26,7 +26,7 @@ Valle d'Aosta/Vallée d'Aoste         0                                         
               TOTALE COLONNA         0                                          0                              55               5                                                                                                                   1                              173                             5      1          240
 
 ====================================================================================================
-Attori per Regione × Classe 10
+Attori per Regione × Aggregazione 10
 FILE: prospetto_attori_tipo10_per_regione.csv
 RIGHE: 17 | COLONNE: 12
 
@@ -51,7 +51,7 @@ Valle d'Aosta/Vallée d'Aoste    0                    0                 1       
               TOTALE COLONNA  442                  425               820                400                         20         319                157              611    355                            99                 0         3648
 
 ====================================================================================================
-Firmatari per Regione × Classe 10
+Firmatari per Regione × Aggregazione 10
 FILE: prospetto_firmatari_tipo10_per_regione.csv
 RIGHE: 15 | COLONNE: 12
 
@@ -74,7 +74,7 @@ Friuli-Venezia Giulia    5                   16                32               
        TOTALE COLONNA  264                  346               610                238                         17         248                133              521    228                            84                 0         2689
 
 ====================================================================================================
-Proponenti per Regione × Classe 10
+Proponenti per Regione × Aggregazione 10
 FILE: prospetto_proponenti_tipo10_per_regione.csv
 RIGHE: 15 | COLONNE: 12
 
@@ -97,7 +97,7 @@ Valle d'Aosta/Vallée d'Aoste    0                    0                 0       
               TOTALE COLONNA   45                  100               109                 65                         10          62                 28               91     52                            24                 0          586
 
 ====================================================================================================
-Governance per Regione × Classe 10
+Governance per Regione × Aggregazione 10
 FILE: prospetto_governance_tipo10_per_regione.csv
 RIGHE: 15 | COLONNE: 12
 
@@ -393,7 +393,7 @@ RIGHE: 240 | COLONNE: 16
      0.0   0.0          0.0               TOTALE COLONNA        0.0                  0.0            19                     0.0        4502      3648         2689           586         143              46              195           367      12195.0
 
 ====================================================================================================
-Soggetti per Regione × Classe 10
+Soggetti per Regione × Aggregazione 10
 FILE: prospetto_soggetti_tipo10_per_regione.csv
 RIGHE: 17 | COLONNE: 12
 

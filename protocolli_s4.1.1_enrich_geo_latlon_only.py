@@ -3,7 +3,7 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
-INPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched.json")
+INPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched_merged.json")
 OUTPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched_geo.json")
 COMUNI_JSON = Path(r"geo-json\gi_comuni.json")
 

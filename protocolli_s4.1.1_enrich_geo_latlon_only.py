@@ -3,12 +3,9 @@ import unicodedata
 from collections import defaultdict
 from pathlib import Path
 
-INPUT_JSON = Path(r"output\json\merged\all_risultati_enriched_2.4.json")
-OUTPUT_JSON = Path(r"output\json\merged\all_risultati_enriched_2.4_geo.json")
+INPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched.json")
+OUTPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched_geo.json")
 COMUNI_JSON = Path(r"geo-json\gi_comuni.json")
-
-
-
 
 def normalize_name(s: str) -> str:
     if not isinstance(s, str):

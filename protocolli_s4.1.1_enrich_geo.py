@@ -31,9 +31,11 @@ REGIONE2CODICE = {
     "sardegna": "20",
 }
 
-JSON_STEP2_FOLDER = "output/json/step_2"
-JSON_STEP3_FOLDER = "output/json/step_3"
-MERGED_JSON = "output/json/merged/merged_json.json"
+JSON_STEP2_FOLDER = "output/data/step_2"
+JSON_STEP3_FOLDER = "output/data/step_3"
+MERGED_JSON = "output/data/step_3.0/3.0_risultati_enriched_merged.json"
+INPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched.json")
+OUTPUT_JSON = Path(r"output\data\step_3.0\3.0_risultati_enriched_geo.json")
 
 
 def normalize_name(s: str) -> str:

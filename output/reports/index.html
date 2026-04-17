@@ -1,0 +1,669 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Visualizzatore report 3.4.x</title>
+  <style>
+    * { box-sizing: border-box; }
+
+    :root {
+      --header-h: 70px;
+      --sidebar-w: 360px;
+      --blue: #1f4e79;
+      --blue-soft: #edf5ff;
+      --bg: #f3f5f7;
+      --panel: #ffffff;
+      --line: #d7dde5;
+      --text: #1f2933;
+      --muted: #5b6773;
+      --active: #dcecff;
+    }
+
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      font-family: Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      overflow: hidden;
+    }
+
+    header {
+      height: var(--header-h);
+      background: var(--blue);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 14px;
+      padding: 0 18px;
+      position: relative;
+      z-index: 30;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+    }
+
+    .header-left {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      min-width: 0;
+    }
+
+    .menu-btn {
+      border: none;
+      background: transparent;
+      color: white;
+      font-size: 26px;
+      cursor: pointer;
+      padding: 6px 10px;
+      border-radius: 8px;
+      flex-shrink: 0;
+    }
+
+    .menu-btn:hover {
+      background: rgba(255,255,255,0.12);
+    }
+
+    .header-left h1 {
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.1;
+      font-weight: 700;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .header-action-btn {
+      display: inline-block;
+      padding: 9px 13px;
+      border-radius: 8px;
+      text-decoration: none;
+      border: 1px solid rgba(255,255,255,0.45);
+      color: white;
+      background: rgba(255,255,255,0.08);
+      font-size: 14px;
+      white-space: nowrap;
+    }
+
+    .header-action-btn:hover {
+      background: rgba(255,255,255,0.18);
+    }
+
+    .app {
+      display: flex;
+      height: calc(100vh - var(--header-h));
+      overflow: hidden;
+    }
+
+    .sidebar {
+      width: var(--sidebar-w);
+      min-width: var(--sidebar-w);
+      background: #eef2f6;
+      border-right: 1px solid var(--line);
+      overflow-y: auto;
+      overflow-x: hidden;
+      padding: 14px;
+      transition: transform 0.25s ease;
+    }
+
+    .sidebar.collapsed-desktop {
+      transform: translateX(-100%);
+      position: absolute;
+      left: 0;
+      top: var(--header-h);
+      height: calc(100vh - var(--header-h));
+      z-index: 20;
+      box-shadow: 3px 0 10px rgba(0,0,0,0.12);
+    }
+
+    .content {
+      flex: 1;
+      min-width: 0;
+      overflow-y: auto;
+      overflow-x: auto;
+      padding: 20px;
+      background: var(--panel);
+    }
+
+    .folder-block {
+      margin-bottom: 18px;
+      border: 1px solid #cfd7df;
+      border-radius: 10px;
+      background: #f8fafc;
+      overflow: hidden;
+    }
+
+    .folder-title {
+      margin: 0;
+      padding: 14px 16px;
+      background: #dfe6ee;
+      font-size: 16px;
+      font-weight: bold;
+      color: #22384d;
+      border-bottom: 1px solid #cfd7df;
+    }
+
+    .file-list {
+      list-style: none;
+      margin: 0;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .file-btn {
+      width: 100%;
+      text-align: left;
+      padding: 10px 12px;
+      border: 1px solid #c7d0d9;
+      background: white;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 15px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      transition: background 0.15s ease, border-color 0.15s ease;
+    }
+
+    .file-btn:hover {
+      background: var(--blue-soft);
+      border-color: #9db7d3;
+    }
+
+    .file-btn.active {
+      background: var(--active);
+      border-color: #7fa7d1;
+      font-weight: 600;
+    }
+
+    .viewer-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 14px;
+      flex-wrap: wrap;
+      margin-bottom: 16px;
+    }
+
+    .viewer-title {
+      margin: 0;
+      color: var(--blue);
+      font-size: 22px;
+      word-break: break-word;
+    }
+
+    .placeholder {
+      color: var(--muted);
+      font-style: italic;
+      padding: 18px;
+      border: 1px dashed #c8d0d8;
+      border-radius: 8px;
+      background: #fafbfd;
+    }
+
+    .viewer-box {
+      background: white;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 14px;
+      overflow: visible;
+    }
+
+    pre {
+      background: #fbfbfb;
+      border: 1px solid #d3d9df;
+      border-radius: 8px;
+      padding: 16px;
+      white-space: pre-wrap;
+      word-break: break-word;
+      overflow: auto;
+      font-size: 14px;
+      line-height: 1.45;
+      margin: 0;
+    }
+
+    .table-outer,
+    .html-scroll-wrap {
+      overflow-x: auto;
+      overflow-y: visible;
+      border: 1px solid #d3d9df;
+      border-radius: 8px;
+      background: white;
+      max-width: 100%;
+    }
+
+    table,
+    .html-inline table {
+      border-collapse: collapse;
+      width: max-content;
+      min-width: 100%;
+      background: white;
+    }
+
+    th, td,
+    .html-inline th,
+    .html-inline td {
+      border: 1px solid #d8dee5;
+      padding: 8px 10px;
+      text-align: left;
+      vertical-align: top;
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    th,
+    .html-inline th {
+      background: #e8eef5;
+      font-weight: bold;
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      min-width: 120px;
+      white-space: normal;
+      word-break: break-word;
+    }
+
+    td {
+      white-space: nowrap;
+    }
+
+    .html-inline {
+      min-width: max-content;
+      padding: 10px;
+    }
+
+    .html-inline img,
+    .image-wrap img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .image-wrap {
+      text-align: center;
+    }
+
+    .image-wrap img {
+      border: 1px solid #cfd7df;
+      border-radius: 8px;
+      background: white;
+      display: inline-block;
+    }
+
+    .overlay {
+      display: none;
+    }
+
+    .overlay.show {
+      display: block;
+      position: fixed;
+      inset: var(--header-h) 0 0 0;
+      background: rgba(0,0,0,0.18);
+      z-index: 15;
+    }
+
+    @media (max-width: 1100px) {
+      .sidebar {
+        position: absolute;
+        left: 0;
+        top: var(--header-h);
+        height: calc(100vh - var(--header-h));
+        z-index: 20;
+        box-shadow: 3px 0 10px rgba(0,0,0,0.12);
+        transform: translateX(-100%);
+      }
+
+      .sidebar.open-mobile {
+        transform: translateX(0);
+      }
+    }
+
+    @media (max-width: 900px) {
+      header {
+        padding: 10px 14px;
+        height: auto;
+        min-height: var(--header-h);
+      }
+
+      .header-left h1 {
+        font-size: 18px;
+      }
+
+      .header-action-btn {
+        font-size: 13px;
+        padding: 8px 10px;
+      }
+
+      .app {
+        height: calc(100vh - var(--header-h));
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="header-left">
+      <button class="menu-btn" id="menuBtn" title="Apri/chiudi menu">☰</button>
+      <h1>Visualizza Cartelle 3.4.1 / 3.4.2 </h1><div class="fileName" id="fileName"></div>
+    </div>
+
+    <div class="header-right" id="headerActions"></div>
+  </header>
+
+  <div class="app">
+    <aside class="sidebar" id="sidebar"></aside>
+
+    <main class="content">
+      <div class="viewer-header">
+        <h2 class="viewer-title" id="viewerTitle">Seleziona un file</h2>
+      </div>
+
+      <div id="viewer">
+        <div class="placeholder">
+          Seleziona un file dal menu a sinistra.
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div class="overlay" id="overlay"></div>
+
+  <script>
+    const folders = [
+      { name: "3.4.1_html", type: "html" },
+      { name: "3.4.1_csv",  type: "csv"  },
+      { name: "3.4.1_png",  type: "png"  },
+      { name: "3.4.1_txt",  type: "txt"  },
+      { name: "3.4.2_html", type: "html" },
+      { name: "3.4.2_csv",  type: "csv"  },
+      { name: "3.4.2_txt",  type: "txt"  }
+    ];
+
+    const sidebar = document.getElementById("sidebar");
+    const overlay = document.getElementById("overlay");
+    const menuBtn = document.getElementById("menuBtn");
+    const viewer = document.getElementById("viewer");
+    const viewerTitle = document.getElementById("viewerTitle");
+    const headerActions = document.getElementById("headerActions");
+	const fName = document.getElementById("fileName");
+
+    let activeButton = null;
+
+    function isMobile() {
+      return window.innerWidth <= 1100;
+    }
+
+    function toggleSidebar() {
+      if (isMobile()) {
+        sidebar.classList.toggle("open-mobile");
+        overlay.classList.toggle("show", sidebar.classList.contains("open-mobile"));
+      } else {
+        sidebar.classList.toggle("collapsed-desktop");
+      }
+    }
+
+    function closeSidebarMobile() {
+      if (isMobile()) {
+        sidebar.classList.remove("open-mobile");
+        overlay.classList.remove("show");
+      }
+    }
+
+    menuBtn.addEventListener("click", toggleSidebar);
+    overlay.addEventListener("click", closeSidebarMobile);
+
+    window.addEventListener("resize", () => {
+      if (!isMobile()) {
+        sidebar.classList.remove("open-mobile");
+        overlay.classList.remove("show");
+      }
+    });
+
+    function setActiveButton(btn) {
+      if (activeButton) activeButton.classList.remove("active");
+      activeButton = btn;
+      if (activeButton) activeButton.classList.add("active");
+    }
+
+    function escapeHtml(text) {
+      return String(text)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;");
+    }
+
+    function detectDelimiter(text) {
+      const firstLine = text.split(/\r?\n/)[0] || "";
+      const commas = (firstLine.match(/,/g) || []).length;
+      const semicolons = (firstLine.match(/;/g) || []).length;
+      return semicolons > commas ? ";" : ",";
+    }
+
+    function parseCSV(text, delimiter) {
+      const rows = [];
+      let row = [];
+      let cell = "";
+      let inQuotes = false;
+
+      for (let i = 0; i < text.length; i++) {
+        const char = text[i];
+        const next = text[i + 1];
+
+        if (char === '"') {
+          if (inQuotes && next === '"') {
+            cell += '"';
+            i++;
+          } else {
+            inQuotes = !inQuotes;
+          }
+        } else if (char === delimiter && !inQuotes) {
+          row.push(cell);
+          cell = "";
+        } else if ((char === "\n" || char === "\r") && !inQuotes) {
+          if (char === "\r" && next === "\n") i++;
+          row.push(cell);
+          rows.push(row);
+          row = [];
+          cell = "";
+        } else {
+          cell += char;
+        }
+      }
+
+      if (cell.length > 0 || row.length > 0) {
+        row.push(cell);
+        rows.push(row);
+      }
+
+      return rows;
+    }
+
+    function csvToHtmlTable(csvText) {
+      const delimiter = detectDelimiter(csvText);
+      const rows = parseCSV(csvText, delimiter);
+
+      if (!rows.length) {
+        return `<div class="placeholder">CSV vuoto.</div>`;
+      }
+
+      const maxCols = Math.max(...rows.map(r => r.length));
+      const normalizedRows = rows.map(r => {
+        const copy = [...r];
+        while (copy.length < maxCols) copy.push("");
+        return copy;
+      });
+
+      let html = `<div class="table-outer"><table><thead><tr>`;
+      normalizedRows[0].forEach(cell => {
+        html += `<th>${escapeHtml(cell)}</th>`;
+      });
+      html += `</tr></thead><tbody>`;
+
+      for (let i = 1; i < normalizedRows.length; i++) {
+        html += "<tr>";
+        normalizedRows[i].forEach(cell => {
+          html += `<td>${escapeHtml(cell)}</td>`;
+        });
+        html += "</tr>";
+      }
+
+      html += `</tbody></table></div>`;
+      return html;
+    }
+
+    async function loadManifest() {
+      try {
+        const res = await fetch("manifest.json");
+        if (!res.ok) throw new Error("manifest.json non trovato");
+        const manifest = await res.json();
+        renderSidebar(manifest);
+      } catch (err) {
+        sidebar.innerHTML = `
+          <div class="folder-block">
+            <h3 class="folder-title">Errore</h3>
+            <div style="padding:12px;">Impossibile caricare <code>manifest.json</code>.</div>
+          </div>
+        `;
+      }
+    }
+
+    function renderSidebar(manifest) {
+      sidebar.innerHTML = "";
+
+      folders.forEach(folder => {
+        const files = manifest[folder.name] || [];
+        const block = document.createElement("div");
+        block.className = "folder-block";
+
+        const title = document.createElement("h3");
+        title.className = "folder-title";
+        title.textContent = folder.name;
+
+        const ul = document.createElement("ul");
+        ul.className = "file-list";
+
+        if (!files.length) {
+          const li = document.createElement("li");
+          li.textContent = "Nessun file";
+          ul.appendChild(li);
+        } else {
+          files.forEach(file => {
+            const li = document.createElement("li");
+            const btn = document.createElement("button");
+            btn.className = "file-btn";
+            btn.textContent = file;
+            btn.title = file;
+            btn.onclick = () => {
+              setActiveButton(btn);
+              openFile(folder.name, folder.type, file);
+            };
+            li.appendChild(btn);
+            ul.appendChild(li);
+          });
+        }
+
+        block.appendChild(title);
+        block.appendChild(ul);
+        sidebar.appendChild(block);
+      });
+    }
+
+    async function openFile(folderName, type, fileName) {
+      const path = `${folderName}/${fileName}`;
+      viewerTitle.textContent = `` //`${folderName} / ${fileName}`;
+      headerActions.innerHTML = `
+        <a class="header-action-btn" href="${path}" target="_blank" rel="noopener noreferrer">Apri file</a>
+      `;
+	  fName.innerHTML =  `<h1>File selezionato: ${folderName}/${fileName}</h1>`;
+
+      if (type === "html") {
+        try {
+          const res = await fetch(path);
+          const htmlText = await res.text();
+
+          const parser = new DOMParser();
+          const doc = parser.parseFromString(htmlText, "text/html");
+          const bodyContent = doc.body ? doc.body.innerHTML : htmlText;
+
+          viewer.innerHTML = `
+            <!--div class="viewer-box"-->
+              <!--div class="html-scroll-wrap"-->
+                <!--div class="html-inline"-->
+                  ${bodyContent}
+                <!--/div-->
+              <!--/div-->
+            <!--/div-->
+          `;
+        } catch (e) {
+          viewer.innerHTML = `<div class="placeholder">Errore nell'apertura del file HTML.</div>`;
+        }
+
+        closeSidebarMobile();
+        return;
+      }
+
+      if (type === "csv") {
+        try {
+          const res = await fetch(path);
+          const text = await res.text();
+
+          viewer.innerHTML = `
+            <div class="viewer-box">
+              ${csvToHtmlTable(text)}
+            </div>
+          `;
+        } catch (e) {
+          viewer.innerHTML = `<div class="placeholder">Errore nell'apertura del file CSV.</div>`;
+        }
+
+        closeSidebarMobile();
+        return;
+      }
+
+      if (type === "txt") {
+        try {
+          const res = await fetch(path);
+          const text = await res.text();
+
+          viewer.innerHTML = `
+            <div class="viewer-box">
+              <pre>${escapeHtml(text)}</pre>
+            </div>
+          `;
+        } catch (e) {
+          viewer.innerHTML = `<div class="placeholder">Errore nell'apertura del file TXT.</div>`;
+        }
+
+        closeSidebarMobile();
+        return;
+      }
+
+      if (type === "png") {
+        viewer.innerHTML = `
+          <div class="viewer-box">
+            <div class="image-wrap">
+              <img src="${path}" alt="${escapeHtml(fileName)}">
+            </div>
+          </div>
+        `;
+        closeSidebarMobile();
+        return;
+      }
+
+      viewer.innerHTML = `<div class="placeholder">Tipo file non supportato.</div>`;
+      closeSidebarMobile();
+    }
+
+    loadManifest();
+  </script>
+</body>
+</html>

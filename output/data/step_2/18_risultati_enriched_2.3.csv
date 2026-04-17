@@ -1,0 +1,210 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,Fondazione “Roberta Lanzino” Odv,CAV/Centri Antiviolenza,Rende,RENDE,comune,Rende,exact,078102,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,Comune di Mendicino,Comuni,Mendicino,,comune,Mendicino,exact,078079,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,Comune di Rende,Comuni,Rende,,comune,Rende,exact,078102,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,CASA di Roberta,Case Rifugio,Rende,,comune,Rende,exact,078102,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,organismi scolastici,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,consultori familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,settore regionale delle politiche sociali,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,Procura di competenza,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,,none,,,,,,
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,Commissione Territoriale per il riconoscimento della protezione internazionale di Crotone,Altro,,,nome,Crotone,exact,101010,101,Crotone,KR,18,Calabria
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,Centri anti-violenza e Case Rifugio della Regione Calabria,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,Coordinamento Antiviolenza Donne Insieme Calabria,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,Regione Calabria — Dipartimento Lavoro e Welfare,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102317_4166---PROTOCOLLOISTITUTOSUP.NOSTRO-REPACI.txt,CENTRO ITALIANO FEMMINILE PROVINCIALE DI REGGIO CALABRIA. “CENTRO ANTIVIOLENZA CASA DELLE DONNE MADONNA DI LOURDES”,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+18_2406_rta_18_240926102317_4166---PROTOCOLLOISTITUTOSUP.NOSTRO-REPACI.txt,ISTITUTO D’ISTRUZIONE SUPERIORE “L. NOSTRO- L. REPACI” DI VILLA SAN GIOVANNI,Scuole/Ufficio scolastico provinciale e regionale,Villa San Giovanni,,comune,Villa San Giovanni,exact,080096,280,Reggio Calabria,RC,18,Calabria
+18_2406_rta_18_240926102317_4166---PROTOCOLLOISTITUTOSUP.NOSTRO-REPACI.txt,"Regione Calabria Settore 2 — Welfare, immigrazione, nuove marginalita e inclusione sociale, Contrasto alla poverta, Famiglia e Servizi educativi, Terzo settore, Volontariato e Servizio Civile",Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,Fondazione Città Solidale Onlus,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,Comune di Stalettì,Comuni,Stalettì,,comune,Stalettì,exact,079143,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,Centro Aiuto Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,"CADIC, Coordinamento Antiviolenza Donne Insieme Calabria",Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Associazione Italiana Sclerosi Multipla - AISM - Associazione di Promozione Sociale/APS - Ente del Terzo Settore/ETS — AISM APS ETS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Fondazione Italiana Sclerosi Multipla — FISM ETS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Associazione di Promozione Sociale Centro contro la violenza alle donne “Roberta Lanzino” APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Cosenza,COSENZA,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Centro Antiviolenza “Roberta Lanzino”,CAV/Centri Antiviolenza,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Ufficio della Consigliera di parita della Provincia di Cosenza,Organismi di parità,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Comune di Cosenza,Comuni,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Comune di Borgia,Comuni,Borgia,,comune,Borgia,exact,079011,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Centro Clinico di Lamezia Terme,Altro,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Associazione “Mago Merlino” / Centro Antiviolenza “Demetra” di Lamezia Terme,CAV/Centri Antiviolenza,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Comune di Vibo Valentia,Comuni,Vibo Valentia,,comune,Vibo Valentia,exact,102047,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Comune di Ionadi,Comuni,Ionadi,,comune,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Centro clinico di Vibo Valentia,Altro,Vibo Valentia,,comune,Vibo Valentia,exact,102047,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Centro Antiviolenza “Attivamente Coinvolte Onlus”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Comune di Palmi,Comuni,Palmi,,comune,Palmi,exact,080057,280,Reggio Calabria,RC,18,Calabria
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Associazione Piccola Opera Papa Giovanni ONLUS — Centro Antiviolenza e Casa Rifugio “Angela Morabito”,Case Rifugio,,,none,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,Regione CALABRIA,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,AISM Sede Regionale Calabria,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Paterno Calabro,Comuni,Paterno Calabro,,comune,Paterno Calabro,exact,078094,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,"Istituto Comprensivo Statale ""Mangone - Grimaldi""",Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Centro antiviolenza del Comune di Paterno Calabro,CAV/Centri Antiviolenza,Paterno Calabro,,comune,Paterno Calabro,exact,078094,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Dipignano,Comuni,Dipignano,,comune,Dipignano,exact,078049,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Malito,Comuni,Malito,,comune,Malito,exact,078072,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Parenti,Comuni,Parenti,,comune,Parenti,exact,078093,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Marzi,Comuni,Marzi,,comune,Marzi,exact,078078,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Comune di Scigliano,Comuni,Scigliano,,comune,Scigliano,exact,078139,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Polizia Municipale Comune di Dipignano,Polizia Municipale,Dipignano,,comune,Dipignano,exact,078049,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Servizi Sociali Comune di Dipignano,Servizi sociali comunali,Dipignano,,comune,Dipignano,exact,078049,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Polizia Municipale Comune di Scigliano,Polizia Municipale,Scigliano,,comune,Scigliano,exact,078139,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Servizi Sociali Comune di Scigliano,Servizi sociali comunali,Scigliano,,comune,Scigliano,exact,078139,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Polizia Municipale Comune di Marzi,Polizia Municipale,Marzi,,comune,Marzi,exact,078078,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Servizi Sociali Comune di Marzi,Servizi sociali comunali,Marzi,,comune,Marzi,exact,078078,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Polizia Municipale Comune di Malito,Polizia Municipale,Malito,,comune,Malito,exact,078072,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Servizi Sociali Comune di Malito,Servizi sociali comunali,Malito,,comune,Malito,exact,078072,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Polizia Municipale Comune di Parenti,Polizia Municipale,Parenti,,comune,Parenti,exact,078093,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Servizi Sociali Comune di Parenti,Servizi sociali comunali,Parenti,,comune,Parenti,exact,078093,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Stazione dei Carabinieri Dipignano,Carabinieri/Polizia/altre forze dell'ordine,Dipignano,,comune,Dipignano,exact,078049,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Stazione dei Carabinieri Scigliano,Carabinieri/Polizia/altre forze dell'ordine,Scigliano,,comune,Scigliano,exact,078139,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Stazione dei Carabinieri Marzi,Carabinieri/Polizia/altre forze dell'ordine,Marzi,,comune,Marzi,exact,078078,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Stazione dei Carabinieri Malito,Carabinieri/Polizia/altre forze dell'ordine,Malito,,comune,Malito,exact,078072,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Stazione dei Carabinieri Parenti,Carabinieri/Polizia/altre forze dell'ordine,Parenti,,comune,Parenti,exact,078093,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Guardia Medica Dipignano,"Ospedale (Pronto soccorso, ecc.)",Dipignano,,comune,Dipignano,exact,078049,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Guardia Medica Scigliano,"Ospedale (Pronto soccorso, ecc.)",Scigliano,,comune,Scigliano,exact,078139,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Guardia Medica Marzi,"Ospedale (Pronto soccorso, ecc.)",Marzi,,comune,Marzi,exact,078078,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Guardia Medica Malito,"Ospedale (Pronto soccorso, ecc.)",Malito,,comune,Malito,exact,078072,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Guardia Medica Parenti,"Ospedale (Pronto soccorso, ecc.)",Parenti,,comune,Parenti,exact,078093,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Associazione di Promozione sociale “Donneincammino”,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,PATERNO CALABRO,comune_runts,Paterno Calabro,exact,078094,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,casa di modaMaryLu,Altro,,,nome,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Associazione Italiana Sclerosi Multipla - AISM APS ETS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Fondazione Italiana Sclerosi Multipla — FISM ETS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Associazione Piccola Opera Papa Giovanni Onlus,Ente terzo settore - ETS (iscritto al RUNTS),Reggio Calabria,,comune,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Centro Antiviolenza “Roberta Lanzino”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Ufficio della Consigliera di parità della Provincia di Cosenza,Organismi di parità,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Comune di Cosenza,Comuni,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Comune di Borgia,Comuni,Borgia,,comune,Borgia,exact,079011,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Centro Clinico di Lamezia Terme,"Ospedale (Pronto soccorso, ecc.)",Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Associazione “Mago Merlino” / Centro Antiviolenza “Demetra” di Lamezia Terme,CAV/Centri Antiviolenza,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Comune di Vibo Valentia,Comuni,Vibo Valentia,,comune,Vibo Valentia,exact,102047,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Comune di Ionadi,Comuni,Ionadi,,comune,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Centro clinico di Vibo Valentia,"Ospedale (Pronto soccorso, ecc.)",Vibo Valentia,,comune,Vibo Valentia,exact,102047,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Centro Antiviolenza “Attivamente Coinvolte Onlus”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Comune di Palmi,Comuni,Palmi,,comune,Palmi,exact,080057,280,Reggio Calabria,RC,18,Calabria
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Centro Antiviolenza Angela Morabito,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Casa Rifugio Angela Morabito,Case Rifugio,,,none,,none,,,,,,
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,Rete RED,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Prefettura di Catanzaro,Prefettura,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Corte d’Appello di Catanzaro,Procura Ordinaria/Tribunale/Corte d'appello,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Tribunale di Catanzaro,Procura Ordinaria/Tribunale/Corte d'appello,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Procura della Repubblica presso il Tribunale di Catanzaro,Procura Ordinaria/Tribunale/Corte d'appello,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Tribunale di Lamezia Terme,Procura Ordinaria/Tribunale/Corte d'appello,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Procura della Repubblica presso il Tribunale di Lamezia Terme,Procura Ordinaria/Tribunale/Corte d'appello,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Tribunale per i minorenni di Catanzaro,Procura Minorile/Tribunale minorile,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Consiglio Regionale della Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Amministrazione Provinciale di Catanzaro,Province/Città metropolitane,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Comune di Catanzaro,Comuni,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Comune di Lamezia Terme,Comuni,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Ufficio Scolastico Provinciale di Catanzaro,Scuole/Ufficio scolastico provinciale e regionale,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Azienda Sanitaria Provinciale di Catanzaro,ASL (consultori familiari e altri servizi territoriali),Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Azienda Ospedaliera Pugliese-Ciaccio di Catanzaro,"Ospedale (Pronto soccorso, ecc.)",Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Commissione Pari Opportunita della Provincia di Catanzaro,Organismi di parità,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Consigliera di Parita della Regione Calabria,Organismi di parità,,,nome,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Consigliera di Parita della Provincia di Catanzaro,Organismi di parità,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Comitato Pari Opportunita dell’Ordine degli Avvocati di Catanzaro,Organismi di parità,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Ordine degli Assistenti Sociali della Calabria,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Centri Antiviolenza di Catanzaro,CAV/Centri Antiviolenza,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Centri Antiviolenza di Lamezia Terme,CAV/Centri Antiviolenza,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Centro Antiviolenza Mondorosa di Catanzaro,CAV/Centri Antiviolenza,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Centro Antiviolenza Citta Solidale di Catanzaro,CAV/Centri Antiviolenza,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Centro Antiviolenza Demetra di Lamezia Terme,CAV/Centri Antiviolenza,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Sportello Antiviolenza Attivamente Coinvolte di Catanzaro,CAV/Centri Antiviolenza,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Sportello Antiviolenza Astarte di Catanzaro,CAV/Centri Antiviolenza,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Italiana Donne Medico,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Fidapa di Catanzaro,Altro,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Fidapa di Lamezia Terme,Altro,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Soroptimist di Catanzaro,Altro,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Soroptimist di Lamezia Terme,Altro,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Lidu Onlus Comitato di Catanzaro,Altro,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione Calabriafutura,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazione AIAF Calabria,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,Associazioni del Terzo Settore del territorio della Provincia di Catanzaro,Altro,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Centro Calabrese di Solidarietà,ALTRI ENTI DEL TERZO SETTORE,,CATANZARO,comune_runts,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Unione dei Comuni del Versante Ionico,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Ufficio Territoriale del Governo - Catanzaro,Prefettura,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Questura di Catanzaro,Questura,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,UPI Calabria,Province/Città metropolitane,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Fondazione Calabria Etica,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,SIULP Sezione di Catanzaro,Carabinieri/Polizia/altre forze dell'ordine,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,ASP di Catanzaro,ASL (consultori familiari e altri servizi territoriali),Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Azienda Ospedaliera Pugliese Ciaccio,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,"Regione Calabria — Ass.to al Lavoro, Formazione Professionale e Politiche Sociali",Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Consigliera di Parità Regionale,Organismi di parità,,,nome,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Commissione P.O. Provincia di Catanzaro,Organismi di parità,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Caritas Diocesi di Catanzaro/Squillace,Altro,,,nome,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,ANCI Calabria,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Comune di Catanzaro,Comuni,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Comune di Lamezia Terme,Comuni,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Comune di Settingiano,Comuni,Settingiano,,comune,Settingiano,exact,079131,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Comune di Simeri,Comuni,Simeri,,comune,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Centro Antiviolenza Demetra,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Procura della Repubblica presso il Tribunale Ordinario di Catanzaro,Procura Ordinaria/Tribunale/Corte d'appello,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Tribunale per i Minorenni di Catanzaro,Procura Minorile/Tribunale minorile,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Camera di Commercio di Catanzaro,Altro,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Comitato Imprenditoria Femminile (CIF),Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Amministrazione Provinciale di Vibo Valentia,Province/Città metropolitane,,,nome,Vibo Valentia,exact,102047,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Amministrazione Provinciale di Reggio Calabria,Province/Città metropolitane,,,nome,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Associazione Differenza Donna,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,Presidenza del Consiglio dei Ministri — Dipartimento Pari Opportunità,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,ISTITUTO D'ISTRUZIONE SUPERIORE LUIGI COSTANZO DI DECOLLATURA,Scuole/Ufficio scolastico provinciale e regionale,Decollatura,,comune,Decollatura,exact,079043,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,CENTRO ANTIVIOLENZA DEMETRA,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,Comune di Lamezia Terme,Comuni,Lamezia Terme,,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,Associazione Mago Merlino onlus,ORGANIZZAZIONI DI VOLONTARIATO,Lamezia Terme,LAMEZIA TERME,comune,Lamezia Terme,exact,079160,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,Istituto comprensivo di Serrastretta-Decollatura,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Procura della Repubblica presso il Tribunale di Catanzaro,Procura Ordinaria/Tribunale/Corte d'appello,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Associazione “Attivamente Coinvolte” APS - Centro antiviolenza,CAV/Centri Antiviolenza,Pizzo,,comune,Pizzo,exact,102027,102,Vibo Valentia,VV,18,Calabria
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Donne in Rete Contro La Violenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Osservatorio Regionale contro la Violenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Coordinamento Regionale dei Centri antiviolenza - C.A.D.IC.,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Tavolo di Lavoro Regionale Antiviolenza,Altro,,,nome,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Comune,Comuni,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Provincia,Province/Città metropolitane,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Tribunale dei Minori,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,Tribunale Civile e Penale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,ospedali,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,centri antiviolenza e le Case rifugio Calabresi e nazionali,Case Rifugio,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Citta Metropolitana di Reggio Calabria,Province/Città metropolitane,Reggio Calabria,,comune,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Centro D’Ascolto ARIEL ODV,CAV/Centri Antiviolenza,Reggio Calabria,REGGIO DI CALABRIA,comune,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Commissione di Valutazione,Altro,,,nome,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Consiglio Metropolitano,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Settore Politiche Sociali,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Enti locali,Altro,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Istituzioni scolastiche,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Servizi educativi,Settore educativo comunale,,,none,,none,,,,,,
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,Centri Antiviolenza (CAV) autorizzati e riconosciuti dalla Regione Calabria,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Prefettura di Cosenza,Prefettura,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Tribunale di Cosenza,Procura Ordinaria/Tribunale/Corte d'appello,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Tribunale di Paola,Procura Ordinaria/Tribunale/Corte d'appello,Paola,,comune,Paola,exact,078091,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Tribunale di Castrovillari,Procura Ordinaria/Tribunale/Corte d'appello,Castrovillari,,comune,Castrovillari,exact,078033,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Procura della Repubblica presso il Tribunale di Cosenza,Procura Ordinaria/Tribunale/Corte d'appello,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Procura della Repubblica presso il Tribunale di Paola,Procura Ordinaria/Tribunale/Corte d'appello,Paola,,comune,Paola,exact,078091,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Presidente del Tribunale per i Minorenni di Catanzaro,Procura Minorile/Tribunale minorile,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Procura della Repubblica presso il Tribunale di Castrovillari,Procura Ordinaria/Tribunale/Corte d'appello,Castrovillari,,comune,Castrovillari,exact,078033,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Procura della Repubblica p/o il Tribunale per i minorenni Catanzaro,Procura Minorile/Tribunale minorile,Catanzaro,,comune,Catanzaro,exact,079023,079,Catanzaro,CZ,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Regione Calabria,Regioni/Province Autonome,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Provincia di Cosenza,Province/Città metropolitane,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Questura di Cosenza,Questura,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Comando Provinciale dei Carabinieri di Cosenza,Carabinieri/Polizia/altre forze dell'ordine,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Comando Provinciale della Guardia di Finanza di Cosenza,Carabinieri/Polizia/altre forze dell'ordine,Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Azienda Sanitaria Provinciale di Cosenza,ASL (consultori familiari e altri servizi territoriali),Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Azienda Ospedaliera S.S. Annunziata di Cosenza,"Ospedale (Pronto soccorso, ecc.)",Cosenza,,comune,Cosenza,exact,078045,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Uffici Pariterici,Organismi di parità,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Comune Paterno,Comuni,Paterno,,comune,Paterno,exact,076100,076,Potenza,PZ,17,Basilicata
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Associazione Mondiversi Onlus,ALTRI ENTI DEL TERZO SETTORE,,CORIGLIANO-ROSSANO,comune_runts,Corigliano-Rossano,exact,078157,078,Cosenza,CS,18,Calabria
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Centri Antiviolenza iscritte nell’Albo Regionale,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Case Rifugio iscritte nell’Albo Regionale,Case Rifugio,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Forze dell'Ordine del territorio,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Comuni del territorio,Comuni,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Ufficio Scolastico provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Commissione pari opportunità della Regione Calabria,Organismi di parità,,,none,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Osservatorio Regionale sulla Violenza di Genere,Organismi di parità,,,nome,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Organismi di parità dei Comuni del proprio distretto,Organismi di parità,,,nome,,none,,,,,,
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,Ordine degli Avvocati,Ordine avvocati,,,none,,none,,,,,,

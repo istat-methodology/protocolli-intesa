@@ -15,7 +15,7 @@ reg_code = get_reg_code(default="09", required=True)
 print_reg_code(reg_code)
 
 
-JSON_STEP2_FOLDER = r"output/json/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
+JSON_STEP2_FOLDER = r"output/data/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
 
 INPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.2.json")
 OUTPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.3.json")
@@ -29,7 +29,7 @@ COMUNI_CSV = os.path.join(CLASSIFICATION_FOLDER, "cls_elenco_comuni_2026.csv")
 PROVINCE_CSV = os.path.join(CLASSIFICATION_FOLDER, "cls_elenco_province_2026.csv")
 REGIONI_CSV = os.path.join(CLASSIFICATION_FOLDER, "cls_elenco_regioni_2026.csv")
 RUNTS_FILE = os.path.join(CLASSIFICATION_FOLDER, "cls_runts.csv")
-JSON_STEP1_FOLDER = r"output/json/step_1/"
+JSON_STEP1_FOLDER = r"output/data/step_1/"
 
 FUZZY_THRESHOLD = 95
 

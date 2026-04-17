@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 TXT_FOLDER = "data/txt/"
-JSON_STEP1_FOLDER = "output/json/step_1/"
+JSON_STEP1_FOLDER = "output/data/step_1/"
 
 # =========================================================
 # SETUP
@@ -480,7 +480,7 @@ print_reg_code(reg_code)
 
 TXT_FOLDER = "data/txt"
 
-OUTPUT_JSON = build_region_file("output/json/step_1", reg_code, "risultati.json")
+OUTPUT_JSON = build_region_file("output/data/step_1", reg_code, "risultati.json")
 
 # =========================================================
 # HELPERS

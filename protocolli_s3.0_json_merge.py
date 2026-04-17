@@ -11,10 +11,8 @@ from pathlib import Path
 # =========================================================
 # CONFIG FISSA
 # =========================================================
-INPUT_DIR = Path("output") / "json" / "step_2"
-OUTPUT_JSON = Path("output") / "json" / "merged" / "all_risultati_enriched_2.4.json"
-
-
+INPUT_DIR = Path("output") / "data" / "step_2"
+OUTPUT_JSON = Path("output") / "data" /  "step_3.0" / "3.0_risultati_enriched_merged.json"
 JSON_PATTERN = re.compile(r"^\d{2}_risultati_enriched_2\.4\.json$")
 
 

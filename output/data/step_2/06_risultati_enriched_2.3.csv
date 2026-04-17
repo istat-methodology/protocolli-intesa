@@ -1,0 +1,158 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Prefettura-UTG di Pordenone,Prefettura,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Tribunale di Pordenone,Procura Ordinaria/Tribunale/Corte d'appello,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Questura di Pordenone,Questura,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comando provinciale dei Carabinieri di Pordenone,Carabinieri/Polizia/altre forze dell'ordine,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comando provinciale della Guardia di Finanza di Pordenone,Carabinieri/Polizia/altre forze dell'ordine,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Provincia di Pordenone,Province/Città metropolitane,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comune di Sacile,Comuni,Sacile,,comune,Sacile,exact,093037,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comune di San Vito al Tagliamento,Comuni,San Vito al Tagliamento,,comune,San Vito al Tagliamento,exact,093041,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comune di Azzano Decimo,Comuni,Azzano Decimo,,comune,Azzano Decimo,exact,093005,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comune di Maniago,Comuni,Maniago,,comune,Maniago,exact,093025,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Comune di Pordenone,Comuni,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ambito Distrettuale 6.1,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ambito Distrettuale 6.2,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ambito Distrettuale 6.3,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ambito Distrettuale 6.4,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ambito Urbano 6.5,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Azienda per i Servizi Sanitari n.6 “Friuli Occidentale” - Pordenone,ASL (consultori familiari e altri servizi territoriali),Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Azienda Ospedaliera “Santa Maria degli Angeli” - Pordenone,"Ospedale (Pronto soccorso, ecc.)",Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ufficio Scolastico Regionale per il Friuli Venezia Giulia,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Associazione Voce Donna Onlus - Pordenone,CAV/Centri Antiviolenza,Pordenone,PORDENONE,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Caritas Diocesi Concordia- Pordenone,Ente terzo settore - ETS (iscritto al RUNTS),Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,"Presidenza del Consiglio dei Ministri, Dipartimento per i Diritti e le Pari Opportunità",Organismi di parità,,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Regione Friuli Venezia Giulia,Regioni/Province Autonome,,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Centri antiviolenza della Regione,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Ufficio VI — Ambito per la Provincia di Pordenone,Scuole/Ufficio scolastico provinciale e regionale,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Caritas della Diocesi Concordia ~ Pordenone,Ente terzo settore - ETS (iscritto al RUNTS),Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,Associazione Voce Donna Onlus di Pordenone,CAV/Centri Antiviolenza,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Comune di Udine,Comuni,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Servizio Sociale dei Comuni dell’Ambito Territoriale Friuli Centrale,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Azienda Sanitaria Universitaria Friuli Centrale di Udine,ASL (consultori familiari e altri servizi territoriali),Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Consultorio Familiare del Distretto Sanitario di Udine,ASL (consultori familiari e altri servizi territoriali),Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Azienda per i Servizi Sanitari n. 4 “Medio Friuli”,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,"Dipartimento Politiche Sociali, Educative e Culturali del Comune di Udine",Altro,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Servizio Servizi Sociali del Comune di Udine,Servizi sociali comunali,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Centro Antiviolenza (CAV) del Servizio “Zero Tolerance”,CAV/Centri Antiviolenza,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Case Rifugio del Servizio “Zero Tolerance” del Comune di Udine,Case Rifugio,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Presidio Ospedaliero Universitario “Santa Maria della Misericordia”,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,SOC Medicina d’Urgenza e Pronto Soccorso del Presidio Ospedaliero Universitario “Santa Maria della Misericordia”,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,"Conferenza Permanente per i rapporti tra lo Stato, le Regioni e le Province Autonome di Trento e Bolzano",Altro,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Governo,Altro,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Regioni,Regioni/Province Autonome,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Province Autonome di Trento e Bolzano,Regioni/Province Autonome,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Servizio sanitario regionale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Sistema dei Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Tribunali,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Servizi pubblici di assistenza alloggiativa,Altro,,,nome,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,sistema dei servizi pubblici regionali per l’impiego,Servizi per l'impiego,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Istituti scolastici di ogni ordine e grado operanti nel territorio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Servizio “Zero Tolerance — contro la violenza sulle donne” del Comune di Udine,CAV/Centri Antiviolenza,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Prefetture,Prefettura,,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Associazioni,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Organismi del privato sociale,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,Magistratura delle Procure e dei Tribunali,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Procura della Repubblica presso il Tribunale per i Minorenni del Friuli Venezia Giulia,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Tribunale di Udine,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Procura della Repubblica presso il Tribunale di Udine,Procura Ordinaria/Tribunale/Corte d'appello,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Provincia di Udine,Province/Città metropolitane,,,nome,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Comune di Udine,Comuni,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Sportello informativo e di accoglienza Progetto Zero Tolerance,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Ufficio Scolastico Regionale per il Friuli Venezia Giulia — Ufficio VIII - Ambito Territoriale per la Provincia di Udine,Scuole/Ufficio scolastico provinciale e regionale,,,nome,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Questura di Udine,Questura,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Azienda per i Servizi Sanitari n. 4 Medio Friuli,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Azienda Ospedaliera Universitaria Santa Maria della Misericordia di Udine,"Ospedale (Pronto soccorso, ecc.)",Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Prefettura di Udine,Prefettura,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Ordine degli Avvocati di Udine,Ordine avvocati,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Centro Regionale di Orientamento di Udine,Altro,Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Istituzioni scolastiche autonome,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Dirigenza scolastica autonoma,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Istituti di istruzione,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Servizi territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Pronto Soccorso Azienda Ospedaliera e Azienda Sanitaria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,Magistratura,Altro,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Prefettura di Gorizia,Prefettura,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Consigliera regionale di parita,Organismi di parità,,,nome,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Servizio Sociale dei Comuni dell'ambito territoriale “Collio Alto Isonzo”,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ente Gestore Comune di Gorizia,Comuni,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Capriva del Friuli,Comuni,Capriva del Friuli,,comune,Capriva del Friuli,exact,031001,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Cormons,Comuni,Cormons,,comune,Cormons,exact,031002,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Dolegna del Collio,Comuni,Dolegna del Collio,,comune,Dolegna del Collio,exact,031004,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Farra d'Isonzo,Comuni,Farra d'Isonzo,,comune,Farra d'Isonzo,exact,031005,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Gorizia,Comuni,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Gradisca d'Isonzo,Comuni,Gradisca d'Isonzo,,comune,Gradisca d'Isonzo,exact,031008,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Mariano del Friuli,Comuni,Mariano del Friuli,,comune,Mariano del Friuli,exact,031010,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Medea,Comuni,Medea,,comune,Medea,exact,031011,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Moraro,Comuni,Moraro,,comune,Moraro,exact,031013,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Mossa,Comuni,Mossa,,comune,Mossa,exact,031014,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Romans d'Isonzo,Comuni,Romans d'Isonzo,,comune,Romans d'Isonzo,exact,031015,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Sagrado,Comuni,Sagrado,,comune,Sagrado,exact,031017,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di San Floriano del Collio,Comuni,San Floriano del Collio,,comune,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di San Lorenzo Isontino,Comuni,San Lorenzo Isontino,,comune,San Lorenzo Isontino,exact,031020,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Savogna d'Isonzo,Comuni,Savogna d'Isonzo,,comune,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Villesse,Comuni,Villesse,,comune,Villesse,exact,031025,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Servizio Sociale dei Comuni dell'ambito territoriale “Carso Isonzo Adriatico”,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ente Gestore Comune di Monfalcone,Comuni,Monfalcone,,comune,Monfalcone,exact,031012,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Doberdò del Lago,Comuni,Doberdò del Lago,,comune,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Fogliano Redipuglia,Comuni,Fogliano Redipuglia,,comune,Fogliano Redipuglia,exact,031006,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Grado,Comuni,Grado,,comune,Grado,exact,031009,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Monfalcone,Comuni,Monfalcone,,comune,Monfalcone,exact,031012,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Ronchi dei Legionari,Comuni,Ronchi dei Legionari,,comune,Ronchi dei Legionari,exact,031016,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di San Canzian d'Isonzo,Comuni,San Canzian d'Isonzo,,comune,San Canzian d'Isonzo,exact,031018,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di San Pier d'Isonzo,Comuni,San Pier d'Isonzo,,comune,San Pier d'Isonzo,exact,031021,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Staranzano,Comuni,Staranzano,,comune,Staranzano,exact,031023,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comune di Turriaco,Comuni,Turriaco,,comune,Turriaco,exact,031024,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Azienda per l'Assistenza Sanitaria (AAS) n. 2 Bassa Friulana-Isontina,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Tribunale di Gorizia,Procura Ordinaria/Tribunale/Corte d'appello,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Tribunale per i Minorenni di Trieste,Procura Minorile/Tribunale minorile,Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Procura della Repubblica presso il Tribunale di Gorizia,Procura Ordinaria/Tribunale/Corte d'appello,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Questura di Gorizia,Questura,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Comando Provinciale dei Carabinieri di Gorizia,Carabinieri/Polizia/altre forze dell'ordine,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ufficio Scolastico Regionale per il Friuli Venezia Giulia Ufficio IV - Ambito Territoriale di Gorizia,Scuole/Ufficio scolastico provinciale e regionale,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Università degli Studi di Trieste,Università,Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Centro Antiviolenza da donna a DONNA,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Associazione ONLUS donna a DONNA,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Associazione ONLUS S.O.S. Rosa,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine degli Avvocati provincia di Gorizia,Ordine avvocati,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine dei Giornalisti Friuli Venezia Giulia,Altri ordini professionali,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine degli assistenti sociali FVG,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine degli psicologi Consiglio FVG,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine dei farmacisti della provincia di Gorizia,Ordine medici e odontoiatri e Ordine farmacisti,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Ordine dei medici chirurghi e odontoiatri della provincia di Gorizia,Ordine medici e odontoiatri e Ordine farmacisti,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Confartigianato Gorizia,Sindacati/Associazioni di categoria,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,CISL Gorizia,Sindacati/Associazioni di categoria,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,UIL Gorizia,Sindacati/Associazioni di categoria,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,UDI - Unione donne in Italia,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Associazione Soroptimist Gorizia,Ente terzo settore - ETS (iscritto al RUNTS),Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Associazione InterPares Trieste,Ente terzo settore - ETS (iscritto al RUNTS),Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Associazione Rete DPI,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Osservatorio Nazionale sul Diritto di Famiglia - Sezione di Gorizia,Altro,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Club per UNESCO Gorizia,Altro,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Fondazione Cassa di Risparmio di Gorizia,Altro,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Caritas Diocesana Gorizia,Altro,Gorizia,,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,Croce Rossa Italiana - Comitato di Gorizia,ORGANIZZAZIONI DI VOLONTARIATO,Gorizia,MANIAGO,comune,Gorizia,exact,031007,031,Gorizia,GO,06,Friuli-Venezia Giulia
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Comune di Trieste,Comuni,Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Ambito Triestino,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Ambito Carso Giuliano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Associazione G.O.A.P. di Trieste,CAV/Centri Antiviolenza,Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,AsuiTs - Strutture Complesse Tutela Salute Bambini Adolescenti Donne Famiglie,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Associazione Interpares di Trieste,Ente terzo settore - ETS (iscritto al RUNTS),Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Centro antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Servizio sociale comunale,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Servizi specialistici dell’ASUITs,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Procura della Repubblica presso il Tribunale per i minorenni di Trieste,Procura Minorile/Tribunale minorile,Trieste,,comune,Trieste,exact,032006,032,Trieste,TS,06,Friuli-Venezia Giulia
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Servizio sociale minori,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,IRCCS “Burlo Garofolo”,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,GOAP,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Unità di Valutazione Multidisciplinare - UVM,Altro,,,nome,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Struttura Complessa Tutela salute Bambini Adolescenti Donne Famiglie (SCTSBADoF) del Distretto sanitario di competenza,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Associazione “Inter Pares”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Servizio sociale,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Servizio sociale minori,Servizi sociali comunali,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,Autorità giudiziarie,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,operatori scolastici,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,

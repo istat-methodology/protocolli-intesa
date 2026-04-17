@@ -1,0 +1,4148 @@
+[
+    {
+        "file": "01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt",
+        "firmatari": [
+            "Comune di Bra",
+            "Comune di Alba",
+            "Consorzio Socio Assistenziale Alba Langhe Roero",
+            "ASL CN2",
+            "Associazione MAI+SOLE"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Bra",
+                "tipo": "Comuni",
+                "comune": "Bra",
+                "indirizzo": "piazza Caduti per la Libertà n. 14",
+                "ente_capofila": "Comune di Bra",
+                "note": "Ente capofila, soggetto gestore dei Servizi Socio Assistenziali, firmatario del protocollo"
+            },
+            {
+                "nome": "Comune di Alba",
+                "tipo": "Comuni",
+                "comune": "Alba",
+                "indirizzo": "Piazza Risorgimento n. 1",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Consorzio Socio Assistenziale Alba Langhe Roero",
+                "tipo": "Altro",
+                "comune": "Alba",
+                "indirizzo": "Via A. Diaz, n. 8",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "ASL CN2",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Alba",
+                "indirizzo": "Via Vida n. 10",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione MAI+SOLE",
+                "tipo": "Altro",
+                "comune": "Savigliano",
+                "indirizzo": "Via Teatro n. 2",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Direzione Coesione Sociale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Struttura della Regione Piemonte, citata come ente erogatore e destinataria della proposta progettuale"
+            },
+            {
+                "nome": "CAV n. 10/A",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "Consorzio Socio Assistenziale del Cuneese",
+                "note": "Sportelli decentrati dei firmatari; CAV provinciale"
+            },
+            {
+                "nome": "Consorzio Socio Assistenziale del Cuneese",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente capofila del CAV n. 10/A"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Bra"
+        ],
+        "attori_coinvolti": [
+            "Comune di Bra",
+            "Comune di Alba",
+            "Consorzio Socio Assistenziale Alba Langhe Roero",
+            "ASL CN2",
+            "Associazione MAI+SOLE"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240904120005_4166---protocollo.txt",
+        "firmatari": [
+            "Amministrazione Provinciale di Biella",
+            "Azienda Sanitaria Locale di Biella",
+            "Consorzio Intercomunale Servizi Socio Assistenziali LR.LS.",
+            "Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.LS.S.A.B.O.",
+            "Consigliera Provinciale di Parità di Biella",
+            "Procura della Repubblica presso il Tribunale Ordinario di Biella",
+            "Ambito Territoriale X di Biella - Ufficio Scolastico Regionale per il Piemonte - MIUR",
+            "Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella)",
+            "Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza",
+            "Associazione PaViol Percorsi Antiviolenza",
+            "Associazione Underground",
+            "Associazione VocidiDONNE",
+            "Associazione Donne Nuove",
+            "Associazione Se Non Ora Quando? Biella",
+            "Associazione Save The Children Italia ONLUS"
+        ],
+        "soggetti": [
+            {
+                "nome": "Amministrazione Provinciale di Biella",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; promuove azioni sul territorio"
+            },
+            {
+                "nome": "Azienda Sanitaria Locale di Biella",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; tramite Presidio Ospedaliero, Consultorio Familiare di Biella e S.C. Neuropsichiatria Infantile"
+            },
+            {
+                "nome": "Presidio Ospedaliero di Biella",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestione locali per Punto di Ascolto del Centro Antiviolenza"
+            },
+            {
+                "nome": "Consultorio Familiare di Biella",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presa in carico psicologica e sociale delle donne vittime di violenza"
+            },
+            {
+                "nome": "S.C. Neuropsichiatria Infantile",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Compiti nell’ambito dei minori vittime di violenza"
+            },
+            {
+                "nome": "Consorzio Intercomunale Servizi Socio Assistenziali LR.LS.",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.LS.S.A.B.O.",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "soggetto capofila",
+                "note": "Firmatario del protocollo; gestore del Centro Antiviolenza; capofila"
+            },
+            {
+                "nome": "Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito da C.LS.S.A.B.O.; punto di ascolto; équipe di coordinamento"
+            },
+            {
+                "nome": "Casa Rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collegata al Centro Antiviolenza"
+            },
+            {
+                "nome": "Consigliera Provinciale di Parità di Biella",
+                "tipo": "Organismi di parità",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale Ordinario di Biella",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo"
+            },
+            {
+                "nome": "Procura Generale presso la Corte di Appello di Torino",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Destinataria trasmissione protocollo"
+            },
+            {
+                "nome": "Ambito Territoriale X di Biella - Ufficio Scolastico Regionale per il Piemonte - MIUR",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella)",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; gestisce Punto di Ascolto Antiviolenza"
+            },
+            {
+                "nome": "Punto di Ascolto Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito da Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza"
+            },
+            {
+                "nome": "Associazione PaViol Percorsi Antiviolenza",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; collabora con Rete Antiviolenza; attiva servizio S.P.A.M."
+            },
+            {
+                "nome": "Servizio Psicologico rivolto agli Autori di Violenza (S.P.A.M.)",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Attivato e sviluppato da Associazione PaViol Percorsi Antiviolenza"
+            },
+            {
+                "nome": "Associazione Underground",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; volontariato e raccolta fondi per Casa Rifugio"
+            },
+            {
+                "nome": "Associazione VocidiDONNE",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione Donne Nuove",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione Se Non Ora Quando? Biella",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione Save The Children Italia ONLUS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; gestisce Centro 'I Germogli' a Ponderano"
+            },
+            {
+                "nome": "Centro I Germogli",
+                "tipo": "Case Rifugio",
+                "comune": "Ponderano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito da Save The Children; seconda accoglienza donne e bambini"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Momenti di coordinamento e assessorato regionale"
+            },
+            {
+                "nome": "Dipartimento per le Pari Opportunità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presentazione richieste di finanziamento"
+            },
+            {
+                "nome": "Difensore civico regionale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione nelle pari opportunità"
+            },
+            {
+                "nome": "Ambito Scolastico Provinciale",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione per attività divulgative ed educative"
+            },
+            {
+                "nome": "Dirigenza scolastica autonoma",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione"
+            },
+            {
+                "nome": "Istituti di istruzione e di formazione professionale",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Attività di divulgazione ed educazione"
+            },
+            {
+                "nome": "Rete Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rete provinciale; promuove strategie condivise"
+            },
+            {
+                "nome": "Tavolo Provinciale sulle Pari Opportunità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Confronto sul tema"
+            },
+            {
+                "nome": "Equipe di Coordinamento del Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordina protocollo antiviolenza"
+            },
+            {
+                "nome": "Forza di Polizia",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Responsabili individuati dalla Procura"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Amministrazione Provinciale di Biella"
+        ],
+        "attori_coinvolti": [
+            "Amministrazione Provinciale di Biella",
+            "Azienda Sanitaria Locale di Biella",
+            "Presidio Ospedaliero di Biella",
+            "Consultorio Familiare di Biella",
+            "S.C. Neuropsichiatria Infantile",
+            "Consorzio Intercomunale Servizi Socio Assistenziali LR.LS.",
+            "Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.LS.S.A.B.O.",
+            "Centro Antiviolenza",
+            "Casa Rifugio",
+            "Consigliera Provinciale di Parità di Biella",
+            "Procura della Repubblica presso il Tribunale Ordinario di Biella",
+            "Ambito Territoriale X di Biella - Ufficio Scolastico Regionale per il Piemonte - MIUR",
+            "Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella)",
+            "Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza",
+            "Punto di Ascolto Antiviolenza",
+            "Associazione PaViol Percorsi Antiviolenza",
+            "Servizio Psicologico rivolto agli Autori di Violenza (S.P.A.M.)",
+            "Associazione Underground",
+            "Associazione VocidiDONNE",
+            "Associazione Donne Nuove",
+            "Associazione Se Non Ora Quando? Biella",
+            "Associazione Save The Children Italia ONLUS",
+            "Centro I Germogli",
+            "Equipe di Coordinamento del Centro Antiviolenza"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240904121349_4166---convenzione.txt",
+        "firmatari": [
+            "Consorzio CISSABO",
+            "Consorzio IRIS",
+            "ASL BI",
+            "Anteo Impresa Cooperativa Sociale",
+            "Associazione Non Sei Sola. Uscire dal silenzio - Contro la violenza OdV",
+            "Associazione Underground OdV",
+            "Associazione di Promozione Sociale PaViol Percorsi Antiviolenza APS"
+        ],
+        "soggetti": [
+            {
+                "nome": "Consorzio CISSABO",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Cossato",
+                "indirizzo": "Via Mazzini 2/m",
+                "ente_capofila": "ente capofila",
+                "note": "Firmatario, gestore Centro Antiviolenza, partner Casa Rifugio"
+            },
+            {
+                "nome": "Consorzio IRIS",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Biella",
+                "indirizzo": "via Repubblica 22/B",
+                "ente_capofila": "",
+                "note": "Firmatario, partner Centro Antiviolenza e Casa Rifugio"
+            },
+            {
+                "nome": "ASL BI",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "via dei Ponderanesi 2",
+                "ente_capofila": "",
+                "note": "Firmatario, partner Centro Antiviolenza, Consultorio Familiare, Struttura Complessa Neuropsichiatria Infantile, Dipartimento Materno Infantile"
+            },
+            {
+                "nome": "Anteo Impresa Cooperativa Sociale",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "Via Piacenza 11",
+                "ente_capofila": "",
+                "note": "Firmatario, gestore Casa Rifugio ad indirizzo segreto"
+            },
+            {
+                "nome": "Associazione Non sei sola. Uscire dal silenzio - Contro la violenza OdV",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "via Orfanotrofio 16",
+                "ente_capofila": "",
+                "note": "Firmatario, partner Centro Antiviolenza"
+            },
+            {
+                "nome": "Associazione Underground OdV",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "via Orfanotrofio 16",
+                "ente_capofila": "",
+                "note": "Firmatario, gestore attività volontariato e raccolta fondi Casa Rifugio"
+            },
+            {
+                "nome": "Associazione di Promozione Sociale PaViol Percorsi Antiviolenza APS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "via Don Pietro Magri 3",
+                "ente_capofila": "",
+                "note": "Firmatario, servizi psicoterapia e prevenzione"
+            },
+            {
+                "nome": "Centro Antiviolenza di Biella",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Biella",
+                "indirizzo": "via Caraccio 4",
+                "ente_capofila": "",
+                "note": "Iscritto all’Albo della Regione Piemonte sezione A n. 11 del 17.08.2017"
+            },
+            {
+                "nome": "Casa Rifugio Biellese",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Iscritta all’Albo della Regione Piemonte sezione B n. 8 del 17.08.2017; gestita da Anteo Impresa Cooperativa Sociale"
+            },
+            {
+                "nome": "Provincia di Biella",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Promozione e sottoscrizione primi protocolli"
+            },
+            {
+                "nome": "Consigliera di Parità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario dei precedenti protocolli"
+            },
+            {
+                "nome": "Procura della Repubblica",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario dei precedenti protocolli"
+            },
+            {
+                "nome": "Università degli Studi di Torino",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario dei precedenti protocolli; Dipartimento Culture Politica e Società (Polo di Biella)"
+            },
+            {
+                "nome": "Ambito Territoriale n. 10 di Biella",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo 2011"
+            },
+            {
+                "nome": "Ospedale di Ponderano (ASL BI)",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nei percorsi di accoglienza"
+            },
+            {
+                "nome": "Struttura Complessa Neuropsichiatria Infantile ASL BI",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner per interventi in favore dei minori vittime di violenza assistita"
+            },
+            {
+                "nome": "Dipartimento Materno Infantile ASL BI",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner per interventi in favore dei minori"
+            },
+            {
+                "nome": "Equipe Multidisciplinare ASL BI",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presa in carico dei casi di maltrattamento ed abuso ai danni di minori"
+            },
+            {
+                "nome": "Servizi Sociali Territoriali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Attivazione percorsi Casa Rifugio; raccordo Centro Antiviolenza"
+            },
+            {
+                "nome": "Consultorio ASL BI di Biella",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Psicologa e assistente sociale dedicate al Centro Antiviolenza"
+            },
+            {
+                "nome": "Save The Children Italia ONLUS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario di protocolli precedenti"
+            },
+            {
+                "nome": "Associazione VocidiDONNE",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sottoscrittore protocollo pregresso"
+            },
+            {
+                "nome": "Associazione Donne Nuove",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sottoscrittore protocollo pregresso"
+            },
+            {
+                "nome": "Associazione Se Non Ora Quando? Biella",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sottoscrittore protocollo pregresso"
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale per il Piemonte-MIUR",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Piemonte",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo 2017"
+            },
+            {
+                "nome": "Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella)",
+                "tipo": "Università",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sottoscrittore protocollo 2017"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Normativa, Albo Centri antiviolenza e Case rifugio"
+            },
+            {
+                "nome": "ISTAT",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Richieste dati per monitoraggio"
+            },
+            {
+                "nome": "Dipartimento per le Pari Opportunità",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Finanziamenti Casa Rifugio"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Consorzio CISSABO",
+            "Consorzio IRIS",
+            "ASL BI",
+            "Anteo Impresa Cooperativa Sociale",
+            "Associazione Non sei sola. Uscire dal silenzio - Contro la violenza OdV",
+            "Associazione Underground OdV",
+            "Associazione di Promozione Sociale PaViol Percorsi Antiviolenza APS",
+            "Consultorio ASL BI di Biella",
+            "Casa Rifugio Biellese",
+            "Struttura Complessa Neuropsichiatria Infantile ASL BI",
+            "Dipartimento Materno Infantile ASL BI",
+            "Equipe Multidisciplinare ASL BI",
+            "Servizi Sociali Territoriali",
+            "Centro Antiviolenza di Biella",
+            "Ospedale di Ponderano (ASL BI)"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240904122512_4166---accordoSFD.txt",
+        "firmatari": [
+            "Consorzio C.I.S.S.A.B.0.",
+            "Consorzio I.R.I.S."
+        ],
+        "soggetti": [
+            {
+                "nome": "Consorzio C.I.S.S.A.B.0.",
+                "tipo": "Altro",
+                "comune": "Cossato",
+                "indirizzo": "via Mazzini 2/m",
+                "ente_capofila": "Partner Capofila",
+                "note": "Gestore del Centro Antiviolenza, titolare e responsabile di Casa Rifugio Biellese, gestore del fondo economico"
+            },
+            {
+                "nome": "Consorzio I.R.I.S",
+                "tipo": "Altro",
+                "comune": "Biella",
+                "indirizzo": "via Repubblica 22/B",
+                "ente_capofila": "",
+                "note": "Partner del protocollo, gestore progetti relative alle persone senza fissa dimora"
+            },
+            {
+                "nome": "Amministrazione Provinciale di Biella",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Azienda Sanitaria Locale di Biella",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Consorzio Intercomunale Servizi Socio Assistenziali I.R.I.S.",
+                "tipo": "Altro",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.I.S.S.A.B.0.",
+                "tipo": "Altro",
+                "comune": "Cossato",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Consigliera Provinciale di Parità di Biella",
+                "tipo": "Organismi di parità",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale Ordinario di Biella",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Ambito Territoriale X di Biella",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale per il Piemonte-MIUR",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Dipartimento Culture Politica e Società dell'Università degli Studi di Torino (Polo di Biella)",
+                "tipo": "Università",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria dei vari protocolli, partner Casa Rifugio, gestione Centro Antiviolenza"
+            },
+            {
+                "nome": "Associazione PaViol Percorsi Antiviolenza",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017, partner Casa Rifugio"
+            },
+            {
+                "nome": "Associazione Underground",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria dei vari protocolli, partner Casa Rifugio"
+            },
+            {
+                "nome": "Associazione VocidiDONNE",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Associazione Donne Nuove",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Associazione Se Non Ora Quando? Biella",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Associazione Save The Children Italia ONLUS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmataria del protocollo d'intesa del 07.04.2017"
+            },
+            {
+                "nome": "Cooperativa Sociale Anteo",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner Casa Rifugio Biellese, gestisce casa rifugio"
+            },
+            {
+                "nome": "Casa Rifugio Biellese",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ad indirizzo segreto, attiva dal maggio 2013, gestita da Anteo Cooperativa Sociale Onlus"
+            },
+            {
+                "nome": "Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "Consorzio C.I.S.S.A.B.0.",
+                "note": "Gestito dal Consorzio CISSABO"
+            },
+            {
+                "nome": "Comune di Biella",
+                "tipo": "Comuni",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Afferenza territoriale di servizi e gestione turnazione Servizio Sociale"
+            },
+            {
+                "nome": "Ospedale di Ponderano",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Ponderano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Segnalazione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Forze dell'Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Segnalazione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Servizio Sociale",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Individuazione della presa in carico, redazione progetti"
+            },
+            {
+                "nome": "Città di Biella",
+                "tipo": "Comuni",
+                "comune": "Biella",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Contributo al fondo economico annuale"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Consorzio C.I.S.S.A.B.0.",
+            "Consorzio I.R.I.S",
+            "Comune di Biella",
+            "Cooperativa Sociale Anteo",
+            "Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza",
+            "Associazione Underground",
+            "Associazione PaViol Percorsi Antiviolenza",
+            "Servizio Sociale",
+            "Città di Biella"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt",
+        "firmatari": [
+            "IRENE SOCIETA’ COOPERATIVA IMPRESA SOCIALE",
+            "ASSOCIAZIONE MAMRE ONLUS",
+            "PROVINCIA DI NOVARA",
+            "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI BORGOMANERO",
+            "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI CASTELLETTO SOPRA TICINO",
+            "COMUNE DI ARONA",
+            "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIOASSISTENZIALI ZONA CUSIO-OMEGNA"
+        ],
+        "soggetti": [
+            {
+                "nome": "IRENE SOCIETA’ COOPERATIVA IMPRESA SOCIALE",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "Via Gozzano, snc 28021 BORGOMANERO (NO)",
+                "ente_capofila": "soggetto capofila",
+                "note": "coordinamento, raccordo interno, facilitazione tra i soggetti della rete"
+            },
+            {
+                "nome": "ASSOCIAZIONE MAMRE ONLUS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "Via I. Fornara, 35 28021 BORGOMANERO (NO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "PROVINCIA DI NOVARA",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centro Servizi Pari Opportunita"
+            },
+            {
+                "nome": "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI BORGOMANERO",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI CASTELLETTO SOPRA TICINO",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "COMUNE DI ARONA",
+                "tipo": "Comuni",
+                "comune": "Arona",
+                "indirizzo": "",
+                "ente_capofila": "capofila di Convenzione",
+                "note": "Sportello Donna presso palazzo Comunale di Arona; Sportello Lavoro comunale"
+            },
+            {
+                "nome": "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIOASSISTENZIALI ZONA CUSIO-OMEGNA",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procure della Repubblica",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Territoriale del Governo",
+                "tipo": "Prefettura",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura",
+                "tipo": "Questura",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ministero della Giustizia - Polizia Penitenziaria",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedaliera",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASL",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza zona nord Novara",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "Borgomanero, via I. Fornara 35",
+                "ente_capofila": "",
+                "note": "sede legale"
+            },
+            {
+                "nome": "C.I.S.S. di Borgomanero",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Borgomanero",
+                "indirizzo": "Via Gozzano 7/d",
+                "ente_capofila": "",
+                "note": "sportello antiviolenza"
+            },
+            {
+                "nome": "C.I.S.A.S. di Castelletto Sopra Ticino",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Marano Ticino",
+                "indirizzo": "Via Sempione 40",
+                "ente_capofila": "",
+                "note": "sportello antiviolenza"
+            },
+            {
+                "nome": "Comuni convenzionati con Arona",
+                "tipo": "Comuni",
+                "comune": "Arona",
+                "indirizzo": "Via San Carlo 2",
+                "ente_capofila": "",
+                "note": "sportello antiviolenza"
+            },
+            {
+                "nome": "C.I.S.S. zona Cusio-Omegna",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "San Maurizio d’Opaglio",
+                "indirizzo": "Piazza I Maggio 4",
+                "ente_capofila": "",
+                "note": "sportello antiviolenza"
+            },
+            {
+                "nome": "Centro Servizi Pari Opportunita",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Donna",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Arona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "presso palazzo Comunale di Arona"
+            },
+            {
+                "nome": "Sportello Lavoro comunale",
+                "tipo": "Servizi per l'impiego",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centri Educativi convenzionati con il CISS",
+                "tipo": "Settore educativo comunale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "accesso agevolato per figli di donne vittime di violenza"
+            },
+            {
+                "nome": "Case di accoglienza",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "strutture di protezione"
+            },
+            {
+                "nome": "Case Rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "strutture di protezione"
+            },
+            {
+                "nome": "DEA Pronto Soccorso",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "protocollo operativo"
+            },
+            {
+                "nome": "Forza dell'Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "protocollo operativo"
+            },
+            {
+                "nome": "scuole",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "azioni di prevenzione e sensibilizzazione"
+            },
+            {
+                "nome": "servizi territoriali dell’area minore",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "tutela dei figli minori delle donne vittime di violenza"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "IRENE SOCIETA’ COOPERATIVA IMPRESA SOCIALE",
+            "ASSOCIAZIONE MAMRE ONLUS",
+            "PROVINCIA DI NOVARA",
+            "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI BORGOMANERO",
+            "CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI CASTELLETTO SOPRA TICINO",
+            "COMUNE DI ARONA",
+            "CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIOASSISTENZIALI ZONA CUSIO-OMEGNA",
+            "Comuni convenzionati con Arona",
+            "C.I.S.S. di Borgomanero",
+            "C.I.S.A.S. di Castelletto Sopra Ticino",
+            "C.I.S.S. zona Cusio-Omegna"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt",
+        "firmatari": [
+            "ASL TO3",
+            "Associazione SvoltaDonna OdV - Centro Antiviolenza"
+        ],
+        "soggetti": [
+            {
+                "nome": "ASL TO3",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo, collabora con Associazione SvoltaDonna OdV"
+            },
+            {
+                "nome": "VASSOCIAZIONE SVOLTA DONNA ODV - CENTRO ANTIVIOLENZA",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione SvoltaDonna OdV —Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestisce Centro Antiviolenza Svolta Donna, firmatario del protocollo"
+            },
+            {
+                "nome": "Centro Antiviolenza Svolta Donna",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito da Associazione SvoltaDonna OdV"
+            },
+            {
+                "nome": "Albo regionale dei Centri Antiviolenza e Case Rifugio della Regione Piemonte",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centro Antiviolenza Svolta Donna iscritto alla sezione 'A' n. 7/A"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Svolta Donna Onlus",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Precedente gestione del Centro Antiviolenza SvoltaDonna"
+            },
+            {
+                "nome": "E.M.M.A. Onlus",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Fusione con Associazione Svolta Donna Onlus"
+            },
+            {
+                "nome": "Servizio Sovrazionale di Epidemiologia di Grugliasco (ASL TO3)",
+                "tipo": "Altro",
+                "comune": "Grugliasco",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale Civile di Pinerolo (TO)",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Pinerolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sede di attività di ascolto telefonico e accoglienza diretta"
+            },
+            {
+                "nome": "Presidio territoriale di Avigliana (TO)",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Avigliana",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sede accoglienza diretta delle donne"
+            },
+            {
+                "nome": "Ospedale degli Infermi di Rivoli (TO)",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Rivoli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sede accoglienza diretta delle donne"
+            },
+            {
+                "nome": "Ospedale di Susa (TO)",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Susa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sede accoglienza diretta delle donne"
+            },
+            {
+                "nome": "Servizi Sociali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione con Associazione SvoltaDonna OdV"
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolte nella gestione e supporto delle donne"
+            },
+            {
+                "nome": "Servizi di Emergenza e Urgenza",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Consultori",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Servizi per la salute mentale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Servizi per le dipendenze patologiche",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Gruppo Aziendale per il Maltrattamento e l’Abuso",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Struttura di Ginecologia e Ostetricia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Psicologia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Psichiatria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta nella gestione delle donne vittime di violenza"
+            },
+            {
+                "nome": "Tavolo regionale di coordinamento dei Centri Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Associazione SvoltaDonna OdV partecipa"
+            },
+            {
+                "nome": "Citta Metropolitana di Torino",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Tavolo istituito cui partecipa Associazione SvoltaDonna OdV"
+            },
+            {
+                "nome": "Numero ministeriale 1522",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizio in rete con numero"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "ASL TO3",
+            "VASSOCIAZIONE SVOLTA DONNA ODV - CENTRO ANTIVIOLENZA",
+            "Associazione SvoltaDonna OdV —Centro Antiviolenza",
+            "Centro Antiviolenza Svolta Donna",
+            "Ospedale Civile di Pinerolo (TO)",
+            "Presidio territoriale di Avigliana (TO)",
+            "Ospedale degli Infermi di Rivoli (TO)",
+            "Ospedale di Susa (TO)",
+            "Servizi Sociali",
+            "Forze dell’Ordine",
+            "Servizi di Emergenza e Urgenza",
+            "Consultori",
+            "Servizi per la salute mentale",
+            "Servizi per le dipendenze patologiche",
+            "Gruppo Aziendale per il Maltrattamento e l’Abuso",
+            "Struttura di Ginecologia e Ostetricia",
+            "Psicologia",
+            "Psichiatria"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt",
+        "firmatari": [
+            "SVOLTADONNA ODV - CENTRO ANTIVIOLENZA"
+        ],
+        "soggetti": [
+            {
+                "nome": "Associazione SvoltaDonna",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Pinerolo",
+                "indirizzo": "Stradale Fenestrelle 1",
+                "ente_capofila": "",
+                "note": "Titolare del Centro Antiviolenza SvoltaDonna"
+            },
+            {
+                "nome": "Centro Antiviolenza SvoltaDonna",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Pinerolo",
+                "indirizzo": "Stradale Fenestrelle 1",
+                "ente_capofila": "",
+                "note": "Gestito dall'Associazione SvoltaDonna"
+            },
+            {
+                "nome": "Centri Antiviolenza EMMA Onlus",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi socio-sanitari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Spazi per l'accoglienza in emergenza",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportelli Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Numero Verde",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Numero verde 800.093.900 e di emergenza 3493363100"
+            },
+            {
+                "nome": "Ospedale",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto in accompagnamento delle donne"
+            },
+            {
+                "nome": "Servizio Sociale",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Fondo Regionale per il patrocinio legale delle donne vittime di violenza e maltrattamenti",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Scuole di ogni ordine e grado",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolte in azioni di informazione/sensibilizzazione"
+            },
+            {
+                "nome": "Forze dell'Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presidi coinvolti nei percorsi di ascolto delle donne"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Associazione SvoltaDonna"
+        ],
+        "attori_coinvolti": [
+            "Associazione SvoltaDonna",
+            "Centro Antiviolenza SvoltaDonna",
+            "Servizi socio-sanitari",
+            "Spazi per l'accoglienza in emergenza",
+            "Sportelli Antiviolenza",
+            "Numero Verde",
+            "Ospedale",
+            "Servizio Sociale",
+            "Scuole di ogni ordine e grado",
+            "Forze dell'Ordine"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt",
+        "firmatari": [
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+            "C.LS. — Consorzio Intercomunale dei servizi socioassistenziali di Cirié",
+            "CISA12 — Consorzio Intercomunale Socio-Assistenziale Nichelino, Vinovo, None, Candiolo",
+            "C.LS.S. — Consorzio Intercomunale Servizi Sociali di Chivasso",
+            "CISA31 Consorzio Intercomunale Socio-Assistenziale",
+            "Consorzio Intercomunale di Servizi (C.I.diS.)",
+            "CONISA — Consorzio Intercomunale Socio-Assistenziale Valle di Susa",
+            "Unione dei Comuni Montani Valsangone - Servizi Socio-Assistenziali",
+            "Unione Montana dei Comuni delle valli Chisone e Germanasca",
+            "Unione dei Comuni Nord Est Torino",
+            "Unione dei Comuni di Moncalieri, Trofarello, La Loggia",
+            "ASL “Citta di Torino”",
+            "ASLTO3",
+            "ASL TO5",
+            "A.O.U. “San Luigi Gonzaga” di Orbassano",
+            "Dipartimento di Culture Politica e Societa — Universita di Torino",
+            "ORSO SCS (Societa Cooperativa Sociale)",
+            "IDEA Agenzia per il Lavoro",
+            "COESA Consorzio cooperative sociali"
+        ],
+        "soggetti": [
+            {
+                "nome": "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Torino",
+                "indirizzo": "Via G. PASSALCQUA 6B - Torino (TO)",
+                "ente_capofila": "sì",
+                "note": "Coordinatore di rete"
+            },
+            {
+                "nome": "C.LS. — Consorzio Intercomunale dei servizi socioassistenziali",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Cirié",
+                "indirizzo": "Piazza Castello 20 -10073 Cirié (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CISA12 — Consorzio Intercomunale Socio-Assistenziale di Nichelino, Vinovo, None, Candiolo",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Nichelino",
+                "indirizzo": "Via dei Cacciatori n. 21/12 — 10042 Nichelino (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "C.LS.S. — Consorzio Intercomunale Servizi Sociali",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Chivasso",
+                "indirizzo": "Via Togliatti 9 — 10034 Chivasso (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CISA31 Consorzio Intercomunale Socio-Assistenziale",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Carmagnola",
+                "indirizzo": "Via Avvocato Cavalli b. 6 — Carmagnola (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consorzio Intercomunale di Servizi (C.I.diS.)",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Orbassano",
+                "indirizzo": "Strada Volvera 63 - 10043 Comune di Orbassano (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CONISA — Consorzio Intercomunale Socio-Assistenziale Valle di Susa",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Susa",
+                "indirizzo": "Piazza San Francesco n. 4 — 10059 Susa (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unione dei Comuni Montani Valsangone - Servizi Socio Assistenziali",
+                "tipo": "Comuni",
+                "comune": "Giaveno",
+                "indirizzo": "Via XXIV Maggio n. 1 — 10094 Giaveno (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unione Montana dei Comuni delle valli Chisone e Germanasca",
+                "tipo": "Comuni",
+                "comune": "Perosa Argentina",
+                "indirizzo": "Via Roma22-— 10063 Perosa-Argentina (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unione dei Comuni Nord Est Torino",
+                "tipo": "Comuni",
+                "comune": "Settimo Torinese",
+                "indirizzo": "Via Giovanni XXII n. 16 — San Benigno Canavese; Via Roma 3 — 10036 Settimo Torinese (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unione dei Comuni di Moncalieri, Trofarello, La Loggia",
+                "tipo": "Comuni",
+                "comune": "Moncalieri",
+                "indirizzo": "Fiume 17 bis — 10024 Moncalieri (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASL “Citta di Torino”",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Torino",
+                "indirizzo": "Via San Secondo 29 — 10128 Torino",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASLTO3",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Collegno",
+                "indirizzo": "Via Martiri XXX Aprile 30 — 10093 Collegno (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASLTO5 — Azienda Sanitaria Locale di Chieri, Carmagnola, Moncalieri, Nichelino",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Chieri",
+                "indirizzo": "Piazza Silvio Pellico 1 — 10023 Chieri (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "A.O.U. “San Luigi Gonzaga” di Orbassano",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Orbassano",
+                "indirizzo": "Regione Gonzole, 10 — 10043 Orbassano (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Dipartimento di Culture Politica e Societa — Universita di Torino",
+                "tipo": "Università",
+                "comune": "Torino",
+                "indirizzo": "Lungo Dora Siena, 100/A; 10153 Torino",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ORSO SCS (Societa Cooperativa Sociale)",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Torino",
+                "indirizzo": "Via Bobbio, 21/a - 10141 Torino (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "IDEA Agenzia per il Lavoro scs onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Torino",
+                "indirizzo": "Via Bobbio, 21/3 -10141 Torino (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "COESA PINEROLO s.c.a. a r.l.",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Pinerolo",
+                "indirizzo": "Piazza Terzo Alpini n. 1 - 10064 Pinerolo (TO)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "DIRE — Donne in Rete contro la violenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "rete nazionale"
+            },
+            {
+                "nome": "ANCI Nazionale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Associazione nazionale Comuni"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Albo Regionale dei Centri Antiviolenza e delle Case Rifugio",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS"
+        ],
+        "attori_coinvolti": [
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+            "C.LS. — Consorzio Intercomunale dei servizi socioassistenziali",
+            "CISA12 — Consorzio Intercomunale Socio-Assistenziale di Nichelino, Vinovo, None, Candiolo",
+            "C.LS.S. — Consorzio Intercomunale Servizi Sociali",
+            "CISA31 Consorzio Intercomunale Socio-Assistenziale",
+            "Consorzio Intercomunale di Servizi (C.I.diS.)",
+            "CONISA — Consorzio Intercomunale Socio-Assistenziale Valle di Susa",
+            "Unione dei Comuni Montani Valsangone - Servizi Socio Assistenziali",
+            "Unione Montana dei Comuni delle valli Chisone e Germanasca",
+            "Unione dei Comuni Nord Est Torino",
+            "Unione dei Comuni di Moncalieri, Trofarello, La Loggia",
+            "ASL “Citta di Torino”",
+            "ASLTO3",
+            "ASLTO5 — Azienda Sanitaria Locale di Chieri, Carmagnola, Moncalieri, Nichelino",
+            "A.O.U. “San Luigi Gonzaga” di Orbassano",
+            "Dipartimento di Culture Politica e Societa — Universita di Torino",
+            "ORSO SCS (Societa Cooperativa Sociale)",
+            "IDEA Agenzia per il Lavoro scs onlus",
+            "COESA PINEROLO s.c.a. a r.l."
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt",
+        "firmatari": [
+            "Comune di Carmagnola",
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Carmagnola",
+                "tipo": "Comuni",
+                "comune": "Carmagnola",
+                "indirizzo": "Piazza Manzoni, 10",
+                "ente_capofila": "",
+                "note": "Firmatario della convenzione, mette a disposizione locali e gestisce economicamente lo Sportello Antiviolenza."
+            },
+            {
+                "nome": "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "TORINO",
+                "indirizzo": "via G. PASSALACQUA, n. 6B",
+                "ente_capofila": "",
+                "note": "Firmatario della convenzione, gestisce lo Sportello Antiviolenza e altri servizi antiviolenza nell'area metropolitana."
+            },
+            {
+                "nome": "Centro Antiviolenza DonneFuturo",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collabora in rete con E.M.M.A. ONLUS e con lo Sportello Antiviolenza di Carmagnola."
+            },
+            {
+                "nome": "Rete Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collabora con E.M.M.A. ONLUS e lo Sportello Antiviolenza; include soggetti del territorio."
+            },
+            {
+                "nome": "Forze dell’ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborano nella rete territoriale con lo Sportello Antiviolenza."
+            },
+            {
+                "nome": "Servizi Sociali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborano nella rete territoriale con lo Sportello Antiviolenza."
+            },
+            {
+                "nome": "Servizio di Psicologia dell’ASL di Carmagnola",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Carmagnola",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collabora nella rete territoriale con lo Sportello Antiviolenza."
+            },
+            {
+                "nome": "Help House Girls",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Spazio residenziale per l'accoglienza di donne minorenni vittime di violenza di genere, in fase di apertura nell’Area Metropolitana."
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Comune di Carmagnola",
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+            "Centro Antiviolenza DonneFuturo",
+            "Rete Antiviolenza",
+            "Forze dell’ordine",
+            "Servizi Sociali",
+            "Servizio di Psicologia dell’ASL di Carmagnola"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt",
+        "firmatari": [
+            "Comune di Rivoli",
+            "Associazione Centri Antiviolenza E.M.M.A. Onlus"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Rivoli",
+                "tipo": "Comuni",
+                "comune": "Rivoli",
+                "indirizzo": "Corso Francia 98 — 10098 Rivoli (TO)",
+                "ente_capofila": "",
+                "note": "Amministrazione titolare dello sportello antiviolenza oggetto dell'affidamento"
+            },
+            {
+                "nome": "Associazione Centri Antiviolenza E.M.M.A. Onlus",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "Via Passalacqua n. 6b — Torino",
+                "ente_capofila": "",
+                "note": "Gestore dello sportello antiviolenza della Città di Rivoli; aggiudicatario affidamento"
+            },
+            {
+                "nome": "Ufficio Pari Opportunita",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ufficio comunale coinvolto nella gestione e affidamento servizio"
+            },
+            {
+                "nome": "DIREZIONE SERVIZI ECONOMICO FINANZIARI",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Direzione comunale coinvolta nelle determinazioni e negli affidamenti"
+            },
+            {
+                "nome": "CONSIP",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Convenzioni elettroniche acquisti per la Pubblica Amministrazione"
+            },
+            {
+                "nome": "MePA",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Mercato elettronico della Pubblica Amministrazione; piattaforma utilizzata per l'affidamento"
+            },
+            {
+                "nome": "INAIL",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente per la verifica del DURC"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Rivoli"
+        ],
+        "attori_coinvolti": [
+            "Comune di Rivoli",
+            "Associazione Centri Antiviolenza E.M.M.A. Onlus",
+            "Ufficio Pari Opportunita"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt",
+        "firmatari": [
+            "Universita degli Studi di Torino",
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS"
+        ],
+        "soggetti": [
+            {
+                "nome": "Universita degli Studi di Torino",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "Via Verdi, 8, Torino",
+                "ente_capofila": "",
+                "note": "Parte del protocollo; indicato anche come UniTo e Ateneo"
+            },
+            {
+                "nome": "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "Via G. Passalacqua 6B, Torino",
+                "ente_capofila": "",
+                "note": "Gestisce Centri Antiviolenza, Case rifugio, sportelli antiviolenza e altri presidi; firmatario"
+            },
+            {
+                "nome": "Sportello Antiviolenza di Ateneo",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "Campus Universitario Luigi Einaudi — Lungo Dora Siena 100",
+                "ente_capofila": "",
+                "note": "Collegato a CENTRI E.M.M.A.; all’interno dell’Università degli Studi di Torino"
+            },
+            {
+                "nome": "CUG di UniTo",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comitato Unico di Garanzia; coinvolto in sinergia per iniziative e didattica"
+            },
+            {
+                "nome": "CIRSDE",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centro Interdisciplinare di Ricerche e Studi delle Donne e di Genere di UniTo; coinvolto in coordinamento e didattica"
+            },
+            {
+                "nome": "comitato di indirizzo della convenzione Unito-Telefono Rosa",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collegamento nell'ambito delle azioni congiunte; menzionato nell'art. 2"
+            },
+            {
+                "nome": "Consigliera di Fiducia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta nelle attività didattiche e nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Filosofia e Scienze dell’Educazione",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Giurisprudenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Culture, Politica e Societa",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Psicologia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Economia Cognetti de Martiis",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Neuroscienze \"Rita Levi Montalcini\"",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Dipartimento di Management",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nel Comitato di indirizzo"
+            },
+            {
+                "nome": "Unita di Progetto Supporto al CUG e alla Consigliera di Fiducia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Responsabile nel Comitato di indirizzo"
+            },
+            {
+                "nome": "CUG",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presidente partecipa al Comitato di indirizzo"
+            },
+            {
+                "nome": "Comitato di Bioetica di Ateneo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Nominato per valutazione progetti di ricerca"
+            },
+            {
+                "nome": "Comitato Ospedaliero",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Nominato come organo possibile per valutazione progetti di ricerca"
+            },
+            {
+                "nome": "Comitato di Categoria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Nominato come organo possibile per valutazione progetti di ricerca"
+            },
+            {
+                "nome": "Agenzia delle Entrate - Ufficio di Torino 1",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Menzionato per autorizzazione imposta di bollo"
+            },
+            {
+                "nome": "Telefono Rosa",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Appare nella forma di convenzione Unito-Telefono Rosa"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Universita degli Studi di Torino",
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS"
+        ],
+        "attori_coinvolti": [
+            "Universita degli Studi di Torino",
+            "CENTRI ANTIVIOLENZA E.M.M.A. ONLUS",
+            "Sportello Antiviolenza di Ateneo",
+            "CUG di UniTo",
+            "CIRSDE",
+            "Consigliera di Fiducia"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt",
+        "firmatari": [
+            "Consorzio Socio Assistenziale del Cuneese",
+            "Consorzio Monviso Solidale",
+            "Consorzio per i Servizi Socio Assistenziali del Monregalese",
+            "ASL CN1",
+            "A.O. Santa Croce e Carle",
+            "Comune di Cuneo",
+            "Comune di Fossano",
+            "Comune di Mondovi",
+            "Comune di Saluzzo",
+            "Comune di Savigliano",
+            "Croce Rossa Italiana - Comitato Locale di Mondovi O.N.L.U.S. - L'Orecchio di Venere",
+            "Associazione MAI+SOLE",
+            "Associazione Telefono Donna Cuneo ODV",
+            "Coop. Fiordaliso Soc. Coop. Sociale Onlus"
+        ],
+        "soggetti": [
+            {
+                "nome": "Consorzio Socio Assistenziale del Cuneese",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "Via Rocca de’ Baldi n. 7 - 12100 Cuneo",
+                "ente_capofila": "sì",
+                "note": "Capofila Tavolo Provinciale attività donne vittime di violenza e Centro Antiviolenza n. 10/A"
+            },
+            {
+                "nome": "Consorzio Monviso Solidale",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consorzio per i Servizi Socio Assistenziali del Monregalese",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASL CN1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "Via C. Boggio n. 12, Cuneo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "A.O. Santa Croce e Carle",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "Via M. Coppino n. 26, Cuneo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Cuneo",
+                "tipo": "Comuni",
+                "comune": "Cuneo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Fossano",
+                "tipo": "Comuni",
+                "comune": "Fossano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Mondovi",
+                "tipo": "Comuni",
+                "comune": "Mondovi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Saluzzo",
+                "tipo": "Comuni",
+                "comune": "Saluzzo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Savigliano",
+                "tipo": "Comuni",
+                "comune": "Savigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Croce Rossa Italiana - Comitato Locale di Mondovi O.N.L.U.S. - L'Orecchio di Venere",
+                "tipo": "Altro",
+                "comune": "Mondovi",
+                "indirizzo": "Via Croce Rossa n. 4, Mondovi",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione MAI+SOLE",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Savigliano",
+                "indirizzo": "Via Teatro n. 2, Savigliano",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Telefono Donna Cuneo ODV",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Cuneo",
+                "indirizzo": "Via Carlo Emanuele III n. 34, Cuneo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Coop. Fiordaliso Soc. Coop. Sociale Onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Cuneo",
+                "indirizzo": "Via Bossea n. 10, Cuneo",
+                "ente_capofila": "",
+                "note": "Gestisce la casa rifugio autorizzata"
+            },
+            {
+                "nome": "Consultorio Familiare ASL CN1 Sede di Cuneo",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Cuneo",
+                "indirizzo": "Via Carlo Boggio n. 14, Cuneo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Familiare ASL CN1 Sede di Mondovi",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Mondovi",
+                "indirizzo": "Ospedale Regina Montis Regalis, Via San Rocchetto 99, Mondovi",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Familiare ASL CN1 Sede di Saluzzo",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Saluzzo",
+                "indirizzo": "Via Spielberg n. 58, Saluzzo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Familiare ASL CN1 Sede di Savigliano",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Savigliano",
+                "indirizzo": "Via Torino n. 143, Savigliano",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Bra - gestione associata dei Servizi Socio Assistenziali, ambito di Bra",
+                "tipo": "Comuni",
+                "comune": "Bra",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Soggetto titolare del CAV nuovo sul territorio ASL CN2, non parte del presente protocollo"
+            },
+            {
+                "nome": "Centro Anti Violenza n. 10/A",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Iscritto sezione A Albo regionale; gestito da CSAC e partner istituzionali"
+            },
+            {
+                "nome": "Sportello Le Ali di Zena",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Cuneo",
+                "indirizzo": "Via Rocca de’ Baldi 7, Borgo San Giuseppe — Cuneo",
+                "ente_capofila": "",
+                "note": "Presso CSAC"
+            },
+            {
+                "nome": "Sportello Zena a Dronero",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Dronero",
+                "indirizzo": "Via Pasubio n. 7, Dronero",
+                "ente_capofila": "",
+                "note": "Presso CSAC"
+            },
+            {
+                "nome": "Sportello presso Cascina Sacerdote",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Fossano",
+                "indirizzo": "Via dello Stagno 2, Fossano",
+                "ente_capofila": "",
+                "note": "Presso Consorzio Monviso Solidale"
+            },
+            {
+                "nome": "Sportello presso C.so Statuto 13",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Mondovi",
+                "indirizzo": "Corso Statuto 13, Mondovi",
+                "ente_capofila": "",
+                "note": "Presso Consorzio per i Servizi Socio Assistenziali del Monregalese"
+            },
+            {
+                "nome": "Sportello legale Comune di Fossano",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Fossano",
+                "indirizzo": "Via Roma 91, presso Municipio",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello della C.R.I. Mondovi - L'Orecchio di Venere",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Mondovi",
+                "indirizzo": "Via Croce Rossa 4, Mondovi",
+                "ente_capofila": "",
+                "note": "Collegato al 1522"
+            },
+            {
+                "nome": "Sportello Associazione MAI+SOLE Savigliano",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Savigliano",
+                "indirizzo": "Via Teatro 2, Savigliano",
+                "ente_capofila": "",
+                "note": "Collegato al 1522"
+            },
+            {
+                "nome": "Sportello Associazione MAI+SOLE Saluzzo",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Saluzzo",
+                "indirizzo": "Via Mazzini 3/A, Saluzzo",
+                "ente_capofila": "",
+                "note": "Collegato al 1522"
+            },
+            {
+                "nome": "Sportello Associazione MAI+SOLE Cuneo",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Cuneo",
+                "indirizzo": "C.so J.F. Kennedy 5, Cuneo",
+                "ente_capofila": "",
+                "note": "Collegato al 1522"
+            },
+            {
+                "nome": "Sportello Associazione Telefono Donna Cuneo ODV",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Cuneo",
+                "indirizzo": "Via Carlo Emanuele III 34, Cuneo",
+                "ente_capofila": "",
+                "note": "Collegato al 1522"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Direzione Coesione Sociale"
+            },
+            {
+                "nome": "Giunta Regionale Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Presidente della Giunta Regionale Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Governo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato in relazione a intese nazionali"
+            },
+            {
+                "nome": "Province autonome di Trento e di Bolzano",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Autonomie locali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati",
+                "tipo": "Ordine avvocati",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Consorzio Socio Assistenziale del Cuneese"
+        ],
+        "attori_coinvolti": [
+            "Consorzio Socio Assistenziale del Cuneese",
+            "Consorzio Monviso Solidale",
+            "Consorzio per i Servizi Socio Assistenziali del Monregalese",
+            "ASL CN1",
+            "A.O. Santa Croce e Carle",
+            "Comune di Cuneo",
+            "Comune di Fossano",
+            "Comune di Mondovi",
+            "Comune di Saluzzo",
+            "Comune di Savigliano",
+            "Croce Rossa Italiana - Comitato Locale di Mondovi O.N.L.U.S. - L'Orecchio di Venere",
+            "Associazione MAI+SOLE",
+            "Associazione Telefono Donna Cuneo ODV",
+            "Coop. Fiordaliso Soc. Coop. Sociale Onlus"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240920123646_4166---vercellieos.txt",
+        "firmatari": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. (Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia)",
+            "C.A.S.A. (Consorzio per l’Attivita Socio Assistenziale di Gattinara)",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente del Nodo provinciale contro le discriminazioni della Provincia di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio di Esecuzione Penale Esterna"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Vercelli",
+                "tipo": "Comuni",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "C.I.S.A.S. (Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia)",
+                "tipo": "Altro",
+                "comune": "Santhia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente gestore delle funzioni socio assistenziali"
+            },
+            {
+                "nome": "C.A.S.A. (Consorzio per l’Attivita Socio Assistenziale di Gattinara)",
+                "tipo": "Altro",
+                "comune": "Gattinara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente gestore delle funzioni socio assistenziali"
+            },
+            {
+                "nome": "Unione Montana dei Comuni della Valsesia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente gestore delle funzioni socio assistenziali"
+            },
+            {
+                "nome": "Prefettura di Vercelli",
+                "tipo": "Prefettura",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Vercelli",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Vercelli",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Vercelli",
+                "tipo": "Questura",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale dei Carabinieri di Vercelli",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Guardia di Finanza di Vercelli",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Sanitaria Locale di Vercelli",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ASL VC"
+            },
+            {
+                "nome": "Ordine dei Medici di Vercelli",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Vercelli",
+                "tipo": "Ordine avvocati",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Provincia di Vercelli",
+                "tipo": "Organismi di parità",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Referente del Nodo provinciale contro le discriminazioni della Provincia di Vercelli",
+                "tipo": "Organismi di parità",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Provinciale di Vercelli",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Giornalisti del Piemonte",
+                "tipo": "Altri ordini professionali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio di Esecuzione Penale Esterna",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "U.L.E.P.E. di Vercelli e Biella"
+            },
+            {
+                "nome": "Rete Vercellese Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Organismo di coordinamento territoriale"
+            },
+            {
+                "nome": "Presidio Ospedaliero di Vercelli",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "DEA"
+            },
+            {
+                "nome": "Pronto Soccorso del Presidio Ospedaliero di Borgosesia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Borgosesia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partecipazione alla gestione delle emergenze, formazione e collaborazione"
+            },
+            {
+                "nome": "Servizi Sociali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Enti Gestori delle funzioni socio assistenziali"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. (Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia)",
+            "C.A.S.A. (Consorzio per l’Attivita Socio Assistenziale di Gattinara)",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente del Nodo provinciale contro le discriminazioni della Provincia di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio di Esecuzione Penale Esterna"
+        ],
+        "attori_coinvolti": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. (Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia)",
+            "C.A.S.A. (Consorzio per l’Attivita Socio Assistenziale di Gattinara)",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente del Nodo provinciale contro le discriminazioni della Provincia di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio di Esecuzione Penale Esterna",
+            "Presidio Ospedaliero di Vercelli",
+            "Pronto Soccorso del Presidio Ospedaliero di Borgosesia"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt",
+        "firmatari": [
+            "Comune di Novara",
+            "Liberazione e Speranza Societa Cooperativa Sociale",
+            "Elios Societa Cooperativa Sociale"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Novara",
+                "tipo": "Comuni",
+                "comune": "Novara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente affidante e parte della convenzione"
+            },
+            {
+                "nome": "LIBERAZIONE E SPERANZA Societa Cooperativa Sociale",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Novara",
+                "indirizzo": "via Alcarotti 1/B — 28100",
+                "ente_capofila": "",
+                "note": "Soggetto Attuatore; parte della convenzione in RTI"
+            },
+            {
+                "nome": "ELIOS Societa Cooperativa Sociale",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Novara",
+                "indirizzo": "Viale Volta 18/a",
+                "ente_capofila": "",
+                "note": "Soggetto Attuatore; parte della convenzione in RTI"
+            },
+            {
+                "nome": "Settore 5 - Politiche Sociali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nella gestione e controllo della convenzione"
+            },
+            {
+                "nome": "Centro AntiViolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestione prevista tra le azioni progettuali"
+            },
+            {
+                "nome": "UNIPOL SAI - Novara",
+                "tipo": "Altro",
+                "comune": "Novara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Compagnia assicurativa per polizze RCT"
+            },
+            {
+                "nome": "UnipolSai Assicurazioni spa",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Compagnia assicurativa per polizze RCT"
+            },
+            {
+                "nome": "Banco BPM - Banca Popolare di Novara",
+                "tipo": "Altro",
+                "comune": "Novara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Banca presso cui è aperto il conto corrente della cooperativa"
+            },
+            {
+                "nome": "Intesa Sanpaolo",
+                "tipo": "Altro",
+                "comune": "Milano",
+                "indirizzo": "Piazza Paolo Ferrari, 10",
+                "ente_capofila": "",
+                "note": "Banca presso cui sono aperti conti correnti della cooperativa"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Comune di Novara",
+            "LIBERAZIONE E SPERANZA Societa Cooperativa Sociale",
+            "ELIOS Societa Cooperativa Sociale",
+            "Settore 5 - Politiche Sociali",
+            "Centro AntiViolenza"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt",
+        "firmatari": [
+            "Città di Torino"
+        ],
+        "soggetti": [
+            {
+                "nome": "Città di Torino",
+                "tipo": "Comuni",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto promotore, ente deliberante e firmatario"
+            },
+            {
+                "nome": "Dipartimento Servizi Sociali, Socio Sanitari e Abitativi",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Afferisce l'Osservatorio cittadino sulla Salute delle Donne"
+            },
+            {
+                "nome": "Servizio Giovani e Pari Opportunità",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "In dialogo con Osservatorio cittadino sulla Salute delle Donne"
+            },
+            {
+                "nome": "Dipartimento Servizi Sociali, Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Pari Opportunità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Dipartimento Servizi Educativi",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Città Metropolitana",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Piemonte, Direzione Sanità e Welfare",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASL Città di Torino",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Circoscrizioni",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Unità territoriali della Città di Torino"
+            },
+            {
+                "nome": "Centro Interdisciplinare Ricerche e Studi delle Donne e di Genere dell’Università degli Studi di Torino (CIRSDE)",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CUG",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente di coordinamento della Città su temi delle Pari Opportunità"
+            },
+            {
+                "nome": "Coordinamento Cittadino sulla Violenza contro le Donne",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente di coordinamento della Città su temi delle Pari Opportunità"
+            },
+            {
+                "nome": "Gender City Manager",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente di coordinamento della Città su temi delle Pari Opportunità"
+            },
+            {
+                "nome": "Consulta Femminile Comunale",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente di coordinamento della Città su temi delle Pari Opportunità"
+            },
+            {
+                "nome": "Organizzazione Mondiale della Sanità",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato come riferimento scientifico"
+            },
+            {
+                "nome": "Ministero della Salute",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato come riferimento scientifico"
+            },
+            {
+                "nome": "Istituto Superiore di Sanità",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato come riferimento scientifico"
+            },
+            {
+                "nome": "Parlamento Europeo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato in riferimento a risoluzione"
+            },
+            {
+                "nome": "Commissioni Consiliari (IV e Pari Opportunità)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Osservatorio Epidemiologico Regionale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Dipartimento di Prevenzione",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi specialistici sulle malattie sessualmente trasmesse",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio di prevenzione e sicurezza in ambiente di lavoro",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Università di Torino",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "consultori familiari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Strutture indicate per tutela salute della donna"
+            },
+            {
+                "nome": "aziende ospedaliere",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "organizzazioni femminili e/o impegnate nella promozione e nella tutela della salute della donna",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresentanze nell'Osservatorio"
+            },
+            {
+                "nome": "Coordinamenti femminili delle organizzazioni sindacali",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresentanze nell'Osservatorio"
+            },
+            {
+                "nome": "organizzazioni di base e di cura",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolte nelle attività dell'Osservatorio"
+            },
+            {
+                "nome": "enti del terzo settore",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti nelle attività e sinergie"
+            },
+            {
+                "nome": "sindacati",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti"
+            },
+            {
+                "nome": "coordinamenti",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolti"
+            },
+            {
+                "nome": "associazioni",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolte"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Città di Torino"
+        ],
+        "attori_coinvolti": [
+            "Città di Torino",
+            "Dipartimento Servizi Sociali, Socio Sanitari e Abitativi",
+            "Servizio Giovani e Pari Opportunità",
+            "Dipartimento Servizi Sociali, Centro Antiviolenza",
+            "Ufficio Pari Opportunità",
+            "Dipartimento Servizi Educativi",
+            "Città Metropolitana",
+            "Regione Piemonte, Direzione Sanità e Welfare",
+            "ASL Città di Torino",
+            "Circoscrizioni",
+            "Centro Interdisciplinare Ricerche e Studi delle Donne e di Genere dell’Università degli Studi di Torino (CIRSDE)",
+            "CUG",
+            "Coordinamento Cittadino sulla Violenza contro le Donne",
+            "Gender City Manager",
+            "Consulta Femminile Comunale",
+            "consultori familiari",
+            "aziende ospedaliere",
+            "organizzazioni femminili e/o impegnate nella promozione e nella tutela della salute della donna",
+            "Coordinamenti femminili delle organizzazioni sindacali",
+            "organizzazioni di base e di cura",
+            "enti del terzo settore",
+            "sindacati",
+            "coordinamenti",
+            "associazioni"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt",
+        "firmatari": [
+            "Città di Torino",
+            "Città Metropolitana di Torino",
+            "Provincia di Torino",
+            "gli Enti pubblici, le Associazioni, le Fondazioni, le Cooperative e le altre Istituzioni di carattere privato sottoscrittori/sottoscrittrici del presente Protocollo"
+        ],
+        "soggetti": [
+            {
+                "nome": "Città di Torino",
+                "tipo": "Comuni",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ente promotore e di riferimento del Protocollo"
+            },
+            {
+                "nome": "Provincia di Torino",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "adattato nel testo alla Città Metropolitana di Torino"
+            },
+            {
+                "nome": "Città Metropolitana di Torino",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ente promotore e di riferimento del Protocollo"
+            },
+            {
+                "nome": "Coordinamento Contro la Violenza sulle Donne (CCVD)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "organismo/interistituzionale, struttura di rete operativa"
+            },
+            {
+                "nome": "Tavolo della Città Metropolitana di Torino per la Promozione del Cambiamento degli Autori di Violenza di Genere",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "organismo di coordinamento territoriale"
+            },
+            {
+                "nome": "Gruppi di Lavoro del Coordinamento",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "struttura organizzativa interna al Coordinamento"
+            },
+            {
+                "nome": "Comitato di Raccordo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "organo esecutivo del Coordinamento"
+            },
+            {
+                "nome": "Assemblea del Coordinamento",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "organo decisionale del Coordinamento"
+            },
+            {
+                "nome": "Commissione Consiliare permanente Diritti e Pari Opportunità del Comune di Torino",
+                "tipo": "Altro",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio competente in materia di Pari Opportunità della Città di Torino",
+                "tipo": "Altro",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "supporto tecnico e amministrativo, coordinamento"
+            },
+            {
+                "nome": "Dipartimento Servizi Sociali, Socio Sanitari e Abitativi della Città di Torino",
+                "tipo": "Altro",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "servizio di riferimento, accoglienza donne"
+            },
+            {
+                "nome": "Casa Rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Call Center Mamma Bambino",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pronto Intervento Sociale (PrinS)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Distretti di Coesione Sociale (Servizi Sociali — Poli Inclusione)",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "numero nazionale 1522",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "servizio nazionale ascolto-violenza"
+            },
+            {
+                "nome": "Forze dell'Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Autorità Giudiziarie",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedali",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio competente in materia di Pari Opportunità della Città Metropolitana di Torino",
+                "tipo": "Altro",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parità della Città Metropolitana di Torino",
+                "tipo": "Organismi di parità",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Sanitario Esperto contro la violenza dell’A.O.U. Città della Salute e della Scienza di Torino",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "impegno nella presa in carico sanitaria e monitoraggio"
+            },
+            {
+                "nome": "Dipartimento Corpo Polizia Locale - Reparto Specialistico Prossimità",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "accoglienza vittime violenza"
+            },
+            {
+                "nome": "Polizia Municipale di Torino",
+                "tipo": "Polizia Municipale",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Sanitario Esperto contro la violenza dell’AOU Città della Salute e della Scienza di Torino",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "partecipazione al Comitato di Raccordo"
+            },
+            {
+                "nome": "Direzione Politiche Sociali e Rapporti con le Aziende Sanitarie del Comune di Torino",
+                "tipo": "Altro",
+                "comune": "Torino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CSIPiemonte",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "responsabile esterno dei trattamenti per la gestione informatica"
+            },
+            {
+                "nome": "gli Enti pubblici, le Associazioni, le Fondazioni, le Cooperative e le altre Istituzioni di carattere privato sottoscrittori/sottoscrittrici del presente Protocollo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "indicati genericamente come sottoscrittori e aderenti"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Città di Torino",
+            "Città Metropolitana di Torino"
+        ],
+        "attori_coinvolti": [
+            "Città di Torino",
+            "Città Metropolitana di Torino",
+            "Coordinamento Contro la Violenza sulle Donne (CCVD)",
+            "Servizio competente in materia di Pari Opportunità della Città di Torino",
+            "Dipartimento Servizi Sociali, Socio Sanitari e Abitativi della Città di Torino",
+            "Centro Antiviolenza",
+            "Casa Rifugio",
+            "Call Center Mamma Bambino",
+            "Pronto Intervento Sociale (PrinS)",
+            "Distretti di Coesione Sociale (Servizi Sociali — Poli Inclusione)",
+            "numero nazionale 1522",
+            "Ufficio competente in materia di Pari Opportunità della Città Metropolitana di Torino",
+            "Consigliera di Parità della Città Metropolitana di Torino",
+            "Centro Sanitario Esperto contro la violenza dell’A.O.U. Città della Salute e della Scienza di Torino",
+            "Dipartimento Corpo Polizia Locale - Reparto Specialistico Prossimità",
+            "Polizia Municipale di Torino",
+            "Direzione Politiche Sociali e Rapporti con le Aziende Sanitarie del Comune di Torino",
+            "Gruppi di Lavoro del Coordinamento",
+            "Comitato di Raccordo",
+            "Assemblea del Coordinamento",
+            "Tavolo della Città Metropolitana di Torino per la Promozione del Cambiamento degli Autori di Violenza di Genere",
+            "gli Enti pubblici, le Associazioni, le Fondazioni, le Cooperative e le altre Istituzioni di carattere privato sottoscrittori/sottoscrittrici del presente Protocollo"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt",
+        "firmatari": [
+            "Associazione Punto a Capo di Chivasso",
+            "Consorzio Intercomunale dei Servizi Socio Assistenziali C.I.S. di Cirié"
+        ],
+        "soggetti": [
+            {
+                "nome": "Associazione Punto a Capo di Chivasso",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Chivasso",
+                "indirizzo": "via Cavalcavia n. 11",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo, Centro Antiviolenza"
+            },
+            {
+                "nome": "Consorzio Intercomunale dei Servizi Socio Assistenziali C.I.S. di Cirié",
+                "tipo": "Altro",
+                "comune": "Cirié",
+                "indirizzo": "Piazza Castello, 20 10073 CIRIE’",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Nazioni Unite",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Organismo internazionale citato"
+            },
+            {
+                "nome": "O.M.S.",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Organismo internazionale citato"
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunali",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Case rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "servizio sociale",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato relativamente all'ospitalità in presenza di minori"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Associazione Punto a Capo di Chivasso",
+            "Consorzio Intercomunale dei Servizi Socio Assistenziali C.I.S. di Cirié"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt",
+        "firmatari": [
+            "ASSOCIAZIONE PUNTO A CAPO DI CHIVASSO",
+            "CONSORZIO INTERCOMUNALE SERVIZI SOCIO ASSISTENZIALI DI CALUSO- C.1.S.S-AC"
+        ],
+        "soggetti": [
+            {
+                "nome": "ASSOCIAZIONE PUNTO A CAPO DI CHIVASSO",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Chivasso",
+                "indirizzo": "Via Cavalcavia n.11",
+                "ente_capofila": "",
+                "note": "Centro antiviolenza; sostiene donne maltrattate; titolare dello sportello sul territorio"
+            },
+            {
+                "nome": "CONSORZIO INTERCOMUNALE SERVIZI SOCIO ASSISTENZIALI DI CALUSO- C.1.S.S-AC",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "Caluso",
+                "indirizzo": "Via san Francesco n. 2 -10014 Caluso",
+                "ente_capofila": "",
+                "note": "Supporta il protocollo e il Centro Antiviolenza, gestisce attività territoriali"
+            },
+            {
+                "nome": "Case rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ospitalità donne accolte tramite protocollo"
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolte nei percorsi di accompagnamento e denuncia"
+            },
+            {
+                "nome": "Tribunale",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolto nelle pratiche giuridico legali delle donne assistite"
+            },
+            {
+                "nome": "Organismi internazionali, quali le Nazioni Unite e O.M.S.",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citati come fonte di raccomandazioni e direttive"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "ASSOCIAZIONE PUNTO A CAPO DI CHIVASSO",
+            "CONSORZIO INTERCOMUNALE SERVIZI SOCIO ASSISTENZIALI DI CALUSO- C.1.S.S-AC"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt",
+        "firmatari": [
+            "Questura del Verbano Cusio Ossola",
+            "Consorzio intercomunale dei Servizi Sociali del Verbano",
+            "Consorzio Intercomunale dei Servizi Sociali del Cusio",
+            "Consorzio Intercomunale dei Servizi Sociali dell’Ossola",
+            "Provincia del Verbano Cusio Ossola, Servizio Sportello Donna",
+            "Azienda Sanitaria Locale VCO",
+            "Cooperativa la Bitta, Servizio Antiviolenza \"Git le Mani\""
+        ],
+        "soggetti": [
+            {
+                "nome": "Questura del Verbano Cusio Ossola",
+                "tipo": "Questura",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Consorzio intercomunale dei Servizi Sociali del Verbano",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Consorzio Intercomunale dei Servizi Sociali del Cusio",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Consorzio Intercomunale dei Servizi Sociali dell’Ossola",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Provincia del Verbano Cusio Ossola, Servizio Sportello Donna",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo; contiene Servizio Sportello Donna"
+            },
+            {
+                "nome": "Azienda Sanitaria Locale VCO",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Cooperativa la Bitta, Servizio Antiviolenza \"Git le Mani\"",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario protocollo"
+            },
+            {
+                "nome": "Servizio Nodo Provinciale Antidiscriminazioni",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Opera in collegamento con il Centro Antidiscriminazioni Regione Piemonte"
+            },
+            {
+                "nome": "Centro Antidiscriminazioni della Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio presente sul territorio del Consorzio Intercomunale dei Servizi Sociali dell’Ossola",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Casa Rifugio gestita dal consorzio"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia di Stato",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Presidi Ospedalieri",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Questura del Verbano Cusio Ossola",
+            "Consorzio intercomunale dei Servizi Sociali del Verbano",
+            "Consorzio Intercomunale dei Servizi Sociali del Cusio",
+            "Consorzio Intercomunale dei Servizi Sociali dell’Ossola",
+            "Provincia del Verbano Cusio Ossola, Servizio Sportello Donna",
+            "Azienda Sanitaria Locale VCO",
+            "Cooperativa la Bitta, Servizio Antiviolenza \"Git le Mani\""
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt",
+        "firmatari": [
+            "Azienda Sanitaria Locale CN1",
+            "UNIONE MONTANA delle Valli Mongia Cevetta e Langa Cebana - Alta Valle Bormida - SERVIZIO SOCIO ASSISTENZIALE",
+            "ASSOCIAZIONE Futuro Donna OdV - CENTRO ANTIVIOLENZA Servizio Rosa"
+        ],
+        "soggetti": [
+            {
+                "nome": "Azienda Sanitaria Locale CN1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "UNIONE MONTANA delle Valli Mongia Cevetta e Langa Cebana - Alta Valle Bormida - SERVIZIO SOCIO ASSISTENZIALE",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "ASSOCIAZIONE Futuro Donna OdV - CENTRO ANTIVIOLENZA Servizio Rosa",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "San Bernardino Via Case Rosse n° 1 12073 Ceva (CN)",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo; sede a Ceva"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Direzione Coesione Sociale Settore Politiche per le famiglie, giovani e migranti, pari opportunità e diritti (Regione Piemonte)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Settore della Regione Piemonte"
+            },
+            {
+                "nome": "Albo Regionale dei Centri Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Servizio Rosa",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "San Bernardino via Case Rosse n. 1, Ceva",
+                "ente_capofila": "",
+                "note": "Gestito da ASSOCIAZIONE Futuro Donna OdV"
+            },
+            {
+                "nome": "Comune di Mombasiglio",
+                "tipo": "Comuni",
+                "comune": "Mombasiglio",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza di sportello decentrato del Centro Antiviolenza"
+            },
+            {
+                "nome": "Comune di Priola",
+                "tipo": "Comuni",
+                "comune": "Priola",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza di sportello decentrato del Centro Antiviolenza"
+            },
+            {
+                "nome": "Comune di Niella Tanaro",
+                "tipo": "Comuni",
+                "comune": "Niella Tanaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza di sportello decentrato del Centro Antiviolenza"
+            },
+            {
+                "nome": "Pronto Soccorso del Presidio Ospedaliero di Ceva",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Sociale",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Autorità Giudiziaria",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura presso il Tribunale per i Minorenni",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Familiare ASL",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Azienda Sanitaria Locale CN1",
+            "UNIONE MONTANA delle Valli Mongia Cevetta e Langa Cebana - Alta Valle Bormida - SERVIZIO SOCIO ASSISTENZIALE",
+            "ASSOCIAZIONE Futuro Donna OdV - CENTRO ANTIVIOLENZA Servizio Rosa",
+            "Servizio Sociale",
+            "Consultorio Familiare ASL",
+            "Forze dell’Ordine"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241018142716_4166---protocolloreteVC.txt",
+        "firmatari": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. - Consorzio Servizi di Assistenza Sociale di Santhia",
+            "C.A.S.A. - Consorzio per l’Attivita Socio Assistenziale di Gattinara",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente Nodo Territoriale contro le discriminazioni della Provincia di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio Esecuzione Penale Esterna"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Vercelli",
+                "tipo": "Comuni",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "C.I.S.A.S. - Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "C.A.S.A. - Consorzio per l’Attivita Socio Assistenziale di Gattinara",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unione Montana dei Comuni della Valsesia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Prefettura di Vercelli",
+                "tipo": "Prefettura",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Vercelli",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Vercelli",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Vercelli",
+                "tipo": "Questura",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale dei Carabinieri di Vercelli",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Guardia di Finanza di Vercelli",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Vercelli",
+                "tipo": "Ordine avvocati",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Sanitaria Locale di Vercelli",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici di Vercelli",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Provinciale di Vercelli",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Provincia di Vercelli",
+                "tipo": "Organismi di parità",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Referente Nodo Territoriale contro le discriminazioni della Provincia di Vercelli",
+                "tipo": "Altro",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Giornalisti del Piemonte",
+                "tipo": "Altri ordini professionali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio di Esecuzione Penale Esterna",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Rete Vercellese Antiviolenza",
+                "tipo": "Altro",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Organismo di coordinamento e programmazione congiunta delle attività di prevenzione e contrasto della violenza"
+            },
+            {
+                "nome": "Settore Politiche Sociali del Comune di Vercelli",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordina il tavolo tecnico interistituzionale"
+            },
+            {
+                "nome": "DEA del Presidio Ospedaliero di Vercelli",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Vercelli",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pronto Soccorso del Presidio Ospedaliero di Borgosesia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Borgosesia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. - Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia",
+            "C.A.S.A. - Consorzio per l’Attivita Socio Assistenziale di Gattinara",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente Nodo Territoriale contro le discriminazioni della Provincia di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio di Esecuzione Penale Esterna"
+        ],
+        "attori_coinvolti": [
+            "Comune di Vercelli",
+            "C.I.S.A.S. - Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia",
+            "C.A.S.A. - Consorzio per l’Attivita Socio Assistenziale di Gattinara",
+            "Unione Montana dei Comuni della Valsesia",
+            "Prefettura di Vercelli",
+            "Tribunale di Vercelli",
+            "Procura della Repubblica presso il Tribunale di Vercelli",
+            "Questura di Vercelli",
+            "Comando Provinciale dei Carabinieri di Vercelli",
+            "Guardia di Finanza di Vercelli",
+            "Azienda Sanitaria Locale di Vercelli",
+            "Ordine dei Medici di Vercelli",
+            "Ordine degli Avvocati di Vercelli",
+            "Consigliera di Parita della Provincia di Vercelli",
+            "Referente Nodo Territoriale contro le discriminazioni della Provincia di Vercelli",
+            "Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta",
+            "Ufficio Scolastico Provinciale di Vercelli",
+            "Ordine dei Giornalisti del Piemonte",
+            "Ufficio di Esecuzione Penale Esterna",
+            "Settore Politiche Sociali del Comune di Vercelli",
+            "DEA del Presidio Ospedaliero di Vercelli",
+            "Pronto Soccorso del Presidio Ospedaliero di Borgosesia"
+        ]
+    },
+    {
+        "file": "01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt",
+        "firmatari": [
+            "Azienda Sanitaria Locale CN1",
+            "Organizzazione di Volontariato FUTURO DONNA OdV"
+        ],
+        "soggetti": [
+            {
+                "nome": "Azienda Sanitaria Locale CN1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Cuneo",
+                "indirizzo": "Via C. Boggio, n. 12",
+                "ente_capofila": "",
+                "note": "detta anche ASL CN1, firmatario della convenzione"
+            },
+            {
+                "nome": "Organizzazione di Volontariato FUTURO DONNA OdV",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Ceva",
+                "indirizzo": "Via Case Rosse 1 — località San Bernardino",
+                "ente_capofila": "",
+                "note": "firmatario della convenzione"
+            },
+            {
+                "nome": "Pronto Soccorso Presidio Ospedaliero di Ceva",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "luogo di svolgimento delle attività oggetto di convenzione"
+            },
+            {
+                "nome": "consultorio",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "servizio di supporto attivabile dalle volontarie"
+            },
+            {
+                "nome": "Regione Piemonte",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Piano per la prevenzione della violenza citato"
+            },
+            {
+                "nome": "Ministero del Lavoro e delle Politiche Sociali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "emanazione di Linee Guida citate"
+            },
+            {
+                "nome": "A.N.A.C.",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Linee Guida sulla tracciabilità dei flussi finanziari"
+            },
+            {
+                "nome": "Presidio Ospedaliero di Ceva",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "sede operativa delle attività"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Azienda Sanitaria Locale CN1",
+            "Organizzazione di Volontariato FUTURO DONNA OdV"
+        ]
+    }
+]

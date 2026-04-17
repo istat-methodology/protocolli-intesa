@@ -1,0 +1,2061 @@
+[
+    {
+        "file": "18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt",
+        "firmatari": [
+            "Fondazione “Roberta Lanzino” Odv",
+            "Comune di Mendicino"
+        ],
+        "soggetti": [
+            {
+                "nome": "Fondazione “Roberta Lanzino” Odv",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Rende",
+                "indirizzo": "via G. Verdi, n. 5 a-b-c",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Mendicino",
+                "tipo": "Comuni",
+                "comune": "Mendicino",
+                "indirizzo": "Piazza Municipio, 87040",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Rende",
+                "tipo": "Comuni",
+                "comune": "Rende",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ha concesso il suolo in comodato per la struttura 'Casa di Roberta'"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ha finanziato la costruzione della 'Casa di Roberta'"
+            },
+            {
+                "nome": "CASA di Roberta",
+                "tipo": "Case Rifugio",
+                "comune": "Rende",
+                "indirizzo": "via Verdi n°5 a,5b,5c",
+                "ente_capofila": "",
+                "note": "Struttura abitativa di Fondazione Roberta Lanzino"
+            },
+            {
+                "nome": "organismi scolastici",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "consultori familiari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "settore regionale delle politiche sociali",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Competente per la trasmissione degli atti sui casi di ospitalità"
+            },
+            {
+                "nome": "Procura di competenza",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta se presenti minorenni"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Fondazione “Roberta Lanzino” Odv",
+            "Comune di Mendicino"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt",
+        "firmatari": [
+            "Commissione Territoriale per il riconoscimento della protezione internazionale di Crotone",
+            "Regione Calabria",
+            "Coordinamento Antiviolenza Donne Insieme Calabria"
+        ],
+        "soggetti": [
+            {
+                "nome": "Commissione Territoriale per il riconoscimento della protezione internazionale di Crotone",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centri anti-violenza e Case Rifugio della Regione Calabria",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "rappresentati dal Coordinamento Antiviolenza Donne Insieme Calabria"
+            },
+            {
+                "nome": "Coordinamento Antiviolenza Donne Insieme Calabria",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "rappresenta i Centri anti-violenza e Case Rifugio della Regione Calabria"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Calabria — Dipartimento Lavoro e Welfare",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Dipartimento Lavoro e Welfare"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Commissione Territoriale per il riconoscimento della protezione internazionale di Crotone",
+            "Centri anti-violenza e Case Rifugio della Regione Calabria",
+            "Coordinamento Antiviolenza Donne Insieme Calabria",
+            "Regione Calabria — Dipartimento Lavoro e Welfare"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102317_4166---PROTOCOLLOISTITUTOSUP.NOSTRO-REPACI.txt",
+        "firmatari": [
+            "CENTRO ITALIANO FEMMINILE PROVINCIALE DI REGGIO CALABRIA. “CENTRO ANTIVIOLENZA CASA DELLE DONNE MADONNA DI LOURDES”",
+            "ISTITUTO D’ISTRUZIONE SUPERIORE “L. NOSTRO- L. REPACI” DI VILLA SAN GIOVANNI"
+        ],
+        "soggetti": [
+            {
+                "nome": "CENTRO ITALIANO FEMMINILE PROVINCIALE DI REGGIO CALABRIA. “CENTRO ANTIVIOLENZA CASA DELLE DONNE MADONNA DI LOURDES”",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "firmatario del protocollo"
+            },
+            {
+                "nome": "ISTITUTO D’ISTRUZIONE SUPERIORE “L. NOSTRO- L. REPACI” DI VILLA SAN GIOVANNI",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Villa San Giovanni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "firmatario del protocollo"
+            },
+            {
+                "nome": "Regione Calabria Settore 2 — Welfare, immigrazione, nuove marginalita e inclusione sociale, Contrasto alla poverta, Famiglia e Servizi educativi, Terzo settore, Volontariato e Servizio Civile",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "CENTRO ITALIANO FEMMINILE PROVINCIALE DI REGGIO CALABRIA. “CENTRO ANTIVIOLENZA CASA DELLE DONNE MADONNA DI LOURDES”",
+            "ISTITUTO D’ISTRUZIONE SUPERIORE “L. NOSTRO- L. REPACI” DI VILLA SAN GIOVANNI"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt",
+        "firmatari": [
+            "Fondazione Città Solidale Onlus",
+            "Comune di Stalettì"
+        ],
+        "soggetti": [
+            {
+                "nome": "Fondazione Città Solidale Onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "via della Solidarieta n. 1 - 88100 Catanzaro",
+                "ente_capofila": "",
+                "note": "Soggetto firmatario e proponente del progetto, gestisce Centro Aiuto Donna"
+            },
+            {
+                "nome": "Comune di Stalettì",
+                "tipo": "Comuni",
+                "comune": "Stalettì",
+                "indirizzo": "Via A. Fazzari, 1 - 88071 Staletti (CZ)",
+                "ente_capofila": "",
+                "note": "Soggetto firmatario"
+            },
+            {
+                "nome": "Centro Aiuto Donna",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito dalla Fondazione Città Solidale; parte della rete CADIC; offre sostegno alle donne vittime di violenza"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente finanziatore del progetto"
+            },
+            {
+                "nome": "CADIC, Coordinamento Antiviolenza Donne Insieme Calabria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordinamento di centri antiviolenza, centri di accoglienza, case rifugio e case delle donne nella Regione Calabria"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Fondazione Città Solidale Onlus"
+        ],
+        "attori_coinvolti": [
+            "Fondazione Città Solidale Onlus",
+            "Comune di Stalettì",
+            "Centro Aiuto Donna"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt",
+        "firmatari": [
+            "Associazione Italiana Sclerosi Multipla - AISM - Associazione di Promozione Sociale/APS - Ente del Terzo Settore/ETS — AISM APS ETS",
+            "Associazione di Promozione Sociale Centro contro la violenza alle donne “Roberta Lanzino” APS"
+        ],
+        "soggetti": [
+            {
+                "nome": "Associazione Italiana Sclerosi Multipla - AISM - Associazione di Promozione Sociale/APS - Ente del Terzo Settore/ETS — AISM APS ETS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Roma",
+                "indirizzo": "Via Cavour n. 181/a",
+                "ente_capofila": "",
+                "note": "Sede Nazionale in Genova, Via Operai n. 40; firmatario"
+            },
+            {
+                "nome": "Fondazione Italiana Sclerosi Multipla — FISM ETS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato come collegato ad AISM"
+            },
+            {
+                "nome": "Associazione di Promozione Sociale Centro contro la violenza alle donne “Roberta Lanzino” APS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Cosenza",
+                "indirizzo": "Via Ernesto Fagiani, n.17",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Centro Antiviolenza “Roberta Lanzino”",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Ufficio della Consigliera di parita della Provincia di Cosenza",
+                "tipo": "Organismi di parità",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Comune di Cosenza",
+                "tipo": "Comuni",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Comune di Borgia",
+                "tipo": "Comuni",
+                "comune": "Borgia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Centro Clinico di Lamezia Terme",
+                "tipo": "Altro",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Associazione “Mago Merlino” / Centro Antiviolenza “Demetra” di Lamezia Terme",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Comune di Vibo Valentia",
+                "tipo": "Comuni",
+                "comune": "Vibo Valentia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Comune di Ionadi",
+                "tipo": "Comuni",
+                "comune": "Ionadi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Centro clinico di Vibo Valentia",
+                "tipo": "Altro",
+                "comune": "Vibo Valentia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Centro Antiviolenza “Attivamente Coinvolte Onlus”",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Comune di Palmi",
+                "tipo": "Comuni",
+                "comune": "Palmi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Associazione Piccola Opera Papa Giovanni ONLUS — Centro Antiviolenza e Casa Rifugio “Angela Morabito”",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner progetto Cambia il Finale"
+            },
+            {
+                "nome": "Regione CALABRIA",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente che ha ricevuto il progetto Cambia il Finale"
+            },
+            {
+                "nome": "AISM Sede Regionale Calabria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario tramite delega, rappresentanza territoriale di AISM"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Associazione Italiana Sclerosi Multipla - AISM - Associazione di Promozione Sociale/APS - Ente del Terzo Settore/ETS — AISM APS ETS",
+            "Associazione di Promozione Sociale Centro contro la violenza alle donne “Roberta Lanzino” APS"
+        ],
+        "attori_coinvolti": [
+            "Associazione Italiana Sclerosi Multipla - AISM - Associazione di Promozione Sociale/APS - Ente del Terzo Settore/ETS — AISM APS ETS",
+            "AISM Sede Regionale Calabria",
+            "Associazione di Promozione Sociale Centro contro la violenza alle donne “Roberta Lanzino” APS",
+            "Centro Antiviolenza “Roberta Lanzino”"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Comune di Paterno Calabro",
+                "tipo": "Comuni",
+                "comune": "Paterno Calabro",
+                "indirizzo": "Piazza Municipio, 9 87040 — Paterno Calabro (CS)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Istituto Comprensivo Statale \"Mangone - Grimaldi\"",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "Mangone alla via Provinciale",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro antiviolenza del Comune di Paterno Calabro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Paterno Calabro",
+                "indirizzo": "via San Pietro 9, Paterno Calabro (CS)",
+                "ente_capofila": "",
+                "note": "prima attivazione nel territorio del Savuto e delle Serre Cosentine, servizi di accoglienza telefonica, consulenza legale e psicologica, iscrizione all'Albo regionale"
+            },
+            {
+                "nome": "Comune di Dipignano",
+                "tipo": "Comuni",
+                "comune": "Dipignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto destinatario/aderente progetto consulenza itinerante"
+            },
+            {
+                "nome": "Comune di Malito",
+                "tipo": "Comuni",
+                "comune": "Malito",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto destinatario/aderente progetto consulenza itinerante"
+            },
+            {
+                "nome": "Comune di Parenti",
+                "tipo": "Comuni",
+                "comune": "Parenti",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto destinatario/aderente progetto consulenza itinerante"
+            },
+            {
+                "nome": "Comune di Marzi",
+                "tipo": "Comuni",
+                "comune": "Marzi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto destinatario/aderente progetto consulenza itinerante"
+            },
+            {
+                "nome": "Comune di Scigliano",
+                "tipo": "Comuni",
+                "comune": "Scigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "soggetto destinatario/aderente progetto consulenza itinerante"
+            },
+            {
+                "nome": "Polizia Municipale Comune di Dipignano",
+                "tipo": "Polizia Municipale",
+                "comune": "Dipignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Dipignano",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Dipignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia Municipale Comune di Scigliano",
+                "tipo": "Polizia Municipale",
+                "comune": "Scigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Scigliano",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Scigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia Municipale Comune di Marzi",
+                "tipo": "Polizia Municipale",
+                "comune": "Marzi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Marzi",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Marzi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia Municipale Comune di Malito",
+                "tipo": "Polizia Municipale",
+                "comune": "Malito",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Malito",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Malito",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia Municipale Comune di Parenti",
+                "tipo": "Polizia Municipale",
+                "comune": "Parenti",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Parenti",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Parenti",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri Dipignano",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Dipignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri Scigliano",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Scigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri Marzi",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Marzi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri Malito",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Malito",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri Parenti",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Parenti",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Guardia Medica Dipignano",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Dipignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Guardia Medica"
+            },
+            {
+                "nome": "Guardia Medica Scigliano",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Scigliano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Guardia Medica"
+            },
+            {
+                "nome": "Guardia Medica Marzi",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Marzi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Guardia Medica"
+            },
+            {
+                "nome": "Guardia Medica Malito",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Malito",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Guardia Medica"
+            },
+            {
+                "nome": "Guardia Medica Parenti",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Parenti",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Guardia Medica"
+            },
+            {
+                "nome": "Associazione di Promozione sociale “Donneincammino”",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "C.da Orticelle snc CAP 87040, Paterno Calabro (CS)",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ha finanziato il centro antiviolenza"
+            },
+            {
+                "nome": "casa di modaMaryLu",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ente fondato da Mariana Nazarchuk, partner accordo progettuale"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Paterno Calabro",
+            "Associazione di Promozione sociale “Donneincammino”"
+        ],
+        "attori_coinvolti": [
+            "Comune di Paterno Calabro",
+            "Centro antiviolenza del Comune di Paterno Calabro",
+            "Istituto Comprensivo Statale \"Mangone - Grimaldi\"",
+            "Comune di Dipignano",
+            "Comune di Malito",
+            "Comune di Parenti",
+            "Comune di Marzi",
+            "Comune di Scigliano",
+            "Polizia Municipale Comune di Dipignano",
+            "Servizi Sociali Comune di Dipignano",
+            "Polizia Municipale Comune di Scigliano",
+            "Servizi Sociali Comune di Scigliano",
+            "Polizia Municipale Comune di Marzi",
+            "Servizi Sociali Comune di Marzi",
+            "Polizia Municipale Comune di Malito",
+            "Servizi Sociali Comune di Malito",
+            "Polizia Municipale Comune di Parenti",
+            "Servizi Sociali Comune di Parenti",
+            "Stazione dei Carabinieri Dipignano",
+            "Stazione dei Carabinieri Scigliano",
+            "Stazione dei Carabinieri Marzi",
+            "Stazione dei Carabinieri Malito",
+            "Stazione dei Carabinieri Parenti",
+            "Guardia Medica Dipignano",
+            "Guardia Medica Scigliano",
+            "Guardia Medica Marzi",
+            "Guardia Medica Malito",
+            "Guardia Medica Parenti",
+            "Associazione di Promozione sociale “Donneincammino”",
+            "casa di modaMaryLu"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt",
+        "firmatari": [
+            "Associazione Italiana Sclerosi Multipla - AISM APS ETS",
+            "Associazione Piccola Opera Papa Giovanni Onlus"
+        ],
+        "soggetti": [
+            {
+                "nome": "Associazione Italiana Sclerosi Multipla - AISM APS ETS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "Via Cavour n. 181/a, Roma; Via Operai n. 40, Genova",
+                "ente_capofila": "",
+                "note": "Iscritta al RUNTS con numero di repertorio 44305. Sede Regionale Calabria citata. Svolge ruolo di partner principale del protocollo."
+            },
+            {
+                "nome": "Fondazione Italiana Sclerosi Multipla — FISM ETS",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresentata da AISM."
+            },
+            {
+                "nome": "Associazione Piccola Opera Papa Giovanni Onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Reggio Calabria",
+                "indirizzo": "via Vallone Mariannazzo snc",
+                "ente_capofila": "",
+                "note": "Ente gestore del Centro Antiviolenza e della Casa Rifugio Angela Morabito; partner principale del protocollo."
+            },
+            {
+                "nome": "Centro Antiviolenza “Roberta Lanzino”",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale (Cosenza)"
+            },
+            {
+                "nome": "Ufficio della Consigliera di parità della Provincia di Cosenza",
+                "tipo": "Organismi di parità",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Comune di Cosenza",
+                "tipo": "Comuni",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Comune di Borgia",
+                "tipo": "Comuni",
+                "comune": "Borgia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Centro Clinico di Lamezia Terme",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Associazione “Mago Merlino” / Centro Antiviolenza “Demetra” di Lamezia Terme",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Comune di Vibo Valentia",
+                "tipo": "Comuni",
+                "comune": "Vibo Valentia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Comune di Ionadi",
+                "tipo": "Comuni",
+                "comune": "Ionadi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Centro clinico di Vibo Valentia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Vibo Valentia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Centro Antiviolenza “Attivamente Coinvolte Onlus”",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Comune di Palmi",
+                "tipo": "Comuni",
+                "comune": "Palmi",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner del progetto Cambia il Finale."
+            },
+            {
+                "nome": "Centro Antiviolenza Angela Morabito",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestito dall'Associazione Piccola Opera Papa Giovanni Onlus."
+            },
+            {
+                "nome": "Casa Rifugio Angela Morabito",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita dall'Associazione Piccola Opera Papa Giovanni Onlus."
+            },
+            {
+                "nome": "Rete RED",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rete attiva in AISM che collabora con la rete di accoglienza per azioni di accoglienza, ascolto, presa in carico."
+            }
+        ],
+        "soggetti_proponenti": [
+            "Associazione Italiana Sclerosi Multipla - AISM APS ETS",
+            "Associazione Piccola Opera Papa Giovanni Onlus"
+        ],
+        "attori_coinvolti": [
+            "Associazione Italiana Sclerosi Multipla - AISM APS ETS",
+            "Associazione Piccola Opera Papa Giovanni Onlus",
+            "Centro Antiviolenza Angela Morabito",
+            "Casa Rifugio Angela Morabito",
+            "Rete RED"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt",
+        "firmatari": [
+            "Prefettura di Catanzaro",
+            "Corte d’Appello di Catanzaro",
+            "Tribunale di Catanzaro",
+            "Procura della Repubblica presso il Tribunale di Catanzaro",
+            "Tribunale di Lamezia Terme",
+            "Procura della Repubblica presso il Tribunale di Lamezia Terme",
+            "Tribunale per i minorenni di Catanzaro",
+            "Regione Calabria",
+            "Consiglio Regionale della Calabria",
+            "Amministrazione Provinciale di Catanzaro",
+            "Comune di Catanzaro",
+            "Comune di Lamezia Terme",
+            "Ufficio Scolastico Provinciale di Catanzaro",
+            "Azienda Sanitaria Provinciale di Catanzaro",
+            "Azienda Ospedaliera Pugliese-Ciaccio di Catanzaro",
+            "Commissione Pari Opportunita della Provincia di Catanzaro",
+            "Consigliera di Parita della Regione Calabria",
+            "Consigliera di Parita della Provincia di Catanzaro",
+            "Comitato Pari Opportunita dell’Ordine degli Avvocati di Catanzaro",
+            "Ordine degli Assistenti Sociali della Calabria",
+            "Centro Antiviolenza Mondorosa di Catanzaro",
+            "Centro Antiviolenza Citta Solidale di Catanzaro",
+            "Centro Antiviolenza Demetra di Lamezia Terme",
+            "Sportello Antiviolenza Attivamente Coinvolte di Catanzaro",
+            "Sportello Antiviolenza Astarte di Catanzaro",
+            "Associazione Italiana Donne Medico",
+            "Associazione Fidapa di Catanzaro",
+            "Associazione Fidapa di Lamezia Terme",
+            "Associazione Soroptimist di Catanzaro",
+            "Associazione Soroptimist di Lamezia Terme",
+            "Associazione Lidu Onlus Comitato di Catanzaro",
+            "Associazione Calabriafutura",
+            "Associazione AIAF Calabria"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura di Catanzaro",
+                "tipo": "Prefettura",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Corte d’Appello di Catanzaro",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Catanzaro",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Catanzaro",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Lamezia Terme",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Lamezia Terme",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i minorenni di Catanzaro",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consiglio Regionale della Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Amministrazione Provinciale di Catanzaro",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Catanzaro",
+                "tipo": "Comuni",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Lamezia Terme",
+                "tipo": "Comuni",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Provinciale di Catanzaro",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Sanitaria Provinciale di Catanzaro",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedaliera Pugliese-Ciaccio di Catanzaro",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Commissione Pari Opportunita della Provincia di Catanzaro",
+                "tipo": "Organismi di parità",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Regione Calabria",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Provincia di Catanzaro",
+                "tipo": "Organismi di parità",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato Pari Opportunita dell’Ordine degli Avvocati di Catanzaro",
+                "tipo": "Organismi di parità",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Assistenti Sociali della Calabria",
+                "tipo": "Ordine psicologi e Ordine assistenti sociali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centri Antiviolenza di Catanzaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centri Antiviolenza di Lamezia Terme",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Mondorosa di Catanzaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Citta Solidale di Catanzaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Demetra di Lamezia Terme",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza Attivamente Coinvolte di Catanzaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza Astarte di Catanzaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Italiana Donne Medico",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Fidapa di Catanzaro",
+                "tipo": "Altro",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Fidapa di Lamezia Terme",
+                "tipo": "Altro",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Soroptimist di Catanzaro",
+                "tipo": "Altro",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Soroptimist di Lamezia Terme",
+                "tipo": "Altro",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Lidu Onlus Comitato di Catanzaro",
+                "tipo": "Altro",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Calabriafutura",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione AIAF Calabria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze dell’Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Soggetto firmatario tramite Prefettura di Catanzaro"
+            },
+            {
+                "nome": "Associazioni del Terzo Settore del territorio della Provincia di Catanzaro",
+                "tipo": "Altro",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Prefettura di Catanzaro"
+        ],
+        "attori_coinvolti": [
+            "Prefettura di Catanzaro",
+            "Corte d’Appello di Catanzaro",
+            "Tribunale di Catanzaro",
+            "Procura della Repubblica presso il Tribunale di Catanzaro",
+            "Tribunale di Lamezia Terme",
+            "Procura della Repubblica presso il Tribunale di Lamezia Terme",
+            "Tribunale per i minorenni di Catanzaro",
+            "Regione Calabria",
+            "Amministrazione Provinciale di Catanzaro",
+            "Comune di Catanzaro",
+            "Comune di Lamezia Terme",
+            "Ufficio Scolastico Provinciale di Catanzaro",
+            "Azienda Sanitaria Provinciale di Catanzaro",
+            "Azienda Ospedaliera Pugliese-Ciaccio di Catanzaro",
+            "Commissione Pari Opportunita della Provincia di Catanzaro",
+            "Consigliera di Parita della Regione Calabria",
+            "Consigliera di Parita della Provincia di Catanzaro",
+            "Comitato Pari Opportunita dell’Ordine degli Avvocati di Catanzaro",
+            "Ordine degli Assistenti Sociali della Calabria",
+            "Centri Antiviolenza di Catanzaro",
+            "Centri Antiviolenza di Lamezia Terme",
+            "Centro Antiviolenza Mondorosa di Catanzaro",
+            "Centro Antiviolenza Citta Solidale di Catanzaro",
+            "Centro Antiviolenza Demetra di Lamezia Terme",
+            "Sportello Antiviolenza Attivamente Coinvolte di Catanzaro",
+            "Sportello Antiviolenza Astarte di Catanzaro",
+            "Forze dell’Ordine",
+            "Associazioni del Terzo Settore del territorio della Provincia di Catanzaro",
+            "Associazione Italiana Donne Medico",
+            "Associazione Fidapa di Catanzaro",
+            "Associazione Fidapa di Lamezia Terme",
+            "Associazione Soroptimist di Catanzaro",
+            "Associazione Soroptimist di Lamezia Terme",
+            "Associazione Lidu Onlus Comitato di Catanzaro",
+            "Associazione Calabriafutura",
+            "Associazione AIAF Calabria"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt",
+        "firmatari": [
+            "Centro Calabrese di Solidarietà",
+            "Unione dei Comuni del Versante Ionico",
+            "Ufficio Territoriale del Governo - Catanzaro",
+            "Questura di Catanzaro",
+            "UPI Calabria",
+            "Fondazione Calabria Etica",
+            "SIULP Sezione di Catanzaro",
+            "ASP di Catanzaro",
+            "Azienda Ospedaliera Pugliese Ciaccio",
+            "Regione Calabria — Ass.to al Lavoro, Formazione Professionale e Politiche Sociali",
+            "Consigliera di Parità Regionale",
+            "Commissione P.O. Provincia di Catanzaro",
+            "Caritas Diocesi di Catanzaro/Squillace",
+            "ANCI Calabria",
+            "Comune di Catanzaro",
+            "Comune di Lamezia Terme",
+            "Comune di Settingiano",
+            "Comune di Simeri",
+            "Centro Antiviolenza Demetra",
+            "Procura della Repubblica presso il Tribunale Ordinario di Catanzaro",
+            "Tribunale per i Minorenni di Catanzaro",
+            "Camera di Commercio di Catanzaro",
+            "Comitato Imprenditoria Femminile (CIF)",
+            "Amministrazione Provinciale di Vibo Valentia",
+            "Amministrazione Provinciale di Reggio Calabria",
+            "Associazione Differenza Donna"
+        ],
+        "soggetti": [
+            {
+                "nome": "Centro Calabrese di Solidarietà",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "sì",
+                "note": "Capofila, accoglienza e gestione del Centro Antiviolenza Regionale Mondo Rosa"
+            },
+            {
+                "nome": "Unione dei Comuni del Versante Ionico",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partner, coordinamento servizi sociali; iscrizione centro ai 1522"
+            },
+            {
+                "nome": "Ufficio Territoriale del Governo - Catanzaro",
+                "tipo": "Prefettura",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Catanzaro",
+                "tipo": "Questura",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "UPI Calabria",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Fondazione Calabria Etica",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "SIULP Sezione di Catanzaro",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ASP di Catanzaro",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedaliera Pugliese Ciaccio",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione Calabria — Ass.to al Lavoro, Formazione Professionale e Politiche Sociali",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parità Regionale",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Commissione P.O. Provincia di Catanzaro",
+                "tipo": "Organismi di parità",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Caritas Diocesi di Catanzaro/Squillace",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ANCI Calabria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Catanzaro",
+                "tipo": "Comuni",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Lamezia Terme",
+                "tipo": "Comuni",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Settingiano",
+                "tipo": "Comuni",
+                "comune": "Settingiano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Simeri",
+                "tipo": "Comuni",
+                "comune": "Simeri",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Demetra",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale Ordinario di Catanzaro",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i Minorenni di Catanzaro",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Camera di Commercio di Catanzaro",
+                "tipo": "Altro",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato Imprenditoria Femminile (CIF)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collegato alla Camera di Commercio di Catanzaro"
+            },
+            {
+                "nome": "Amministrazione Provinciale di Vibo Valentia",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Amministrazione Provinciale di Reggio Calabria",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Differenza Donna",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Presidenza del Consiglio dei Ministri — Dipartimento Pari Opportunità",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ente finanziatore e supervisore, non firmatario del protocollo"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Centro Calabrese di Solidarietà",
+            "Unione dei Comuni del Versante Ionico"
+        ],
+        "attori_coinvolti": [
+            "Centro Calabrese di Solidarietà",
+            "Unione dei Comuni del Versante Ionico",
+            "Ufficio Territoriale del Governo - Catanzaro",
+            "Questura di Catanzaro",
+            "UPI Calabria",
+            "Fondazione Calabria Etica",
+            "SIULP Sezione di Catanzaro",
+            "ASP di Catanzaro",
+            "Azienda Ospedaliera Pugliese Ciaccio",
+            "Regione Calabria — Ass.to al Lavoro, Formazione Professionale e Politiche Sociali",
+            "Consigliera di Parità Regionale",
+            "Commissione P.O. Provincia di Catanzaro",
+            "Caritas Diocesi di Catanzaro/Squillace",
+            "ANCI Calabria",
+            "Comune di Catanzaro",
+            "Comune di Lamezia Terme",
+            "Comune di Settingiano",
+            "Comune di Simeri",
+            "Centro Antiviolenza Demetra",
+            "Procura della Repubblica presso il Tribunale Ordinario di Catanzaro",
+            "Tribunale per i Minorenni di Catanzaro",
+            "Camera di Commercio di Catanzaro",
+            "Comitato Imprenditoria Femminile (CIF)",
+            "Amministrazione Provinciale di Vibo Valentia",
+            "Amministrazione Provinciale di Reggio Calabria",
+            "Associazione Differenza Donna"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt",
+        "firmatari": [
+            "ISTITUTO D'ISTRUZIONE SUPERIORE LUIGI COSTANZO DI DECOLLATURA",
+            "CENTRO ANTIVIOLENZA DEMETRA"
+        ],
+        "soggetti": [
+            {
+                "nome": "ISTITUTO D'ISTRUZIONE SUPERIORE LUIGI COSTANZO DI DECOLLATURA",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Decollatura",
+                "indirizzo": "viale Stazione",
+                "ente_capofila": "",
+                "note": "Scuola firmataria della convenzione"
+            },
+            {
+                "nome": "CENTRO ANTIVIOLENZA DEMETRA",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centro antiviolenza firmatario della convenzione"
+            },
+            {
+                "nome": "Comune di Lamezia Terme",
+                "tipo": "Comuni",
+                "comune": "Lamezia Terme",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Ambito sociosanitario di appartenenza di CENTRO ANTIVIOLENZA DEMETRA"
+            },
+            {
+                "nome": "Associazione Mago Merlino onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Lamezia Terme",
+                "indirizzo": "via Trento 11",
+                "ente_capofila": "",
+                "note": "Rappresentanza legale pro-tempore del Centro Antiviolenza Demetra"
+            },
+            {
+                "nome": "Istituto comprensivo di Serrastretta-Decollatura",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Destinatario delle attività di progetto"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "ISTITUTO D'ISTRUZIONE SUPERIORE LUIGI COSTANZO DI DECOLLATURA",
+            "CENTRO ANTIVIOLENZA DEMETRA"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102931_4166---PROT.2403-24.txt",
+        "firmatari": [
+            "Procura della Repubblica presso il Tribunale di Catanzaro",
+            "Associazione “Attivamente Coinvolte” APS - Centro antiviolenza"
+        ],
+        "soggetti": [
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Catanzaro",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Associazione “Attivamente Coinvolte” APS - Centro antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Pizzo",
+                "indirizzo": "Via Marcello Salomone, 89812",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Riferimento iscrizione Centri Antiviolenza; istituisce Tavolo di Lavoro Regionale Antiviolenza"
+            },
+            {
+                "nome": "Donne in Rete Contro La Violenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Organizzazione nazionale di cui il centro è aderente"
+            },
+            {
+                "nome": "Osservatorio Regionale contro la Violenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Il centro è membro"
+            },
+            {
+                "nome": "Coordinamento Regionale dei Centri antiviolenza - C.A.D.IC.",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Il centro è socia fondatrice"
+            },
+            {
+                "nome": "Tavolo di Lavoro Regionale Antiviolenza",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Il centro è presente"
+            },
+            {
+                "nome": "Comune",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato genericamente tra i soggetti coinvolti nella rete"
+            },
+            {
+                "nome": "Provincia",
+                "tipo": "Province/Città metropolitane",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato genericamente tra i soggetti coinvolti nella rete"
+            },
+            {
+                "nome": "Tribunale dei Minori",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato tra le istituzioni coinvolte"
+            },
+            {
+                "nome": "Tribunale Civile e Penale",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citato tra le istituzioni coinvolte"
+            },
+            {
+                "nome": "scuole",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizi territoriali coinvolti nelle attività del centro"
+            },
+            {
+                "nome": "ospedali",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizi territoriali coinvolti nelle attività del centro"
+            },
+            {
+                "nome": "consultori",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizi territoriali coinvolti nelle attività del centro"
+            },
+            {
+                "nome": "centri antiviolenza e le Case rifugio Calabresi e nazionali",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Formalmente in rete con il centro"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Procura della Repubblica presso il Tribunale di Catanzaro",
+            "Associazione “Attivamente Coinvolte” APS - Centro antiviolenza"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt",
+        "firmatari": [
+            "Citta Metropolitana di Reggio Calabria",
+            "Centro D’Ascolto ARIEL ODV"
+        ],
+        "soggetti": [
+            {
+                "nome": "Citta Metropolitana di Reggio Calabria",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Reggio Calabria",
+                "indirizzo": "Piazza Italia, snc",
+                "ente_capofila": "",
+                "note": "Firmatario dell'accordo, esercita funzioni di coordinamento, supervisione e controllo degli interventi"
+            },
+            {
+                "nome": "Centro D’Ascolto ARIEL ODV",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Reggio Calabria",
+                "indirizzo": "via Scacchieri n.5 Gallico",
+                "ente_capofila": "",
+                "note": "Soggetto gestore CAV autorizzato e riconosciuto dalla Regione Calabria; firmatario dell'accordo; beneficiario e realizzatore delle attività progettuali"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Riconosce e autorizza i Centri Antiviolenza (CAV)"
+            },
+            {
+                "nome": "Commissione di Valutazione",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Nomina e valutazione dei progetti pervenuti nell'ambito dell'Avviso pubblico"
+            },
+            {
+                "nome": "Consiglio Metropolitano",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Delibera lo schema di accordo di collaborazione e fidejussione"
+            },
+            {
+                "nome": "Settore Politiche Sociali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Settore interno della Citta Metropolitana di Reggio Calabria, funzioni di ricezione progetto e vigilanza"
+            },
+            {
+                "nome": "Enti locali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Indicati come parte della rete territoriale compresa nei servizi di assistenza"
+            },
+            {
+                "nome": "Istituzioni scolastiche",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolgimento previsto per azioni educative/formative"
+            },
+            {
+                "nome": "Servizi educativi",
+                "tipo": "Settore educativo comunale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolgimento previsto per azioni educative/formative"
+            },
+            {
+                "nome": "Centri Antiviolenza (CAV) autorizzati e riconosciuti dalla Regione Calabria",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rete territoriale coinvolta nell'attuazione del progetto, oltre a Centro D'Ascolto ARIEL ODV"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Citta Metropolitana di Reggio Calabria",
+            "Centro D’Ascolto ARIEL ODV"
+        ]
+    },
+    {
+        "file": "18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt",
+        "firmatari": [
+            "Prefettura di Cosenza",
+            "Tribunale di Cosenza",
+            "Tribunale di Paola",
+            "Tribunale di Castrovillari",
+            "Procura della Repubblica presso il Tribunale di Cosenza",
+            "Procura della Repubblica presso il Tribunale di Paola",
+            "Presidente del Tribunale per i Minorenni di Catanzaro",
+            "Procura della Repubblica presso il Tribunale di Castrovillari",
+            "Procura della Repubblica p/o il Tribunale per i minorenni Catanzaro",
+            "Regione Calabria",
+            "Provincia di Cosenza",
+            "Questura di Cosenza",
+            "Comando Provinciale dei Carabinieri di Cosenza",
+            "Comando Provinciale della Guardia di Finanza di Cosenza",
+            "Azienda Sanitaria Provinciale di Cosenza",
+            "Azienda Ospedaliera S.S. Annunziata di Cosenza",
+            "Uffici Pariterici",
+            "Comune Paterno",
+            "Associazione Mondiversi Onlus"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura di Cosenza",
+                "tipo": "Prefettura",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordina il Tavolo Tecnico; parte firmataria del protocollo"
+            },
+            {
+                "nome": "Tribunale di Cosenza",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Tribunale di Paola",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Paola",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Tribunale di Castrovillari",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Castrovillari",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Cosenza",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Paola",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Paola",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Presidente del Tribunale per i Minorenni di Catanzaro",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Castrovillari",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Castrovillari",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica p/o il Tribunale per i minorenni Catanzaro",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Catanzaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Regione Calabria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo; sostiene Centri Antiviolenza e Case Rifugio"
+            },
+            {
+                "nome": "Provincia di Cosenza",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Questura di Cosenza",
+                "tipo": "Questura",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Comando Provinciale dei Carabinieri di Cosenza",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Comando Provinciale della Guardia di Finanza di Cosenza",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Azienda Sanitaria Provinciale di Cosenza",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Azienda Ospedaliera S.S. Annunziata di Cosenza",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Cosenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo"
+            },
+            {
+                "nome": "Uffici Pariterici",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Parte firmataria del protocollo; sono coinvolti organismi di parità provinciali e regionali"
+            },
+            {
+                "nome": "Comune Paterno",
+                "tipo": "Comuni",
+                "comune": "Paterno",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Associazione Mondiversi Onlus",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Centri Antiviolenza iscritte nell’Albo Regionale",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partecipano al Tavolo Tecnico; firmatari potenziali"
+            },
+            {
+                "nome": "Case Rifugio iscritte nell’Albo Regionale",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Partecipano al Tavolo Tecnico; firmatari potenziali"
+            },
+            {
+                "nome": "Forze dell'Ordine del territorio",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Sottoscrivono tramite Prefettura di Cosenza"
+            },
+            {
+                "nome": "Comuni del territorio",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Possono aderire successivamente come firmatari"
+            },
+            {
+                "nome": "Ufficio Scolastico provinciale",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Commissione pari opportunità della Regione Calabria",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Osservatorio Regionale sulla Violenza di Genere",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Cura raccolta e analisi dati"
+            },
+            {
+                "nome": "Organismi di parità dei Comuni del proprio distretto",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati",
+                "tipo": "Ordine avvocati",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolgimento per formazione"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Prefettura di Cosenza"
+        ],
+        "attori_coinvolti": [
+            "Prefettura di Cosenza",
+            "Tribunale di Cosenza",
+            "Tribunale di Paola",
+            "Tribunale di Castrovillari",
+            "Procura della Repubblica presso il Tribunale di Cosenza",
+            "Procura della Repubblica presso il Tribunale di Paola",
+            "Presidente del Tribunale per i Minorenni di Catanzaro",
+            "Procura della Repubblica presso il Tribunale di Castrovillari",
+            "Procura della Repubblica p/o il Tribunale per i minorenni Catanzaro",
+            "Regione Calabria",
+            "Provincia di Cosenza",
+            "Questura di Cosenza",
+            "Comando Provinciale dei Carabinieri di Cosenza",
+            "Comando Provinciale della Guardia di Finanza di Cosenza",
+            "Azienda Sanitaria Provinciale di Cosenza",
+            "Azienda Ospedaliera S.S. Annunziata di Cosenza",
+            "Uffici Pariterici",
+            "Centri Antiviolenza iscritte nell’Albo Regionale",
+            "Case Rifugio iscritte nell’Albo Regionale",
+            "Forze dell'Ordine del territorio",
+            "Comuni del territorio",
+            "Ufficio Scolastico provinciale",
+            "Commissione pari opportunità della Regione Calabria",
+            "Osservatorio Regionale sulla Violenza di Genere",
+            "Organismi di parità dei Comuni del proprio distretto"
+        ]
+    }
+]

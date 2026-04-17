@@ -9,7 +9,7 @@ from pathlib import Path
 
 reg_code = "16"   
 
-JSON_STEP1_FOLDER = r"output/json/step_1"
+JSON_STEP1_FOLDER = r"output/data/step_1"
 INPUT_JSON  = f"{JSON_STEP1_FOLDER}/{reg_code}_risultati.json"
 OUTPUT_JSON_FILTER = INPUT_JSON.replace(".json", ".filtered.json")
 

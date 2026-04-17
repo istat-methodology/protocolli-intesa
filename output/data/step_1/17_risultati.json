@@ -1,0 +1,128 @@
+[
+    {
+        "file": "17_2406_rta_17_250506142731_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Regione Basilicata",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Direzione Generale per la Salute e Politiche della Persona",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Sistemi di Welfare",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Case Rifugio",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CAV",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "presente anche come 'RETE CENTRI ASCOLTO'"
+            },
+            {
+                "nome": "Rete Centri Ascolto",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "associato a CAV"
+            },
+            {
+                "nome": "CUAV",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centri di riabilitazione per uomini autori di violenza"
+            },
+            {
+                "nome": "Comune di Potenza",
+                "tipo": "Comuni",
+                "comune": "Potenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presente come 'COMUNI PZ'"
+            },
+            {
+                "nome": "Comune di Matera",
+                "tipo": "Comuni",
+                "comune": "Matera",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presente come 'COMUNI MT'"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Regione Basilicata",
+            "Direzione Generale per la Salute e Politiche della Persona",
+            "Ufficio Sistemi di Welfare",
+            "Case Rifugio",
+            "CAV",
+            "Rete Centri Ascolto",
+            "CUAV",
+            "Comune di Potenza",
+            "Comune di Matera"
+        ]
+    },
+    {
+        "file": "17_2406_rta_17_250506142746_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Regione Basilicata",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Direzione Generale per la Salute e Politiche della Persona",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Sistemi di Welfare",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Regione Basilicata",
+            "Direzione Generale per la Salute e Politiche della Persona",
+            "Ufficio Sistemi di Welfare"
+        ]
+    }
+]

@@ -1,0 +1,435 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Comune di Bra,Comuni,Bra,,comune,Bra,exact,004029,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Comune di Alba,Comuni,Alba,,comune,Alba,exact,004003,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Consorzio Socio Assistenziale Alba Langhe Roero,CAV/Centri Antiviolenza,Alba,,comune,Alba,exact,004003,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,ASL CN2,ASL (consultori familiari e altri servizi territoriali),Alba,,comune,Alba,exact,004003,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Associazione MAI+SOLE,ORGANIZZAZIONI DI VOLONTARIATO,Savigliano,SAVIGLIANO,comune,Savigliano,exact,004215,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Direzione Coesione Sociale,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,CAV n. 10/A,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,Consorzio Socio Assistenziale del Cuneese,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Amministrazione Provinciale di Biella,Province/Città metropolitane,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Azienda Sanitaria Locale di Biella,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Presidio Ospedaliero di Biella,"Ospedale (Pronto soccorso, ecc.)",Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Consultorio Familiare di Biella,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,S.C. Neuropsichiatria Infantile,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Consorzio Intercomunale Servizi Socio Assistenziali LR.LS.,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.LS.S.A.B.O.,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Casa Rifugio,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Consigliera Provinciale di Parità di Biella,Organismi di parità,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Procura della Repubblica presso il Tribunale Ordinario di Biella,Procura Ordinaria/Tribunale/Corte d'appello,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Procura Generale presso la Corte di Appello di Torino,Procura Ordinaria/Tribunale/Corte d'appello,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Ambito Territoriale X di Biella - Ufficio Scolastico Regionale per il Piemonte - MIUR,Scuole/Ufficio scolastico provinciale e regionale,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella),Università,,,nome,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Punto di Ascolto Antiviolenza,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione PaViol Percorsi Antiviolenza,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Servizio Psicologico rivolto agli Autori di Violenza (S.P.A.M.),"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione Underground,ORGANIZZAZIONI DI VOLONTARIATO,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione VocidiDONNE,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione Donne Nuove,ORGANIZZAZIONI DI VOLONTARIATO,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione Se Non Ora Quando? Biella,Ente terzo settore - ETS (iscritto al RUNTS),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Associazione Save The Children Italia ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Centro I Germogli,Case Rifugio,Ponderano,,comune,Ponderano,exact,096047,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904120005_4166---protocollo.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Dipartimento per le Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Difensore civico regionale,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Ambito Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Dirigenza scolastica autonoma,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Istituti di istruzione e di formazione professionale,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Rete Antiviolenza,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Tavolo Provinciale sulle Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Equipe di Coordinamento del Centro Antiviolenza,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+01_2406_rta_01_240904120005_4166---protocollo.txt,Forza di Polizia,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Consorzio CISSABO,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Cossato,,comune,Cossato,exact,096020,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Consorzio IRIS,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,ASL BI,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Anteo Impresa Cooperativa Sociale,IMPRESE SOCIALI,Biella,BIELLA,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione Non sei sola. Uscire dal silenzio - Contro la violenza OdV,ORGANIZZAZIONI DI VOLONTARIATO,Biella,BIELLA,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione Underground OdV,ORGANIZZAZIONI DI VOLONTARIATO,Biella,BIELLA,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione di Promozione Sociale PaViol Percorsi Antiviolenza APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Biella,BIELLA,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Centro Antiviolenza di Biella,CAV/Centri Antiviolenza,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Casa Rifugio Biellese,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Provincia di Biella,Province/Città metropolitane,,,nome,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Consigliera di Parità,Organismi di parità,,,nome,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Università degli Studi di Torino,Università,,,nome,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Ambito Territoriale n. 10 di Biella,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Ospedale di Ponderano (ASL BI),"Ospedale (Pronto soccorso, ecc.)",,,nome,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Struttura Complessa Neuropsichiatria Infantile ASL BI,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Dipartimento Materno Infantile ASL BI,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Equipe Multidisciplinare ASL BI,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Servizi Sociali Territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Consultorio ASL BI di Biella,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Save The Children Italia ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione VocidiDONNE,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione Donne Nuove,ORGANIZZAZIONI DI VOLONTARIATO,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Associazione Se Non Ora Quando? Biella,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Ufficio Scolastico Regionale per il Piemonte-MIUR,Scuole/Ufficio scolastico provinciale e regionale,Piemonte,,comune,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Dipartimento Culture Politica e Società dell’Università degli Studi di Torino (Polo di Biella),Università,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904121349_4166---convenzione.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,ISTAT,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904121349_4166---convenzione.txt,Dipartimento per le Pari Opportunità,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Consorzio C.I.S.S.A.B.0.,Altro,Cossato,,comune,Cossato,exact,096020,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Consorzio I.R.I.S,Altro,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Amministrazione Provinciale di Biella,Province/Città metropolitane,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Azienda Sanitaria Locale di Biella,ASL (consultori familiari e altri servizi territoriali),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Consorzio Intercomunale Servizi Socio Assistenziali I.R.I.S.,CAV/Centri Antiviolenza,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.I.S.S.A.B.0.,CAV/Centri Antiviolenza,Cossato,,comune,Cossato,exact,096020,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Consigliera Provinciale di Parità di Biella,Organismi di parità,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Procura della Repubblica presso il Tribunale Ordinario di Biella,Procura Ordinaria/Tribunale/Corte d'appello,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Ambito Territoriale X di Biella,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Ufficio Scolastico Regionale per il Piemonte-MIUR,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Dipartimento Culture Politica e Società dell'Università degli Studi di Torino (Polo di Biella),Università,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione PaViol Percorsi Antiviolenza,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione Underground,ORGANIZZAZIONI DI VOLONTARIATO,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione VocidiDONNE,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione Donne Nuove,ORGANIZZAZIONI DI VOLONTARIATO,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione Se Non Ora Quando? Biella,Ente terzo settore - ETS (iscritto al RUNTS),Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Associazione Save The Children Italia ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Cooperativa Sociale Anteo,IMPRESE SOCIALI,,BIELLA,comune_runts,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Casa Rifugio Biellese,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Comune di Biella,Comuni,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Ospedale di Ponderano,"Ospedale (Pronto soccorso, ecc.)",Ponderano,,comune,Ponderano,exact,096047,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Servizio Sociale,Servizi sociali comunali,,LESSOLO,comune_runts,Lessolo,exact,001132,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,Città di Biella,Comuni,Biella,,comune,Biella,exact,096004,096,Biella,BI,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,IRENE SOCIETA’ COOPERATIVA IMPRESA SOCIALE,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,ASSOCIAZIONE MAMRE ONLUS,ORGANIZZAZIONI DI VOLONTARIATO,,BORGOMANERO,comune_runts,Borgomanero,exact,003024,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,PROVINCIA DI NOVARA,Province/Città metropolitane,,,nome,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI BORGOMANERO,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Borgomanero,exact,003024,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,CONSORZIO INTERCOMUNALE PER LA GESTIONE DEI SERVIZI SOCIOASSISTENZIALI DI CASTELLETTO SOPRA TICINO,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Castelletto sopra Ticino,exact,003043,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,COMUNE DI ARONA,Comuni,Arona,,comune,Arona,exact,003008,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,CONSORZIO INTERCOMUNALE DEI SERVIZI SOCIOASSISTENZIALI ZONA CUSIO-OMEGNA,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Procure della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Ufficio Territoriale del Governo,Prefettura,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Questura,Questura,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Ministero della Giustizia - Polizia Penitenziaria,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Azienda Ospedaliera,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Centro Antiviolenza zona nord Novara,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,C.I.S.S. di Borgomanero,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Borgomanero,,comune,Borgomanero,exact,003024,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,C.I.S.A.S. di Castelletto Sopra Ticino,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Marano Ticino,,comune,Marano Ticino,exact,003091,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Comuni convenzionati con Arona,Comuni,Arona,,comune,Arona,exact,003008,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,C.I.S.S. zona Cusio-Omegna,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",San Maurizio d’Opaglio,,comune,San Maurizio d'Opaglio,exact,003133,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Centro Servizi Pari Opportunita,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Sportello Donna,Centri/Sportelli di ascolto,Arona,,comune,Arona,exact,003008,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Sportello Lavoro comunale,Servizi per l'impiego,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Centri Educativi convenzionati con il CISS,Settore educativo comunale,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Case di accoglienza,Case Rifugio,,,nome,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,DEA Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,Forza dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,servizi territoriali dell’area minore,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,ASL TO3,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,VASSOCIAZIONE SVOLTA DONNA ODV - CENTRO ANTIVIOLENZA,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Associazione SvoltaDonna OdV —Centro Antiviolenza,CAV/Centri Antiviolenza,,PINEROLO,comune_runts,Pinerolo,exact,001191,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Centro Antiviolenza Svolta Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Albo regionale dei Centri Antiviolenza e Case Rifugio della Regione Piemonte,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Associazione Svolta Donna Onlus,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,E.M.M.A. Onlus,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Servizio Sovrazionale di Epidemiologia di Grugliasco (ASL TO3),Altro,Grugliasco,,comune,Grugliasco,exact,001120,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Ospedale Civile di Pinerolo (TO),"Ospedale (Pronto soccorso, ecc.)",Pinerolo,,comune,Pinerolo,exact,001191,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Presidio territoriale di Avigliana (TO),"Ospedale (Pronto soccorso, ecc.)",Avigliana,,comune,Avigliana,exact,001013,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Ospedale degli Infermi di Rivoli (TO),"Ospedale (Pronto soccorso, ecc.)",Rivoli,,comune,Rivoli,exact,001219,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Ospedale di Susa (TO),"Ospedale (Pronto soccorso, ecc.)",Susa,,comune,Susa,exact,001270,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Servizi di Emergenza e Urgenza,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Servizi per la salute mentale,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Servizi per le dipendenze patologiche,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Gruppo Aziendale per il Maltrattamento e l’Abuso,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Struttura di Ginecologia e Ostetricia,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Psicologia,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Psichiatria,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Tavolo regionale di coordinamento dei Centri Antiviolenza,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Citta Metropolitana di Torino,Province/Città metropolitane,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,Numero ministeriale 1522,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Associazione SvoltaDonna,ORGANIZZAZIONI DI VOLONTARIATO,Pinerolo,PINEROLO,comune,Pinerolo,exact,001191,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Centro Antiviolenza SvoltaDonna,CAV/Centri Antiviolenza,Pinerolo,PINEROLO,comune,Pinerolo,exact,001191,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Centri Antiviolenza EMMA Onlus,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Servizi socio-sanitari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Spazi per l'accoglienza in emergenza,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Sportelli Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Numero Verde,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Ospedale,"Ospedale (Pronto soccorso, ecc.)",,CIRIE',comune_runts,Ciriè,exact,001086,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Servizio Sociale,Servizi sociali comunali,,LESSOLO,comune_runts,Lessolo,exact,001132,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Fondo Regionale per il patrocinio legale delle donne vittime di violenza e maltrattamenti,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Scuole di ogni ordine e grado,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,CENTRI ANTIVIOLENZA E.M.M.A. ONLUS,CAV/Centri Antiviolenza,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,C.LS. — Consorzio Intercomunale dei servizi socioassistenziali,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Cirié,,comune,Ciriè,exact,001086,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,"CISA12 — Consorzio Intercomunale Socio-Assistenziale di Nichelino, Vinovo, None, Candiolo","Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Nichelino,,comune,Nichelino,exact,001164,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,C.LS.S. — Consorzio Intercomunale Servizi Sociali,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Chivasso,,comune,Chivasso,exact,001082,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,CISA31 Consorzio Intercomunale Socio-Assistenziale,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Carmagnola,,comune,Carmagnola,exact,001059,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Consorzio Intercomunale di Servizi (C.I.diS.),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Orbassano,,comune,Orbassano,exact,001171,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,CONISA — Consorzio Intercomunale Socio-Assistenziale Valle di Susa,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Susa,,comune,Susa,exact,001270,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Unione dei Comuni Montani Valsangone - Servizi Socio Assistenziali,Comuni,Giaveno,,comune,Giaveno,exact,001115,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Unione Montana dei Comuni delle valli Chisone e Germanasca,Unione dei Comuni,Perosa Argentina,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Unione dei Comuni Nord Est Torino,Unione dei Comuni,Settimo Torinese,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,"Unione dei Comuni di Moncalieri, Trofarello, La Loggia",Unione dei Comuni,Moncalieri,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,ASL “Citta di Torino”,ASL (consultori familiari e altri servizi territoriali),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,ASLTO3,ASL (consultori familiari e altri servizi territoriali),Collegno,,comune,Collegno,exact,001090,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,"ASLTO5 — Azienda Sanitaria Locale di Chieri, Carmagnola, Moncalieri, Nichelino",ASL (consultori familiari e altri servizi territoriali),Chieri,,comune,Chieri,exact,001078,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,A.O.U. “San Luigi Gonzaga” di Orbassano,"Ospedale (Pronto soccorso, ecc.)",Orbassano,,comune,Orbassano,exact,001171,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Dipartimento di Culture Politica e Societa — Universita di Torino,Università,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,ORSO SCS (Societa Cooperativa Sociale),Ente terzo settore - ETS (iscritto al RUNTS),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,IDEA Agenzia per il Lavoro scs onlus,Ente terzo settore - ETS (iscritto al RUNTS),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,COESA PINEROLO s.c.a. a r.l.,Ente terzo settore - ETS (iscritto al RUNTS),Pinerolo,,comune,Pinerolo,exact,001191,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,DIRE — Donne in Rete contro la violenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,ANCI Nazionale,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,Albo Regionale dei Centri Antiviolenza e delle Case Rifugio,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Comune di Carmagnola,Comuni,Carmagnola,,comune,Carmagnola,exact,001059,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,CENTRI ANTIVIOLENZA E.M.M.A. ONLUS,CAV/Centri Antiviolenza,TORINO,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Centro Antiviolenza DonneFuturo,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Rete Antiviolenza,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Forze dell’ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Servizio di Psicologia dell’ASL di Carmagnola,ASL (consultori familiari e altri servizi territoriali),Carmagnola,,comune,Carmagnola,exact,001059,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,Help House Girls,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,Comune di Rivoli,Comuni,Rivoli,,comune,Rivoli,exact,001219,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,Associazione Centri Antiviolenza E.M.M.A. Onlus,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,Ufficio Pari Opportunita,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,DIREZIONE SERVIZI ECONOMICO FINANZIARI,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,CONSIP,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,MePA,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,INAIL,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Universita degli Studi di Torino,Università,,,nome,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,CENTRI ANTIVIOLENZA E.M.M.A. ONLUS,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Sportello Antiviolenza di Ateneo,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,CUG di UniTo,Organismi di parità,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,CIRSDE,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,comitato di indirizzo della convenzione Unito-Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Consigliera di Fiducia,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Dipartimento di Filosofia e Scienze dell’Educazione,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Dipartimento di Giurisprudenza,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,"Dipartimento di Culture, Politica e Societa",Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Dipartimento di Psicologia,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Dipartimento di Economia Cognetti de Martiis,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,"Dipartimento di Neuroscienze ""Rita Levi Montalcini""",Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Dipartimento di Management,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Unita di Progetto Supporto al CUG e alla Consigliera di Fiducia,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,CUG,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Comitato di Bioetica di Ateneo,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Comitato Ospedaliero,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Comitato di Categoria,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Agenzia delle Entrate - Ufficio di Torino 1,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consorzio Socio Assistenziale del Cuneese,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consorzio Monviso Solidale,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consorzio per i Servizi Socio Assistenziali del Monregalese,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,ASL CN1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,A.O. Santa Croce e Carle,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Comune di Cuneo,Comuni,Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Comune di Fossano,Comuni,Fossano,,comune,Fossano,exact,004089,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Comune di Mondovi,Comuni,Mondovi,,comune,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Comune di Saluzzo,Comuni,Saluzzo,,comune,Saluzzo,exact,004203,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Comune di Savigliano,Comuni,Savigliano,,comune,Savigliano,exact,004215,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Croce Rossa Italiana - Comitato Locale di Mondovi O.N.L.U.S. - L'Orecchio di Venere,CAV/Centri Antiviolenza,Mondovi,ASTI,comune,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Associazione MAI+SOLE,ORGANIZZAZIONI DI VOLONTARIATO,Savigliano,SAVIGLIANO,comune,Savigliano,exact,004215,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Associazione Telefono Donna Cuneo ODV,ORGANIZZAZIONI DI VOLONTARIATO,Cuneo,CUNEO,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Coop. Fiordaliso Soc. Coop. Sociale Onlus,Ente terzo settore - ETS (iscritto al RUNTS),Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consultorio Familiare ASL CN1 Sede di Cuneo,ASL (consultori familiari e altri servizi territoriali),Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consultorio Familiare ASL CN1 Sede di Mondovi,ASL (consultori familiari e altri servizi territoriali),Mondovi,,comune,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consultorio Familiare ASL CN1 Sede di Saluzzo,ASL (consultori familiari e altri servizi territoriali),Saluzzo,,comune,Saluzzo,exact,004203,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Consultorio Familiare ASL CN1 Sede di Savigliano,ASL (consultori familiari e altri servizi territoriali),Savigliano,,comune,Savigliano,exact,004215,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,"Comune di Bra - gestione associata dei Servizi Socio Assistenziali, ambito di Bra",Comuni,Bra,,comune,Bra,exact,004029,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Centro Anti Violenza n. 10/A,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Le Ali di Zena,Centri/Sportelli di ascolto,Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Zena a Dronero,Centri/Sportelli di ascolto,Dronero,,comune,Dronero,exact,004082,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello presso Cascina Sacerdote,Centri/Sportelli di ascolto,Fossano,,comune,Fossano,exact,004089,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello presso C.so Statuto 13,Centri/Sportelli di ascolto,Mondovi,,comune,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello legale Comune di Fossano,Centri/Sportelli di ascolto,Fossano,,comune,Fossano,exact,004089,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello della C.R.I. Mondovi - L'Orecchio di Venere,Centri/Sportelli di ascolto,Mondovi,,comune,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Associazione MAI+SOLE Savigliano,Centri/Sportelli di ascolto,Savigliano,,comune,Savigliano,exact,004215,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Associazione MAI+SOLE Saluzzo,Centri/Sportelli di ascolto,Saluzzo,,comune,Saluzzo,exact,004203,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Associazione MAI+SOLE Cuneo,Centri/Sportelli di ascolto,Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Sportello Associazione Telefono Donna Cuneo ODV,Centri/Sportelli di ascolto,Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Giunta Regionale Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Presidente della Giunta Regionale Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Governo,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Province autonome di Trento e di Bolzano,Regioni/Province Autonome,,,nome,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Autonomie locali,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Ordine degli Avvocati,Ordine avvocati,,,none,,none,,,,,,
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Comune di Vercelli,Comuni,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,C.I.S.A.S. (Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia),CAV/Centri Antiviolenza,Santhia,,comune,Santhià,exact,002133,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,C.A.S.A. (Consorzio per l’Attivita Socio Assistenziale di Gattinara),CAV/Centri Antiviolenza,Gattinara,,comune,Gattinara,exact,002061,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Unione Montana dei Comuni della Valsesia,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Prefettura di Vercelli,Prefettura,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Tribunale di Vercelli,Procura Ordinaria/Tribunale/Corte d'appello,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Procura della Repubblica presso il Tribunale di Vercelli,Procura Ordinaria/Tribunale/Corte d'appello,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Questura di Vercelli,Questura,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Comando Provinciale dei Carabinieri di Vercelli,Carabinieri/Polizia/altre forze dell'ordine,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Guardia di Finanza di Vercelli,Carabinieri/Polizia/altre forze dell'ordine,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Azienda Sanitaria Locale di Vercelli,ASL (consultori familiari e altri servizi territoriali),Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Ordine dei Medici di Vercelli,Ordine medici e odontoiatri e Ordine farmacisti,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Ordine degli Avvocati di Vercelli,Ordine avvocati,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Consigliera di Parita della Provincia di Vercelli,Organismi di parità,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Referente del Nodo provinciale contro le discriminazioni della Provincia di Vercelli,Organismi di parità,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Ufficio Scolastico Provinciale di Vercelli,Scuole/Ufficio scolastico provinciale e regionale,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Ordine dei Giornalisti del Piemonte,Altri ordini professionali,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Ufficio di Esecuzione Penale Esterna,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Rete Vercellese Antiviolenza,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Presidio Ospedaliero di Vercelli,"Ospedale (Pronto soccorso, ecc.)",Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Pronto Soccorso del Presidio Ospedaliero di Borgosesia,"Ospedale (Pronto soccorso, ecc.)",Borgosesia,,comune,Borgosesia,exact,002016,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_240920123646_4166---vercellieos.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,Comune di Novara,Comuni,Novara,,comune,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,LIBERAZIONE E SPERANZA Societa Cooperativa Sociale,IMPRESE SOCIALI,Novara,NOVARA,comune,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,ELIOS Societa Cooperativa Sociale,IMPRESE SOCIALI,Novara,NOVARA,comune,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,Settore 5 - Politiche Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,Centro AntiViolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,UNIPOL SAI - Novara,Altro,Novara,,comune,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,UnipolSai Assicurazioni spa,Altro,,,none,,none,,,,,,
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,Banco BPM - Banca Popolare di Novara,Altro,Novara,,comune,Novara,exact,003106,003,Novara,NO,01,Piemonte
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,Intesa Sanpaolo,Altro,Milano,,comune,Milano,exact,015146,215,Milano,MI,03,Lombardia
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Città di Torino,Comuni,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,"Dipartimento Servizi Sociali, Socio Sanitari e Abitativi",Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Servizio Giovani e Pari Opportunità,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,"Dipartimento Servizi Sociali, Centro Antiviolenza",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Ufficio Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Dipartimento Servizi Educativi,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Città Metropolitana,Province/Città metropolitane,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,"Regione Piemonte, Direzione Sanità e Welfare",Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,ASL Città di Torino,ASL (consultori familiari e altri servizi territoriali),,,nome,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Circoscrizioni,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Centro Interdisciplinare Ricerche e Studi delle Donne e di Genere dell’Università degli Studi di Torino (CIRSDE),Università,,,nome,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,CUG,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Coordinamento Cittadino sulla Violenza contro le Donne,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Gender City Manager,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Consulta Femminile Comunale,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Organizzazione Mondiale della Sanità,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Ministero della Salute,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Istituto Superiore di Sanità,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Parlamento Europeo,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Commissioni Consiliari (IV e Pari Opportunità),Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Osservatorio Epidemiologico Regionale,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Dipartimento di Prevenzione,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Servizi specialistici sulle malattie sessualmente trasmesse,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Servizio di prevenzione e sicurezza in ambiente di lavoro,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Università di Torino,Università,,,nome,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,consultori familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,aziende ospedaliere,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,organizzazioni femminili e/o impegnate nella promozione e nella tutela della salute della donna,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,Coordinamenti femminili delle organizzazioni sindacali,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,organizzazioni di base e di cura,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,enti del terzo settore,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,sindacati,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,coordinamenti,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,associazioni,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Città di Torino,Comuni,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Provincia di Torino,Province/Città metropolitane,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Città Metropolitana di Torino,Province/Città metropolitane,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Coordinamento Contro la Violenza sulle Donne (CCVD),Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Tavolo della Città Metropolitana di Torino per la Promozione del Cambiamento degli Autori di Violenza di Genere,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Gruppi di Lavoro del Coordinamento,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Comitato di Raccordo,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Assemblea del Coordinamento,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Commissione Consiliare permanente Diritti e Pari Opportunità del Comune di Torino,Altro,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Servizio competente in materia di Pari Opportunità della Città di Torino,Altro,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,"Dipartimento Servizi Sociali, Socio Sanitari e Abitativi della Città di Torino",Altro,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Casa Rifugio,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Call Center Mamma Bambino,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Pronto Intervento Sociale (PrinS),Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Distretti di Coesione Sociale (Servizi Sociali — Poli Inclusione),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,numero nazionale 1522,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Autorità Giudiziarie,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Ospedali,"Ospedale (Pronto soccorso, ecc.)",,MONDOVI',comune_runts,Mondovì,exact,004130,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Ufficio competente in materia di Pari Opportunità della Città Metropolitana di Torino,Altro,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Consigliera di Parità della Città Metropolitana di Torino,Organismi di parità,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Centro Sanitario Esperto contro la violenza dell’A.O.U. Città della Salute e della Scienza di Torino,ASL (consultori familiari e altri servizi territoriali),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Dipartimento Corpo Polizia Locale - Reparto Specialistico Prossimità,Polizia Municipale,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Polizia Municipale di Torino,Polizia Municipale,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Centro Sanitario Esperto contro la violenza dell’AOU Città della Salute e della Scienza di Torino,ASL (consultori familiari e altri servizi territoriali),Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,Direzione Politiche Sociali e Rapporti con le Aziende Sanitarie del Comune di Torino,Altro,Torino,,comune,Torino,exact,001272,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,CSIPiemonte,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,"gli Enti pubblici, le Associazioni, le Fondazioni, le Cooperative e le altre Istituzioni di carattere privato sottoscrittori/sottoscrittrici del presente Protocollo",Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Associazione Punto a Capo di Chivasso,CAV/Centri Antiviolenza,Chivasso,,comune,Chivasso,exact,001082,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Consorzio Intercomunale dei Servizi Socio Assistenziali C.I.S. di Cirié,CAV/Centri Antiviolenza,Cirié,,comune,Ciriè,exact,001086,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Nazioni Unite,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,O.M.S.,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Tribunali,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,Case rifugio,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,servizio sociale,Servizi sociali comunali,,LESSOLO,comune_runts,Lessolo,exact,001132,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,ASSOCIAZIONE PUNTO A CAPO DI CHIVASSO,CAV/Centri Antiviolenza,Chivasso,,comune,Chivasso,exact,001082,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,CONSORZIO INTERCOMUNALE SERVIZI SOCIO ASSISTENZIALI DI CALUSO- C.1.S.S-AC,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Caluso,,comune,Caluso,exact,001047,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,Case rifugio,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,"Organismi internazionali, quali le Nazioni Unite e O.M.S.",Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Questura del Verbano Cusio Ossola,Questura,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Consorzio intercomunale dei Servizi Sociali del Verbano,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Consorzio Intercomunale dei Servizi Sociali del Cusio,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Consorzio Intercomunale dei Servizi Sociali dell’Ossola,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,"Provincia del Verbano Cusio Ossola, Servizio Sportello Donna",Province/Città metropolitane,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Azienda Sanitaria Locale VCO,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,"Cooperativa la Bitta, Servizio Antiviolenza ""Git le Mani""",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Servizio Nodo Provinciale Antidiscriminazioni,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Centro Antidiscriminazioni della Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Casa Rifugio presente sul territorio del Consorzio Intercomunale dei Servizi Sociali dell’Ossola,Case Rifugio,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,Presidi Ospedalieri,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Azienda Sanitaria Locale CN1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,UNIONE MONTANA delle Valli Mongia Cevetta e Langa Cebana - Alta Valle Bormida - SERVIZIO SOCIO ASSISTENZIALE,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,ASSOCIAZIONE Futuro Donna OdV - CENTRO ANTIVIOLENZA Servizio Rosa,CAV/Centri Antiviolenza,,CEVA,comune_runts,Ceva,exact,004066,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,"Direzione Coesione Sociale Settore Politiche per le famiglie, giovani e migranti, pari opportunità e diritti (Regione Piemonte)",Altro,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Albo Regionale dei Centri Antiviolenza,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Centro Antiviolenza Servizio Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Comune di Mombasiglio,Comuni,Mombasiglio,,comune,Mombasiglio,exact,004125,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Comune di Priola,Comuni,Priola,,comune,Priola,exact,004177,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Comune di Niella Tanaro,Comuni,Niella Tanaro,,comune,Niella Tanaro,exact,004151,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Pronto Soccorso del Presidio Ospedaliero di Ceva,"Ospedale (Pronto soccorso, ecc.)",,,nome,Ceva,exact,004066,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Servizio Sociale,Servizi sociali comunali,,LESSOLO,comune_runts,Lessolo,exact,001132,201,Torino,TO,01,Piemonte
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Autorità Giudiziaria,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Procura presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Consultorio Familiare ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Comune di Vercelli,Comuni,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,C.I.S.A.S. - Consorzio Intercomunale per i Servizi di Assistenza Sociale di Santhia,CAV/Centri Antiviolenza,,,nome,Santhià,exact,002133,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,C.A.S.A. - Consorzio per l’Attivita Socio Assistenziale di Gattinara,CAV/Centri Antiviolenza,,BOVES,comune_runts,Boves,exact,004028,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Unione Montana dei Comuni della Valsesia,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Prefettura di Vercelli,Prefettura,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Tribunale di Vercelli,Procura Ordinaria/Tribunale/Corte d'appello,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Procura della Repubblica presso il Tribunale di Vercelli,Procura Ordinaria/Tribunale/Corte d'appello,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Comitato Pari Opportunita presso il Consiglio Giudiziario per il Distretto del Piemonte e della Valle d’Aosta,Organismi di parità,,,none,,none,,,,,,
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Questura di Vercelli,Questura,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Comando Provinciale dei Carabinieri di Vercelli,Carabinieri/Polizia/altre forze dell'ordine,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Guardia di Finanza di Vercelli,Carabinieri/Polizia/altre forze dell'ordine,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Ordine degli Avvocati di Vercelli,Ordine avvocati,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Azienda Sanitaria Locale di Vercelli,ASL (consultori familiari e altri servizi territoriali),Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Ordine dei Medici di Vercelli,Ordine medici e odontoiatri e Ordine farmacisti,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Ufficio Scolastico Provinciale di Vercelli,Scuole/Ufficio scolastico provinciale e regionale,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Consigliera di Parita della Provincia di Vercelli,Organismi di parità,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Referente Nodo Territoriale contro le discriminazioni della Provincia di Vercelli,Altro,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Ordine dei Giornalisti del Piemonte,Altri ordini professionali,,,none,,none,,,,,,
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Ufficio di Esecuzione Penale Esterna,Altro,,,nome,,none,,,,,,
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Rete Vercellese Antiviolenza,Altro,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Settore Politiche Sociali del Comune di Vercelli,Servizi sociali comunali,Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,DEA del Presidio Ospedaliero di Vercelli,"Ospedale (Pronto soccorso, ecc.)",Vercelli,,comune,Vercelli,exact,002158,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,Pronto Soccorso del Presidio Ospedaliero di Borgosesia,"Ospedale (Pronto soccorso, ecc.)",Borgosesia,,comune,Borgosesia,exact,002016,002,Vercelli,VC,01,Piemonte
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Azienda Sanitaria Locale CN1,ASL (consultori familiari e altri servizi territoriali),Cuneo,,comune,Cuneo,exact,004078,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Organizzazione di Volontariato FUTURO DONNA OdV,ORGANIZZAZIONI DI VOLONTARIATO,Ceva,CEVA,comune,Ceva,exact,004066,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Pronto Soccorso Presidio Ospedaliero di Ceva,"Ospedale (Pronto soccorso, ecc.)",,,nome,Ceva,exact,004066,004,Cuneo,CN,01,Piemonte
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,consultorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Regione Piemonte,Regioni/Province Autonome,,,none,,none,,,,,,
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Ministero del Lavoro e delle Politiche Sociali,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,A.N.A.C.,Altro,,,none,,none,,,,,,
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,Presidio Ospedaliero di Ceva,"Ospedale (Pronto soccorso, ecc.)",,,nome,Ceva,exact,004066,004,Cuneo,CN,01,Piemonte

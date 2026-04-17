@@ -1,0 +1,3944 @@
+[
+  {
+    "file": "09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt",
+    "firmatari": [],
+    "soggetti": [
+      {
+        "nome": "Comune di Poggibonsi",
+        "tipo": "Comuni",
+        "comune": "Poggibonsi",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Colle di Val d'Elsa",
+        "tipo": "Comuni",
+        "comune": "Colle di Val d'Elsa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di San Gimignano",
+        "tipo": "Comuni",
+        "comune": "San Gimignano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Casole d'Elsa",
+        "tipo": "Comuni",
+        "comune": "Casole d'Elsa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Radicondoli",
+        "tipo": "Comuni",
+        "comune": "Radicondoli",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro Pari Opportunita Valdelsa",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Coordina il Tavolo istituzionale"
+      },
+      {
+        "nome": "Associazione Donne Insieme Valdelsa",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestisce il Centro antiviolenza e la Casa Rifugio"
+      },
+      {
+        "nome": "Casa Rifugio D.I.V.E",
+        "tipo": "Case Rifugio",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestita dall'Associazione Donne Insieme Valdelsa"
+      },
+      {
+        "nome": "Associazione Atelier Vantaggio Donna",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Curatrice della definizione e redazione del protocollo; coordina l'Osservatorio Altavaldelsa"
+      },
+      {
+        "nome": "Azienda USL Toscana Sud Est",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizi sociosanitari"
+      },
+      {
+        "nome": "Fondazione Territori Sociali Altavaldelsa",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitarie, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizi sociali territoriali"
+      },
+      {
+        "nome": "FTSA (Fondazione Territori Sociali Altavaldelsa)",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Ambiti sociali della Valdelsa"
+      },
+      {
+        "nome": "Societa della Salute Alta Val d'Elsa",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitarie, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Ambiti sociali"
+      },
+      {
+        "nome": "Consultorio Azienda USL Toscana Sud Est",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Ambito Valdelsa"
+      },
+      {
+        "nome": "Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Servizio di Psicologia Azienda USL Toscana Sud Est",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "U.O. Pronto Soccorso Azienda USL 7 — Monoblocco Alta Val d'Elsa",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Pronto Soccorso Campostaggia/Alta Valdelsa"
+      },
+      {
+        "nome": "Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Presidio di riferimento per codice rosa e violenza di genere"
+      },
+      {
+        "nome": "UOC Centrale Operativa 118 Siena-Grosseto Azienda USL Toscana Sud Est",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizio emergenza urgenza sanitaria"
+      },
+      {
+        "nome": "SEUS (Servizio Emergenza Urgenza Sociale)",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Centrale Operativa Regionale; UTES territoriali"
+      },
+      {
+        "nome": "UTES (Unita Territoriali Emergenza Urgenza Sociale)",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Braccio operativo del SEUS"
+      },
+      {
+        "nome": "Servizio Sociale Territoriale",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestione post emergenza"
+      },
+      {
+        "nome": "Polizia Municipale di Poggibonsi",
+        "tipo": "Polizia Municipale",
+        "comune": "Poggibonsi",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Polizia Municipale di Colle di Val d'Elsa",
+        "tipo": "Polizia Municipale",
+        "comune": "Colle di Val d'Elsa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Polizia Municipale di San Gimignano",
+        "tipo": "Polizia Municipale",
+        "comune": "San Gimignano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Polizia Municipale di Casole d'Elsa",
+        "tipo": "Polizia Municipale",
+        "comune": "Casole d'Elsa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Polizia Municipale di Radicondoli",
+        "tipo": "Polizia Municipale",
+        "comune": "Radicondoli",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Prefettura di Siena",
+        "tipo": "Prefettura",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Questura di Siena",
+        "tipo": "Questura",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comando Provinciale dei Carabinieri",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Guardia di Finanza",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica di Siena",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Tribunale di Siena",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Ordine degli Avvocati di Siena",
+        "tipo": "Ordine avvocati",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "CPO Ordine degli Avvocati di Siena",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Comitato pari opportunità"
+      },
+      {
+        "nome": "Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena (Odcec)",
+        "tipo": "Altri ordini professionali",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comitato Pari Opportunita dell’Odcec di Siena",
+        "tipo": "Organismi di parità",
+        "comune": "Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "118",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizio emergenza urgenza"
+      },
+      {
+        "nome": "Osservatorio Alta Valdelsa sulla violenza di genere",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Coordina e aggrega dati sulla violenza"
+      },
+      {
+        "nome": "Scuole del territorio",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Attività di prevenzione primaria"
+      },
+      {
+        "nome": "CAM Firenze",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "SMA",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "SERD",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      }
+    ],
+    "soggetti_proponenti": [
+      "Centro Pari Opportunita Valdelsa",
+      "Comune di Poggibonsi",
+      "Comune di Colle di Val d'Elsa",
+      "Comune di San Gimignano",
+      "Comune di Casole d'Elsa",
+      "Comune di Radicondoli",
+      "Prefettura di Siena",
+      "Procura della Repubblica di Siena"
+    ],
+    "attori_coinvolti": [
+      "Comune di Poggibonsi",
+      "Comune di Colle di Val d'Elsa",
+      "Comune di San Gimignano",
+      "Comune di Casole d'Elsa",
+      "Comune di Radicondoli",
+      "Centro Pari Opportunita Valdelsa",
+      "Associazione Donne Insieme Valdelsa",
+      "Casa Rifugio D.I.V.E",
+      "Associazione Atelier Vantaggio Donna",
+      "Azienda USL Toscana Sud Est",
+      "Fondazione Territori Sociali Altavaldelsa",
+      "FTSA (Fondazione Territori Sociali Altavaldelsa)",
+      "Societa della Salute Alta Val d'Elsa",
+      "Consultorio Azienda USL Toscana Sud Est",
+      "Servizio di Salute Mentale Azienda USL Toscana Sud Est Zona Alta Valdelsa",
+      "Servizio di Psicologia Azienda USL Toscana Sud Est",
+      "U.O. Pronto Soccorso Azienda USL 7 — Monoblocco Alta Val d'Elsa",
+      "Pronto Soccorso di Campostaggia Azienda USL Toscana Sud Est",
+      "UOC Centrale Operativa 118 Siena-Grosseto Azienda USL Toscana Sud Est",
+      "SEUS (Servizio Emergenza Urgenza Sociale)",
+      "UTES (Unita Territoriali Emergenza Urgenza Sociale)",
+      "Servizio Sociale Territoriale",
+      "Polizia Municipale di Poggibonsi",
+      "Polizia Municipale di Colle di Val d'Elsa",
+      "Polizia Municipale di San Gimignano",
+      "Polizia Municipale di Casole d'Elsa",
+      "Polizia Municipale di Radicondoli",
+      "Prefettura di Siena",
+      "Questura di Siena",
+      "Comando Provinciale dei Carabinieri",
+      "Guardia di Finanza",
+      "Procura della Repubblica di Siena",
+      "Ordine degli Avvocati di Siena",
+      "CPO Ordine degli Avvocati di Siena",
+      "Ordine dei Dottori Commercialisti e degli Esperti Contabili di Siena (Odcec)",
+      "Comitato Pari Opportunita dell’Odcec di Siena",
+      "118"
+    ]
+  },
+  {
+    "file": "09_APUANE_2015 Protocollo Prefettura.txt",
+    "firmatari": [
+      "Prefettura di Massa Carrara",
+      "Provincia di Massa Carrara",
+      "Comune di Massa",
+      "Comune di Carrara",
+      "Comune di Montignoso",
+      "Tribunale di Massa",
+      "Procura della Repubblica di Massa",
+      "Azienda Sanitaria Locale n. 1 di Massa Carrara",
+      "Società della Salute della Lunigiana",
+      "Ufficio Scolastico Provinciale di Massa Carrara",
+      "Questura di Massa Carrara",
+      "Comando Provinciale dei Carabinieri di Massa Carrara",
+      "Comando Provinciale della Guardia di Finanza di Massa Carrara",
+      "Centro Antiviolenza “Duna” di Massa",
+      "Centro Antiviolenza “Centro Donna” di Massa",
+      "Centro Antiviolenza “Donna chiama Donna” di Carrara",
+      "Centro Antiviolenza “Centro Donna” della Lunigiana",
+      "Centro di Ascolto “Sabine” di Montignoso",
+      "Centro di Ascolto “Centro Italiano Femminile” di Carrara"
+    ],
+    "soggetti": [
+      {
+        "nome": "Prefettura di Massa Carrara",
+        "tipo": "Prefettura",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo; ruolo di raccordo per interventi necessari alla creazione di una rete di servizi efficace sul territorio"
+      },
+      {
+        "nome": "Provincia di Massa Carrara",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Massa Carrara",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Comune di Massa",
+        "tipo": "Comuni",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Comune di Carrara",
+        "tipo": "Comuni",
+        "comune": "Carrara",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Comune di Montignoso",
+        "tipo": "Comuni",
+        "comune": "Montignoso",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Tribunale di Massa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Procura della Repubblica di Massa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Ufficio Scolastico Provinciale di Massa Carrara",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Azienda Sanitaria Locale n. 1 di Massa Carrara",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "Massa Carrara",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Società della Salute della Lunigiana",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Questura di Massa Carrara",
+        "tipo": "Questura",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Comando Provinciale dei Carabinieri di Massa Carrara",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Comando Provinciale della Guardia di Finanza di Massa Carrara",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro Antiviolenza “Duna” di Massa",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Massa",
+        "indirizzo": "Via del Patriota n.15",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro Antiviolenza “Centro Donna” di Massa",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Massa",
+        "indirizzo": "Via Cavour Babboni Marina",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro Antiviolenza “Donna chiama Donna” di Carrara",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Carrara",
+        "indirizzo": "Via Carriona n.42",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro Antiviolenza “Centro Donna” della Lunigiana",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "P.zza Gramsci Aulla; Via Cocchi n.24 Pontremoli; Via Umberto In, 4 Fivizzano; Via Baracchini n.1 Villafranca; Via Salvador Allende Tresana; P.zza del Municipio Licciana Nardi; Via G. Battista Cartegni Bagnone",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro di Ascolto “Sabine” di Montignoso",
+        "tipo": "Altro",
+        "comune": "Montignoso",
+        "indirizzo": "Via Sforza n.58",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Centro di Ascolto “Centro Italiano Femminile” di Carrara",
+        "tipo": "Altro",
+        "comune": "Carrara",
+        "indirizzo": "Via Massimo D’Azeglio n.3",
+        "ente_capofila": "",
+        "note": "soggetto firmatario del protocollo"
+      },
+      {
+        "nome": "Servizi Sociali del Comune di Massa",
+        "tipo": "Servizi sociali comunali",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborazione nei percorsi di presa in carico e segnalazione"
+      },
+      {
+        "nome": "Servizi Sociali del Comune di Carrara",
+        "tipo": "Servizi sociali comunali",
+        "comune": "Carrara",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborazione nei percorsi di presa in carico e segnalazione"
+      },
+      {
+        "nome": "Servizi Sociali del Comune di Montignoso",
+        "tipo": "Servizi sociali comunali",
+        "comune": "Montignoso",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborazione nei percorsi di presa in carico e segnalazione"
+      },
+      {
+        "nome": "Servizi Sociali della Costa",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborazione nei percorsi di presa in carico e segnalazione"
+      },
+      {
+        "nome": "Società della Salute della Lunigiana",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborazione nei percorsi di presa in carico e segnalazione"
+      },
+      {
+        "nome": "Consultorio principale della ASL n. 1",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Centro di Coordinamento Zonale secondo la legge n. 59/97"
+      },
+      {
+        "nome": "Pronto Soccorso",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "locale dotato di materiali per la cura delle vittime e la raccolta delle prove"
+      },
+      {
+        "nome": "Centro Antiviolenza",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "termine generico, servizi minimi e attivazione h24"
+      },
+      {
+        "nome": "Centro di Ascolto",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "termine generico - offre servizio di ascolto e consulenza"
+      },
+      {
+        "nome": "Associazione A.R.P.A.",
+        "tipo": "Altro",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Associazione C.LF.",
+        "tipo": "Altro",
+        "comune": "Carrara",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro Donna Provinciale",
+        "tipo": "Altro",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro Donna Lunigiana",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "C.I.F. Centro Italiano Femminile",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "normativa e leggi regionali citate, estensione progetto Codice Rosa"
+      },
+      {
+        "nome": "Procura della Repubblica di Firenze",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "protocollo Codice Rosa"
+      },
+      {
+        "nome": "Presidenza del Consiglio dei Ministri",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "redazione Piano d’azione straordinario contro la violenza sessuale e di genere"
+      },
+      {
+        "nome": "Ambiti Sociali della Programmazione provinciale",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "osservatorio provinciale, raccolta dati"
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Prefettura di Massa Carrara",
+      "Provincia di Massa Carrara",
+      "Comune di Massa",
+      "Comune di Carrara",
+      "Comune di Montignoso",
+      "Tribunale di Massa",
+      "Procura della Repubblica di Massa",
+      "Ufficio Scolastico Provinciale di Massa Carrara",
+      "Azienda Sanitaria Locale n. 1 di Massa Carrara",
+      "Società della Salute della Lunigiana",
+      "Questura di Massa Carrara",
+      "Comando Provinciale dei Carabinieri di Massa Carrara",
+      "Comando Provinciale della Guardia di Finanza di Massa Carrara",
+      "Centro Antiviolenza “Duna” di Massa",
+      "Centro Antiviolenza “Centro Donna” di Massa",
+      "Centro Antiviolenza “Donna chiama Donna” di Carrara",
+      "Centro Antiviolenza “Centro Donna” della Lunigiana",
+      "Centro di Ascolto “Sabine” di Montignoso",
+      "Centro di Ascolto “Centro Italiano Femminile” di Carrara",
+      "Servizi Sociali del Comune di Massa",
+      "Servizi Sociali del Comune di Carrara",
+      "Servizi Sociali del Comune di Montignoso",
+      "Servizi Sociali della Costa",
+      "Consultorio principale della ASL n. 1",
+      "Pronto Soccorso"
+    ]
+  },
+  {
+    "file": "09_AREZZO Prot_2024-2026.txt",
+    "firmatari": [
+      "Prefettura di Arezzo",
+      "Provincia di Arezzo",
+      "Tribunale di Arezzo",
+      "Procura della Repubblica presso il Tribunale di Arezzo",
+      "Azienda USL Toscana Sud Est",
+      "Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI",
+      "Conferenza dei Sindaci della Zona Aretina",
+      "Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino",
+      "Conferenza Zonale dei Sindaci del Valdarno",
+      "Conferenza Zonale dei Sindaci della Valdichiana Aretina",
+      "Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana",
+      "Consigliera Provinciale di Parita",
+      "Associazione “Pronto Donna” Centro Antiviolenza"
+    ],
+    "soggetti": [
+      {
+        "nome": "Prefettura di Arezzo",
+        "tipo": "Prefettura",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, coordina convocazione Tavolo Provinciale"
+      },
+      {
+        "nome": "Provincia di Arezzo",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, Ente coordinatore della Rete Antiviolenza"
+      },
+      {
+        "nome": "Tribunale di Arezzo",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale di Arezzo",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Azienda USL Toscana Sud Est",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Conferenza dei Sindaci della Zona Aretina",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Conferenza Zonale dei Sindaci del Valdarno",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Conferenza Zonale dei Sindaci della Valdichiana Aretina",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Consigliera Provinciale di Parita",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Associazione “Pronto Donna” Centro Antiviolenza",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Questura di Arezzo",
+        "tipo": "Questura",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Presa d’atto"
+      },
+      {
+        "nome": "Comando Provinciale dei Carabinieri di Arezzo",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Presa d’atto"
+      },
+      {
+        "nome": "Comando Provinciale della Guardia di Finanza di Arezzo",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Presa d’atto"
+      },
+      {
+        "nome": "Comune di Arezzo",
+        "tipo": "Comuni",
+        "comune": "Arezzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Storico firmatario, citato nei pregressi protocolli"
+      },
+      {
+        "nome": "Azienda USL n. 8",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Storico firmatario, citato nei pregressi protocolli"
+      },
+      {
+        "nome": "Ufficio Scolastico Territoriale di Arezzo",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Storico firmatario, citato nei pregressi protocolli"
+      },
+      {
+        "nome": "Ufficio delle Consigliere di Parita per la Provincia di Arezzo",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Storico firmatario, citato nei pregressi protocolli"
+      },
+      {
+        "nome": "Osservatorio Sociale Regionale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Riceve dati dalla Provincia per monitoraggio"
+      },
+      {
+        "nome": "Regione Toscana — Assessorato alla Sanita",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario di protocollo regionale richiamato"
+      },
+      {
+        "nome": "Procura Generale presso la Corte di Appello di Firenze",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario di protocollo regionale richiamato"
+      },
+      {
+        "nome": "Procure della Repubblica presso i Tribunali del Distretto",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica per i Minorenni di Firenze",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura Generale presso la Corte d'Appello di Genova",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Genova",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale di Massa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Scuole di ogni ordine e grado del territorio aretino",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Destinatari iniziative"
+      },
+      {
+        "nome": "Istituzioni scolastiche del territorio",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Collaborazione azioni educative"
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Prefettura di Arezzo",
+      "Provincia di Arezzo",
+      "Tribunale di Arezzo",
+      "Procura della Repubblica presso il Tribunale di Arezzo",
+      "Azienda USL Toscana Sud Est",
+      "Ufficio Scolastico Regionale per la Toscana Ambito Territoriale della Provincia di Arezzo Ufficio VI",
+      "Conferenza dei Sindaci della Zona Aretina",
+      "Conferenza Zonale dei Sindaci del Casentino/Unione dei Comuni Montani del Casentino",
+      "Conferenza Zonale dei Sindaci del Valdarno",
+      "Conferenza Zonale dei Sindaci della Valdichiana Aretina",
+      "Conferenza Zonale dei Sindaci della Valtiberina Toscana/Unione Montana dei Comuni della Valtiberina Toscana",
+      "Consigliera Provinciale di Parita",
+      "Associazione “Pronto Donna” Centro Antiviolenza"
+    ]
+  },
+  {
+    "file": "09_FIRENZE Linee-di-indirizzo2024.txt",
+    "firmatari": [],
+    "soggetti": [
+      {
+        "nome": "Societa della Salute Firenze",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Firenze",
+        "tipo": "Comuni",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Societa della Salute Mugello",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Societa della Salute Fiorentina Nord Ovest",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Societa della Salute Fiorentina Sud Est",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Citta Metropolitana di Firenze",
+        "tipo": "Province/Città metropolitane",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro Antiviolenza Associazione Artemisia APS",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro antiviolenza Artemisia",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "gestisce 11 sportelli territoriali nelle zone partner"
+      },
+      {
+        "nome": "Area Tutela Valery",
+        "tipo": "Servizi sociali comunali",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "presente solo all’interno del servizio sociale del Comune di Firenze"
+      },
+      {
+        "nome": "Codice Rosa",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "rete tempo-dipendente per percorsi socio-sanitari di vittime di violenza di genere"
+      },
+      {
+        "nome": "Quartiere 5 del Comune di Firenze",
+        "tipo": "Comuni",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Barberino del Mugello",
+        "tipo": "Comuni",
+        "comune": "Barberino del Mugello",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Borgo San Lorenzo",
+        "tipo": "Comuni",
+        "comune": "Borgo San Lorenzo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Campi Bisenzio",
+        "tipo": "Comuni",
+        "comune": "Campi Bisenzio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Sesto Fiorentino",
+        "tipo": "Comuni",
+        "comune": "Sesto Fiorentino",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Lastra a Signa",
+        "tipo": "Comuni",
+        "comune": "Lastra a Signa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Scandicci",
+        "tipo": "Comuni",
+        "comune": "Scandicci",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Tavarnelle Val di Pesa",
+        "tipo": "Comuni",
+        "comune": "Tavarnelle Val di Pesa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di San Casciano Val di Pesa",
+        "tipo": "Comuni",
+        "comune": "San Casciano Val di Pesa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Figline e Incisa Valdarno",
+        "tipo": "Comuni",
+        "comune": "Figline e Incisa Valdarno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Comune di Pontassieve",
+        "tipo": "Comuni",
+        "comune": "Pontassieve",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "zona partner sportello territoriale"
+      },
+      {
+        "nome": "Servizio sociale professionale",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "gestione accoglienze in emergenza, presa in carico, funzione di regia"
+      },
+      {
+        "nome": "SEUS (servizio emergenza urgenza sociale)",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "sociale emergenza urgenza"
+      },
+      {
+        "nome": "Centro Ascolto Uomini Maltrattanti CAM",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "previsto dalla convenzione di Istanbul"
+      },
+      {
+        "nome": "Autorita giudiziaria",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Procura minorile, Tribunale Ordinario"
+      },
+      {
+        "nome": "Procura Ordinaria",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura minorile",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Tribunale Ordinario",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Luoghi Neutri CISMAI",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "requisiti di qualità per progettazione e gestione"
+      },
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "finanziatore, revisione"
+      }
+    ],
+    "soggetti_proponenti": [
+      "Societa della Salute Firenze",
+      "Comune di Firenze",
+      "Societa della Salute Mugello",
+      "Societa della Salute Fiorentina Nord Ovest",
+      "Societa della Salute Fiorentina Sud Est",
+      "Citta Metropolitana di Firenze",
+      "Centro Antiviolenza Associazione Artemisia APS"
+    ],
+    "attori_coinvolti": [
+      "Societa della Salute Firenze",
+      "Comune di Firenze",
+      "Societa della Salute Mugello",
+      "Societa della Salute Fiorentina Nord Ovest",
+      "Societa della Salute Fiorentina Sud Est",
+      "Centro Antiviolenza Associazione Artemisia APS",
+      "Centro antiviolenza Artemisia",
+      "Area Tutela Valery",
+      "Codice Rosa",
+      "Servizio sociale professionale",
+      "SEUS (servizio emergenza urgenza sociale)"
+    ]
+  },
+  {
+    "file": "09_GROSSETO 2022 fpdf.txt",
+    "firmatari": [
+      "Provincia di Grosseto",
+      "Azienda USL Toscana Sud est",
+      "Centro antiviolenza “Olympia de Gouges” di Grosseto e Orbetello",
+      "Centro antiviolenza “Tutto é vita — Elisabetta Fiorilli”",
+      "Comune di Campagnatico",
+      "Comune di Capalbio",
+      "Comune di Castiglione della Pescaia",
+      "Comune di Cinigiano",
+      "Comune di Civitella Paganico",
+      "Comune di Follonica",
+      "Comune di Gavorrano",
+      "Comune di Grosseto",
+      "Comune di Isola del Giglio",
+      "Comune di Magliano in Toscana",
+      "Comune di Manciano",
+      "Comune di Massa Marittima",
+      "Comune di Monte Argentario",
+      "Comune di Monterotondo Marittimo",
+      "Comune di Montieri",
+      "Comune di Orbetello",
+      "Comune di Pitigliano",
+      "Comune di Scansano",
+      "Comune di Scarlino",
+      "Unione dei comuni Montani Amiata Grossetana",
+      "Comune di Sorano"
+    ],
+    "soggetti": [
+      {
+        "nome": "Provincia di Grosseto",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Grosseto",
+        "indirizzo": "Piazza Dante Alighieri 35 58100 Grosseto",
+        "ente_capofila": "Provincia di Grosseto",
+        "note": "Ente coordinatore della Rete antiviolenza, firmatario"
+      },
+      {
+        "nome": "Azienda USL Toscana Sud est",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Centro antiviolenza “Olympia de Gouges” di Grosseto e Orbetello",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Centro antiviolenza “Tutto é vita — Elisabetta Fiorilli”",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Campagnatico",
+        "tipo": "Comuni",
+        "comune": "Campagnatico",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Capalbio",
+        "tipo": "Comuni",
+        "comune": "Capalbio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Castiglione della Pescaia",
+        "tipo": "Comuni",
+        "comune": "Castiglione della Pescaia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Cinigiano",
+        "tipo": "Comuni",
+        "comune": "Cinigiano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Civitella Paganico",
+        "tipo": "Comuni",
+        "comune": "Civitella Paganico",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Follonica",
+        "tipo": "Comuni",
+        "comune": "Follonica",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Gavorrano",
+        "tipo": "Comuni",
+        "comune": "Gavorrano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Grosseto",
+        "tipo": "Comuni",
+        "comune": "Grosseto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Isola del Giglio",
+        "tipo": "Comuni",
+        "comune": "Isola del Giglio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Magliano in Toscana",
+        "tipo": "Comuni",
+        "comune": "Magliano in Toscana",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Manciano",
+        "tipo": "Comuni",
+        "comune": "Manciano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Massa Marittima",
+        "tipo": "Comuni",
+        "comune": "Massa Marittima",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Monte Argentario",
+        "tipo": "Comuni",
+        "comune": "Monte Argentario",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Monterotondo Marittimo",
+        "tipo": "Comuni",
+        "comune": "Monterotondo Marittimo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Montieri",
+        "tipo": "Comuni",
+        "comune": "Montieri",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Orbetello",
+        "tipo": "Comuni",
+        "comune": "Orbetello",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Pitigliano",
+        "tipo": "Comuni",
+        "comune": "Pitigliano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Scansano",
+        "tipo": "Comuni",
+        "comune": "Scansano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Scarlino",
+        "tipo": "Comuni",
+        "comune": "Scarlino",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Unione dei comuni Montani Amiata Grossetana",
+        "tipo": "Comuni",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Sorano",
+        "tipo": "Comuni",
+        "comune": "Sorano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Articolazioni zonali delle conferenze dei sindaci del territorio provinciale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato in accordi precedenti"
+      },
+      {
+        "nome": "Azienda USL n.9 di Grosseto",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato in accordi precedenti"
+      },
+      {
+        "nome": "Associazione Olympia de Gouges",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestore di CAV"
+      },
+      {
+        "nome": "Ascom",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Cia",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Confesercenti",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Federalberghi",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Polizia provinciale",
+        "tipo": "Polizia Municipale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Associazione P.A. Humanitas",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Citato come firmatario protocollo precedente"
+      },
+      {
+        "nome": "Centro Antiviolenza di Grosseto",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Grosseto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sede del CAV Olympia de Gouges"
+      },
+      {
+        "nome": "Punti di Ascolto territoriali di Follonica e Arcidosso",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Articolazioni del CAV Olympia de Gouges"
+      },
+      {
+        "nome": "Centro Antiviolenza di Orbetello",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Orbetello",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sede del CAV Olympia de Gouges"
+      },
+      {
+        "nome": "Punti di Ascolto territoriali di Manciano e Capalbio",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Articolazioni del CAV Olympia de Gouges"
+      },
+      {
+        "nome": "Centro antiviolenza di Mantepescali",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "Mantepescali",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sede del CAV Tutto é vita — Elisabetta Fiorilli"
+      },
+      {
+        "nome": "Punto di ascolto territoriale di Grosseto",
+        "tipo": "Altro",
+        "comune": "Grosseto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Articolazione CAV Tutto é vita — Elisabetta Fiorilli"
+      },
+      {
+        "nome": "Ufficio Scolastico Provinciale di Grosseto",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "Grosseto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura Generale della Repubblica presso la Corte d'Appello di Firenze",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procure della Repubblica presso il Tribunale del Distretto",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica per i Minorenni di Firenze",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura Generale presso la Corte d'Appello di Genova",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Genova",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale di Massa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Provincia di Grosseto",
+      "Azienda USL Toscana Sud est",
+      "Centro antiviolenza “Olympia de Gouges” di Grosseto e Orbetello",
+      "Centro antiviolenza “Tutto é vita — Elisabetta Fiorilli”",
+      "Comune di Campagnatico",
+      "Comune di Capalbio",
+      "Comune di Castiglione della Pescaia",
+      "Comune di Cinigiano",
+      "Comune di Civitella Paganico",
+      "Comune di Follonica",
+      "Comune di Gavorrano",
+      "Comune di Grosseto",
+      "Comune di Isola del Giglio",
+      "Comune di Magliano in Toscana",
+      "Comune di Manciano",
+      "Comune di Massa Marittima",
+      "Comune di Monte Argentario",
+      "Comune di Monterotondo Marittimo",
+      "Comune di Montieri",
+      "Comune di Orbetello",
+      "Comune di Pitigliano",
+      "Comune di Scansano",
+      "Comune di Scarlino",
+      "Unione dei comuni Montani Amiata Grossetana",
+      "Comune di Sorano"
+    ]
+  },
+  {
+    "file": "09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt",
+    "firmatari": [
+      "Comune di Livorno",
+      "Provincia di Livorno",
+      "Prefettura di Livorno",
+      "Questura di Livorno",
+      "Azienda USL Toscana Nord Ovest",
+      "Tribunale di Livorno",
+      "Università degli Studi di Firenze",
+      "ARTI Servizi per il Lavoro GR-LI",
+      "Comando Provinciale Carabinieri di Livorno",
+      "Comando Polizia Municipale",
+      "Consigliera di Parità della Provincia di Livorno",
+      "Filiale di Livorno della Banca d'Italia",
+      "Ippogrifo APS",
+      "Associazione Randi APS",
+      "Associazione Lui APS",
+      "Associazione Psicosfera"
+    ],
+    "soggetti": [
+      {
+        "nome": "Comune di Livorno",
+        "tipo": "Comuni",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "Comune di Livorno",
+        "note": "Coordinatore logistico ed operativo dei tavoli; firmatario protocollo"
+      },
+      {
+        "nome": "Provincia di Livorno",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo; nominata presso la Consigliera di Parità"
+      },
+      {
+        "nome": "Prefettura di Livorno",
+        "tipo": "Prefettura",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Questura di Livorno",
+        "tipo": "Questura",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Azienda USL Toscana Nord Ovest",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "Via Cocchi n. 7/9, Pisa",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo; coordina Distretto Livornese; servizi territoriali"
+      },
+      {
+        "nome": "Tribunale di Livorno",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Università degli Studi di Firenze",
+        "tipo": "Università",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "ARTI Servizi per il Lavoro di GR-LI",
+        "tipo": "Servizi per l'impiego",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo; include Centro per l'Impiego di Livorno"
+      },
+      {
+        "nome": "Comando Provinciale Carabinieri di Livorno",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Comando Polizia Municipale",
+        "tipo": "Polizia Municipale",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Consigliera di Parità della Provincia di Livorno",
+        "tipo": "Organismi di parità",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Filiale di Livorno della Banca d'Italia",
+        "tipo": "Altro",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Ippogrifo APS",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "Piazza della Repubblica, 47 — 57125 Livorno",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo; Centro antiviolenza e casa rifugio"
+      },
+      {
+        "nome": "Associazione Randi APS",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "Via della Maddalena n.4, 57126 Livorno",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo; Centro antiviolenza e casa rifugio"
+      },
+      {
+        "nome": "Associazione Lui APS",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "Via Alessandro Pieroni n° 27, 57123 Livorno",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Associazione Psicosfera",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario protocollo"
+      },
+      {
+        "nome": "Centro per l'Impiego di Livorno",
+        "tipo": "Servizi per l'impiego",
+        "comune": "Livorno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Incluso in ARTI Servizi per il Lavoro di GR-LI"
+      },
+      {
+        "nome": "Osservatorio Sociale Regionale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Supporto al monitoraggio dati"
+      },
+      {
+        "nome": "Consiglio d’Europa",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Convenzione di Istanbul"
+      },
+      {
+        "nome": "Nazioni Unite",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Convenzione CEDAW"
+      },
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Leggi di riferimento"
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Comune di Livorno",
+      "Provincia di Livorno",
+      "Prefettura di Livorno",
+      "Questura di Livorno",
+      "Azienda USL Toscana Nord Ovest",
+      "Tribunale di Livorno",
+      "Università degli Studi di Firenze",
+      "ARTI Servizi per il Lavoro di GR-LI",
+      "Comando Provinciale Carabinieri di Livorno",
+      "Comando Polizia Municipale",
+      "Consigliera di Parità della Provincia di Livorno",
+      "Filiale di Livorno della Banca d'Italia",
+      "Ippogrifo APS",
+      "Associazione Randi APS",
+      "Associazione Lui APS",
+      "Associazione Psicosfera"
+    ]
+  },
+  {
+    "file": "09_LUCCA PROV.txt",
+    "firmatari": [
+      "Provincia di Lucca",
+      "Prefettura di Lucca",
+      "Procura della Repubblica",
+      "Questura di Lucca",
+      "Arma dei Carabinieri-Comando provinciale di Lucca",
+      "Conferenza dei Sindaci ASL 2 zona Piana di Lucca",
+      "Conferenza dei Sindaci ASL 2 zona Valle del Serchio",
+      "Conferenza del Sindaci ASL 12 zona Versilia",
+      "Comuni",
+      "ASL 2 Lucca",
+      "ASL 12 Versilia",
+      "Consigliera di Parita di Lucca",
+      "Associazioni del Terzo Settore",
+      "Centri Antiviolenza",
+      "Ufficio Scolastico Provinciale di Lucca"
+    ],
+    "soggetti": [
+      {
+        "nome": "Provincia di Lucca",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Promotrice e coordinamento Tavolo"
+      },
+      {
+        "nome": "Prefettura di Lucca",
+        "tipo": "Prefettura",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Coordina Comitato Provinciale per l’Ordine e la Sicurezza Pubblica"
+      },
+      {
+        "nome": "Procura della Repubblica",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Questura di Lucca",
+        "tipo": "Questura",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Arma dei Carabinieri-Comando provinciale di Lucca",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Conferenza dei Sindaci ASL 2 zona Piana di Lucca",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Conferenza dei Sindaci ASL 2 zona Valle del Serchio",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Conferenza del Sindaci ASL 12 zona Versilia",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comuni",
+        "tipo": "Comuni",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "ASL 2 Lucca",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "ASL 12 Versilia",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Consigliera di Parita di Lucca",
+        "tipo": "Organismi di parità",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Associazioni del Terzo Settore",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centri Antiviolenza",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Ufficio Scolastico Provinciale di Lucca",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "Lucca",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Osservatorio Sociale Provinciale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sezione interna della Provincia di Lucca dedicata al monitoraggio dei dati"
+      },
+      {
+        "nome": "Rete Osservatorio Sociale Regionale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Osservatori Sociali Provinciali",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Dirigenza scolastica autonoma",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Servizi territoriali",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Pronto Soccorso Generale",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Ostetricia",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Reparti ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Ginecologia",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Reparti ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Pediatria",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Reparti ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Traumatologia",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Reparti ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Sert",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Psichiatria",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Consultori familiari",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizi territoriali ASL 2 Lucca e ASL 12 Versilia"
+      },
+      {
+        "nome": "Centri per l'impiego",
+        "tipo": "Servizi per l'impiego",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Istituzioni scolastiche autonome",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      }
+    ],
+    "soggetti_proponenti": [
+      "Provincia di Lucca"
+    ],
+    "attori_coinvolti": [
+      "Provincia di Lucca",
+      "Prefettura di Lucca",
+      "Procura della Repubblica",
+      "Questura di Lucca",
+      "Arma dei Carabinieri-Comando provinciale di Lucca",
+      "Conferenza dei Sindaci ASL 2 zona Piana di Lucca",
+      "Conferenza dei Sindaci ASL 2 zona Valle del Serchio",
+      "Conferenza del Sindaci ASL 12 zona Versilia",
+      "Comuni",
+      "ASL 2 Lucca",
+      "ASL 12 Versilia",
+      "Consigliera di Parita di Lucca",
+      "Associazioni del Terzo Settore",
+      "Centri Antiviolenza",
+      "Ufficio Scolastico Provinciale di Lucca"
+    ]
+  },
+  {
+    "file": "09_PISA PREF E PROV.txt",
+    "firmatari": [],
+    "soggetti": [
+      {
+        "nome": "Prefettura di Pisa",
+        "tipo": "Prefettura",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Provincia di Pisa",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Coordinamento Rete Antiviolenza"
+      },
+      {
+        "nome": "Comune di Pisa",
+        "tipo": "Comuni",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Bientina",
+        "tipo": "Comuni",
+        "comune": "Bientina",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Buti",
+        "tipo": "Comuni",
+        "comune": "Buti",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Calci",
+        "tipo": "Comuni",
+        "comune": "Calci",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Calcinaia",
+        "tipo": "Comuni",
+        "comune": "Calcinaia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Capannoli",
+        "tipo": "Comuni",
+        "comune": "Capannoli",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Casale Marittimo",
+        "tipo": "Comuni",
+        "comune": "Casale Marittimo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Casciana Terme-Lari",
+        "tipo": "Comuni",
+        "comune": "Casciana Terme-Lari",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Cascina",
+        "tipo": "Comuni",
+        "comune": "Cascina",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Castellina Marittima",
+        "tipo": "Comuni",
+        "comune": "Castellina Marittima",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Castelfranco di Sotto",
+        "tipo": "Comuni",
+        "comune": "Castelfranco di Sotto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Castelnuovo Val di Cecina",
+        "tipo": "Comuni",
+        "comune": "Castelnuovo Val di Cecina",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Chianni",
+        "tipo": "Comuni",
+        "comune": "Chianni",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Crespina-Lorenzana",
+        "tipo": "Comuni",
+        "comune": "Crespina-Lorenzana",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Fauglia",
+        "tipo": "Comuni",
+        "comune": "Fauglia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Guardistallo",
+        "tipo": "Comuni",
+        "comune": "Guardistallo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Lajatico",
+        "tipo": "Comuni",
+        "comune": "Lajatico",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Montecatini Val Di Cecina",
+        "tipo": "Comuni",
+        "comune": "Montecatini Val Di Cecina",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Montescudaio",
+        "tipo": "Comuni",
+        "comune": "Montescudaio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Monteverdi Marittimo",
+        "tipo": "Comuni",
+        "comune": "Monteverdi Marittimo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Montopoli Valdarno",
+        "tipo": "Comuni",
+        "comune": "Montopoli Valdarno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Orciano Pisano",
+        "tipo": "Comuni",
+        "comune": "Orciano Pisano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Palaia",
+        "tipo": "Comuni",
+        "comune": "Palaia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Peccioli",
+        "tipo": "Comuni",
+        "comune": "Peccioli",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Pomarance",
+        "tipo": "Comuni",
+        "comune": "Pomarance",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Ponsacco",
+        "tipo": "Comuni",
+        "comune": "Ponsacco",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Pontedera",
+        "tipo": "Comuni",
+        "comune": "Pontedera",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Riparbella",
+        "tipo": "Comuni",
+        "comune": "Riparbella",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Santa Croce sull'Arno",
+        "tipo": "Comuni",
+        "comune": "Santa Croce sull'Arno",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Santa Luce",
+        "tipo": "Comuni",
+        "comune": "Santa Luce",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Santa Maria a Monte",
+        "tipo": "Comuni",
+        "comune": "Santa Maria a Monte",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di San Giuliano Terme",
+        "tipo": "Comuni",
+        "comune": "San Giuliano Terme",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di San Miniato",
+        "tipo": "Comuni",
+        "comune": "San Miniato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Terricciola",
+        "tipo": "Comuni",
+        "comune": "Terricciola",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Vecchiano",
+        "tipo": "Comuni",
+        "comune": "Vecchiano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Vicopisano",
+        "tipo": "Comuni",
+        "comune": "Vicopisano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Volterra",
+        "tipo": "Comuni",
+        "comune": "Volterra",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Tribunale di Pisa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale per i Minorenni",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Magistratura di Sorveglianza",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Forze dell'Ordine",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "Prefettura",
+        "note": "Parte del gruppo interistituzionale"
+      },
+      {
+        "nome": "Università degli Studi di Pisa",
+        "tipo": "Università",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Azienda Ospedaliera Universitaria Pisana",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "AOUP Codice Rosa"
+      },
+      {
+        "nome": "Azienda Sanitaria Usl Toscana Nord-Ovest",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Azienda Sanitaria Usl Toscana Centro",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Società della Salute Zona Pisana",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitarie, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Società della Salute Zona Alta Valdicecina-Valdera",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitarie, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Società della Salute Zona Empolese Valdarno Valdelsa",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitarie, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Consigliera di Parita della Provincia di Pisa",
+        "tipo": "Organismi di parità",
+        "comune": "Pisa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Tutela delle vittime sui luoghi di lavoro"
+      },
+      {
+        "nome": "Centri Antiviolenza riconosciuti dalla Regione Toscana",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Casa della donna",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestione Centro Antiviolenza e Case rifugio; attività di prevenzione, sensibilizzazione, formazione, ricerca"
+      },
+      {
+        "nome": "Frida",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Gestione Centro Antiviolenza e Case rifugio; attività di prevenzione, sensibilizzazione, formazione, ricerca"
+      },
+      {
+        "nome": "Associazione Eunice",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sportello di ascolto per vittime di violenza; supporto psicologico e legale"
+      },
+      {
+        "nome": "Associazione Le Amiche di Mafalda",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Servizi di ascolto, consulenza legale e psicoterapeutica per donne; prevenzione nelle scuole; formazione"
+      },
+      {
+        "nome": "Associazione Donne in Movimento",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Numero di reperibilità per accoglienza in emergenza; accoglienza su segnalazione del pronto soccorso, delle Forze dell'Ordine e del servizio sociale"
+      },
+      {
+        "nome": "AIED",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sensibilizzazione e prevenzione nelle scuole; azioni contro gli stereotipi di genere"
+      },
+      {
+        "nome": "Nuovo Maschile. Uomini liberi dalla violenza",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Percorsi di formazione e gruppi per uomini violenti; linea di ascolto"
+      },
+      {
+        "nome": "Arnera Società Cooperativa Sociale",
+        "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Strutture di accoglienza per donne in disagio socioeconomico; progetti educativi di sostegno"
+      },
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Riconoscimento Centri Antiviolenza; programmazione sanitaria e sociale"
+      },
+      {
+        "nome": "Codice Rosa",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Rete aziendale per interventi su vittime di violenza"
+      },
+      {
+        "nome": "Istituzioni scolastiche",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Destinatari di azioni di prevenzione e formazione"
+      }
+    ],
+    "soggetti_proponenti": [
+      "Prefettura di Pisa",
+      "Provincia di Pisa"
+    ],
+    "attori_coinvolti": [
+      "Prefettura di Pisa",
+      "Provincia di Pisa",
+      "Comune di Pisa",
+      "Comune di Bientina",
+      "Comune di Buti",
+      "Comune di Calci",
+      "Comune di Calcinaia",
+      "Comune di Capannoli",
+      "Comune di Casale Marittimo",
+      "Comune di Casciana Terme-Lari",
+      "Comune di Cascina",
+      "Comune di Castellina Marittima",
+      "Comune di Castelfranco di Sotto",
+      "Comune di Castelnuovo Val di Cecina",
+      "Comune di Chianni",
+      "Comune di Crespina-Lorenzana",
+      "Comune di Fauglia",
+      "Comune di Guardistallo",
+      "Comune di Lajatico",
+      "Comune di Montecatini Val Di Cecina",
+      "Comune di Montescudaio",
+      "Comune di Monteverdi Marittimo",
+      "Comune di Montopoli Valdarno",
+      "Comune di Orciano Pisano",
+      "Comune di Palaia",
+      "Comune di Peccioli",
+      "Comune di Pomarance",
+      "Comune di Ponsacco",
+      "Comune di Pontedera",
+      "Comune di Riparbella",
+      "Comune di Santa Croce sull'Arno",
+      "Comune di Santa Luce",
+      "Comune di Santa Maria a Monte",
+      "Comune di San Giuliano Terme",
+      "Comune di San Miniato",
+      "Comune di Terricciola",
+      "Comune di Vecchiano",
+      "Comune di Vicopisano",
+      "Comune di Volterra",
+      "Tribunale di Pisa",
+      "Procura della Repubblica",
+      "Forze dell'Ordine",
+      "Università degli Studi di Pisa",
+      "Ufficio Scolastico Regionale della Toscana Ambito Territoriale della provincia di Pisa",
+      "Azienda Ospedaliera Universitaria Pisana",
+      "Azienda Sanitaria Usl Toscana Nord-Ovest",
+      "Azienda Sanitaria Usl Toscana Centro",
+      "Società della Salute Zona Pisana",
+      "Società della Salute Zona Alta Valdicecina-Valdera",
+      "Società della Salute Zona Empolese Valdarno Valdelsa",
+      "Consigliera di Parita della Provincia di Pisa",
+      "Centri Antiviolenza riconosciuti dalla Regione Toscana",
+      "Casa della donna",
+      "Frida",
+      "Associazione Eunice",
+      "Associazione Le Amiche di Mafalda",
+      "Associazione Donne in Movimento",
+      "AIED",
+      "Nuovo Maschile. Uomini liberi dalla violenza",
+      "Arnera Società Cooperativa Sociale"
+    ]
+  },
+  {
+    "file": "09_PISTOIA PROV .txt",
+    "firmatari": [
+      "Provincia di Pistoia",
+      "Comune di Pistoia",
+      "Comune di Abetone",
+      "Comune di Agliana",
+      "Comune di Buggiano",
+      "Comune di Chiesina Uzzanese",
+      "Comune di Cutigliano",
+      "Comune di Lamporecchio",
+      "Comune di Larciano",
+      "Comune di Marliana",
+      "Comune di Massa e Cozzile",
+      "Comune di Monsummano Terme",
+      "Comune di Montale",
+      "Comune di Montecatini Terme",
+      "Comune di Pescia",
+      "Comune di Pieve a Nievole",
+      "Comune di Piteglio",
+      "Comune di Ponte Buggianese",
+      "Comune di Quarrata",
+      "Comune di Sambuca Pistoiese",
+      "Comune di San Marcello Pistoiese",
+      "Comune di Serravalle Pistoiese",
+      "Comune di Uzzano",
+      "Procura della Repubblica di Pistoia",
+      "Tribunale di Pistoia",
+      "Prefettura di Pistoia - Ufficio Territoriale di Governo",
+      "Questura di Pistoia",
+      "Comando Provinciale Carabinieri di Pistoia",
+      "ASL n. 3 Pistoia",
+      "Societa della Salute Valdinievole",
+      "Ufficio Scolastico Provinciale",
+      "Consigliera Provinciale di Parita",
+      "CGIL Provinciale",
+      "CISL Provinciale",
+      "UIL Provinciale",
+      "UGL Provinciale",
+      "365giornialfemmile",
+      "CAM"
+    ],
+    "soggetti": [
+      {
+        "nome": "Provincia di Pistoia",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "Provincia di Pistoia",
+        "note": "Soggetto capofila dell’Intesa, firmatario"
+      },
+      {
+        "nome": "Comune di Pistoia",
+        "tipo": "Comuni",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Abetone",
+        "tipo": "Comuni",
+        "comune": "Abetone",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Agliana",
+        "tipo": "Comuni",
+        "comune": "Agliana",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Buggiano",
+        "tipo": "Comuni",
+        "comune": "Buggiano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Chiesina Uzzanese",
+        "tipo": "Comuni",
+        "comune": "Chiesina Uzzanese",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Cutigliano",
+        "tipo": "Comuni",
+        "comune": "Cutigliano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Lamporecchio",
+        "tipo": "Comuni",
+        "comune": "Lamporecchio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Larciano",
+        "tipo": "Comuni",
+        "comune": "Larciano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Marliana",
+        "tipo": "Comuni",
+        "comune": "Marliana",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Massa e Cozzile",
+        "tipo": "Comuni",
+        "comune": "Massa e Cozzile",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Monsummano Terme",
+        "tipo": "Comuni",
+        "comune": "Monsummano Terme",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Montale",
+        "tipo": "Comuni",
+        "comune": "Montale",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Montecatini Terme",
+        "tipo": "Comuni",
+        "comune": "Montecatini Terme",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Pescia",
+        "tipo": "Comuni",
+        "comune": "Pescia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Pieve a Nievole",
+        "tipo": "Comuni",
+        "comune": "Pieve a Nievole",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Piteglio",
+        "tipo": "Comuni",
+        "comune": "Piteglio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Ponte Buggianese",
+        "tipo": "Comuni",
+        "comune": "Ponte Buggianese",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Quarrata",
+        "tipo": "Comuni",
+        "comune": "Quarrata",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Sambuca Pistoiese",
+        "tipo": "Comuni",
+        "comune": "Sambuca Pistoiese",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di San Marcello Pistoiese",
+        "tipo": "Comuni",
+        "comune": "San Marcello Pistoiese",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Serravalle Pistoiese",
+        "tipo": "Comuni",
+        "comune": "Serravalle Pistoiese",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comune di Uzzano",
+        "tipo": "Comuni",
+        "comune": "Uzzano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Procura della Repubblica di Pistoia",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Tribunale di Pistoia",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Prefettura di Pistoia - Ufficio Territoriale di Governo",
+        "tipo": "Prefettura",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Questura di Pistoia",
+        "tipo": "Questura",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Comando Provinciale Carabinieri di Pistoia",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "ASL n. 3 Pistoia",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "Pistoia",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Societa della Salute Valdinievole",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Ufficio Scolastico Provinciale",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Consigliera Provinciale di Parita",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "CGIL Provinciale",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "CISL Provinciale",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "UIL Provinciale",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "UGL Provinciale",
+        "tipo": "Sindacati/Associazioni di categoria",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "365giornialfemmile",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "CAM",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario"
+      },
+      {
+        "nome": "Commissione Provinciale Pari Opportunita",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Assessorato alle Pari Opportunita",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centro Antiviolenza",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Centri Antiviolenza territorialmente attivi"
+      },
+      {
+        "nome": "Case rifugio",
+        "tipo": "Case Rifugio",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Provincia di Pistoia",
+      "Comune di Pistoia",
+      "Comune di Abetone",
+      "Comune di Agliana",
+      "Comune di Buggiano",
+      "Comune di Chiesina Uzzanese",
+      "Comune di Cutigliano",
+      "Comune di Lamporecchio",
+      "Comune di Larciano",
+      "Comune di Marliana",
+      "Comune di Massa e Cozzile",
+      "Comune di Monsummano Terme",
+      "Comune di Montale",
+      "Comune di Montecatini Terme",
+      "Comune di Pescia",
+      "Comune di Pieve a Nievole",
+      "Comune di Piteglio",
+      "Comune di Ponte Buggianese",
+      "Comune di Quarrata",
+      "Comune di Sambuca Pistoiese",
+      "Comune di San Marcello Pistoiese",
+      "Comune di Serravalle Pistoiese",
+      "Comune di Uzzano",
+      "Procura della Repubblica di Pistoia",
+      "Tribunale di Pistoia",
+      "Prefettura di Pistoia - Ufficio Territoriale di Governo",
+      "Questura di Pistoia",
+      "Comando Provinciale Carabinieri di Pistoia",
+      "ASL n. 3 Pistoia",
+      "Societa della Salute Valdinievole",
+      "Ufficio Scolastico Provinciale",
+      "Consigliera Provinciale di Parita",
+      "CGIL Provinciale",
+      "CISL Provinciale",
+      "UIL Provinciale",
+      "UGL Provinciale",
+      "365giornialfemmile",
+      "CAM",
+      "Centro Antiviolenza"
+    ]
+  },
+  {
+    "file": "09_PRATO PREF.txt",
+    "firmatari": [
+      "Prefettura - Ufficio Territoriale del Governo di Prato",
+      "Procura della Repubblica di Prato",
+      "Questura di Prato",
+      "Comando Provinciale dell’Arma dei Carabinieri di Prato",
+      "Comando Provinciale della Guardia di Finanza di Prato",
+      "Società della Salute Area Pratese",
+      "Comune di Cantagallo",
+      "Comune di Carmignano",
+      "Comune di Montemurlo",
+      "Comune di Poggio a Caiano",
+      "Comune di Prato",
+      "Comune di Vaiano",
+      "Comune di Vernio",
+      "Provincia di Prato",
+      "Azienda Sanitaria USL Toscana Centro",
+      "MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato",
+      "Centro Antiviolenza La Nara - Alice Cooperativa Sociale",
+      "Centro di Ascolto Uomini Maltrattanti"
+    ],
+    "soggetti": [
+      {
+        "nome": "Prefettura - Ufficio Territoriale del Governo di Prato",
+        "tipo": "Prefettura",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della cabina di regia, parte della Rete"
+      },
+      {
+        "nome": "Procura della Repubblica di Prato",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della cabina di regia, parte della Rete"
+      },
+      {
+        "nome": "Questura di Prato",
+        "tipo": "Questura",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della cabina di regia, parte della Rete"
+      },
+      {
+        "nome": "Comando Provinciale dell’Arma dei Carabinieri di Prato",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della cabina di regia, parte della Rete"
+      },
+      {
+        "nome": "Comando Provinciale della Guardia di Finanza di Prato",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della cabina di regia, parte della Rete"
+      },
+      {
+        "nome": "Società della Salute Area Pratese",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "true",
+        "note": "Firmatario, capofila, promotore e coordinatore della sinergia territoriale, parte della cabina di regia"
+      },
+      {
+        "nome": "Comune di Cantagallo",
+        "tipo": "Comuni",
+        "comune": "Cantagallo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Carmignano",
+        "tipo": "Comuni",
+        "comune": "Carmignano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Montemurlo",
+        "tipo": "Comuni",
+        "comune": "Montemurlo",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Poggio a Caiano",
+        "tipo": "Comuni",
+        "comune": "Poggio a Caiano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Prato",
+        "tipo": "Comuni",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Vaiano",
+        "tipo": "Comuni",
+        "comune": "Vaiano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Comune di Vernio",
+        "tipo": "Comuni",
+        "comune": "Vernio",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Provincia di Prato",
+        "tipo": "Province/Città metropolitane",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Azienda Sanitaria USL Toscana Centro",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete, comprende strutture socio-sanitarie, ospedaliere e territoriali"
+      },
+      {
+        "nome": "MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato",
+        "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+        "comune": "Prato",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete"
+      },
+      {
+        "nome": "Centro Antiviolenza La Nara - Alice Cooperativa Sociale",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete, dispone di centro di ascolto, sportelli territoriali, casa rifugio ad indirizzo segreto e case di seconda accoglienza"
+      },
+      {
+        "nome": "Centro di Ascolto Uomini Maltrattanti",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario, parte della Rete, sportelli sul territorio pratese, aderente a RELIVE e WWP EN"
+      },
+      {
+        "nome": "Tribunale per i Minorenni",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Coinvolto nei coordinamenti con Procura della Repubblica di Prato"
+      },
+      {
+        "nome": "Dipartimento per le Pari Opportunità della Presidenza del Consiglio dei Ministri",
+        "tipo": "Organismi di parità",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Responsabile mappatura Centri Antiviolenza, accennato nella descrizione dei servizi"
+      },
+      {
+        "nome": "Rete Nazionale RELIVE (Relazioni libera dalla violenza)",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Network nazionale centri autori violenza; menzionata come rete di riferimento CAM"
+      },
+      {
+        "nome": "Work With Perpetrators European Network (WWP EN)",
+        "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Network europeo centri autori violenza; menzionata come rete di riferimento CAM"
+      },
+      {
+        "nome": "Associazioni di categoria, di volontariato, sportive, culturali, sindacali, fondazioni",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Soggetti del territorio coinvolti/da coinvolgere dalla cabina di regia"
+      }
+    ],
+    "soggetti_proponenti": [
+      "Società della Salute Area Pratese"
+    ],
+    "attori_coinvolti": [
+      "Prefettura - Ufficio Territoriale del Governo di Prato",
+      "Procura della Repubblica di Prato",
+      "Questura di Prato",
+      "Comando Provinciale dell’Arma dei Carabinieri di Prato",
+      "Comando Provinciale della Guardia di Finanza di Prato",
+      "Società della Salute Area Pratese",
+      "Comune di Cantagallo",
+      "Comune di Carmignano",
+      "Comune di Montemurlo",
+      "Comune di Poggio a Caiano",
+      "Comune di Prato",
+      "Comune di Vaiano",
+      "Comune di Vernio",
+      "Provincia di Prato",
+      "Azienda Sanitaria USL Toscana Centro",
+      "MIUR Ufficio Scolastico Regionale per la Toscana XI Ambito Territoriale di Prato e Pistoia sede di Prato",
+      "Centro Antiviolenza La Nara - Alice Cooperativa Sociale",
+      "Centro di Ascolto Uomini Maltrattanti"
+    ]
+  },
+  {
+    "file": "09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt",
+    "firmatari": [
+      "Regione Toscana",
+      "Procura Generale della Repubblica presso la Corte d’Appello di Firenze",
+      "Procure della Repubblica presso il Tribunale del Distretto",
+      "Procura della Repubblica per i Minorenni di Firenze",
+      "Procura Generale presso la Corte d’Appello di Genova",
+      "Procura della Repubblica presso il Tribunale di Massa"
+    ],
+    "soggetti": [
+      {
+        "nome": "Regione Toscana",
+        "tipo": "Regioni/Province Autonome",
+        "comune": "Firenze",
+        "indirizzo": "piazza del Duomo, 10 — C.A.P. 50122",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Procura Generale della Repubblica presso la Corte d’Appello di Firenze",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Procure della Repubblica presso il Tribunale del Distretto",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Procura della Repubblica per i Minorenni di Firenze",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Procura Generale presso la Corte d’Appello di Genova",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Genova",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale di Massa",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Massa",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "firmatario del protocollo"
+      },
+      {
+        "nome": "Corte d’Appello di Firenze",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "Firenze",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "sede del tavolo di lavoro"
+      },
+      {
+        "nome": "Direzione Diritti di cittadinanza e coesione sociale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaboratrice nel tavolo di lavoro"
+      },
+      {
+        "nome": "Rete Regionale Codice Rosa",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "rete clinica tempo-dipendente, destinataria del protocollo"
+      },
+      {
+        "nome": "Azienda USL 9 di Grosseto",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "Grosseto",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "progetto pilota Codice Rosa nel 2010"
+      },
+      {
+        "nome": "Aziende sanitarie toscane",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "coinvolte nel progetto Codice Rosa"
+      },
+      {
+        "nome": "SSR",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Sistema Sanitario Regionale"
+      },
+      {
+        "nome": "Pagina Web nel sito istituzionale della Regione Toscana",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "http:/Avww.regione.toscana.it/-/codice-rosa",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Centri Antiviolenza",
+        "tipo": "CAV/Centri Antiviolenza",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "rete territoriale, coinvolti nel Percorso Donna"
+      },
+      {
+        "nome": "Comitato Regionale",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "organo della Rete"
+      },
+      {
+        "nome": "Comitato di Area Vasta",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "organo della Rete"
+      },
+      {
+        "nome": "Referenti Aziendali",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "organo della Rete"
+      },
+      {
+        "nome": "Aziende Sanitarie",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "collaborano con Comitato Regionale"
+      },
+      {
+        "nome": "Aziende Ospedaliere",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "citati nelle linee guida nazionali"
+      },
+      {
+        "nome": "Pronto Soccorso",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "punto di accesso per vittime"
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale Ordinario",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario di denunce e referti"
+      },
+      {
+        "nome": "Procura della Repubblica presso il Tribunale per i Minorenni",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario di denunce e segnalazioni"
+      },
+      {
+        "nome": "Questura",
+        "tipo": "Questura",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario di denunce e referti"
+      },
+      {
+        "nome": "Comando Provinciale dei Carabinieri",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario di denunce e referti"
+      },
+      {
+        "nome": "Polizia Giudiziaria",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario delle denunce/referti, coinvolta negli atti d’indagine"
+      },
+      {
+        "nome": "Servizi sociali",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "coinvolti in segnalazioni e presa in carico"
+      },
+      {
+        "nome": "Servizio Sociale",
+        "tipo": "Servizi sociali comunali",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "destinatario di segnalazioni di pregiudizio"
+      },
+      {
+        "nome": "Tribunale per i Minorenni",
+        "tipo": "Procura Minorile/Tribunale minorile",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "competente su limitazioni responsabilità genitoriale"
+      },
+      {
+        "nome": "Giudice Civile",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "competenza decisionale in casi di disaccordo genitoriale"
+      },
+      {
+        "nome": "Giudice Tutelare",
+        "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "competenza in nomina tutori minori"
+      },
+      {
+        "nome": "Comunità di tipo familiare",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "tutela minori non accompagnati"
+      },
+      {
+        "nome": "Istituto di assistenza pubblico privato",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "tutela minori non accompagnati"
+      },
+      {
+        "nome": "Consultorio",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "consultazione minori"
+      }
+    ],
+    "soggetti_proponenti": [
+      "Regione Toscana",
+      "Procura Generale della Repubblica presso la Corte d’Appello di Firenze"
+    ],
+    "attori_coinvolti": [
+      "Regione Toscana",
+      "Procura Generale della Repubblica presso la Corte d’Appello di Firenze",
+      "Procure della Repubblica presso il Tribunale del Distretto",
+      "Procura della Repubblica per i Minorenni di Firenze",
+      "Procura Generale presso la Corte d’Appello di Genova",
+      "Procura della Repubblica presso il Tribunale di Massa",
+      "Direzione Diritti di cittadinanza e coesione sociale",
+      "Aziende sanitarie toscane",
+      "Aziende Sanitarie",
+      "Aziende Ospedaliere",
+      "Pronto Soccorso",
+      "Centri Antiviolenza",
+      "Polizia Giudiziaria",
+      "Questura",
+      "Comando Provinciale dei Carabinieri",
+      "Servizi sociali",
+      "Servizio Sociale"
+    ]
+  },
+  {
+    "file": "09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt",
+    "firmatari": [
+      "Centro Pari Opportunità Valdichiana",
+      "Associazione Amica Donna"
+    ],
+    "soggetti": [
+      {
+        "nome": "Centro Pari Opportunità Valdichiana",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario del protocollo, coordina il Tavolo interistituzionale contro la violenza alle donne"
+      },
+      {
+        "nome": "Associazione Amica Donna",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Firmatario del protocollo, svolge attività di ascolto e consulenza legale"
+      },
+      {
+        "nome": "Comune di Cetona",
+        "tipo": "Comuni",
+        "comune": "Cetona",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Chianciano Terme",
+        "tipo": "Comuni",
+        "comune": "Chianciano Terme",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Montepulciano",
+        "tipo": "Comuni",
+        "comune": "Montepulciano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di San Casciano dei Bagni",
+        "tipo": "Comuni",
+        "comune": "San Casciano dei Bagni",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Sarteano",
+        "tipo": "Comuni",
+        "comune": "Sarteano",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Chiusi",
+        "tipo": "Comuni",
+        "comune": "Chiusi",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Sinalunga",
+        "tipo": "Comuni",
+        "comune": "Sinalunga",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Torrita di Siena",
+        "tipo": "Comuni",
+        "comune": "Torrita di Siena",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comune di Trequanda",
+        "tipo": "Comuni",
+        "comune": "Trequanda",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Comunità Montana del Cetona",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "Comunità Montana del Cetona",
+        "note": "Ente capofila da cui deriva il Centro Pari Opportunità Valdichiana"
+      },
+      {
+        "nome": "Azienda ASL7",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Pronto soccorso",
+        "tipo": "Ospedale (Pronto soccorso, ecc.)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Consultorio",
+        "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Società della salute",
+        "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Polizia di Stato",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "Carabinieri",
+        "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": ""
+      },
+      {
+        "nome": "O.M.S.",
+        "tipo": "Altro",
+        "comune": "",
+        "indirizzo": "",
+        "ente_capofila": "",
+        "note": "Organizzazione Mondiale della Sanità, citata per il concetto di salute"
+      }
+    ],
+    "soggetti_proponenti": [],
+    "attori_coinvolti": [
+      "Centro Pari Opportunità Valdichiana",
+      "Associazione Amica Donna",
+      "Comune di Cetona",
+      "Comune di Chianciano Terme",
+      "Comune di Montepulciano",
+      "Comune di San Casciano dei Bagni",
+      "Comune di Sarteano",
+      "Comune di Chiusi",
+      "Comune di Sinalunga",
+      "Comune di Torrita di Siena",
+      "Comune di Trequanda",
+      "Comunità Montana del Cetona",
+      "Azienda ASL7",
+      "Pronto soccorso",
+      "Consultorio",
+      "Società della salute",
+      "Polizia di Stato",
+      "Carabinieri"
+    ]
+  }
+]

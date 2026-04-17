@@ -1,0 +1,46 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Regione Umbria,Regioni/Province Autonome,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Prefettura di Perugia,Prefettura,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Prefettura di Terni,Prefettura,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Corte d’appello di Perugia,Procura Ordinaria/Tribunale/Corte d'appello,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Procura Generale della Repubblica presso la Corte d’appello di Perugia,Procura Ordinaria/Tribunale/Corte d'appello,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,ANCI Umbria,Altro,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Tribunale di Perugia,Procura Ordinaria/Tribunale/Corte d'appello,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Procura della Repubblica presso il Tribunale di Perugia,Procura Ordinaria/Tribunale/Corte d'appello,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Tribunale di Terni,Procura Ordinaria/Tribunale/Corte d'appello,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Procura della Repubblica presso il Tribunale di Terni,Procura Ordinaria/Tribunale/Corte d'appello,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Tribunale di Spoleto,Procura Ordinaria/Tribunale/Corte d'appello,Spoleto,,comune,Spoleto,exact,054051,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Procura della Repubblica presso il Tribunale di Spoleto,Procura Ordinaria/Tribunale/Corte d'appello,Spoleto,,comune,Spoleto,exact,054051,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Tribunale per i minorenni di Perugia,Procura Minorile/Tribunale minorile,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Procura della Repubblica presso il Tribunale per i minorenni di Perugia,Procura Minorile/Tribunale minorile,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comando Legione Carabinieri Umbria,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Questura di Perugia,Questura,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Questura di Terni,Questura,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Ufficio Scolastico regionale per l’Umbria,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Garante per l’infanzia e l’adolescenza — Regione Umbria,Altro,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Centro per le pari opportunità — Regione Umbria,Organismi di parità,,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Città di Castello,Comuni,Città di Castello,,comune,Città di Castello,exact,054013,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Perugia,Comuni,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Assisi,Comuni,Assisi,,comune,Assisi,exact,054001,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Marsciano,Comuni,Marsciano,,comune,Marsciano,exact,054027,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Unione dei Comuni del Trasimeno,Unione dei Comuni,,,not_applicable_sovracomunale,,not_applicable_sovracomunale,,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Norcia,Comuni,Norcia,,comune,Norcia,exact,054035,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Gubbio,Comuni,Gubbio,,comune,Gubbio,exact,054024,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Foligno,Comuni,Foligno,,comune,Foligno,exact,054018,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Spoleto,Comuni,Spoleto,,comune,Spoleto,exact,054051,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Terni,Comuni,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Narni,Comuni,Narni,,comune,Narni,exact,055022,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Comune di Orvieto,Comuni,Orvieto,,comune,Orvieto,exact,055023,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Azienda Unità Sanitaria Locale Umbria 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Azienda Unità Sanitaria Locale Umbria 2,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Azienda Ospedaliera 'Santa Maria della Misericordia' Perugia,"Ospedale (Pronto soccorso, ecc.)",Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Azienda Ospedaliera 'Santa Maria' Terni,"Ospedale (Pronto soccorso, ecc.)",Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Ordine degli Avvocati di Perugia,Ordine avvocati,Perugia,,comune,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Ordine degli Avvocati Terni,Ordine avvocati,Terni,,comune,Terni,exact,055032,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Ordine degli Avvocati Spoleto,Ordine avvocati,Spoleto,,comune,Spoleto,exact,054051,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione Liberamente Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,PERUGIA,comune_runts,Perugia,exact,054039,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione Donne contro la guerra,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,SPOLETO,comune_runts,Spoleto,exact,054051,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione Donne forum amelia,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,AMELIA,comune_runts,Amelia,exact,055004,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione L’Albero di Antonia,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,ORVIETO,comune_runts,Orvieto,exact,055023,055,Terni,TR,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione Donne la Rosa,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,CITTA' DELLA PIEVE,comune_runts,Città della Pieve,exact,054012,054,Perugia,PG,10,Umbria
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,Associazione Accademia Pietro Vannucci,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,CITTA' DELLA PIEVE,comune_runts,Città della Pieve,exact,054012,054,Perugia,PG,10,Umbria

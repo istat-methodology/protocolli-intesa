@@ -28,7 +28,7 @@ print_reg_code(reg_code)
 
 CLASSIFICATION_FOLDER = r"classification"
 
-JSON_STEP2_FOLDER = r"output/json/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
+JSON_STEP2_FOLDER = r"output/data/step_2" # Directory per i JSON arricchiti con RUNTS e CAV (2.1.1) e con ALIAS_MAP (2.1.2)
 
 INPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.3.json")
 OUTPUT_JSON = build_region_file(JSON_STEP2_FOLDER, reg_code, "risultati_enriched_2.4.json")

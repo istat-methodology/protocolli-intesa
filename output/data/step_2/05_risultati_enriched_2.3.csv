@@ -1,0 +1,365 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Prefettura di Venezia,Prefettura,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Questura di Venezia,Questura,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comando Provinciale di Venezia dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comando Provinciale di Venezia della Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Tribunale Civile e Penale di Venezia,Procura Ordinaria/Tribunale/Corte d'appello,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Procura della Repubblica presso il Tribunale ordinario di Venezia,Procura Ordinaria/Tribunale/Corte d'appello,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Procura della Repubblica - Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ufficio Interdistrettuale di Esecuzione Penale Esterna - Dipartimento per la Giustizia Minorile e di Comunita - Ministero della Giustizia,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Azienda ULSS 3 Serenissima,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,"Comitato dei Sindaci del Distretto Socio-Sanitario 1 “Venezia Centro Storico, Isole ed Estuario” e del Distretto Socio-Sanitario 2 “Venezia Terraferma, Marcon e Quarto d’Altino”","Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comitato dei Sindaci del Distretto Socio-Sanitario 3 “Mirano e Dolo”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comitato dei Sindaci del Distretto Socio-Sanitario 4 “Chioggia”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Citta Metropolitana di Venezia,Province/Città metropolitane,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Centro Antiviolenza Comune di Venezia,CAV/Centri Antiviolenza,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Sportello Antiviolenza Comune di Venezia sede di Venezia,CAV/Centri Antiviolenza,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Sportello Antiviolenza Comune di Venezia. Sede Lido di Venezia,CAV/Centri Antiviolenza,,,nome,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Centro Antiviolenza Civico Donna — Comune di Chioggia,CAV/Centri Antiviolenza,Chioggia,,comune,Chioggia,exact,027008,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Sportello Antiviolenza Civico Donna - Comune di Cavarzere,CAV/Centri Antiviolenza,Cavarzere,,comune,Cavarzere,exact,027006,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Centro Antiviolenza Estia di Venezia Cooperativa Iside,CAV/Centri Antiviolenza,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Centro Antiviolenza Sonia di Noale Cooperativa Iside,CAV/Centri Antiviolenza,Noale,,comune,Noale,exact,027026,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Sportello Antiviolenza di Mira Cooperativa Iside,CAV/Centri Antiviolenza,Mira,,comune,Mira,exact,027023,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Centro per gli autori di violenza GRU di Venezia Cooperativa Iside,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ufficio Scolastico Regionale per il Veneto (URSV),Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Universita Ca' Foscari di Venezia,Università,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,IUSVE Istituto Universitario Salesiano Venezia,Università,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Universita Iuav di Venezia,Università,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,"Centro di Ateneo per i Diritti Umani “Antonio Papisca” e cattedra UNESCO “Diritti umani, democrazia e pace” dell’ Universita degli Studi di Padova",Università,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Venezia,Ordine medici e odontoiatri e Ordine farmacisti,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine dei Farmacisti della Provincia di Venezia,Ordine medici e odontoiatri e Ordine farmacisti,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine degli Psicologi del Veneto,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,"Ordine dei Tecnici Sanitari di Radiologia Medica e Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione",Altri ordini professionali,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine degli Assistenti Sociali del Veneto,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine dei Giornalisti del Veneto,Altri ordini professionali,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ordine degli Avvocati della Provincia di Venezia,Ordine avvocati,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,AAROI-Emac,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,ANAAO,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,ANPO-ASCOTI-FIALS MEDICI,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,AUPI,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,CGIL FPL e Gruppo Medici,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,CGIL Venezia,Sindacati/Associazioni di categoria,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,CIMO,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,CISL FP,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,CISL Venezia,Sindacati/Associazioni di categoria,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,FASSID Area SNR,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,FSI USAE Venezia,Sindacati/Associazioni di categoria,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,NURSING UP,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,UIL FPL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,UIL Venezia,Sindacati/Associazioni di categoria,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Consigliera di Parita della Citta Metropolitana di Venezia,Organismi di parità,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Consultorio Socio-Educativo Privato Accreditato AIED,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Lievito Cooperativa Sociale a R.L. Mestre Venezia,Ente terzo settore - ETS (iscritto al RUNTS),Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Casa-famiglia San Pio X- Patriarcato di Venezia,Case Rifugio,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comitato Donne XXV aprile,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Venezia,Comuni,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Marcon,Comuni,Marcon,,comune,Marcon,exact,027020,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Quarto d’Altino,Comuni,Quarto d’Altino,,comune,Quarto d'Altino,exact,027031,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Campagna Lupia,Comuni,Campagna Lupia,,comune,Campagna Lupia,exact,027002,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Campolongo Maggiore,Comuni,Campolongo Maggiore,,comune,Campolongo Maggiore,exact,027003,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Camponogara,Comuni,Camponogara,,comune,Camponogara,exact,027004,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Dolo,Comuni,Dolo,,comune,Dolo,exact,027012,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Fiesso D'Artico,Comuni,Fiesso D'Artico,,comune,Fiesso d'Artico,exact,027014,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Fossò,Comuni,Fossò,,comune,Fossò,exact,027017,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Martellago,Comuni,Martellago,,comune,Martellago,exact,027021,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Mira,Comuni,Mira,,comune,Mira,exact,027023,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Mirano,Comuni,Mirano,,comune,Mirano,exact,027024,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Noale,Comuni,Noale,,comune,Noale,exact,027026,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Pianiga,Comuni,Pianiga,,comune,Pianiga,exact,027028,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Santa Maria di Sala,Comuni,Santa Maria di Sala,,comune,Santa Maria di Sala,exact,027035,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Salzano,Comuni,Salzano,,comune,Salzano,exact,027032,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Scorzé,Comuni,Scorzé,,comune,Scorzè,exact,027037,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Spinea,Comuni,Spinea,,comune,Spinea,exact,027038,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Stra,Comuni,Stra,,comune,Stra,exact,027039,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Vigonovo,Comuni,Vigonovo,,comune,Vigonovo,exact,027043,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Chioggia,Comuni,Chioggia,,comune,Chioggia,exact,027008,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Cavarzere,Comuni,Cavarzere,,comune,Cavarzere,exact,027006,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Comune di Cona,Comuni,Cona,,comune,Cona,exact,027010,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ospedale di Venezia,"Ospedale (Pronto soccorso, ecc.)",Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ospedale di Mestre,"Ospedale (Pronto soccorso, ecc.)",Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ospedale di Mirano,"Ospedale (Pronto soccorso, ecc.)",Mirano,,comune,Mirano,exact,027024,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ospedale di Dolo,"Ospedale (Pronto soccorso, ecc.)",Dolo,,comune,Dolo,exact,027012,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,Ospedale di Chioggia,"Ospedale (Pronto soccorso, ecc.)",Chioggia,,comune,Chioggia,exact,027008,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Prefettura di Venezia,Prefettura,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Questura di Venezia,Questura,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comando Provinciale di Venezia dell’Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comando Provinciale di Venezia della Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Procura della Repubblica presso il Tribunale ordinario di Venezia,Procura Ordinaria/Tribunale/Corte d'appello,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Procura della Repubblica presso il Tribunale ordinario di Pordenone,Procura Ordinaria/Tribunale/Corte d'appello,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Tribunale civile e penale di Venezia,Procura Ordinaria/Tribunale/Corte d'appello,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Tribunale civile e penale di Pordenone,Procura Ordinaria/Tribunale/Corte d'appello,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Centro Antiviolenza ed antistalking La Magnolia di S. Dona di Piave,CAV/Centri Antiviolenza,San Dona di Piave,,comune,San Donà di Piave,exact,027033,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Centro di Ascolto per la violenza di genere “Citta Gentili” - Coop. L’Arco di Portogruaro,CAV/Centri Antiviolenza,Portogruaro,,comune,Portogruaro,exact,027029,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Centro Educativo Relazioni Affettive C.E.R.A per il recupero di chi agisce con violenza,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Azienda Ulss 4 Veneto Orientale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Ordine degli Avvocati di Venezia,Ordine avvocati,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Ordine degli Avvocati di Pordenone,Ordine avvocati,Pordenone,,comune,Pordenone,exact,093033,093,Pordenone,PN,06,Friuli-Venezia Giulia
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Ordine dei Medici di Venezia,Ordine medici e odontoiatri e Ordine farmacisti,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Citta Metropolitana di Venezia,Province/Città metropolitane,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Consigliera di Parita della Citta Metropolitana di Venezia,Organismi di parità,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di San Dona di Piave,Comuni,San Dona di Piave,,comune,San Donà di Piave,exact,027033,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Annone Veneto,Comuni,Annone Veneto,,comune,Annone Veneto,exact,027001,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Caorle,Comuni,Caorle,,comune,Caorle,exact,027005,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Ceggia,Comuni,Ceggia,,comune,Ceggia,exact,027007,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Cinto Caomaggiore,Comuni,Cinto Caomaggiore,,comune,Cinto Caomaggiore,exact,027009,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Concordia Sagittaria,Comuni,Concordia Sagittaria,,comune,Concordia Sagittaria,exact,027011,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Eraclea,Comuni,Eraclea,,comune,Eraclea,exact,027013,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Fossalta di Piave,Comuni,Fossalta di Piave,,comune,Fossalta di Piave,exact,027015,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Fossalta di Portogruaro,Comuni,Fossalta di Portogruaro,,comune,Fossalta di Portogruaro,exact,027016,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Gruaro,Comuni,Gruaro,,comune,Gruaro,exact,027018,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Jesolo,Comuni,Jesolo,,comune,Jesolo,exact,027019,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Meolo,Comuni,Meolo,,comune,Meolo,exact,027022,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Musile di Piave,Comuni,Musile di Piave,,comune,Musile di Piave,exact,027025,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Noventa di Piave,Comuni,Noventa di Piave,,comune,Noventa di Piave,exact,027027,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Portogruaro,Comuni,Portogruaro,,comune,Portogruaro,exact,027029,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Pramaggiore,Comuni,Pramaggiore,,comune,Pramaggiore,exact,027030,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di San Michele al Tagliamento,Comuni,San Michele al Tagliamento,,comune,San Michele al Tagliamento,exact,027034,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di San Stino di Livenza,Comuni,San Stino di Livenza,,comune,San Stino di Livenza,exact,027036,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Teglio Veneto,Comuni,Teglio Veneto,,comune,Teglio Veneto,exact,027040,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Comune di Torre di Mosto,Comuni,Torre di Mosto,,comune,Torre di Mosto,exact,027041,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Servizi Sociali dei suddetti Comuni,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,Polizia Locale dei suddetti Comuni,Polizia Municipale,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Conferenza dei Sindaci,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,A.ULSS 5 Polesana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Prefettura di Rovigo,Prefettura,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Procura della Repubblica presso il Tribunale Ordinario di Rovigo,Procura Ordinaria/Tribunale/Corte d'appello,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Ministero dell’Istruzione,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,USR Veneto Ufficio V - Sede di Rovigo,Scuole/Ufficio scolastico provinciale e regionale,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Consigliera Provinciale di Parità di Rovigo,Organismi di parità,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Questura di Rovigo,Questura,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Comando Provinciale dell'Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Forze di Polizia locali,Polizia Municipale,,,nome,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Centro Antiviolenza del Polesine,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Casa Rifugio del Centro Antiviolenza del Polesine,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Ufficio scolastico provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Ordine degli Avvocati di Rovigo,Ordine avvocati,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Ordine dei Medici Chirurghi ed Odontoiatri della provincia di Rovigo,Ordine medici e odontoiatri e Ordine farmacisti,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Comuni afferenti all’A.ULSS 5 Polesana,Comuni,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Commissione dei Sindaci di Distretto,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Servizi sociali comunali,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Servizi educativi comunali,Settore educativo comunale,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Pronto Soccorso Azienda ULSS 5 Polesana,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Reparti Ostetricia e Ginecologia Azienda ULSS 5 Polesana,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Pediatria Azienda ULSS 5 Polesana,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Servizio Tutela Minori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Tribunale per i minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Comune di Rovigo,Comuni,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Comune di Adria,Comuni,Adria,,comune,Adria,exact,029001,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Comune di Lendinara,Comuni,Lendinara,,comune,Lendinara,exact,029029,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Ufficio Servizi Sociali del Comune di Lendinara,Servizi sociali comunali,Lendinara,,comune,Lendinara,exact,029029,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Consigliera di Parità di Rovigo,Organismi di parità,Rovigo,,comune,Rovigo,exact,029041,029,Rovigo,RO,05,Veneto
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Gestori progettualità o servizi rivolti a uomini autori di violenza nelle relazioni affettive,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Servizio Un Nuovo Maschile (Cooperativa Sociale Peter Pan),"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Gestori Strutture di accoglienza,Case Rifugio,,,nome,,none,,,,,,
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,Direzione Generale A.ULSS 5 Polesana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comune di Castelfranco Veneto,Comuni,Castelfranco Veneto,,comune,Castelfranco Veneto,exact,026012,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comune di Montebelluna,Comuni,Montebelluna,,comune,Montebelluna,exact,026046,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comune di Asolo,Comuni,Asolo,,comune,Asolo,exact,026003,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comune di Valdobbiadene,Comuni,Valdobbiadene,,comune,Valdobbiadene,exact,026087,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comune di Vedelago,Comuni,Vedelago,,comune,Vedelago,exact,026089,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Centro Antiviolenza NILDE del Comune di Castelfranco Veneto,CAV/Centri Antiviolenza,Castelfranco Veneto,,comune,Castelfranco Veneto,exact,026012,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Centro Antiviolenza Stella Antares,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Casa Alma,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Casa Aurora,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Cambiamento Maschile,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Cooperativa Sociale Iside,IMPRESE SOCIALI,,VENEZIA,comune_runts,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,"Cooperativa Sociale ""Una Casa per l'Uomo""",IMPRESE SOCIALI,,MONTEBELLUNA,comune_runts,Montebelluna,exact,026046,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Azienda Ulss 2 Marca Trevigiana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Ospedali di Castelfranco Veneto e Montebelluna,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Servizi Distrettuali dell’Azienda Ulss 2 Marca Trevigiana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Prefettura di Treviso,Prefettura,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Procura della Repubblica presso il Tribunale ordinario civile e penale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Tribunale per i minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Ordine degli Avvocati di Treviso,Ordine avvocati,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Stazioni dei Carabinieri di Castelfranco Veneto,Carabinieri/Polizia/altre forze dell'ordine,Castelfranco Veneto,,comune,Castelfranco Veneto,exact,026012,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Stazioni dei Carabinieri di Montebelluna,Carabinieri/Polizia/altre forze dell'ordine,Montebelluna,,comune,Montebelluna,exact,026046,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Stazione dei Carabinieri di Asolo,Carabinieri/Polizia/altre forze dell'ordine,Asolo,,comune,Asolo,exact,026003,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Forze di Polizia Municipale e/o di Polizia Locale degli Enti Locali,Polizia Municipale,,,nome,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Ufficio Scolastico Provinciale di Treviso,Scuole/Ufficio scolastico provinciale e regionale,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Istituto Barsanti di Castelfranco Veneto,Scuole/Ufficio scolastico provinciale e regionale,Castelfranco Veneto,,comune,Castelfranco Veneto,exact,026012,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Consigliera di Parità Provincia di Treviso,Organismi di parità,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Servizi Sociali degli Enti Locali con competenza sugli Adulti,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Servizi Sociali degli Enti Locali con competenza sui Minori,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Servizio Sociale di Base,Servizi sociali comunali,,,nome,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,PORTOGRUARO,comune_runts,Portogruaro,exact,027029,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Medici di medicina generale,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Pediatri,ORGANIZZAZIONI DI VOLONTARIATO,,SELVAZZANO DENTRO,comune_runts,Selvazzano Dentro,exact,028086,028,Padova,PD,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Comitato dei Sindaci del Distretto Socio Sanitario di Asolo,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Asolo,exact,026003,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Strutture di Ospitalità del territorio,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Spazi Donna,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,UEPE (Ufficio Esecuzione Penale Esterna),Altro,,,none,,none,,,,,,
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Istituto penale “Due Palazzi” di Padova,Altro,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Casa Circondariale di Treviso,Altro,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,Casa Circondariale di Belluno,Altro,Belluno,,comune,Belluno,exact,025006,025,Belluno,BL,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Prefettura - Ufficio Territoriale del Governo di Treviso,Prefettura,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Comitato dei Sindaci del Distretto Socio-Sanitario dell’ex ULSS 9,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Servizi Sociali degli Enti Locali,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Forze di Polizia Locale,Polizia Municipale,,,nome,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Azienda ULSS 2 Marca Trevigiana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Ospedale di Treviso,"Ospedale (Pronto soccorso, ecc.)",Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Ospedale di Oderzo,"Ospedale (Pronto soccorso, ecc.)",Oderzo,,comune,Oderzo,exact,026051,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Unità Operativa Complessa IAF,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Centro Antiviolenza Telefono Rosa di Treviso,CAV/Centri Antiviolenza,Treviso,TREVISO,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Centro Antiviolenza Donne Libere di Quinto di Treviso,CAV/Centri Antiviolenza,Quinto di Treviso,,comune,Quinto di Treviso,exact,026064,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Casa Rifugio 'CasaLuna',Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Questura di Treviso,Questura,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Ufficio Scolastico Regionale - Ufficio VI - Ambito Territoriale di Treviso,Scuole/Ufficio scolastico provinciale e regionale,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Ordine dei Medici,Ordine medici e odontoiatri e Ordine farmacisti,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Centro per il trattamento degli autori di violenza 'Cambiamento Maschile',"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Domus Nostra,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Regina Mundi,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Discepole del Vangelo,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Progetto N.a.Ve.,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Ordine dei Farmacisti,Ordine medici e odontoiatri e Ordine farmacisti,,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Consultorio familiare Centro della Famiglia,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Consultorio famigliare UCIPEM,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Soroptimist Club Treviso,Altro,Treviso,,comune,Treviso,exact,026086,026,Treviso,TV,05,Veneto
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Equipe Specialistica Interprovinciale in materia di abuso sessuale e grave maltrattamento dei bambini/e e dei ragazzi/e minori di età,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,Pronto Soccorso Ospedaliero,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Comune di Padova,Comuni,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Prefettura di Padova,Prefettura,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Questura di Padova,Questura,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Comando Provinciale Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Tribunale Ordinario di Padova,Procura Ordinaria/Tribunale/Corte d'appello,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Procura della Repubblica presso il Tribunale di Padova,Procura Ordinaria/Tribunale/Corte d'appello,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Tribunale per i Minorenni di Venezia,Procura Minorile/Tribunale minorile,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Procura della Repubblica presso il Tribunale per i Minorenni di Venezia,Procura Minorile/Tribunale minorile,Venezia,,comune,Venezia,exact,027042,227,Venezia,VE,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Universita degli Studi di Padova,Università,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Ufficio Scolastico Regionale per il Veneto,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Ufficio V - Ambito Territoriale di Padova e Rovigo - Sede di Padova,Scuole/Ufficio scolastico provinciale e regionale,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Azienda Ulss 6 Euganea,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Azienda Ospedale-Universita di Padova,"Ospedale (Pronto soccorso, ecc.)",Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Provincia di Padova,Province/Città metropolitane,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Consigliera di parita per la Provincia di Padova,Organismi di parità,Padova,,comune,Padova,exact,028060,028,Padova,PD,05,Veneto
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Conferenza dei Sindaci dell’Azienda ULSS 6 Euganea,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Comitato dei Sindaci del Distretto Alta Padovana,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Comitato dei Sindaci del Distretto Padova Sud,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,"Comitato dei Sindaci del Distretto Padova Bacchiglione, Terme-Colli e Piovese","Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Centro Veneto Progetti Donna (Centri antiviolenza provinciali),CAV/Centri Antiviolenza,,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,Direzione Servizi sociali,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Prefettura di Vicenza,Prefettura,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Compagnia Carabinieri di Bassano,Carabinieri/Polizia/altre forze dell'ordine,Bassano,,comune,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Stazioni Carabinieri di Asiago,Carabinieri/Polizia/altre forze dell'ordine,Asiago,,comune,Asiago,exact,024009,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Stazioni Carabinieri di Canove,Carabinieri/Polizia/altre forze dell'ordine,Canove,,comune,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Commissariato di Pubblica Sicurezza di Bassano,Carabinieri/Polizia/altre forze dell'ordine,Bassano,,comune,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Compagnia Carabinieri di Schio,Carabinieri/Polizia/altre forze dell'ordine,Schio,,comune,Schio,exact,024100,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Compagnia Carabinieri di Thiene,Carabinieri/Polizia/altre forze dell'ordine,Thiene,,comune,Thiene,exact,024105,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comitati dei Sindaci dei Distretti 1 e 2,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Azienda ULSS 7 Pedemontana,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Centro Antiviolenza Spazio Donna,CAV/Centri Antiviolenza,Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Centro Antiviolenza Hagar,CAV/Centri Antiviolenza,Asiago,,comune,Asiago,exact,024009,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Centro Antiviolenza Schio/Sportello Donna Maria Grazia Cutuli,CAV/Centri Antiviolenza,Schio,,comune,Schio,exact,024100,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Centro Antiviolenza di Cogollo del Cengio,CAV/Centri Antiviolenza,Cogollo del Cengio,,comune,Cogollo del Cengio,exact,024032,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Tabita,Case Rifugio,Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Schio,Case Rifugio,Schio,,comune,Schio,exact,024100,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Il Filo di Roberta,Case Rifugio,,,nome,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Villa Savardo,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Giovanna Meneghini,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Casa Rifugio Casa della Solidarieta,Case Rifugio,Thiene,,comune,Thiene,exact,024105,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Centro Ares,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Circolo Giuridico Bassanese,Altro,Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Servizi Sociali Comune di Bassano del Grappa,Servizi sociali comunali,Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,UOS Consultori Familiari Distretto 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,UOS Consultori Familiari Distretto 2,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Servizio Protezione e Tutela Minori Distretto 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Servizio Sociale del Comune di Thiene,Servizi sociali comunali,Thiene,,comune,Thiene,exact,024105,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Sportello Donna Malo,Centri/Sportelli di ascolto,Malo,,comune,Malo,exact,024055,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Sportello Donna Thiene,Centri/Sportelli di ascolto,Thiene,,comune,Thiene,exact,024105,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Sportello Donna Anna Filomena Barretta Marano Vicentino,Centri/Sportelli di ascolto,Marano Vicentino,,comune,Marano Vicentino,exact,024056,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,ANCI (Associazione Nazionale Comuni Italiani),Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,D.i.Re (Donne in Rete contro la violenza),CAV/Centri Antiviolenza,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Ministero dell'Interno,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Congregazione Suore Orsoline del Sacro Cuore di Maria,Altro,,,nome,,none,,,,,,
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Cooperativa Samarcanda,IMPRESE SOCIALI,,SCHIO,comune_runts,Schio,exact,024100,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Associazione Questacitta,ORGANIZZAZIONI DI VOLONTARIATO,Bassano del Grappa,BASSANO DEL GRAPPA,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Associazione Casa Sichem,Ente terzo settore - ETS (iscritto al RUNTS),Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Schio,Comuni,Schio,,comune,Schio,exact,024100,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Cogollo del Cengio,Comuni,Cogollo del Cengio,,comune,Cogollo del Cengio,exact,024032,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Thiene,Comuni,Thiene,,comune,Thiene,exact,024105,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Malo,Comuni,Malo,,comune,Malo,exact,024055,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Marano Vicentino,Comuni,Marano Vicentino,,comune,Marano Vicentino,exact,024056,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Comune di Bassano del Grappa,Comuni,Bassano del Grappa,,comune,Bassano del Grappa,exact,024012,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Prefettura — Ufficio territoriale del Governo di Vicenza,Prefettura,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Tribunale di Vicenza,Procura Ordinaria/Tribunale/Corte d'appello,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Procura della Repubblica presso il Tribunale di Vicenza,Procura Ordinaria/Tribunale/Corte d'appello,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Comune di Vicenza,Comuni,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Comune di Arzignano,Comuni,Arzignano,,comune,Arzignano,exact,024008,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ufficio Scolastico Regionale — Ambito Territoriale VIII di Vicenza,Scuole/Ufficio scolastico provinciale e regionale,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Azienda ULSS 8 “Berica” di Vicenza,ASL (consultori familiari e altri servizi territoriali),Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Conferenza dei Sindaci dell’ Azienda ULSS 8 “Berica”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ordine provinciale dei Medici Chirurghi e degli Odontoiatri di Vicenza,Ordine medici e odontoiatri e Ordine farmacisti,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ordine provinciale degli Avvocati di Vicenza,Ordine avvocati,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Consigliera di Parita della Provincia di Vicenza,Organismi di parità,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Associazione “Donna Chiama Donna” - Ente Gestore del Centro Antiviolenza di Vicenza,CAV/Centri Antiviolenza,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Casa Rifugio “Villaggio Sos” di Vicenza,Case Rifugio,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Casa Rifugio “Meneghini” - “Villa Savardo” di Breganze,Case Rifugio,Breganze,,comune,Breganze,exact,024014,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ministero dell'Interno,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ministro per le Disabilità,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,"Assessorato Sanità, Servizi Sociali e Programmazione socio-sanitaria della Regione del Veneto",Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Forze di Polizia Locali,Polizia Municipale,,,nome,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Servizio Protezione e Tutela dei Minori del Comune di Vicenza,Servizio abusi e maltrattamenti comunale,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ordine degli Avvocati di Vicenza,Ordine avvocati,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Vicenza,Ordine medici e odontoiatri e Ordine farmacisti,Vicenza,,comune,Vicenza,exact,024116,024,Vicenza,VI,05,Veneto
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Comuni costituenti l’ambito territoriale dell’ Azienda ULSS 8 “Berica”,Comuni,,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,"Pronto Soccorso e presidi di emergenza dell’ AULSS 8 “Berica” dell’ Ospedale di Vicenza, Arzignano, Noventa e Valdagno","Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,Consultori familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Comune di Verona,Comuni,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Tribunale di Verona,Procura Ordinaria/Tribunale/Corte d'appello,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Ufficio del Giudice Tutelare di Verona,Procura Ordinaria/Tribunale/Corte d'appello,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Procura della Repubblica presso il Tribunale di Verona,Procura Ordinaria/Tribunale/Corte d'appello,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Ordine degli Avvocati di Verona,Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Direzione Generale Ulss 9 del Veneto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Azienda Ulss 9 Scaligera,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Azienda Ospedaliera Universitaria Integrata di Verona,"Ospedale (Pronto soccorso, ecc.)",Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Ordine degli Psicologi del Veneto,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Ordine dei Medici Chirurghi e Odontoiatri di Verona,Ordine medici e odontoiatri e Ordine farmacisti,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Dipartimento di Scienze giuridiche dell’ Università di Verona,Università,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Università di Verona,Università,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Regione del Veneto,Regioni/Province Autonome,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Ulss 9 Scaligera,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,"U.O.C. Infanzia, Adolescenza, Famiglia e Consultori - AULSS 9 Scaligera",ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,U.O.S. Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Equipe Specialistica provinciale Il FARO,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,U.O.S. Età Evolutiva,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Comuni dei Distretti 1-2,Comuni,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Consultori Familiari Distretto 4 Ovest Veronese,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Servizi Sociali dei Comuni Distretto 4 Ovest Veronese,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Pronto Soccorso Ospedale Mater Salutis,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Carabinieri del territorio Distretto 3,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Consultorio Familiare Distretto 3,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Servizio Sociale dei Comuni Distretto 3,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Comune di Legnago,Comuni,Legnago,,comune,Legnago,exact,023044,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Centro Antiviolenza Petra,CAV/Centri Antiviolenza,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Telefono Rosa di Verona,CAV/Centri Antiviolenza,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Centro Petra,CAV/Centri Antiviolenza,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Centro antiviolenza Comune di Legnago,CAV/Centri Antiviolenza,Legnago,,comune,Legnago,exact,023044,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Casa Rifugio Comune di Verona,Case Rifugio,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Casa Rifugio Est Veronese,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Casa Rifugio Distretto 4,Case Rifugio,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Centri Antiviolenza della Regione Veneto,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Coordinamento Iris,Altro,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,FFOO,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Magistratura,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Avvocatura,Ordine avvocati,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Servizi Sociali comunali,Servizi sociali comunali,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Servizi specialistici dell’Ulss 9,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,NAV,Centri/Sportelli di ascolto,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Autorità Giudiziaria,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Tavoli di Zona,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,GALLIERA VENETA,comune_runts,Galliera Veneta,exact,028039,028,Padova,PD,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Servizio uomini maltrattanti,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,"AIAF Associazione Italiana degli Avvocati per la Famiglia e i Minori, Sezione di Verona",Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,Camera Minorile di Verona,Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,"Cammino, Camera Nazionale Avvocati per le persone, per i minorenni e per le famiglie, Sezione di Verona",Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,"ONDIF, Osservatorio Nazionale sul Diritto di Famiglia, Sezione di Verona",Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,"Unione Giuristi Cattolici Italiani, Unione di Verona",Ordine avvocati,Verona,,comune,Verona,exact,023091,023,Verona,VR,05,Veneto

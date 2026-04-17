@@ -1,0 +1,418 @@
+[
+    {
+        "file": "10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Regione Umbria",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Prefettura di Perugia",
+                "tipo": "Prefettura",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Prefettura di Terni",
+                "tipo": "Prefettura",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Corte d’appello di Perugia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura Generale della Repubblica presso la Corte d’appello di Perugia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ANCI Umbria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Associazione Nazionale Comuni Italiani - ANCI Umbria"
+            },
+            {
+                "nome": "Tribunale di Perugia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Perugia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Terni",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Terni",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale di Spoleto",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Spoleto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Spoleto",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Spoleto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i minorenni di Perugia",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale per i minorenni di Perugia",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Legione Carabinieri Umbria",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Perugia",
+                "tipo": "Questura",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Terni",
+                "tipo": "Questura",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico regionale per l’Umbria",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Garante per l’infanzia e l’adolescenza — Regione Umbria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Garante per l'infanzia e l'adolescenza"
+            },
+            {
+                "nome": "Centro per le pari opportunità — Regione Umbria",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Città di Castello",
+                "tipo": "Comuni",
+                "comune": "Città di Castello",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 1",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Perugia",
+                "tipo": "Comuni",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 2",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Assisi",
+                "tipo": "Comuni",
+                "comune": "Assisi",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 3",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Marsciano",
+                "tipo": "Comuni",
+                "comune": "Marsciano",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 4",
+                "note": ""
+            },
+            {
+                "nome": "Unione dei Comuni del Trasimeno",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Norcia",
+                "tipo": "Comuni",
+                "comune": "Norcia",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 6",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Gubbio",
+                "tipo": "Comuni",
+                "comune": "Gubbio",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 7",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Foligno",
+                "tipo": "Comuni",
+                "comune": "Foligno",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 8",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Spoleto",
+                "tipo": "Comuni",
+                "comune": "Spoleto",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 9",
+                "note": "Commissario straordinario"
+            },
+            {
+                "nome": "Comune di Terni",
+                "tipo": "Comuni",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 10",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Narni",
+                "tipo": "Comuni",
+                "comune": "Narni",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 11",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Orvieto",
+                "tipo": "Comuni",
+                "comune": "Orvieto",
+                "indirizzo": "",
+                "ente_capofila": "capofila della Zona sociale 12",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Unità Sanitaria Locale Umbria 1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Unità Sanitaria Locale Umbria 2",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedaliera 'Santa Maria della Misericordia' Perugia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedaliera 'Santa Maria' Terni",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Perugia",
+                "tipo": "Ordine avvocati",
+                "comune": "Perugia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati Terni",
+                "tipo": "Ordine avvocati",
+                "comune": "Terni",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati Spoleto",
+                "tipo": "Ordine avvocati",
+                "comune": "Spoleto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Associazione Liberamente Donna",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Perugia, Terni, CPO, Gubbio, Città di Castello e Foligno; Case Rifugio di Perugia e Terni"
+            },
+            {
+                "nome": "Associazione Donne contro la guerra",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Spoleto"
+            },
+            {
+                "nome": "Associazione Donne forum amelia",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Narni – Amelia"
+            },
+            {
+                "nome": "Associazione L’Albero di Antonia",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Orvieto"
+            },
+            {
+                "nome": "Associazione Donne la Rosa",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Città della Pieve"
+            },
+            {
+                "nome": "Associazione Accademia Pietro Vannucci",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "CAV di Magione"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Regione Umbria"
+        ],
+        "attori_coinvolti": [
+            "Regione Umbria",
+            "Prefettura di Perugia",
+            "Prefettura di Terni",
+            "Corte d’appello di Perugia",
+            "Procura Generale della Repubblica presso la Corte d’appello di Perugia",
+            "ANCI Umbria",
+            "Tribunale di Perugia",
+            "Procura della Repubblica presso il Tribunale di Perugia",
+            "Tribunale di Terni",
+            "Procura della Repubblica presso il Tribunale di Terni",
+            "Tribunale di Spoleto",
+            "Procura della Repubblica presso il Tribunale di Spoleto",
+            "Tribunale per i minorenni di Perugia",
+            "Procura della Repubblica presso il Tribunale per i minorenni di Perugia",
+            "Comando Legione Carabinieri Umbria",
+            "Questura di Perugia",
+            "Questura di Terni",
+            "Ufficio Scolastico regionale per l’Umbria",
+            "Garante per l’infanzia e l’adolescenza — Regione Umbria",
+            "Centro per le pari opportunità — Regione Umbria",
+            "Comune di Città di Castello",
+            "Comune di Perugia",
+            "Comune di Assisi",
+            "Comune di Marsciano",
+            "Unione dei Comuni del Trasimeno",
+            "Comune di Norcia",
+            "Comune di Gubbio",
+            "Comune di Foligno",
+            "Comune di Spoleto",
+            "Comune di Terni",
+            "Comune di Narni",
+            "Comune di Orvieto",
+            "Azienda Unità Sanitaria Locale Umbria 1",
+            "Azienda Unità Sanitaria Locale Umbria 2",
+            "Azienda Ospedaliera 'Santa Maria della Misericordia' Perugia",
+            "Azienda Ospedaliera 'Santa Maria' Terni",
+            "Ordine degli Avvocati di Perugia",
+            "Ordine degli Avvocati Terni",
+            "Ordine degli Avvocati Spoleto",
+            "Associazione Liberamente Donna",
+            "Associazione Donne contro la guerra",
+            "Associazione Donne forum amelia",
+            "Associazione L’Albero di Antonia",
+            "Associazione Donne la Rosa",
+            "Associazione Accademia Pietro Vannucci"
+        ]
+    }
+]

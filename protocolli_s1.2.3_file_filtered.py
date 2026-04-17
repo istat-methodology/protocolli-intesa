@@ -6,7 +6,7 @@ import streamlit as st
 
 reg_code = "16"   # es. "09" Emilia-Romagna
 # === FILE JSON DI INPUT ===
-JSON_STEP1_FOLDER = r"output/json/step_1"
+JSON_STEP1_FOLDER = r"output/data/step_1"
 INPUT_JSON  = f"{JSON_STEP1_FOLDER}/{reg_code}_risultatià.json"
 # === FILE JSON DI OUTPUT ===
 OUTPUT_JSON_FILTER = INPUT_JSON.replace(".json", ".filtered.json")

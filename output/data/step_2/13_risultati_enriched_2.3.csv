@@ -1,0 +1,417 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Comune di Chieti,Comuni,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Prefettura — U.T.G. di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Arma dei Carabinieri - Comando Provinciale,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Questura di Chieti — Polizia di Stato,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Procura della Repubblica presso il Tribunale di Chieti,Procura Ordinaria/Tribunale/Corte d'appello,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L’Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Casa Circondariale Chieti,Altro,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,ASL 02 di Chieti-Vasto-Lanciano,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Centro antiviolenza donna Cooperativa Alpha,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Caritas diocesana,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Caritas Diocesana di Chieti - Centro di ascolto,Centri/Sportelli di ascolto,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Caritas Diocesana di Chieti - Casa di accoglienza Mater Populi Teatina,Case Rifugio,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Comunita Papa Giovanni XXIII,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Istituto S. Camillo De Lellis,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Fondazione S. Camillo De Lellis,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Fondazione Onlus Figlie dell’Amore di Gesti e Maria,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,CNA/ Patronato / Epasa,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,CNA Chieti/ Patronato / Epasa-ITACO,Altro,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Comune di Guardiagrele,Comuni,Guardiagrele,,comune,Guardiagrele,exact,069043,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Prefettura — U.T.G. di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Procura della Repubblica presso il Tribunale di Chieti,Procura Ordinaria/Tribunale/Corte d'appello,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L'Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Centro antiviolenza donna Maja-Cooperativa Alpha,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,ASL 02 di Chieti — Vasto — Lanciano,ASL (consultori familiari e altri servizi territoriali),Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Caritas Diocesana,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Caritas Diocesana di Chieti,Ente terzo settore - ETS (iscritto al RUNTS),Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Comunita Papa Giovanni XXIII,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Fondazione San Camillo De Lellis,Ente terzo settore - ETS (iscritto al RUNTS),Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,CNA,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Questura — Polizia di Stato,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Arma dei Carabinieri — Comando Provinciale,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Comune di Guardiagrele - Corpo di Polizia Municipale,Polizia Municipale,Guardiagrele,,comune,Guardiagrele,exact,069043,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Comune di Guardiagrele- Servizio Politiche Sociali,Servizi sociali comunali,Guardiagrele,,comune,Guardiagrele,exact,069043,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Comune di Guardiagrele - Assessorato alle Politiche Sociali e Pari Opportunita,Altro,Guardiagrele,,comune,Guardiagrele,exact,069043,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Caritas Diocesana di Chieti - Casa di accoglienza Mater Populi Teatina Chieti,Case Rifugio,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Caritas Diocesana di Chieti- Guardiagrele - Centro di ascolto Chieti,Centri/Sportelli di ascolto,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,AUSL 02 di Chieti — Consultori familiari,ASL (consultori familiari e altri servizi territoriali),Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,AUSL 02 di Chieti — Dipartimento per le Dipendenze,ASL (consultori familiari e altri servizi territoriali),Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,ASL 02 di Chieti — Pronto Soccorso Generale,"Ospedale (Pronto soccorso, ecc.)",Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Centro di ascolto diocesano,Centri/Sportelli di ascolto,,,nome,,none,,,,,,
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,Casa di accoglienza Mater Populi Teatina,Case Rifugio,,,nome,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Comune dell’Aquila,Comuni,Aquila,,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Associazione Donatella Tellini,CAV/Centri Antiviolenza,Aquila,L'AQUILA,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Centro Antiviolenza Associazione Donatella Tellini,CAV/Centri Antiviolenza,Aquila,,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Casa Rifugio Associazione Donatella Tellini,Case Rifugio,Aquila,,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Servizio Sociale Professionale comunale,Servizi sociali comunali,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Servizio Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Servizi Sociali Territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Regione Abruzzo - Consiglio Regionale,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Giunta Comunale dell’Aquila,Comuni,Aquila,,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Consiglio Comunale dell’Aquila,Comuni,Aquila,,comune,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Governo italiano,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Nazioni Unite,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Unione Europea,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Consiglio d'Europa,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,Presidenza del Consiglio dei Ministri- Dipartimento Pari Opportunità,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Prefettura — Ufficio Territoriale del Governo di Teramo,Prefettura,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Procura Generale presso la Corte di Appello di L'Aquila,Procura Ordinaria/Tribunale/Corte d'appello,L'Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L'Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Procura della Repubblica presso il Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L'Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Tribunale di Teramo,Procura Ordinaria/Tribunale/Corte d'appello,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Procura della Repubblica presso il Tribunale di Teramo,Procura Ordinaria/Tribunale/Corte d'appello,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Provincia di Teramo,Province/Città metropolitane,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Alba Adriatica,Comuni,Alba Adriatica,,comune,Alba Adriatica,exact,067001,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Atri,Comuni,Atri,,comune,Atri,exact,067004,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Basciano,Comuni,Basciano,,comune,Basciano,exact,067005,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Campli,Comuni,Campli,,comune,Campli,exact,067008,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Canzano,Comuni,Canzano,,comune,Canzano,exact,067009,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Castellalto,Comuni,Castellalto,,comune,Castellalto,exact,067011,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Castelli,Comuni,Castelli,,comune,Castelli,exact,067012,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Castilenti,Comuni,Castilenti,,comune,Castilenti,exact,067014,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Cellino Attanasio,Comuni,Cellino Attanasio,,comune,Cellino Attanasio,exact,067015,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Civitella del Tronto,Comuni,Civitella del Tronto,,comune,Civitella del Tronto,exact,067017,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Giulianova,Comuni,Giulianova,,comune,Giulianova,exact,067025,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Isola del Gran Sasso,Comuni,Isola del Gran Sasso,,comune,,none,,,,,,
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Martinsicuro,Comuni,Martinsicuro,,comune,Martinsicuro,exact,067047,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Montefino,Comuni,Montefino,,comune,Montefino,exact,067027,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Montorio al Vomano,Comuni,Montorio al Vomano,,comune,Montorio al Vomano,exact,067028,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Pineto,Comuni,Pineto,,comune,Pineto,exact,067035,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Rocca Santa Maria,Comuni,Rocca Santa Maria,,comune,Rocca Santa Maria,exact,067036,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Roseto degli Abruzzi,Comuni,Roseto degli Abruzzi,,comune,Roseto degli Abruzzi,exact,067037,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Silvi,Comuni,Silvi,,comune,Silvi,exact,067040,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Teramo,Comuni,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Torricella Sicura,Comuni,Torricella Sicura,,comune,Torricella Sicura,exact,067043,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Comune di Tortoreto,Comuni,Tortoreto,,comune,Tortoreto,exact,067044,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Università degli Studi di Teramo,Università,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Ufficio Scolastico Provinciale di Teramo,Scuole/Ufficio scolastico provinciale e regionale,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Azienda Sanitaria ASL di Teramo,ASL (consultori familiari e altri servizi territoriali),Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Commissione Provinciale Pari Opportunità di Teramo,Organismi di parità,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Centro Antiviolenza “La Fenice” di Teramo,CAV/Centri Antiviolenza,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Casa Rifugio “Maia” di Teramo,Case Rifugio,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Sportello Ascolto A.L.I.CO.D Onlus di Teramo,Centri/Sportelli di ascolto,Teramo,,comune,Teramo,exact,067041,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Associazione L'Elefante S.C.S. di Atri,Ente terzo settore - ETS (iscritto al RUNTS),Atri,,comune,Atri,exact,067004,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,Associazione On The Road di Martinsicuro,Ente terzo settore - ETS (iscritto al RUNTS),Martinsicuro,,comune,Martinsicuro,exact,067047,067,Teramo,TE,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Ortona,Comuni,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Prefettura di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comando Compagnia Carabinieri Ortona,Carabinieri/Polizia/altre forze dell'ordine,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Consultorio Famigliare A.Ge.,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione di promozione sociale Donn.é,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SAN GIOVANNI TEATINO,comune_runts,San Giovanni Teatino,exact,069081,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo n.1 “Matilde Serao”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo n.2 “ F.P. Tosti”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituti di istruzione superiore “Acciaiuli-Enaudi”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto di istruzione superiore “Alessandra Volta”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Consulta Giovanile Ortona,Altro,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Soggiorno Proposta Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ORTONA,comune_runts,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Distretto sanitario territoriale Ortona,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro di salute mentale Ortona,ASL (consultori familiari e altri servizi territoriali),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Assistenza consultoriale Interdistrettuale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Procura della Repubblica presso il tribunale di Chieti,Procura Ordinaria/Tribunale/Corte d'appello,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Questura di Chieti —Polizia di Stato,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,PRonto SOKCORSO G. BERNABEO,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Lanciano,Comuni,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Procura della Repubblica di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comando provinciale dei carabinieri di Chieti,Carabinieri/Polizia/altre forze dell'ordine,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Questura di Chieti,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Tribunale di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,ASL N. 2 Abruzzo — Lanciano Chieti Vasto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Casa Circondariale di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro per l'Impiego di Lanciano,Servizi per l'impiego,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Castel Frentano,Comuni,Castel Frentano,,comune,Castel Frentano,exact,069018,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Fossacesia,Comuni,Fossacesia,,comune,Fossacesia,exact,069033,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Frisa,Comuni,Frisa,,comune,Frisa,exact,069037,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Mozzagrogna,Comuni,Mozzagrogna,,comune,Mozzagrogna,exact,069056,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Rocca San Giovanni,Comuni,Rocca San Giovanni,,comune,Rocca San Giovanni,exact,069074,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Santa Maria Imbaro,Comuni,Santa Maria Imbaro,,comune,Santa Maria Imbaro,exact,069084,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di San Vito Chietino,Comuni,San Vito Chietino,,comune,San Vito Chietino,exact,069086,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Treglio,Comuni,Treglio,,comune,Treglio,exact,069096,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Caritas Diocesana,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione “I Colori dell'Iride”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione “DeA- Donne e Aiuto”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Rotary Club di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Donn’é di Ortona,Ente terzo settore - ETS (iscritto al RUNTS),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Sportello SenzaViolenza Donne&Minori,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Umberto I”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Don Milani”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “G. D'Annunzio”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Mario Bosco”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,"Istituto Secondario Superiore “DE TITTA- FERMI""",Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Tecnico Tecnologico “L. DA VINCI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Professionale per i Servizi Commerciali e Socio —Sanitari “DE GIORGIO”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,"Istituto Istruzione Superiore “VITTORIO EMANUELE II""",Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,"Liceo Scientifico “G. GALILEI""",Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,CRI - Casa Rifugio di Orsogna,Case Rifugio,Orsogna,,comune,Orsogna,exact,069057,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Culturale Maria Luisa Brasile,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LANCIANO,comune_runts,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Cooperativa “ICSole”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro Antiviolenza “Dafne”,CAV/Centri Antiviolenza,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Governo Italiano,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Ambito Distrettuale Sociale n.11 “Frentano”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Ortona,Comuni,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Prefettura di Chieti,Prefettura,,,nome,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comando Compagnia Carabinieri Ortona,Carabinieri/Polizia/altre forze dell'ordine,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Consultorio Famigliare A.Ge.,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione di promozione sociale Donn.é,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SAN GIOVANNI TEATINO,comune_runts,San Giovanni Teatino,exact,069081,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo n.1 “Matilde Serao”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo n.2 “F.P. Tosti”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituti di istruzione superiore “Acciaiuli-Enaudi”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto di istruzione superiore “Alessandra Volta”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Consulta Giovanile Ortona,Altro,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Soggiorno Proposta Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ORTONA,comune_runts,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Distretto sanitario territoriale Ortona,ASL (consultori familiari e altri servizi territoriali),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro di salute mentale Ortona,ASL (consultori familiari e altri servizi territoriali),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Assistenza consultoriale Interdistrettuale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Procura della Repubblica presso il tribunale di Chieti,Procura Ordinaria/Tribunale/Corte d'appello,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Questura di Chieti — Polizia di Stato,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Pronto Soccorso G. Bernabeo,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Lanciano,Comuni,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Procura della Repubblica di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comando provinciale dei carabinieri di Chieti,Carabinieri/Polizia/altre forze dell'ordine,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Questura di Chieti,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Tribunale di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,ASL N. 2 Abruzzo — Lanciano Chieti Vasto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Casa Circondariale di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro per l'Impiego di Lanciano,Servizi per l'impiego,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Castel Frentano,Comuni,Castel Frentano,,comune,Castel Frentano,exact,069018,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Fossacesia,Comuni,Fossacesia,,comune,Fossacesia,exact,069033,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Frisa,Comuni,Frisa,,comune,Frisa,exact,069037,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Mozzagrogna,Comuni,Mozzagrogna,,comune,Mozzagrogna,exact,069056,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Rocca San Giovanni,Comuni,Rocca San Giovanni,,comune,Rocca San Giovanni,exact,069074,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Santa Maria Imbaro,Comuni,Santa Maria Imbaro,,comune,Santa Maria Imbaro,exact,069084,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di San Vito Chietino,Comuni,San Vito Chietino,,comune,San Vito Chietino,exact,069086,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Comune di Treglio,Comuni,Treglio,,comune,Treglio,exact,069096,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Caritas Diocesana,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione “I Colori dell'Iride”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione “DeA- Donne e Aiuto”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Rotary Club di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Donn’é di Ortona,Ente terzo settore - ETS (iscritto al RUNTS),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Sportello SenzaViolenza Donne&Minori,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Umberto I”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Don Milani”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “G. D'Annunzio”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Comprensivo “Mario Bosco”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Secondario Superiore “DE TITTA- FERMI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Tecnico Tecnologico “L. DA VINCI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Professionale per i Servizi Commerciali e Socio —Sanitari “DE GIORGIO”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Istituto Istruzione Superiore “VITTORIO EMANUELE II”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Liceo Scientifico “G. GALILEI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,CRI - Casa Rifugio di Orsogna,Case Rifugio,Orsogna,,comune,Orsogna,exact,069057,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Culturale Maria Luisa Brasile,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LANCIANO,comune_runts,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Cooperativa “ICSole”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,International Police Association,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,14ª DELEGAZIONE REGIONALE ABRUZZO,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Centro Antiviolenza “Dafne”,CAV/Centri Antiviolenza,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Comune di Ortona,Comuni,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Prefettura di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Comando Compagnia Carabinieri Ortona,Carabinieri/Polizia/altre forze dell'ordine,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Consultorio Famigliare A.Ge.,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Associazione di promozione sociale Donn.é,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SAN GIOVANNI TEATINO,comune_runts,San Giovanni Teatino,exact,069081,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Istituto Comprensivo n.1 “Matilde Serao”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Istituto Comprensivo n.2 “ F.P. Tosti”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Istituti di istruzione superiore “Acciaiuli-Enaudi”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Istituto di istruzione superiore “Alessandra Volta”,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Consulta Giovanile Ortona,Altro,Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Caritas Diocesana Arcidiocesi Lanciano-Vasto-Ortona,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Soggiorno Proposta Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ORTONA,comune_runts,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Distretto sanitario territoriale Ortona,ASL (consultori familiari e altri servizi territoriali),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Centro di salute mentale Ortona,ASL (consultori familiari e altri servizi territoriali),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Assistenza consultoriale Interdistrettuale,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Procura della Repubblica presso il tribunale di Chieti,Procura Ordinaria/Tribunale/Corte d'appello,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Questura di Chieti —Polizia di Stato,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Pronto Soccorso G. Bernabeo,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Governo Italiano,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Call center 1522,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,ONU,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,Centri antiviolenza territoriali Donn.¢ e Non Sei Sola,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Lanciano,Comuni,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Centro Antiviolenza “Dafne”,CAV/Centri Antiviolenza,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Prefettura di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Procura della Repubblica di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comando provinciale dei carabinieri di Chieti,Carabinieri/Polizia/altre forze dell'ordine,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Questura di Chieti,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Tribunale di Lanciano,Procura Ordinaria/Tribunale/Corte d'appello,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,ASL N. 2 Abruzzo — Lanciano Chieti Vasto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Casa Circondariale di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Centro per I'Ilmpiego di Lanciano,Servizi per l'impiego,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Castel Frentano,Comuni,Castel Frentano,,comune,Castel Frentano,exact,069018,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Fossacesia,Comuni,Fossacesia,,comune,Fossacesia,exact,069033,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Frisa,Comuni,Frisa,,comune,Frisa,exact,069037,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Mozzagrogna,Comuni,Mozzagrogna,,comune,Mozzagrogna,exact,069056,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Rocca San Giovanni,Comuni,Rocca San Giovanni,,comune,Rocca San Giovanni,exact,069074,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Santa Maria Imbaro,Comuni,Santa Maria Imbaro,,comune,Santa Maria Imbaro,exact,069084,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di San Vito Chietino,Comuni,San Vito Chietino,,comune,San Vito Chietino,exact,069086,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Comune di Treglio,Comuni,Treglio,,comune,Treglio,exact,069096,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Caritas Diocesana,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Associazione “I Colori dell'lride”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Associazione “DeA- Donne e Aiuto”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Rotary Club di Lanciano,Altro,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Associazione Donn’é di Ortona,Ente terzo settore - ETS (iscritto al RUNTS),Ortona,,comune,Ortona,exact,069058,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Sportello SenzaViolenza Donne&Minori,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Comprensivo “Umberto I”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Comprensivo “Don Milani”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Comprensivo “G. D'Annunzio”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Comprensivo “Mario Bosco”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Secondario Superiore “DE TITTA- FERMI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Tecnico Tecnologico “L. DA VINCI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Professionale per i Servizi Commerciali e Socio —Sanitari “DE GIORGIO”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Istituto Istruzione Superiore “VITTORIO EMANUELE II”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Liceo Scientifico “G. GALILEI”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,CRI - Casa Rifugio di Orsogna,Case Rifugio,Orsogna,,comune,Orsogna,exact,069057,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Associazione Culturale Maria Luisa Brasile,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LANCIANO,comune_runts,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Cooperativa “ICSole”,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,International Police Association,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Amministrazione Comunale di Lanciano,Comuni,Lanciano,,comune,Lanciano,exact,069046,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,Ambito Distrettuale Sociale n. 11 “Frentano”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comune di Vasto,Comuni,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Prefettura di Chieti,Prefettura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Procura della Repubblica presso il Tribunale di Vasto,Procura Ordinaria/Tribunale/Corte d'appello,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Tribunale di Vasto,Procura Ordinaria/Tribunale/Corte d'appello,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comando Compagnia Carabinieri di Chieti,Carabinieri/Polizia/altre forze dell'ordine,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comando Compagnia Carabinieri di Vasto,Carabinieri/Polizia/altre forze dell'ordine,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Questura di Chieti,Questura,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Commissariato di P.S. di Vasto,Carabinieri/Polizia/altre forze dell'ordine,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,ASL n.2 Lanciano Chieti Vasto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Pronto Soccorso - Osp. Civ. di Vasto ASL n.2,"Ospedale (Pronto soccorso, ecc.)",Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Dipartimento di Salute Mentale - Osp. Civ. di Vasto ASL n.2,"Ospedale (Pronto soccorso, ecc.)",Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Divisione Ostetricia e Ginecologia - Osp. Civ. di Vasto ASL n.2,"Ospedale (Pronto soccorso, ecc.)",Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Consultorio Familiare di Vasto - ASL n.2,ASL (consultori familiari e altri servizi territoriali),Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Sert di Vasto - ASL n.2,ASL (consultori familiari e altri servizi territoriali),Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Caritas Diocesana,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Fondazione Genova Rulli Casa famiglia per minori,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Associazione Dafne Onlus,ALTRI ENTI DEL TERZO SETTORE,,SAN SALVO,comune_runts,San Salvo,exact,069083,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Akon Service,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comando Polizia Municipale del Comune di Vasto,Polizia Municipale,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Settore Servizi alla persona del Comune di Vasto,Servizi sociali comunali,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comando Provinciale della Guardia di Finanza di Chieti,Carabinieri/Polizia/altre forze dell'ordine,Chieti,,comune,Chieti,exact,069022,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Sportello Antiviolenza DonnAttiva,CAV/Centri Antiviolenza,Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,ONU,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Nazioni Unite,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Comitato CEDAW,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,OMS,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Governo Italiano,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Rete Nazionale Antiviolenza,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,Pronto Soccorso Osp. Civ. Vasto,"Ospedale (Pronto soccorso, ecc.)",Vasto,,comune,Vasto,exact,069099,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Società Cooperativa Sociale Horizon Service,Ente terzo settore - ETS (iscritto al RUNTS),Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Comune di Sulmona,Comuni,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Centro Antiviolenza “La Libellula”,CAV/Centri Antiviolenza,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Centro Antiviolenza “Donna”,CAV/Centri Antiviolenza,Castel di Sangro,,comune,Castel di Sangro,exact,066028,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Casa Rifugio “La Casa delle donne”,Case Rifugio,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,ASL n.1 Avezzano-Sulmona-L’Aquila,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Servizi Sociali dell’Ambito Sociale n.17 “Valle Peligna”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Servizi Sociali dell’Ambito Sociale n.19 “Altosangro e Altipiano delle Cinque Miglia”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Associazione di Promozione Sociale “La Ninfea”,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SAN GIOVANNI TEATINO,comune_runts,San Giovanni Teatino,exact,069081,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,"Coordinamento regionale dei Centri antiviolenza e delle Case Rifugio della Regione Abruzzo ""Antigone""",Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Dipartimento delle Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Comune di Castel di Sangro,Comuni,Castel di Sangro,,comune,Castel di Sangro,exact,066028,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Servizi Sociali dei Comuni dell’Ambito Sociale Distrettuale,Servizi sociali comunali,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Autorità Giudiziaria competente,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Procura della Repubblica presso il Tribunale Ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Procura della Repubblica minorile,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Servizi Sanitari territoriali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Servizi socio-sanitari del territorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,Ambito Sociale Distrettuale n.4 “Peligno”,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Comunita Montana Peligna,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,EAS n. 17,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Comunita Montana Alto Sangro e Altopiano delle Cinquemilgia EAS n. 19,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Casa Rifugio “La Casa delle Donne”,Case Rifugio,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Centro Antiviolenza “La Libellula”,CAV/Centri Antiviolenza,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Cooperativa Sociale Horizon Service,IMPRESE SOCIALI,,SULMONA,comune_runts,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Cooperativa Sociale Leonardo,IMPRESE SOCIALI,,AVEZZANO,comune_runts,Avezzano,exact,066006,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Associazione “La Ninfea” Onlus,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,FF.OO.,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Servizi Sanitari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,Enti Locali,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Castel di Sangro,Comuni,Castel di Sangro,,comune,Castel di Sangro,exact,066028,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Alfedena,Comuni,Alfedena,,comune,Alfedena,exact,066003,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Barrea,Comuni,Barrea,,comune,Barrea,exact,066010,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Civitella Alfedena,Comuni,Civitella Alfedena,,comune,Civitella Alfedena,exact,066035,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Opi,Comuni,Opi,,comune,Opi,exact,066061,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Rivisondoli,Comuni,Rivisondoli,,comune,Rivisondoli,exact,066078,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Rocca Pia,Comuni,Rocca Pia,,comune,Rocca Pia,exact,066083,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Roccaraso,Comuni,Roccaraso,,comune,Roccaraso,exact,066084,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Pescocostanzo,Comuni,Pescocostanzo,,comune,Pescocostanzo,exact,066070,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Scontrone,Comuni,Scontrone,,comune,Scontrone,exact,066094,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Comune di Villetta Barrea,Comuni,Villetta Barrea,,comune,Villetta Barrea,exact,066107,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Ambito Sociale Distrettuale n. 6 Sangrino,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Ambito Sociale Distrettuale n.4 Peligno,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,EAS17 Comunita Montana Peligna,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,EAS 18 Comune di Sulmona,Altro,Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,EAS 19 Comunita Montana Alto Sangro e Altopiano delle Cinquemiglia,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,ASL n.1 Avezzano-Sulmona-L'Aquila,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Polizia di Stato,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Società Cooperativa Sociale Horizon Service,Ente terzo settore - ETS (iscritto al RUNTS),Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Associazione di Promozione Sociale “La Ninfea” di Sulmona,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Sulmona,SAN GIOVANNI TEATINO,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Associazione di promozione sociale “La Ninfea” Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SAN GIOVANNI TEATINO,comune_runts,San Giovanni Teatino,exact,069081,069,Chieti,CH,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Centro Antiviolenza “La Libellula”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Casa Rifugio “La Casa delle Donne”,Case Rifugio,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Consultorio Familiare dell’Azienda Sanitaria Locale N.1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Ospedale (Pronto Soccorso) dell’Azienda Sanitaria Locale N.1,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Pronto Soccorso del Presidio Ospedaliero di Sulmona,"Ospedale (Pronto soccorso, ecc.)",Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Direzione Sanitaria del Presidio Ospedaliero di Sulmona,"Ospedale (Pronto soccorso, ecc.)",Sulmona,,comune,Sulmona,exact,066098,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Distretto Sanitario Area Marsica,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Distretto Sanitario Area Pelino-Sangrina,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Dipartimento delle Pari Opportunità,Organismi di parità,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Procura della Repubblica presso il Tribunale Ordinario,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Procura della Repubblica minorile,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Autorità giudiziaria,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,Servizio Sociale del Comune di residenza del nucleo familiare,Servizi sociali comunali,,,nome,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Comune di Pescara,Comuni,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Prefettura di Pescara,Prefettura,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Arma dei Carabinieri - Comando Provinciale di Pescara,Carabinieri/Polizia/altre forze dell'ordine,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Guardia di Finanza — Comando Provinciale di Pescara,Carabinieri/Polizia/altre forze dell'ordine,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Questura di Pescara,Questura,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Tribunale di Pescara,Procura Ordinaria/Tribunale/Corte d'appello,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L’Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Procura della Repubblica presso il Tribunale di Pescara,Procura Ordinaria/Tribunale/Corte d'appello,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Procura della Repubblica presso il Tribunale per i Minorenni di L’Aquila,Procura Minorile/Tribunale minorile,L’Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Polizia Locale di Pescara,Polizia Municipale,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,ASL—Azienda Sanitaria Locale di Pescara,ASL (consultori familiari e altri servizi territoriali),Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Centro Antiviolenza ANANKE,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,CUAV—Centro Uomini Autori di Violenza,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Universita degli Studi “Gabriele D’Annunzio” Chieti-Pescara,Università,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Ufficio Scolastico Provinciale di Pescara,Scuole/Ufficio scolastico provinciale e regionale,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Ordine degli Assistenti Sociali della Regione Abruzzo,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Ordine degli Avvocati di Pescara,Ordine avvocati,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Pescara,Ordine medici e odontoiatri e Ordine farmacisti,Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Ordine degli Psicologi della Regione Abruzzo,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,A.R.C.I. Pescara APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Pescara,PESCARA,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,CAMBIAMENTI APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,PESCARA,comune_runts,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Fondazione Caritas,ENTI FILANTROPICI,,TOCCO DA CASAURIA,comune_runts,Tocco da Casauria,exact,068042,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,C.L.F. Provinciale Pescara APS,Ente terzo settore - ETS (iscritto al RUNTS),Pescara,,comune,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Cooperativa Orizzonte,IMPRESE SOCIALI,,PESCARA,comune_runts,Pescara,exact,068028,068,Pescara,PE,13,Abruzzo
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,On the Road Cooperativa Sociale,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Consultorio Familiare UCIPEM,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,We World Onlus,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Regione Abruzzo,Regioni/Province Autonome,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,ISTAT,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Organizzazione delle Nazioni Unite (ONU),Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Unione Europea,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Governo italiano,Altro,,,none,,none,,,,,,
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,Centro Uomini Autori di Violenza,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,

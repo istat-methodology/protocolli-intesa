@@ -1,0 +1,224 @@
+[
+    {
+        "file": "02_2406_rta_02_240904124958_4166---lrn4del25feb2013.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Regione",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "promotrice e attuatrice della legge"
+            },
+            {
+                "nome": "Centro donne contro la violenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "indicato come Centro antiviolenza"
+            },
+            {
+                "nome": "Centro antiviolenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "attività di volontariato e interventi territoriali; dotato di numero telefonico collegato alla rete nazionale"
+            },
+            {
+                "nome": "Osservatorio regionale per il contrasto alla violenza di genere",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "raccolta e diffusione dati"
+            },
+            {
+                "nome": "Forum permanente contro le molestie e la violenza di genere",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "sede di dialogo e confronto tra istituzioni e società"
+            },
+            {
+                "nome": "Giunta regionale",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consiglio regionale",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "approva il Piano triennale, riceve rendicontazioni"
+            },
+            {
+                "nome": "enti locali",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pubbliche amministrazioni",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "istituzioni pubbliche e private",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "realtà associative e di volontariato",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "forze dell'ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio regionale per le pari opportunità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda regionale sanitaria USL della Valle d'Aosta",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "indicato anche come Azienda USL"
+            },
+            {
+                "nome": "Struttura regionale competente in materia di politiche familiari e sociali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "ospita il Forum"
+            },
+            {
+                "nome": "Consiglio permanente degli enti locali (CPEL)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "indica rappresentante enti locali nel Forum"
+            },
+            {
+                "nome": "Pronto Soccorso",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "struttura sanitaria competente in materia di urgenza"
+            },
+            {
+                "nome": "consigliere regionale di parità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consulta per le pari opportunità",
+                "tipo": "Organismi di parità",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Migranti (ex CCIE)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Fondazione Caritas",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Università della Valle d'Aosta/Université de la Vallée d'Aoste",
+                "tipo": "Università",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "servizi socio-sanitari territoriali",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Fondazione opere Caritas",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "struttura regionale competente",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "verifica il funzionamento del Centro antiviolenza e del servizio di prima accoglienza"
+            }
+        ],
+        "soggetti_proponenti": [
+            "Regione"
+        ],
+        "attori_coinvolti": [
+            "Regione",
+            "Centro antiviolenza",
+            "Azienda regionale sanitaria USL della Valle d'Aosta",
+            "enti locali",
+            "forze dell'ordine",
+            "servizi socio-sanitari territoriali",
+            "Fondazione opere Caritas",
+            "Servizio Migranti (ex CCIE)",
+            "Struttura regionale competente in materia di politiche familiari e sociali",
+            "Pronto Soccorso",
+            "realtà associative e di volontariato"
+        ]
+    }
+]

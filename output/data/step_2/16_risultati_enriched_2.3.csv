@@ -1,0 +1,357 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+16_2406_rta_16_250409161633_4166---29_prot_n_0090671_2024_PROT_OP-ODVPOLIZIADISTATO-RISCOPRIRSI.txt,OdV Gruppo di Volontariato e Protezione Civile dell’Associazione Nazionale Polizia di Stato,Altro,Trani,,comune,Trani,exact,110009,110,Barletta-Andria-Trani,BT,16,Puglia
+16_2406_rta_16_250409161633_4166---29_prot_n_0090671_2024_PROT_OP-ODVPOLIZIADISTATO-RISCOPRIRSI.txt,Associazione “RiscoprirSi... - APS”,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Andria,ANDRIA,comune,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_2406_rta_16_250409161633_4166---29_prot_n_0090671_2024_PROT_OP-ODVPOLIZIADISTATO-RISCOPRIRSI.txt,Centro Antiviolenza RiscoprirSi...,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Provincia di Brindisi,Province/Città metropolitane,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Prefettura di Brindisi,Prefettura,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Procura della Repubblica presso il Tribunale Ordinario di Brindisi,Procura Ordinaria/Tribunale/Corte d'appello,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Procura presso il Tribunale per i Minorenni di Lecce,Procura Minorile/Tribunale minorile,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Tribunale Ordinario di Brindisi,Procura Ordinaria/Tribunale/Corte d'appello,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Tribunale per i Minorenni di Lecce,Procura Minorile/Tribunale minorile,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Azienda Sanitaria Locale BR,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Istituti scolastici della Provincia di Brindisi,Scuole/Ufficio scolastico provinciale e regionale,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,UEPE (Ufficio Esecuzione Penale Esterna – Ministero della Giustizia),Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,USSM (Ufficio Servizi Sociali Minorenni – Ministero della Giustizia),Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Ambiti Territoriali Sociali di Zona della Provincia di Brindisi,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,"Ufficio Scolastico Regionale, Ambito Territoriale di Brindisi",Scuole/Ufficio scolastico provinciale e regionale,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Regione Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Cooperativa Sociale Siderea,IMPRESE SOCIALI,Latiano,LATIANO,comune,Latiano,exact,074009,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Cooperativa Sociale Artemide a.r.l. - ONLUS,IMPRESE SOCIALI,Latiano,LATIANO,comune,Latiano,exact,074009,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Associazione IO DONNA,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Brindisi,BRINDISI,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Associazione M.I.T.A.G. ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,ONU,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Unione Europea,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Intervita Onlus,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Ordinamento giudiziario,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Regolamento Regionale n. 4/2007,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Comitato Provinciale per l’Ordine e la Sicurezza Pubblica,Altro,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Progetto Giada,Altro,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Servizio provinciale per le politiche attive del lavoro,Servizi per l'impiego,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Servizi Sociali Comunali,Servizi sociali comunali,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Equipe integrata su abuso e maltrattamento di Ambito,Altro,,,nome,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Dipartimento di Salute Mentale,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,"Ospedale (Pronto soccorso, Consultori Familiari, OSM – NIAT, Servizio sovradistrettuale per le dipendenze patologiche, pediatri di base, medici di famiglia, servizi di guardia medica)","Ospedale (Pronto soccorso, ecc.)",,,nome,,none,,,,,,
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,Ministero della Giustizia,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Prefettura di Foggia,Prefettura,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,S.E. l’Arcivescovo,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Procura della Repubblica di Foggia,Procura Ordinaria/Tribunale/Corte d'appello,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Tribunale dei Minori,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Questura di Foggia,Questura,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Provincia di Foggia,Province/Città metropolitane,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Comune di Foggia,Comuni,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Università degli Studi di Foggia,Università,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Ordine dei Medici di Foggia,Ordine medici e odontoiatri e Ordine farmacisti,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Azienda ASL del territorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Azienda Ospedaliera OO.RR. Foggia,"Ospedale (Pronto soccorso, ecc.)",Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,IRCCS Casa Sollievo della Sofferenza,"Ospedale (Pronto soccorso, ecc.)",San Giovanni Rotondo,,comune,San Giovanni Rotondo,exact,071046,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Ufficio Scolastico Regionale per la Puglia- Uff. V Ambito Territoriale Foggia,Scuole/Ufficio scolastico provinciale e regionale,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Ordine Forense,Ordine avvocati,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Camera Minorile,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Associazione di volontariato ViOLA Dauna,ORGANIZZAZIONI DI VOLONTARIATO,,FOGGIA,comune_runts,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Centro Antiviolenza — Impegno Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Servizio Uomini oltre la Violenza — Impegno Donna,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Ufficio del Garante regionale dei diritti del minore,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Caritas Diocesana di Foggia,Altro,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Comando Provinciale Vigili del Fuoco,Altro,,,none,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Camera Minorile di Capitanata,Altro,,,nome,,none,,,,,,
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Consulta per la Parita e le Pari Opportunita del Comune di Foggia,Organismi di parità,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,OMCeO di Foggia,Ordine medici e odontoiatri e Ordine farmacisti,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Comitato Scientifico (Commissione VIOLA OMCeO Foggia),Altro,Foggia,,comune,Foggia,exact,071024,071,Foggia,FG,16,Puglia
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,Relive,Altro,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,"Ambito Territoriale Sociale di Gioia del Colle, Casamassima, Turi e Sammichele di Bari","Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Ufficio di Piano,Altro,,,nome,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Nazioni Unite,Altro,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Regione Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Comune di Bari,Comuni,Bari,,comune,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,CSM,Altro,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,ONU,Altro,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Procura della Repubblica di Bari,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,Tribunale per i Minorenni di Bari,Procura Minorile/Tribunale minorile,,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,centri antiviolenza della Regione Puglia,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Comune di Gioia del Colle,Comuni,Gioia del Colle,,comune,Gioia del Colle,exact,072021,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Comune di Casamassima,Comuni,Casamassima,,comune,Casamassima,exact,072015,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Comune di Sammichele di Bari,Comuni,Sammichele di Bari,,comune,Sammichele di Bari,exact,072039,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Comune di Turi,Comuni,Turi,,comune,Turi,exact,072047,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Ambito Territoriale Sociale di Gioia del Colle,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Gioia del Colle,exact,072021,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Distretto Socio-Sanitario di Gioia del Colle,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Gioia del Colle,exact,072021,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Provincia di Bari,Province/Città metropolitane,,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Centro Antiviolenza Li.A,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Comunità San Francesco,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Aps Sud Est Donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CONVERSANO,comune_runts,Conversano,exact,072019,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Consultori territoriali di Gioia del Colle,ASL (consultori familiari e altri servizi territoriali),Gioia del Colle,,comune,Gioia del Colle,exact,072021,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Consultori territoriali di Casamassima,ASL (consultori familiari e altri servizi territoriali),Casamassima,,comune,Casamassima,exact,072015,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Consultori territoriali di Sammichele di Bari,ASL (consultori familiari e altri servizi territoriali),Sammichele di Bari,,comune,Sammichele di Bari,exact,072039,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Consultori territoriali di Turi,ASL (consultori familiari e altri servizi territoriali),Turi,,comune,Turi,exact,072047,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Tribunale per i minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Osservatorio Regionale,Regioni/Province Autonome,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Ufficio di Piano dell’Ambito Sociale Territoriale di Gioia del Colle,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Gioia del Colle,,comune,Gioia del Colle,exact,072021,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Equipe Multidisciplinare Integrata di Ambito sulla Tutela dei Minori e contrasto della violenza di genere,Altro,,,nome,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Servizi Sociali dei Comuni appartenenti all'Ambito,Servizi sociali comunali,,,none,,none,,,,,,
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,Commissioni Pari Opportunità dei comuni dell’Ambito,Organismi di parità,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Ambito Territoriale Sociale di Grumo Appula,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Grumo Appula,,comune,Grumo Appula,exact,072024,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,ASL BA Distretto Socio-Sanitario di Grumo Appula,ASL (consultori familiari e altri servizi territoriali),Grumo Appula,,comune,Grumo Appula,exact,072024,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Centro Antiviolenza Li.A,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Cooperativa sociale Comunita S. Francesco,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,APS Sud Est Donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CONVERSANO,comune_runts,Conversano,exact,072019,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Grumo Appula,Comuni,Grumo Appula,,comune,Grumo Appula,exact,072024,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Acquaviva delle Fonti,Comuni,Acquaviva delle Fonti,,comune,Acquaviva delle Fonti,exact,072001,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Binetto,Comuni,Binetto,,comune,Binetto,exact,072008,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Cassano delle Murge,Comuni,Cassano delle Murge,,comune,Cassano delle Murge,exact,072016,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Sannicandro di Bari,Comuni,Sannicandro di Bari,,comune,Sannicandro di Bari,exact,072040,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Comune di Toritto,Comuni,Toritto,,comune,Toritto,exact,072044,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Grumo_EMI.txt,Servizi Sociali dei Comuni appartenenti all'Ambito,Servizi sociali comunali,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,"Consultori territoriali, Cassano, Acquaviva, Toritto",ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Equipe Multidisciplinare Integrata di Ambito sulla Tutela dei Minori e contrasto della violenza di genere,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,PLS/MMG,Altro,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Casa Rifugio,Case Rifugio,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Servizi Territoriali Socio-Sanitari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Commissioni Pari Opportunità dei comuni dell'Ambito,Organismi di parità,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Organizzazioni del Terzo Settore specializzate del territorio,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Agenzie Educative,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Tribunale per i minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_bari_protocollo operativo Grumo_EMI.txt,Osservatorio Regionale,Regioni/Province Autonome,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Ambito Territoriale Sociale n°11,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Comune di Mola di Bari,Comuni,Mola di Bari,,comune,Mola di Bari,exact,072028,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Comune di Noicattaro,Comuni,Noicattaro,,comune,Noicattaro,exact,072032,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Comune di Rutigliano,Comuni,Rutigliano,,comune,Rutigliano,exact,072037,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Servizi Sociali del Comune di Mola di Bari,Servizi sociali comunali,Mola di Bari,,comune,Mola di Bari,exact,072028,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Servizi Sociali del Comune di Noicattaro,Servizi sociali comunali,Noicattaro,,comune,Noicattaro,exact,072032,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Servizi Sociali del Comune di Rutigliano,Servizi sociali comunali,Rutigliano,,comune,Rutigliano,exact,072037,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Distretto Sociosanitario n°11 ASL BA,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,U.O.S. Assistenza Consultoriale del Distretto n. 11 ASL Bari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Centro Antiviolenza di Ambito,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Procura della Repubblica presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Centro Specialistico di riferimento per la cura del trauma,Altro,,,nome,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Casa Rifugio TM,Case Rifugio,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Servizio Sociale territoriale,Servizi sociali comunali,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,Neuropsichiatria infantile,Altro,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,CSM,Altro,,,none,,none,,,,,,
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,SERD,Altro,,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Comune di Putignano,Comuni,Putignano,,comune,Putignano,exact,072036,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Comune di Alberobello,Comuni,Alberobello,,comune,Alberobello,exact,072003,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Comune di Castellana Grotte,Comuni,Castellana Grotte,,comune,Castellana Grotte,exact,072017,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Comune di Locorotondo,Comuni,Locorotondo,,comune,Locorotondo,exact,072025,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Comune di Noci,Comuni,Noci,,comune,Noci,exact,072031,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,ASL BA,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Ambito Territoriale Sociale di Putignano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Putignano,exact,072036,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Equipe Integrata Multidisciplinare di Ambito per il contrasto alla violenza,Altro,,,nome,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Servizi Sociali del Comune di Putignano,Servizi sociali comunali,Putignano,,comune,Putignano,exact,072036,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Servizi Sociali del Comune di Castellana Grotte,Servizi sociali comunali,Castellana Grotte,,comune,Castellana Grotte,exact,072017,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Servizi Sociali del Comune di Noci,Servizi sociali comunali,Noci,,comune,Noci,exact,072031,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Servizi Sociali del Comune di Alberobello,Servizi sociali comunali,Alberobello,,comune,Alberobello,exact,072003,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,Servizi Sociali del Comune di Locorotondo,Servizi sociali comunali,Locorotondo,,comune,Locorotondo,exact,072025,272,Bari,BA,16,Puglia
+16_bari_protocollo operativo Putignano_EMI.txt,U.O.S. Assistenza Consultoriale del Distretto n. 14 ASL Bari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Centro Antiviolenza di Ambito,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Procura della Repubblica presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Neuropsichiatria infantile,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,CSM,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,SERD,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Casa Rifugio TM,Case Rifugio,,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Centro Specialistico di riferimento per la cura del trauma,Altro,,,nome,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Centro Specialistico di II livello,Altro,,,nome,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Autorita Giudiziaria,Altro,,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,"Struttura di riferimento (casa rifugio, comunita, ecc.)",Case Rifugio,,,nome,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Pronto soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,CAM,"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,none,,none,,,,,,
+16_bari_protocollo operativo Putignano_EMI.txt,Sud est donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CONVERSANO,comune_runts,Conversano,exact,072019,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Comune di Putignano,Comuni,Putignano,,comune,Putignano,exact,072036,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Comune di Alberobello,Comuni,Alberobello,,comune,Alberobello,exact,072003,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Comune di Castellana Grotte,Comuni,Castellana Grotte,,comune,Castellana Grotte,exact,072017,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Comune di Locorotondo,Comuni,Locorotondo,,comune,Locorotondo,exact,072025,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Comune di Noci,Comuni,Noci,,comune,Noci,exact,072031,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,ASL BA,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Ambito territoriale di Putignano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Putignano,exact,072036,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Ufficio di Piano,Altro,,,nome,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Procura della Repubblica di Bari,Procura Ordinaria/Tribunale/Corte d'appello,Bari,,comune,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Tribunale per i minorenni di Bari,Procura Minorile/Tribunale minorile,Bari,,comune,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Distretto Socio-Sanitario,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Commissariato di PS,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Polizia Locale,Polizia Municipale,,,none,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Equipe multidisciplinare di contrasto alla violenza,Altro,,,nome,,none,,,,,,
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,Centro antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,AMBITO TERRITORIALE DI TRIGGIANO,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Triggiano,exact,072046,272,Bari,BA,16,Puglia
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,ASL BARI — Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,FORZE DELL’ORDINE,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,COMITATO DELLE PARI OPPORTUNITA’ DELL'ORDINE DEGLI AVVOCATI DI BARI,Organismi di parità,,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,ORDINE DEGLI PSICOLOGI REGIONE PUGLIA,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,ORDINE DEGLI ASSISTENTI SOCIALI REGIONE PUGLIA,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,CENTRO ANTIVIOLENZA IL GIARDINO DELLE LUNE,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,ORDINE DEGLI AVVOCATI DI BARI,Ordine avvocati,,,nome,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Ordine degli Assistenti Sociali Regione Puglia,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Ordine degli Psicologi Regione Puglia,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,medihospes,Altro,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Commissioni Pari Opportunita dei comuni dell’Ambito,Organismi di parità,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Organizzazioni del Terzo Settore specializzate del territorio,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Osservatorio Regionale,Altro,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,118,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Reparti di Ginecologia e Pediatria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,SERD,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Distretti di Salute Mentale,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Equipe Multidisciplinare Integrata,Altro,,,none,,none,,,,,,
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,Equipe Integrata di Ambito di contrasto alla violenza di genere,Altro,,,nome,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Azienda Sanitaria Locale BT,ASL (consultori familiari e altri servizi territoriali),Andria,,comune,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Osservatorio Giulia e Rossella Centro Antiviolenza ONLUS,CAV/Centri Antiviolenza,Barletta,,comune,Barletta,exact,110002,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Centro Antiviolenza RiscoprirSi...,CAV/Centri Antiviolenza,Andria,,comune,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Centro Antiviolenza SAVE,CAV/Centri Antiviolenza,Trani,,comune,Trani,exact,110009,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,FF.OO.,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Pronto Intervento Sociale (PIS),Servizi sociali comunali,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Regione Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Ambito Territoriale di Barletta,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Barletta,exact,110002,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Ambito Territoriale di Andria,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Ambito Territoriale di Trani-Bisceglie,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Ambito Territoriale di Canosa-Minervino-Spinazzola,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Ambito Territoriale Tavoliere Meridionale (Margherita-San Ferdinando-Trinitapoli),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Comune di Barletta,Comuni,Barletta,,comune,Barletta,exact,110002,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Andria,Comuni,Andria,,comune,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Trani,Comuni,Trani,,comune,Trani,exact,110009,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Canosa di Puglia,Comuni,Canosa di Puglia,,comune,Canosa di Puglia,exact,110004,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Bisceglie,Comuni,Bisceglie,,comune,Bisceglie,exact,110003,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Margherita di Savoia,Comuni,Margherita di Savoia,,comune,Margherita di Savoia,exact,110005,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di San Ferdinando di Puglia,Comuni,San Ferdinando di Puglia,,comune,San Ferdinando di Puglia,exact,110007,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Trinitapoli,Comuni,Trinitapoli,,comune,Trinitapoli,exact,110010,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Minervino Murge,Comuni,Minervino Murge,,comune,Minervino Murge,exact,110006,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Comune di Spinazzola,Comuni,Spinazzola,,comune,Spinazzola,exact,110008,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,Associazione Scientifica Genetisti Forensi italiani (Ge.F.I.),Altro,,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,RISCOPRIRSI... - APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ANDRIA,comune_runts,Andria,exact,110001,110,Barletta-Andria-Trani,BT,16,Puglia
+16_bat_convenzione CAV - ASL BT.txt,COOP. SOC. PROMOZIONE SOCIALE E SOLIDARIETA,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+16_bat_convenzione CAV - ASL BT.txt,Osservatorio Giulia e Rossella,ALTRI ENTI DEL TERZO SETTORE,,BARLETTA,comune_runts,Barletta,exact,110002,110,Barletta-Andria-Trani,BT,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,ASL Lecce,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Tribunale di Lecce,Procura Ordinaria/Tribunale/Corte d'appello,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Tribunale per i Minorenni di Lecce,Procura Minorile/Tribunale minorile,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Procura della Repubblica di Lecce,Procura Ordinaria/Tribunale/Corte d'appello,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Procura presso il Tribunale per i Minorenni di Lecce,Procura Minorile/Tribunale minorile,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comuni/Ambiti di Lecce e provincia,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comune di Lecce,Comuni,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Conferenza dei Sindaci,Altro,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Lecce,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Campi Salentina,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Campi Salentina,,comune,Campi Salentina,exact,075011,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Nardo,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Nardo,,comune,Nardò,exact,075052,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Martano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Martano,,comune,Martano,exact,075040,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Galatina,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Galatina,,comune,Galatina,exact,075029,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Maglie,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Maglie,,comune,Maglie,exact,075039,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Poggiardo,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Poggiardo,,comune,Poggiardo,exact,075061,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Gallipoli,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Gallipoli,,comune,Gallipoli,exact,075031,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Casarano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Casarano,,comune,Casarano,exact,075016,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Distretto Socio Sanitario di Gagliano del Capo,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Gagliano del Capo,,comune,Gagliano del Capo,exact,075028,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Area Sociosanitaria ASL Lecce,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Prefettura di Lecce,Prefettura,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Pronto Soccorso Ospedaliero “V.Fazzi” di Lecce,"Ospedale (Pronto soccorso, ecc.)",Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Pronto Soccorso Ospedaliero di Gallipoli,"Ospedale (Pronto soccorso, ecc.)",Gallipoli,,comune,Gallipoli,exact,075031,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Servizio 118,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Ginecologia ospedaliera,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Dipartimento Materno Infantile,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Servizio psicologico ospedaliero,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Servizio di Consulenza Ambulatoriale Pediatrica,"Ospedale (Pronto soccorso, ecc.)",,,nome,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Equipe Multidisciplinare Integrata (EMI),"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,"Centro Specialistico per la Cura del Trauma Interpersonale (CSCTI ""Anemone"")",Altro,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Consultori Familiari ASL Lecce,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Dipartimento di Riabilitazione,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,"Centro Antiviolenza ""Renata Fonte""",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,"Rete SanFra - ""Il Melograno""",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,"Centro Antiviolenza ""Malala Yousafzai""",CAV/Centri Antiviolenza,Galatina,,comune,Galatina,exact,075029,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,"Casa Rifugio ""Nazaret""",Case Rifugio,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Centro per Uomini Autori di Violenza (CUAV),"Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",,,nome,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Dipartimento Dipendenze Patologiche,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Dipartimento di Salute Mentale,ASL (consultori familiari e altri servizi territoriali),,,nome,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Servizi Sociali Comunali,Servizi sociali comunali,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Ufficio Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Ambiti Territoriali Sociali della Provincia,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Regione Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Ministero della Salute,Altro,,,none,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Istituto Superiore di Sanita,Altro,,,nome,,none,,,,,,
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Prefettura di Brindisi,Prefettura,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Questura di Lecce,Questura,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Questura di Brindisi,Questura,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comando Provinciale dei Carabinieri di Lecce,Carabinieri/Polizia/altre forze dell'ordine,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comando Provinciale dei Carabinieri di Brindisi,Carabinieri/Polizia/altre forze dell'ordine,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comando Provinciale della Guardia di Finanza di Lecce,Carabinieri/Polizia/altre forze dell'ordine,Lecce,,comune,Lecce,exact,075035,075,Lecce,LE,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Comando Provinciale della Guardia di Finanza di Brindisi,Carabinieri/Polizia/altre forze dell'ordine,Brindisi,,comune,Brindisi,exact,074001,074,Brindisi,BR,16,Puglia
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,Polizia Locale dei Comuni delle Province di Lecce e Brindisi,Polizia Municipale,,,none,,none,,,,,,
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Comune di Ginosa,Comuni,Ginosa,,comune,Ginosa,exact,073007,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Comune di Laterza,Comuni,Laterza,,comune,Laterza,exact,073009,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Comune di Castellaneta,Comuni,Castellaneta,,comune,Castellaneta,exact,073003,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Comune di Palagianello,Comuni,Palagianello,,comune,Palagianello,exact,073020,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Ambito territoriale di Ginosa,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,nome,Ginosa,exact,073007,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Ufficio di Piano,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Ginosa,,comune,Ginosa,exact,073007,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,ASL-Taranto,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Procura della Repubblica di Taranto,Procura Ordinaria/Tribunale/Corte d'appello,,,nome,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Prefettura di Taranto,Prefettura,,,nome,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Tribunale per i minorenni di Taranto,Procura Minorile/Tribunale minorile,,,nome,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,Regione Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,CAV Rompiamo il Silenzio,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Prefettura di Taranto,Prefettura,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Provincia di Taranto,Province/Città metropolitane,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Procura della Repubblica presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Questura,Questura,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Comando Provinciale dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Comando Provinciale della Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Ambiti territoriali,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Azienda Sanitaria Locale di Taranto,ASL (consultori familiari e altri servizi territoriali),Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Azienda Sanitaria Locale TA/1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Ufficio Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Ordine degli Avvocati di Taranto,Ordine avvocati,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Ordine degli Assistenti Sociali della Regione Puglia,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Centri Antiviolenza della provincia di Taranto,CAV/Centri Antiviolenza,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Centro Antiviolenza della provincia di Taranto,CAV/Centri Antiviolenza,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Consigliera di Parita della Provincia di Taranto,Organismi di parità,Taranto,,comune,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Comune di Ginosa,Comuni,Ginosa,,comune,Ginosa,exact,073007,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Comune di Manduria,Comuni,Manduria,,comune,Manduria,exact,073012,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Associazione onlus Alzaia,ALTRI ENTI DEL TERZO SETTORE,,TARANTO,comune_runts,Taranto,exact,073027,073,Taranto,TA,16,Puglia
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Rete locale di associazioni per la promozione delle Politiche di genere,Altro,,,nome,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Organizzazione delle Nazioni Unite,Altro,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Unione Europea,Altro,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,ISTAT,Altro,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Governo Italiano,Altro,,,none,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Consiglio della Regione Puglia,Regioni/Province Autonome,Puglia,,comune,,none,,,,,,
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,Regione Puglia,Regioni/Province Autonome,Puglia,,comune,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CGIL Puglia,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,UIL Puglia,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,Confindustria Puglia,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,ANCI Puglia,Altro,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,Presidenza Consiglio Regionale della Puglia,Regioni/Province Autonome,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,Consigliera di Parità Regione Puglia,Organismi di parità,,,nome,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Rompiamo il Silenzio”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Paola Labriola”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Il Melograno”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Il Giardino delle Lune”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Daene”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Comune di Bari”,CAV/Centri Antiviolenza,Bari,,comune,Bari,exact,072006,272,Bari,BA,16,Puglia
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Osservatorio Giulia e Rossella”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “La Luna”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Pandora”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Renata Fonte”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Liberamente”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CAV “Riscoprirsi”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,CGIL CISL UIL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,Ambiti Sociali Territoriali,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,

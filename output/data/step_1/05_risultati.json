@@ -1,0 +1,3497 @@
+[
+    {
+        "file": "05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt",
+        "firmatari": [
+            "Prefettura di Venezia",
+            "Questura di Venezia",
+            "Comando Provinciale di Venezia dei Carabinieri",
+            "Comando Provinciale di Venezia della Guardia di Finanza",
+            "Tribunale Civile e Penale di Venezia",
+            "Procura della Repubblica presso il Tribunale Ordinario di Venezia",
+            "Procura della Repubblica - Tribunale per i Minorenni",
+            "Ufficio Interdistrettuale di Esecuzione Penale Esterna - Dipartimento per la Giustizia Minorile e di Comunita - Ministero della Giustizia",
+            "Azienda ULSS 3 Serenissima",
+            "Comitato dei Sindaci del Distretto 1-2",
+            "Comitato dei Sindaci del Distretto 3 “Mirano - Dolo”",
+            "Comitato dei Sindaci del Distretto 4 “Chioggia”",
+            "Citta Metropolitana di Venezia",
+            "Centro Antiviolenza del Comune di Venezia",
+            "Centro Antiviolenza Civico Donna del Comune di Chioggia",
+            "Centro Antiviolenza Sonia",
+            "Centro Antiviolenza Estia",
+            "Sportello Antiviolenza di Mira",
+            "Sportello GRU",
+            "Ufficio Scolastico Regionale per il Veneto (URSV)",
+            "Universita Ca’ Foscari di Venezia",
+            "IUSVE Istituto Universitario Salesiano Venezia",
+            "Universita IUAV di Venezia",
+            "Centro di Ateneo per i Diritti Umani “Antonio Papisca” e cattedra UNESCO “Diritti umani, democrazia e pace” dell’ Universita degli Studi di Padova",
+            "Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Venezia",
+            "Ordine dei Farmacisti della Provincia di Venezia",
+            "Ordine degli Psicologi del Veneto",
+            "Ordine dei Tecnici Sanitari di Radiologia Medica e Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione",
+            "Ordine degli Assistenti Sociali del Veneto",
+            "Ordine dei Giornalisti del Veneto",
+            "AAROI-Emac",
+            "AUPI",
+            "ANAAO",
+            "ANPO-ASCOTI-FIALS MEDICI",
+            "CGIL FPL e Gruppo Medici",
+            "CGIL Venezia",
+            "CIMO",
+            "CISL FP",
+            "CISL Venezia",
+            "FASSID Area SNR",
+            "FSI USAE",
+            "NURSING UP",
+            "UIL FPL",
+            "UIL Venezia",
+            "Consigliera di Parita della Citta Metropolitana di Venezia",
+            "Consultorio Socio-Educativo Privato Accreditato AIED",
+            "Lievito Cooperativa Sociale a R.L. Mestre Venezia",
+            "Casa-famiglia San Pio X- Patriarcato di Venezia",
+            "Comitato Donne XXV aprile"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura di Venezia",
+                "tipo": "Prefettura",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Venezia",
+                "tipo": "Questura",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale di Venezia dei Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale di Venezia della Guardia di Finanza",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale Civile e Penale di Venezia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale ordinario di Venezia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica - Tribunale per i Minorenni",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Interdistrettuale di Esecuzione Penale Esterna - Dipartimento per la Giustizia Minorile e di Comunita - Ministero della Giustizia",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda ULSS 3 Serenissima",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "via Don Tosatto 147, 30147 Mestre, VE",
+                "ente_capofila": "sì",
+                "note": "Ente capofila del protocollo"
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Socio-Sanitario 1 “Venezia Centro Storico, Isole ed Estuario” e del Distretto Socio-Sanitario 2 “Venezia Terraferma, Marcon e Quarto d’Altino”",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Socio-Sanitario 3 “Mirano e Dolo”",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Socio-Sanitario 4 “Chioggia”",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Citta Metropolitana di Venezia",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Comune di Venezia",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza Comune di Venezia sede di Venezia",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza Comune di Venezia. Sede Lido di Venezia",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Civico Donna — Comune di Chioggia",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Chioggia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza Civico Donna - Comune di Cavarzere",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Cavarzere",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Estia di Venezia Cooperativa Iside",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Sonia di Noale Cooperativa Iside",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Noale",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Antiviolenza di Mira Cooperativa Iside",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Mira",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro per gli autori di violenza GRU di Venezia Cooperativa Iside",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale per il Veneto (URSV)",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Universita Ca' Foscari di Venezia",
+                "tipo": "Università",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "IUSVE Istituto Universitario Salesiano Venezia",
+                "tipo": "Università",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Universita Iuav di Venezia",
+                "tipo": "Università",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro di Ateneo per i Diritti Umani “Antonio Papisca” e cattedra UNESCO “Diritti umani, democrazia e pace” dell’ Universita degli Studi di Padova",
+                "tipo": "Università",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Venezia",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Farmacisti della Provincia di Venezia",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Psicologi del Veneto",
+                "tipo": "Ordine psicologi e Ordine assistenti sociali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Tecnici Sanitari di Radiologia Medica e Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione",
+                "tipo": "Altri ordini professionali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Assistenti Sociali del Veneto",
+                "tipo": "Ordine psicologi e Ordine assistenti sociali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Giornalisti del Veneto",
+                "tipo": "Altri ordini professionali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati della Provincia di Venezia",
+                "tipo": "Ordine avvocati",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "AAROI-Emac",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ANAAO",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ANPO-ASCOTI-FIALS MEDICI",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "AUPI",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CGIL FPL e Gruppo Medici",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CGIL Venezia",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CIMO",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CISL FP",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "CISL Venezia",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "FASSID Area SNR",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "FSI USAE Venezia",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "NURSING UP",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "UIL FPL",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "UIL Venezia",
+                "tipo": "Sindacati/Associazioni di categoria",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Citta Metropolitana di Venezia",
+                "tipo": "Organismi di parità",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Socio-Educativo Privato Accreditato AIED",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Lievito Cooperativa Sociale a R.L. Mestre Venezia",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa-famiglia San Pio X- Patriarcato di Venezia",
+                "tipo": "Case Rifugio",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato Donne XXV aprile",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Venezia",
+                "tipo": "Comuni",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Marcon",
+                "tipo": "Comuni",
+                "comune": "Marcon",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Quarto d’Altino",
+                "tipo": "Comuni",
+                "comune": "Quarto d’Altino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Campagna Lupia",
+                "tipo": "Comuni",
+                "comune": "Campagna Lupia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Campolongo Maggiore",
+                "tipo": "Comuni",
+                "comune": "Campolongo Maggiore",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Camponogara",
+                "tipo": "Comuni",
+                "comune": "Camponogara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Dolo",
+                "tipo": "Comuni",
+                "comune": "Dolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Fiesso D'Artico",
+                "tipo": "Comuni",
+                "comune": "Fiesso D'Artico",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Fossò",
+                "tipo": "Comuni",
+                "comune": "Fossò",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Martellago",
+                "tipo": "Comuni",
+                "comune": "Martellago",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Mira",
+                "tipo": "Comuni",
+                "comune": "Mira",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Mirano",
+                "tipo": "Comuni",
+                "comune": "Mirano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Noale",
+                "tipo": "Comuni",
+                "comune": "Noale",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Pianiga",
+                "tipo": "Comuni",
+                "comune": "Pianiga",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Santa Maria di Sala",
+                "tipo": "Comuni",
+                "comune": "Santa Maria di Sala",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Salzano",
+                "tipo": "Comuni",
+                "comune": "Salzano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Scorzé",
+                "tipo": "Comuni",
+                "comune": "Scorzé",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Spinea",
+                "tipo": "Comuni",
+                "comune": "Spinea",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Stra",
+                "tipo": "Comuni",
+                "comune": "Stra",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Vigonovo",
+                "tipo": "Comuni",
+                "comune": "Vigonovo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Chioggia",
+                "tipo": "Comuni",
+                "comune": "Chioggia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Cavarzere",
+                "tipo": "Comuni",
+                "comune": "Cavarzere",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Comune di Cona",
+                "tipo": "Comuni",
+                "comune": "Cona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Comune aderente tramite i Comitati dei Sindaci"
+            },
+            {
+                "nome": "Ospedale di Venezia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Mestre",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Mirano",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Mirano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Dolo",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Dolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Chioggia",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Chioggia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Azienda ULSS 3 Serenissima"
+        ],
+        "attori_coinvolti": [
+            "Prefettura di Venezia",
+            "Questura di Venezia",
+            "Comando Provinciale di Venezia dei Carabinieri",
+            "Comando Provinciale di Venezia della Guardia di Finanza",
+            "Tribunale Civile e Penale di Venezia",
+            "Procura della Repubblica presso il Tribunale ordinario di Venezia",
+            "Procura della Repubblica - Tribunale per i Minorenni",
+            "Ufficio Interdistrettuale di Esecuzione Penale Esterna - Dipartimento per la Giustizia Minorile e di Comunita - Ministero della Giustizia",
+            "Azienda ULSS 3 Serenissima",
+            "Comitato dei Sindaci del Distretto Socio-Sanitario 1 “Venezia Centro Storico, Isole ed Estuario” e del Distretto Socio-Sanitario 2 “Venezia Terraferma, Marcon e Quarto d’Altino”",
+            "Comitato dei Sindaci del Distretto Socio-Sanitario 3 “Mirano e Dolo”",
+            "Comitato dei Sindaci del Distretto Socio-Sanitario 4 “Chioggia”",
+            "Citta Metropolitana di Venezia",
+            "Centro Antiviolenza Comune di Venezia",
+            "Sportello Antiviolenza Comune di Venezia sede di Venezia",
+            "Sportello Antiviolenza Comune di Venezia. Sede Lido di Venezia",
+            "Centro Antiviolenza Civico Donna — Comune di Chioggia",
+            "Sportello Antiviolenza Civico Donna - Comune di Cavarzere",
+            "Centro Antiviolenza Estia di Venezia Cooperativa Iside",
+            "Centro Antiviolenza Sonia di Noale Cooperativa Iside",
+            "Sportello Antiviolenza di Mira Cooperativa Iside",
+            "Centro per gli autori di violenza GRU di Venezia Cooperativa Iside",
+            "Ufficio Scolastico Regionale per il Veneto (URSV)",
+            "Universita Ca' Foscari di Venezia",
+            "IUSVE Istituto Universitario Salesiano Venezia",
+            "Universita Iuav di Venezia",
+            "Centro di Ateneo per i Diritti Umani “Antonio Papisca” e cattedra UNESCO “Diritti umani, democrazia e pace” dell’ Universita degli Studi di Padova",
+            "Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Venezia",
+            "Ordine dei Farmacisti della Provincia di Venezia",
+            "Ordine degli Psicologi del Veneto",
+            "Ordine dei Tecnici Sanitari di Radiologia Medica e Professioni Sanitarie Tecniche, della Riabilitazione e della Prevenzione",
+            "Ordine degli Assistenti Sociali del Veneto",
+            "Ordine dei Giornalisti del Veneto",
+            "Ordine degli Avvocati della Provincia di Venezia",
+            "AAROI-Emac",
+            "ANAAO",
+            "ANPO-ASCOTI-FIALS MEDICI",
+            "AUPI",
+            "CGIL FPL e Gruppo Medici",
+            "CGIL Venezia",
+            "CIMO",
+            "CISL FP",
+            "CISL Venezia",
+            "FASSID Area SNR",
+            "FSI USAE Venezia",
+            "NURSING UP",
+            "UIL FPL",
+            "UIL Venezia",
+            "Consigliera di Parita della Citta Metropolitana di Venezia",
+            "Consultorio Socio-Educativo Privato Accreditato AIED",
+            "Lievito Cooperativa Sociale a R.L. Mestre Venezia",
+            "Casa-famiglia San Pio X- Patriarcato di Venezia",
+            "Comitato Donne XXV aprile",
+            "Comune di Venezia",
+            "Comune di Marcon",
+            "Comune di Quarto d’Altino",
+            "Comune di Campagna Lupia",
+            "Comune di Campolongo Maggiore",
+            "Comune di Camponogara",
+            "Comune di Dolo",
+            "Comune di Fiesso D'Artico",
+            "Comune di Fossò",
+            "Comune di Martellago",
+            "Comune di Mira",
+            "Comune di Mirano",
+            "Comune di Noale",
+            "Comune di Pianiga",
+            "Comune di Santa Maria di Sala",
+            "Comune di Salzano",
+            "Comune di Scorzé",
+            "Comune di Spinea",
+            "Comune di Stra",
+            "Comune di Vigonovo",
+            "Comune di Chioggia",
+            "Comune di Cavarzere",
+            "Comune di Cona",
+            "Ospedale di Venezia",
+            "Ospedale di Mestre",
+            "Ospedale di Mirano",
+            "Ospedale di Dolo",
+            "Ospedale di Chioggia"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240916135305_4166---protocolloulss4.txt",
+        "firmatari": [
+            "Prefettura di Venezia",
+            "Questura di Venezia",
+            "Comando Provinciale di Venezia dell’Arma dei Carabinieri",
+            "Comando Provinciale di Venezia della Guardia di Finanza",
+            "Procura della Repubblica presso il Tribunale ordinario di Venezia",
+            "Procura della Repubblica presso il Tribunale ordinario di Pordenone",
+            "Tribunale civile e penale di Venezia",
+            "Tribunale civile e penale di Pordenone",
+            "Centro Antiviolenza ed antistalking La Magnolia di S. Dona di Piave",
+            "Centro di Ascolto per la violenza di genere “Citta Gentili” - Coop. L’Arco di Portogruaro",
+            "Centro Educativo Relazioni Affettive C.E.R.A per il recupero di chi agisce con violenza",
+            "Azienda Ulss 4 Veneto Orientale",
+            "Ordine degli Avvocati di Venezia",
+            "Ordine degli Avvocati di Pordenone",
+            "Ordine dei Medici di Venezia",
+            "Citta Metropolitana di Venezia",
+            "Consigliera di Parita della Citta Metropolitana di Venezia",
+            "Comune di San Dona di Piave",
+            "Comune di Annone Veneto",
+            "Comune di Caorle",
+            "Comune di Ceggia",
+            "Comune di Cinto Caomaggiore",
+            "Comune di Concordia Sagittaria",
+            "Comune di Eraclea",
+            "Comune di Fossalta di Piave",
+            "Comune di Fossalta di Portogruaro",
+            "Comune di Gruaro",
+            "Comune di Jesolo",
+            "Comune di Meolo",
+            "Comune di Musile di Piave",
+            "Comune di Noventa di Piave",
+            "Comune di Portogruaro",
+            "Comune di Pramaggiore",
+            "Comune di San Michele al Tagliamento",
+            "Comune di San Stino di Livenza",
+            "Comune di Teglio Veneto",
+            "Comune di Torre di Mosto",
+            "Servizi Sociali dei suddetti Comuni",
+            "Polizia Locale dei suddetti Comuni"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura di Venezia",
+                "tipo": "Prefettura",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Venezia",
+                "tipo": "Questura",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale di Venezia dell’Arma dei Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale di Venezia della Guardia di Finanza",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale ordinario di Venezia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale ordinario di Pordenone",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Pordenone",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale civile e penale di Venezia",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale civile e penale di Pordenone",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Pordenone",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza ed antistalking La Magnolia di S. Dona di Piave",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "San Dona di Piave",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro di Ascolto per la violenza di genere “Citta Gentili” - Coop. L’Arco di Portogruaro",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Portogruaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Educativo Relazioni Affettive C.E.R.A per il recupero di chi agisce con violenza",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ulss 4 Veneto Orientale",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Venezia",
+                "tipo": "Ordine avvocati",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Pordenone",
+                "tipo": "Ordine avvocati",
+                "comune": "Pordenone",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici di Venezia",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Citta Metropolitana di Venezia",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parita della Citta Metropolitana di Venezia",
+                "tipo": "Organismi di parità",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di San Dona di Piave",
+                "tipo": "Comuni",
+                "comune": "San Dona di Piave",
+                "indirizzo": "Piazza Indipendenza, 13",
+                "ente_capofila": "sì",
+                "note": "capofila del protocollo"
+            },
+            {
+                "nome": "Comune di Annone Veneto",
+                "tipo": "Comuni",
+                "comune": "Annone Veneto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Caorle",
+                "tipo": "Comuni",
+                "comune": "Caorle",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Ceggia",
+                "tipo": "Comuni",
+                "comune": "Ceggia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Cinto Caomaggiore",
+                "tipo": "Comuni",
+                "comune": "Cinto Caomaggiore",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Concordia Sagittaria",
+                "tipo": "Comuni",
+                "comune": "Concordia Sagittaria",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Eraclea",
+                "tipo": "Comuni",
+                "comune": "Eraclea",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Fossalta di Piave",
+                "tipo": "Comuni",
+                "comune": "Fossalta di Piave",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Fossalta di Portogruaro",
+                "tipo": "Comuni",
+                "comune": "Fossalta di Portogruaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Gruaro",
+                "tipo": "Comuni",
+                "comune": "Gruaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Jesolo",
+                "tipo": "Comuni",
+                "comune": "Jesolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Meolo",
+                "tipo": "Comuni",
+                "comune": "Meolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Musile di Piave",
+                "tipo": "Comuni",
+                "comune": "Musile di Piave",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Noventa di Piave",
+                "tipo": "Comuni",
+                "comune": "Noventa di Piave",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Portogruaro",
+                "tipo": "Comuni",
+                "comune": "Portogruaro",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Pramaggiore",
+                "tipo": "Comuni",
+                "comune": "Pramaggiore",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di San Michele al Tagliamento",
+                "tipo": "Comuni",
+                "comune": "San Michele al Tagliamento",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di San Stino di Livenza",
+                "tipo": "Comuni",
+                "comune": "San Stino di Livenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Teglio Veneto",
+                "tipo": "Comuni",
+                "comune": "Teglio Veneto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Torre di Mosto",
+                "tipo": "Comuni",
+                "comune": "Torre di Mosto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali dei suddetti Comuni",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "dei Comuni della Conferenza dei Sindaci del Veneto Orientale"
+            },
+            {
+                "nome": "Polizia Locale dei suddetti Comuni",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "dei Comuni della Conferenza dei Sindaci del Veneto Orientale"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Prefettura di Venezia",
+            "Questura di Venezia",
+            "Comando Provinciale di Venezia dell’Arma dei Carabinieri",
+            "Comando Provinciale di Venezia della Guardia di Finanza",
+            "Procura della Repubblica presso il Tribunale ordinario di Venezia",
+            "Procura della Repubblica presso il Tribunale ordinario di Pordenone",
+            "Tribunale civile e penale di Venezia",
+            "Tribunale civile e penale di Pordenone",
+            "Centro Antiviolenza ed antistalking La Magnolia di S. Dona di Piave",
+            "Centro di Ascolto per la violenza di genere “Citta Gentili” - Coop. L’Arco di Portogruaro",
+            "Centro Educativo Relazioni Affettive C.E.R.A per il recupero di chi agisce con violenza",
+            "Azienda Ulss 4 Veneto Orientale",
+            "Ordine degli Avvocati di Venezia",
+            "Ordine degli Avvocati di Pordenone",
+            "Ordine dei Medici di Venezia",
+            "Citta Metropolitana di Venezia",
+            "Consigliera di Parita della Citta Metropolitana di Venezia",
+            "Comune di San Dona di Piave",
+            "Comune di Annone Veneto",
+            "Comune di Caorle",
+            "Comune di Ceggia",
+            "Comune di Cinto Caomaggiore",
+            "Comune di Concordia Sagittaria",
+            "Comune di Eraclea",
+            "Comune di Fossalta di Piave",
+            "Comune di Fossalta di Portogruaro",
+            "Comune di Gruaro",
+            "Comune di Jesolo",
+            "Comune di Meolo",
+            "Comune di Musile di Piave",
+            "Comune di Noventa di Piave",
+            "Comune di Portogruaro",
+            "Comune di Pramaggiore",
+            "Comune di San Michele al Tagliamento",
+            "Comune di San Stino di Livenza",
+            "Comune di Teglio Veneto",
+            "Comune di Torre di Mosto",
+            "Servizi Sociali dei suddetti Comuni",
+            "Polizia Locale dei suddetti Comuni"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt",
+        "firmatari": [
+            "Prefettura di Rovigo",
+            "Procura della Repubblica presso il Tribunale Ordinario di Rovigo",
+            "A.ULSS 5 Polesana",
+            "Conferenza dei Sindaci",
+            "Centro Antiviolenza del Polesine",
+            "Comune di Rovigo",
+            "Ufficio scolastico di Padova e Rovigo – Sede di Rovigo",
+            "Ordine dei Medici Chirurghi ed Odontoiatri della provincia di Rovigo",
+            "Ordine degli Avvocati di Rovigo",
+            "Consigliera di Parità di Rovigo",
+            "Servizio Un Nuovo Maschile (Cooperativa Sociale Peter Pan)"
+        ],
+        "soggetti": [
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Conferenza dei Sindaci",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "A.ULSS 5 Polesana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "Viale Tre Martiri, 89 — 45100 Rovigo",
+                "ente_capofila": "sì",
+                "note": "ente capofila della rete territoriale antiviolenza"
+            },
+            {
+                "nome": "Prefettura di Rovigo",
+                "tipo": "Prefettura",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale Ordinario di Rovigo",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ministero dell’Istruzione",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "USR Veneto Ufficio V - Sede di Rovigo",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera Provinciale di Parità di Rovigo",
+                "tipo": "Organismi di parità",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Rovigo",
+                "tipo": "Questura",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale dell'Arma dei Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze di Polizia locali",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza del Polesine",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "titolarità Comune di Rovigo"
+            },
+            {
+                "nome": "Casa Rifugio del Centro Antiviolenza del Polesine",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "gestita dal Centro Antiviolenza del Polesine"
+            },
+            {
+                "nome": "Ufficio scolastico provinciale",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Rovigo",
+                "tipo": "Ordine avvocati",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici Chirurghi ed Odontoiatri della provincia di Rovigo",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comuni afferenti all’A.ULSS 5 Polesana",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "aggregato di Comuni; elenco singoli Comuni non presente nel testo"
+            },
+            {
+                "nome": "Commissione dei Sindaci di Distretto",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "citato anche come Comitati dei Sindaci dei Distretti 1 e 2"
+            },
+            {
+                "nome": "Servizi sociali comunali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi educativi comunali",
+                "tipo": "Settore educativo comunale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Polizia Municipale",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pronto Soccorso Azienda ULSS 5 Polesana",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Reparti Ostetricia e Ginecologia Azienda ULSS 5 Polesana",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pediatria Azienda ULSS 5 Polesana",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultori Familiari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Tutela Minori",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i minorenni",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Rovigo",
+                "tipo": "Comuni",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Adria",
+                "tipo": "Comuni",
+                "comune": "Adria",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "presente Sportello Centro Antiviolenza"
+            },
+            {
+                "nome": "Comune di Lendinara",
+                "tipo": "Comuni",
+                "comune": "Lendinara",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "presente Sportello Centro Antiviolenza"
+            },
+            {
+                "nome": "Ufficio Servizi Sociali del Comune di Lendinara",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Lendinara",
+                "indirizzo": "Via G.B. Conti, 26 - 1° piano",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parità di Rovigo",
+                "tipo": "Organismi di parità",
+                "comune": "Rovigo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Gestori progettualità o servizi rivolti a uomini autori di violenza nelle relazioni affettive",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Un Nuovo Maschile (Cooperativa Sociale Peter Pan)",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "servizio rivolto a uomini autori di violenza"
+            },
+            {
+                "nome": "Gestori Strutture di accoglienza",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Direzione Generale A.ULSS 5 Polesana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "A.ULSS 5 Polesana",
+            "Prefettura di Rovigo",
+            "Procura della Repubblica presso il Tribunale Ordinario di Rovigo",
+            "Conferenza dei Sindaci",
+            "Questura di Rovigo",
+            "Comando Provinciale dell'Arma dei Carabinieri",
+            "Forze di Polizia locali",
+            "Centro Antiviolenza del Polesine",
+            "Casa Rifugio del Centro Antiviolenza del Polesine",
+            "Ufficio scolastico provinciale",
+            "Ordine degli Avvocati di Rovigo",
+            "Ordine dei Medici Chirurghi ed Odontoiatri della provincia di Rovigo",
+            "Comuni afferenti all’A.ULSS 5 Polesana",
+            "Servizi sociali comunali",
+            "Servizi educativi comunali",
+            "Polizia Municipale",
+            "Pronto Soccorso Azienda ULSS 5 Polesana",
+            "Reparti Ostetricia e Ginecologia Azienda ULSS 5 Polesana",
+            "Pediatria Azienda ULSS 5 Polesana",
+            "Consultori Familiari",
+            "Servizio Tutela Minori",
+            "Comune di Rovigo",
+            "Comune di Adria",
+            "Comune di Lendinara",
+            "Ufficio Servizi Sociali del Comune di Lendinara",
+            "Consigliera Provinciale di Parità di Rovigo",
+            "Gestori progettualità o servizi rivolti a uomini autori di violenza nelle relazioni affettive",
+            "Servizio Un Nuovo Maschile (Cooperativa Sociale Peter Pan)",
+            "Gestori Strutture di accoglienza"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt",
+        "firmatari": [
+            "Comune di Castelfranco Veneto",
+            "Comune di Montebelluna",
+            "Comune di Asolo",
+            "Comune di Valdobbiadene",
+            "Azienda Ulss 2 Marca Trevigiana",
+            "Cooperativa Sociale \"Una Casa per l'Uomo\"",
+            "Cooperativa Sociale Iside"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Castelfranco Veneto",
+                "tipo": "Comuni",
+                "comune": "Castelfranco Veneto",
+                "indirizzo": "",
+                "ente_capofila": "Comune di Castelfranco Veneto",
+                "note": "soggetto capofila del protocollo"
+            },
+            {
+                "nome": "Comune di Montebelluna",
+                "tipo": "Comuni",
+                "comune": "Montebelluna",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Asolo",
+                "tipo": "Comuni",
+                "comune": "Asolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Valdobbiadene",
+                "tipo": "Comuni",
+                "comune": "Valdobbiadene",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Vedelago",
+                "tipo": "Comuni",
+                "comune": "Vedelago",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza NILDE del Comune di Castelfranco Veneto",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Castelfranco Veneto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "gestito dalla Cooperativa Sociale Iside"
+            },
+            {
+                "nome": "Centro Antiviolenza Stella Antares",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "gestito dalla Cooperativa Una Casa per l'Uomo"
+            },
+            {
+                "nome": "Casa Alma",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Casa Rifugio di tipo A gestita dalla Cooperativa Una Casa per l'Uomo"
+            },
+            {
+                "nome": "Casa Aurora",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Casa Rifugio di tipo B gestita dalla Cooperativa Una Casa per l'Uomo"
+            },
+            {
+                "nome": "Cambiamento Maschile",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "servizio della Cooperativa Una Casa per l'Uomo"
+            },
+            {
+                "nome": "Cooperativa Sociale Iside",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "gestore Centro Antiviolenza NILDE"
+            },
+            {
+                "nome": "Cooperativa Sociale \"Una Casa per l'Uomo\"",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "gestore Centro Antiviolenza Stella Antares, Casa Alma, Casa Aurora, Cambiamento Maschile"
+            },
+            {
+                "nome": "Azienda Ulss 2 Marca Trevigiana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedali di Castelfranco Veneto e Montebelluna",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Distrettuali dell’Azienda Ulss 2 Marca Trevigiana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Prefettura di Treviso",
+                "tipo": "Prefettura",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale ordinario civile e penale",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i minorenni",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine degli Avvocati di Treviso",
+                "tipo": "Ordine avvocati",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazioni dei Carabinieri di Castelfranco Veneto",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Castelfranco Veneto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazioni dei Carabinieri di Montebelluna",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Montebelluna",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazione dei Carabinieri di Asolo",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Asolo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze di Polizia Municipale e/o di Polizia Locale degli Enti Locali",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Provinciale di Treviso",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Istituto Barsanti di Castelfranco Veneto",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Castelfranco Veneto",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di Parità Provincia di Treviso",
+                "tipo": "Organismi di parità",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali degli Enti Locali con competenza sugli Adulti",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali degli Enti Locali con competenza sui Minori",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Sociale di Base",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio Familiare",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Medici di medicina generale",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Pediatri",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Socio Sanitario di Asolo",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Strutture di Ospitalità del territorio",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Spazi Donna",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "sportelli consulenza"
+            },
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "UEPE (Ufficio Esecuzione Penale Esterna)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Istituto penale “Due Palazzi” di Padova",
+                "tipo": "Altro",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Circondariale di Treviso",
+                "tipo": "Altro",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Circondariale di Belluno",
+                "tipo": "Altro",
+                "comune": "Belluno",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Comune di Asolo"
+        ],
+        "attori_coinvolti": [
+            "Comune di Castelfranco Veneto",
+            "Comune di Montebelluna",
+            "Comune di Asolo",
+            "Comune di Valdobbiadene",
+            "Comune di Vedelago",
+            "Centro Antiviolenza NILDE del Comune di Castelfranco Veneto",
+            "Centro Antiviolenza Stella Antares",
+            "Casa Alma",
+            "Casa Aurora",
+            "Cambiamento Maschile",
+            "Cooperativa Sociale Iside",
+            "Cooperativa Sociale \"Una Casa per l'Uomo\"",
+            "Azienda Ulss 2 Marca Trevigiana",
+            "Ospedali di Castelfranco Veneto e Montebelluna",
+            "Servizi Distrettuali dell’Azienda Ulss 2 Marca Trevigiana",
+            "Prefettura di Treviso",
+            "Procura della Repubblica presso il Tribunale ordinario civile e penale",
+            "Tribunale per i minorenni",
+            "Ordine degli Avvocati di Treviso",
+            "Stazioni dei Carabinieri di Castelfranco Veneto",
+            "Stazioni dei Carabinieri di Montebelluna",
+            "Stazione dei Carabinieri di Asolo",
+            "Forze di Polizia Municipale e/o di Polizia Locale degli Enti Locali",
+            "Ufficio Scolastico Provinciale di Treviso",
+            "Istituto Barsanti di Castelfranco Veneto",
+            "Consigliera di Parità Provincia di Treviso",
+            "Servizi Sociali degli Enti Locali con competenza sugli Adulti",
+            "Servizi Sociali degli Enti Locali con competenza sui Minori",
+            "Servizio Sociale di Base",
+            "Consultorio Familiare",
+            "Medici di medicina generale",
+            "Pediatri",
+            "Comitato dei Sindaci del Distretto Socio Sanitario di Asolo",
+            "Strutture di Ospitalità del territorio",
+            "Spazi Donna"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt",
+        "firmatari": [],
+        "soggetti": [
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Prefettura - Ufficio Territoriale del Governo di Treviso",
+                "tipo": "Prefettura",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Tavolo interistituzionale per la promozione di strategie condivise"
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Socio-Sanitario dell’ex ULSS 9",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali degli Enti Locali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze di Polizia Locale",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda ULSS 2 Marca Trevigiana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Treviso",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ospedale di Oderzo",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Oderzo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Unità Operativa Complessa IAF",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Telefono Rosa di Treviso",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Donne Libere di Quinto di Treviso",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Quinto di Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio 'CasaLuna'",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "tipologia A; accoglienza e protezione donne vittime di violenza e figli minori"
+            },
+            {
+                "nome": "Questura di Treviso",
+                "tipo": "Questura",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale dei Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale - Ufficio VI - Ambito Territoriale di Treviso",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro per il trattamento degli autori di violenza 'Cambiamento Maschile'",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Domus Nostra",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regina Mundi",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Discepole del Vangelo",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Progetto N.a.Ve.",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Farmacisti",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio familiare Centro della Famiglia",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultorio famigliare UCIPEM",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Soroptimist Club Treviso",
+                "tipo": "Altro",
+                "comune": "Treviso",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Equipe Specialistica Interprovinciale in materia di abuso sessuale e grave maltrattamento dei bambini/e e dei ragazzi/e minori di età",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "costituita dalla Regione del Veneto"
+            },
+            {
+                "nome": "Pronto Soccorso Ospedaliero",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Comitato dei Sindaci del Distretto Socio-Sanitario dell’ex ULSS 9",
+            "Servizi Sociali degli Enti Locali",
+            "Forze di Polizia Locale",
+            "Azienda ULSS 2 Marca Trevigiana",
+            "Ospedale di Treviso",
+            "Ospedale di Oderzo",
+            "Unità Operativa Complessa IAF",
+            "Centro Antiviolenza Telefono Rosa di Treviso",
+            "Centro Antiviolenza Donne Libere di Quinto di Treviso",
+            "Casa Rifugio 'CasaLuna'",
+            "Questura di Treviso",
+            "Comando Provinciale dei Carabinieri",
+            "Ufficio Scolastico Regionale - Ufficio VI - Ambito Territoriale di Treviso",
+            "Ordine dei Medici",
+            "Centro per il trattamento degli autori di violenza 'Cambiamento Maschile'",
+            "Domus Nostra",
+            "Regina Mundi",
+            "Discepole del Vangelo",
+            "Progetto N.a.Ve.",
+            "Ordine dei Farmacisti",
+            "Consultorio familiare Centro della Famiglia",
+            "Consultorio famigliare UCIPEM",
+            "Soroptimist Club Treviso",
+            "Equipe Specialistica Interprovinciale in materia di abuso sessuale e grave maltrattamento dei bambini/e e dei ragazzi/e minori di età",
+            "Pronto Soccorso Ospedaliero"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt",
+        "firmatari": [
+            "Comune di Padova",
+            "Prefettura di Padova",
+            "Questura di Padova",
+            "Comando Provinciale Carabinieri",
+            "Tribunale Ordinario di Padova",
+            "Procura della Repubblica presso il Tribunale di Padova",
+            "Tribunale per i Minorenni di Venezia",
+            "Procura della Repubblica presso il Tribunale per i Minorenni di Venezia",
+            "Universita degli Studi di Padova",
+            "Ufficio Scolastico Regionale per il Veneto",
+            "Ufficio V - Ambito Territoriale di Padova e Rovigo - Sede di Padova",
+            "Azienda Ulss 6 Euganea",
+            "Azienda Ospedale-Universita di Padova",
+            "Provincia di Padova",
+            "Consigliera di parita per la Provincia di Padova",
+            "Conferenza dei Sindaci dell’Azienda ULSS 6 Euganea",
+            "Comitato dei Sindaci del Distretto Alta Padovana",
+            "Comitato dei Sindaci del Distretto Padova Sud",
+            "Comitato dei Sindaci del Distretto Padova Bacchiglione, Terme-Colli e Piovese",
+            "Centro Veneto Progetti Donna (Centri antiviolenza provinciali)"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Padova",
+                "tipo": "Comuni",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "si",
+                "note": "Capofila"
+            },
+            {
+                "nome": "Prefettura di Padova",
+                "tipo": "Prefettura",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Questura di Padova",
+                "tipo": "Questura",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comando Provinciale Carabinieri",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale Ordinario di Padova",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Padova",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tribunale per i Minorenni di Venezia",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale per i Minorenni di Venezia",
+                "tipo": "Procura Minorile/Tribunale minorile",
+                "comune": "Venezia",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Universita degli Studi di Padova",
+                "tipo": "Università",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale per il Veneto",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ufficio V - Ambito Territoriale di Padova e Rovigo - Sede di Padova",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ulss 6 Euganea",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Azienda Ospedale-Universita di Padova",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Provincia di Padova",
+                "tipo": "Province/Città metropolitane",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consigliera di parita per la Provincia di Padova",
+                "tipo": "Organismi di parità",
+                "comune": "Padova",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Conferenza dei Sindaci dell’Azienda ULSS 6 Euganea",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Alta Padovana",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Padova Sud",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitato dei Sindaci del Distretto Padova Bacchiglione, Terme-Colli e Piovese",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Veneto Progetti Donna (Centri antiviolenza provinciali)",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Destinatario/informata"
+            },
+            {
+                "nome": "Direzione Servizi sociali",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Struttura interna Regione Veneto"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Comune di Padova",
+            "Prefettura di Padova",
+            "Questura di Padova",
+            "Comando Provinciale Carabinieri",
+            "Tribunale Ordinario di Padova",
+            "Procura della Repubblica presso il Tribunale di Padova",
+            "Tribunale per i Minorenni di Venezia",
+            "Procura della Repubblica presso il Tribunale per i Minorenni di Venezia",
+            "Universita degli Studi di Padova",
+            "Ufficio Scolastico Regionale per il Veneto",
+            "Ufficio V - Ambito Territoriale di Padova e Rovigo - Sede di Padova",
+            "Azienda Ulss 6 Euganea",
+            "Azienda Ospedale-Universita di Padova",
+            "Provincia di Padova",
+            "Consigliera di parita per la Provincia di Padova",
+            "Conferenza dei Sindaci dell’Azienda ULSS 6 Euganea",
+            "Comitato dei Sindaci del Distretto Alta Padovana",
+            "Comitato dei Sindaci del Distretto Padova Sud",
+            "Comitato dei Sindaci del Distretto Padova Bacchiglione, Terme-Colli e Piovese",
+            "Centro Veneto Progetti Donna (Centri antiviolenza provinciali)"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt",
+        "firmatari": [
+            "Prefettura di Vicenza",
+            "Azienda ULSS 7 Pedemontana",
+            "Comitati dei Sindaci dei Distretti 1 e 2",
+            "Associazione Questacitta",
+            "Associazione Casa Sichem",
+            "Centro Ares",
+            "Circolo Giuridico Bassanese",
+            "Comune di Schio",
+            "Comune di Cogollo del Cengio",
+            "Comune di Thiene",
+            "Cooperativa Samarcanda",
+            "Comune di Malo",
+            "Comune di Marano Vicentino",
+            "Congregazione Suore Orsoline del Sacro Cuore di Maria"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura di Vicenza",
+                "tipo": "Prefettura",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Compagnia Carabinieri di Bassano",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Bassano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazioni Carabinieri di Asiago",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Asiago",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Stazioni Carabinieri di Canove",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Canove",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Commissariato di Pubblica Sicurezza di Bassano",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Bassano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Compagnia Carabinieri di Schio",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Schio",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Compagnia Carabinieri di Thiene",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "Thiene",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comitati dei Sindaci dei Distretti 1 e 2",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresentano i Comuni dei due Distretti"
+            },
+            {
+                "nome": "Azienda ULSS 7 Pedemontana",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza Spazio Donna",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "via Schiavonetti 8 - Bassano del Grappa",
+                "ente_capofila": "",
+                "note": "Gestito da Associazione Questacitta di Bassano"
+            },
+            {
+                "nome": "Centro Antiviolenza Hagar",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Asiago",
+                "indirizzo": "via Dalla Zuanna 13, Asiago",
+                "ente_capofila": "",
+                "note": "Gestito da Associazione Casa Sichem di Bassano"
+            },
+            {
+                "nome": "Centro Antiviolenza Schio/Sportello Donna Maria Grazia Cutuli",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Schio",
+                "indirizzo": "Via Pasini 27 - Schio",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Antiviolenza di Cogollo del Cengio",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Cogollo del Cengio",
+                "indirizzo": "Piazza della Liberta - Cogollo del Cengio",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio Tabita",
+                "tipo": "Case Rifugio",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita da Associazione Casa Sichem di Bassano"
+            },
+            {
+                "nome": "Casa Rifugio Schio",
+                "tipo": "Case Rifugio",
+                "comune": "Schio",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita dal Comune di Schio"
+            },
+            {
+                "nome": "Casa Rifugio Il Filo di Roberta",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita da Cooperativa Samarcanda"
+            },
+            {
+                "nome": "Casa Rifugio Villa Savardo",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita da Congregazione Suore Orsoline del Sacro Cuore di Maria"
+            },
+            {
+                "nome": "Casa Rifugio Giovanna Meneghini",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita da Congregazione Suore Orsoline del Sacro Cuore di Maria"
+            },
+            {
+                "nome": "Casa Rifugio Casa della Solidarieta",
+                "tipo": "Case Rifugio",
+                "comune": "Thiene",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestita dal Comune di Thiene"
+            },
+            {
+                "nome": "Centro Ares",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "Via Monte Novegno 7, Bassano del Grappa",
+                "ente_capofila": "",
+                "note": "Per il trattamento di uomini autori di violenza, per entrambi i Distretti"
+            },
+            {
+                "nome": "Circolo Giuridico Bassanese",
+                "tipo": "Altro",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizi Sociali Comune di Bassano del Grappa",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "via Jacopo da Ponte 37 Bassano del Grappa",
+                "ente_capofila": "Comune di Bassano del Grappa",
+                "note": "Responsabile: dott.ssa Daniela Bianchi"
+            },
+            {
+                "nome": "UOS Consultori Familiari Distretto 1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "UOS Consultori Familiari Distretto 2",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Protezione e Tutela Minori Distretto 1",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Sociale del Comune di Thiene",
+                "tipo": "Servizi sociali comunali",
+                "comune": "Thiene",
+                "indirizzo": "",
+                "ente_capofila": "Comune di Thiene",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Donna Malo",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Malo",
+                "indirizzo": "Piazza Zannini, 1 - Malo",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Donna Thiene",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Thiene",
+                "indirizzo": "Galleria Garibaldi,35 - Thiene",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Sportello Donna Anna Filomena Barretta Marano Vicentino",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Marano Vicentino",
+                "indirizzo": "Piazza Silva, 50 — Marano Vicentino",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "ANCI (Associazione Nazionale Comuni Italiani)",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citata per protocollo nazionale"
+            },
+            {
+                "nome": "D.i.Re (Donne in Rete contro la violenza)",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Citata per protocollo nazionale"
+            },
+            {
+                "nome": "Ministero dell'Interno",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario tramite Prefettura di Vicenza"
+            },
+            {
+                "nome": "Congregazione Suore Orsoline del Sacro Cuore di Maria",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestisce Case Rifugio Villa Savardo e Giovanna Meneghini"
+            },
+            {
+                "nome": "Cooperativa Samarcanda",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestisce Casa Rifugio Il Filo di Roberta"
+            },
+            {
+                "nome": "Associazione Questacitta",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestore del Centro Antiviolenza Spazio Donna"
+            },
+            {
+                "nome": "Associazione Casa Sichem",
+                "tipo": "Ente terzo settore - ETS (iscritto al RUNTS)",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestore del Centro Antiviolenza Hagar e Casa Rifugio Tabita"
+            },
+            {
+                "nome": "Comune di Schio",
+                "tipo": "Comuni",
+                "comune": "Schio",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Cogollo del Cengio",
+                "tipo": "Comuni",
+                "comune": "Cogollo del Cengio",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Thiene",
+                "tipo": "Comuni",
+                "comune": "Thiene",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Malo",
+                "tipo": "Comuni",
+                "comune": "Malo",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Marano Vicentino",
+                "tipo": "Comuni",
+                "comune": "Marano Vicentino",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Bassano del Grappa",
+                "tipo": "Comuni",
+                "comune": "Bassano del Grappa",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Capofila per servizi sociali del Distretto 1"
+            },
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Prefettura di Vicenza",
+            "Compagnia Carabinieri di Bassano",
+            "Stazioni Carabinieri di Asiago",
+            "Stazioni Carabinieri di Canove",
+            "Commissariato di Pubblica Sicurezza di Bassano",
+            "Compagnia Carabinieri di Schio",
+            "Compagnia Carabinieri di Thiene",
+            "Comitati dei Sindaci dei Distretti 1 e 2",
+            "Azienda ULSS 7 Pedemontana",
+            "Centro Antiviolenza Spazio Donna",
+            "Centro Antiviolenza Hagar",
+            "Centro Antiviolenza Schio/Sportello Donna Maria Grazia Cutuli",
+            "Centro Antiviolenza di Cogollo del Cengio",
+            "Casa Rifugio Tabita",
+            "Casa Rifugio Schio",
+            "Casa Rifugio Il Filo di Roberta",
+            "Casa Rifugio Villa Savardo",
+            "Casa Rifugio Giovanna Meneghini",
+            "Casa Rifugio Casa della Solidarieta",
+            "Centro Ares",
+            "Circolo Giuridico Bassanese",
+            "Servizi Sociali Comune di Bassano del Grappa",
+            "UOS Consultori Familiari Distretto 1",
+            "UOS Consultori Familiari Distretto 2",
+            "Servizio Protezione e Tutela Minori Distretto 1",
+            "Servizio Sociale del Comune di Thiene",
+            "Sportello Donna Malo",
+            "Sportello Donna Thiene",
+            "Sportello Donna Anna Filomena Barretta Marano Vicentino"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt",
+        "firmatari": [
+            "Prefettura — Ufficio territoriale del Governo di Vicenza",
+            "Tribunale di Vicenza",
+            "Procura della Repubblica presso il Tribunale di Vicenza",
+            "Comune di Vicenza",
+            "Ufficio Scolastico Regionale — Ambito Territoriale VIII di Vicenza",
+            "Azienda ULSS 8 “Berica” di Vicenza",
+            "Conferenza dei Sindaci dell’ Azienda ULSS 8 “Berica”",
+            "Ordine provinciale dei Medici Chirurghi e degli Odontoiatri di Vicenza",
+            "Ordine provinciale degli Avvocati di Vicenza",
+            "Consigliera di Parita della Provincia di Vicenza",
+            "Associazione “Donna Chiama Donna” - Ente Gestore del Centro Antiviolenza di Vicenza",
+            "Casa Rifugio “Villaggio Sos” di Vicenza",
+            "Casa Rifugio “Meneghini” - “Villa Savardo” di Breganze"
+        ],
+        "soggetti": [
+            {
+                "nome": "Prefettura — Ufficio territoriale del Governo di Vicenza",
+                "tipo": "Prefettura",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Tribunale di Vicenza",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Vicenza",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Comune di Vicenza",
+                "tipo": "Comuni",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "soggetto capofila",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Comune di Arzignano",
+                "tipo": "Comuni",
+                "comune": "Arzignano",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordinamento con ente capofila"
+            },
+            {
+                "nome": "Ufficio Scolastico Regionale — Ambito Territoriale VIII di Vicenza",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Azienda ULSS 8 “Berica” di Vicenza",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Conferenza dei Sindaci dell’ Azienda ULSS 8 “Berica”",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresenta i Comuni dell’ambito ULSS 8 - Firmatario"
+            },
+            {
+                "nome": "Ordine provinciale dei Medici Chirurghi e degli Odontoiatri di Vicenza",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Ordine provinciale degli Avvocati di Vicenza",
+                "tipo": "Ordine avvocati",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Consigliera di Parita della Provincia di Vicenza",
+                "tipo": "Organismi di parità",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Associazione “Donna Chiama Donna” - Ente Gestore del Centro Antiviolenza di Vicenza",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Casa Rifugio “Villaggio Sos” di Vicenza",
+                "tipo": "Case Rifugio",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Casa Rifugio “Meneghini” - “Villa Savardo” di Breganze",
+                "tipo": "Case Rifugio",
+                "comune": "Breganze",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario"
+            },
+            {
+                "nome": "Ministero dell'Interno",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza all’atto di sottoscrizione"
+            },
+            {
+                "nome": "Ministro per le Disabilità",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza all’atto di sottoscrizione"
+            },
+            {
+                "nome": "Assessorato Sanità, Servizi Sociali e Programmazione socio-sanitaria della Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presenza all’atto di sottoscrizione"
+            },
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Forze dell'Ordine",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Soggetto aderente alla rete"
+            },
+            {
+                "nome": "Forze di Polizia Locali",
+                "tipo": "Polizia Municipale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Soggetto aderente alla rete"
+            },
+            {
+                "nome": "Servizio Protezione e Tutela dei Minori del Comune di Vicenza",
+                "tipo": "Servizio abusi e maltrattamenti comunale",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            },
+            {
+                "nome": "Ordine degli Avvocati di Vicenza",
+                "tipo": "Ordine avvocati",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Ordine dei Medici Chirurghi e Odontoiatri della Provincia di Vicenza",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Vicenza",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comuni costituenti l’ambito territoriale dell’ Azienda ULSS 8 “Berica”",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Rappresentati dalla Conferenza dei Sindaci"
+            },
+            {
+                "nome": "Pronto Soccorso e presidi di emergenza dell’ AULSS 8 “Berica” dell’ Ospedale di Vicenza, Arzignano, Noventa e Valdagno",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Consultori familiari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            }
+        ],
+        "soggetti_proponenti": [
+            "Prefettura — Ufficio territoriale del Governo di Vicenza",
+            "Tribunale di Vicenza",
+            "Procura della Repubblica presso il Tribunale di Vicenza",
+            "Comune di Vicenza",
+            "Ufficio Scolastico Regionale — Ambito Territoriale VIII di Vicenza",
+            "Azienda ULSS 8 “Berica” di Vicenza",
+            "Conferenza dei Sindaci dell’ Azienda ULSS 8 “Berica”",
+            "Ordine provinciale dei Medici Chirurghi e degli Odontoiatri di Vicenza",
+            "Ordine provinciale degli Avvocati di Vicenza",
+            "Consigliera di Parita della Provincia di Vicenza",
+            "Associazione “Donna Chiama Donna” - Ente Gestore del Centro Antiviolenza di Vicenza",
+            "Casa Rifugio “Villaggio Sos” di Vicenza",
+            "Casa Rifugio “Meneghini” - “Villa Savardo” di Breganze"
+        ],
+        "attori_coinvolti": [
+            "Prefettura — Ufficio territoriale del Governo di Vicenza",
+            "Tribunale di Vicenza",
+            "Procura della Repubblica presso il Tribunale di Vicenza",
+            "Comune di Vicenza",
+            "Comune di Arzignano",
+            "Ufficio Scolastico Regionale — Ambito Territoriale VIII di Vicenza",
+            "Azienda ULSS 8 “Berica” di Vicenza",
+            "Conferenza dei Sindaci dell’ Azienda ULSS 8 “Berica”",
+            "Ordine provinciale dei Medici Chirurghi e degli Odontoiatri di Vicenza",
+            "Ordine provinciale degli Avvocati di Vicenza",
+            "Consigliera di Parita della Provincia di Vicenza",
+            "Associazione “Donna Chiama Donna” - Ente Gestore del Centro Antiviolenza di Vicenza",
+            "Casa Rifugio “Villaggio Sos” di Vicenza",
+            "Casa Rifugio “Meneghini” - “Villa Savardo” di Breganze",
+            "Forze dell'Ordine",
+            "Forze di Polizia Locali",
+            "Servizio Protezione e Tutela dei Minori del Comune di Vicenza",
+            "Comuni costituenti l’ambito territoriale dell’ Azienda ULSS 8 “Berica”",
+            "Pronto Soccorso e presidi di emergenza dell’ AULSS 8 “Berica” dell’ Ospedale di Vicenza, Arzignano, Noventa e Valdagno",
+            "Consultori familiari"
+        ]
+    },
+    {
+        "file": "05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt",
+        "firmatari": [
+            "Tribunale di Verona",
+            "Ufficio del Giudice Tutelare di Verona",
+            "Procura della Repubblica presso il Tribunale di Verona",
+            "Ordine degli Avvocati di Verona",
+            "Direzione Generale Ulss 9 del Veneto",
+            "Comune di Verona",
+            "Azienda Ospedaliera Universitaria Integrata di Verona",
+            "Ordine degli Psicologi del Veneto",
+            "Ordine dei Medici Chirurghi e Odontoiatri di Verona",
+            "Dipartimento di Scienze giuridiche dell’ Università di Verona"
+        ],
+        "soggetti": [
+            {
+                "nome": "Comune di Verona",
+                "tipo": "Comuni",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo, gestione e coordinamento servizi di protezione"
+            },
+            {
+                "nome": "Tribunale di Verona",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Ufficio del Giudice Tutelare di Verona",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Procura della Repubblica presso il Tribunale di Verona",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Ordine degli Avvocati di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Direzione Generale Ulss 9 del Veneto",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Azienda Ulss 9 Scaligera",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Come 'Direzione Generale Ulss 9 del Veneto', soggetto della rete di servizi e firmatario"
+            },
+            {
+                "nome": "Azienda Ospedaliera Universitaria Integrata di Verona",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Ordine degli Psicologi del Veneto",
+                "tipo": "Ordine psicologi e Ordine assistenti sociali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Ordine dei Medici Chirurghi e Odontoiatri di Verona",
+                "tipo": "Ordine medici e odontoiatri e Ordine farmacisti",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Dipartimento di Scienze giuridiche dell’ Università di Verona",
+                "tipo": "Università",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Firmatario del protocollo"
+            },
+            {
+                "nome": "Università di Verona",
+                "tipo": "Università",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coinvolta attraverso il Dipartimento di Scienze Giuridiche"
+            },
+            {
+                "nome": "Regione del Veneto",
+                "tipo": "Regioni/Province Autonome",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Normativa di riferimento, riconoscimento e coordinamento centri sul territorio"
+            },
+            {
+                "nome": "Ulss 9 Scaligera",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Fornitura servizi di tutela, consultori e collaborazioni distrettuali"
+            },
+            {
+                "nome": "U.O.C. Infanzia, Adolescenza, Famiglia e Consultori - AULSS 9 Scaligera",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizi specialistici di prevenzione e protezione"
+            },
+            {
+                "nome": "U.O.S. Consultori Familiari",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Consultori dei quattro Distretti ULSS 9 Scaligera"
+            },
+            {
+                "nome": "Equipe Specialistica provinciale Il FARO",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Supporto minori vittime di maltrattamenti e ausiliario della Polizia Giudiziaria"
+            },
+            {
+                "nome": "U.O.S. Età Evolutiva",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Supporto psicodiagnostico e terapeutico minori"
+            },
+            {
+                "nome": "Comuni dei Distretti 1-2",
+                "tipo": "Comuni",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Gestione servizi di tutela e interventi sostegno per la violenza di genere in collaborazione con Ulss 9"
+            },
+            {
+                "nome": "Consultori Familiari Distretto 4 Ovest Veronese",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione con Servizi Sociali dei Comuni Distretto 4 in attività consulenza e protezione"
+            },
+            {
+                "nome": "Servizi Sociali dei Comuni Distretto 4 Ovest Veronese",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione con Consultori familiari Distretto 4"
+            },
+            {
+                "nome": "Pronto Soccorso Ospedale Mater Salutis",
+                "tipo": "Ospedale (Pronto soccorso, ecc.)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordinamento presa in carico vittime nel Distretto 3 Pianura Veronese"
+            },
+            {
+                "nome": "Carabinieri del territorio Distretto 3",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione nell'accoglienza e rilevazione emergenza"
+            },
+            {
+                "nome": "Consultorio Familiare Distretto 3",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio Sociale dei Comuni Distretto 3",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Comune di Legnago",
+                "tipo": "Comuni",
+                "comune": "Legnago",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Presente centro antiviolenza sul territorio distretto 3"
+            },
+            {
+                "nome": "Centro Antiviolenza Petra",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Centro istituito e gestito dal Comune di Verona"
+            },
+            {
+                "nome": "Telefono Rosa di Verona",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro Petra",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centro antiviolenza Comune di Legnago",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "Legnago",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio Comune di Verona",
+                "tipo": "Case Rifugio",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio Est Veronese",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Casa Rifugio Distretto 4",
+                "tipo": "Case Rifugio",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Centri Antiviolenza della Regione Veneto",
+                "tipo": "CAV/Centri Antiviolenza",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "13 Centri Antiviolenza riuniti nel coordinamento Iris"
+            },
+            {
+                "nome": "Coordinamento Iris",
+                "tipo": "Altro",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Coordinamento dei Centri Antiviolenza della Regione Veneto"
+            },
+            {
+                "nome": "FFOO",
+                "tipo": "Carabinieri/Polizia/altre forze dell'ordine",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Forze dell’ordine, soggetto partecipe nei servizi territoriali"
+            },
+            {
+                "nome": "Magistratura",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione istituzionale"
+            },
+            {
+                "nome": "Avvocatura",
+                "tipo": "Ordine avvocati",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione istituzionale"
+            },
+            {
+                "nome": "Servizi Sociali comunali",
+                "tipo": "Servizi sociali comunali",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione a livello territoriale, gestione accoglienza e protezione"
+            },
+            {
+                "nome": "Servizi specialistici dell’Ulss 9",
+                "tipo": "ASL (consultori familiari e altri servizi territoriali)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione con Comuni e servizi per la tutela"
+            },
+            {
+                "nome": "NAV",
+                "tipo": "Centri/Sportelli di ascolto",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Servizio gestito dal Comune di Verona per recupero aggressori"
+            },
+            {
+                "nome": "Autorità Giudiziaria",
+                "tipo": "Procura Ordinaria/Tribunale/Corte d'appello",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Tavoli di Zona",
+                "tipo": "Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Collaborazione con ASL e altri servizi per il territorio"
+            },
+            {
+                "nome": "Scuole",
+                "tipo": "Scuole/Ufficio scolastico provinciale e regionale",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "Servizio uomini maltrattanti",
+                "tipo": "Associazioni che si occupano di programmi di prevenzione, recupero e trattamento per uomini maltrattanti",
+                "comune": "",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": ""
+            },
+            {
+                "nome": "AIAF Associazione Italiana degli Avvocati per la Famiglia e i Minori, Sezione di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            },
+            {
+                "nome": "Camera Minorile di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            },
+            {
+                "nome": "Cammino, Camera Nazionale Avvocati per le persone, per i minorenni e per le famiglie, Sezione di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            },
+            {
+                "nome": "ONDIF, Osservatorio Nazionale sul Diritto di Famiglia, Sezione di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            },
+            {
+                "nome": "Unione Giuristi Cattolici Italiani, Unione di Verona",
+                "tipo": "Ordine avvocati",
+                "comune": "Verona",
+                "indirizzo": "",
+                "ente_capofila": "",
+                "note": "Aderente al protocollo"
+            }
+        ],
+        "soggetti_proponenti": [],
+        "attori_coinvolti": [
+            "Comune di Verona",
+            "Tribunale di Verona",
+            "Ufficio del Giudice Tutelare di Verona",
+            "Procura della Repubblica presso il Tribunale di Verona",
+            "Ordine degli Avvocati di Verona",
+            "Azienda Ulss 9 Scaligera",
+            "Direzione Generale Ulss 9 del Veneto",
+            "Azienda Ospedaliera Universitaria Integrata di Verona",
+            "Ordine degli Psicologi del Veneto",
+            "Ordine dei Medici Chirurghi e Odontoiatri di Verona",
+            "Dipartimento di Scienze giuridiche dell’ Università di Verona",
+            "U.O.C. Infanzia, Adolescenza, Famiglia e Consultori - AULSS 9 Scaligera",
+            "U.O.S. Consultori Familiari",
+            "Equipe Specialistica provinciale Il FARO",
+            "U.O.S. Età Evolutiva",
+            "Comuni dei Distretti 1-2",
+            "Consultori Familiari Distretto 4 Ovest Veronese",
+            "Servizi Sociali dei Comuni Distretto 4 Ovest Veronese",
+            "Pronto Soccorso Ospedale Mater Salutis",
+            "Carabinieri del territorio Distretto 3",
+            "Consultorio Familiare Distretto 3",
+            "Servizio Sociale dei Comuni Distretto 3",
+            "Comune di Legnago",
+            "Centro Antiviolenza Petra",
+            "Telefono Rosa di Verona",
+            "Centro Petra",
+            "Centro antiviolenza Comune di Legnago",
+            "Casa Rifugio Comune di Verona",
+            "Casa Rifugio Est Veronese",
+            "Casa Rifugio Distretto 4",
+            "Centri Antiviolenza della Regione Veneto",
+            "NAV",
+            "FFOO",
+            "Servizi Sociali comunali",
+            "Servizi specialistici dell’Ulss 9"
+        ]
+    }
+]

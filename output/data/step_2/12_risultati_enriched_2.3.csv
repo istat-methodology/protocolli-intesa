@@ -1,0 +1,949 @@
+file,nome,tipo,comune,comune_runts,comune_fonte,comune_matchato,match_comune,codice_comune,codice_provincia,provincia,sigla_provincia,codice_regione,regione
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,APS Ponte Donna,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,GROTTAFERRATA,comune_runts,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Distretto Sociosanitario VT4,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Centro Antiviolenza Demetra VT4,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Vetralla,Comuni,Vetralla,,comune,Vetralla,exact,056057,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Capranica,Comuni,Capranica,,comune,Capranica,exact,056014,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Bassano Romano,Comuni,Bassano Romano,,comune,Bassano Romano,exact,056005,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Ronciglione,Comuni,Ronciglione,,comune,Ronciglione,exact,056045,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Oriolo Romano,Comuni,Oriolo Romano,,comune,Oriolo Romano,exact,056041,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Carbognano,Comuni,Carbognano,,comune,Carbognano,exact,056016,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Vejano,Comuni,Vejano,,comune,Vejano,exact,056056,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Caprarola,Comuni,Caprarola,,comune,Caprarola,exact,056015,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Sutri,Comuni,Sutri,,comune,Sutri,exact,056049,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Blera,Comuni,Blera,,comune,Blera,exact,056007,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Monterosi,Comuni,Monterosi,,comune,Monterosi,exact,056038,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,Comune di Villa San Giovanni in Tuscia,Comuni,Villa San Giovanni in Tuscia,,comune,Villa San Giovanni in Tuscia,exact,056046,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112823_4166---2AccordoDemetra_Aman.txt,APS Ponte Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Grottaferrata,GROTTAFERRATA,comune,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926112823_4166---2AccordoDemetra_Aman.txt,Centro Antiviolenza Demetra VT4,CAV/Centri Antiviolenza,Vetralla,,comune,Vetralla,exact,056057,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926112823_4166---2AccordoDemetra_Aman.txt,Associazione AMAN,Ente terzo settore - ETS (iscritto al RUNTS),Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926113112_4166---4AccordoSpaziosupportodonnaAPSPonteDonna.txt,Associazione Ponte Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,GROTTAFERRATA,comune_runts,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113112_4166---4AccordoSpaziosupportodonnaAPSPonteDonna.txt,Centro Antiviolenza Demetra VT4,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926113112_4166---4AccordoSpaziosupportodonnaAPSPonteDonna.txt,Associazione Spazio Supporto Donna-APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ORIOLO ROMANO,comune_runts,Oriolo Romano,exact,056041,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Centro Antiviolenza Universita della Tuscia,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Ordine degli assistenti sociali,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,I.T.C. Vanni,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,coop ALICENOVA,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Tavolo Interistituzionale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Procura,Procura Ordinaria/Tribunale/Corte d'appello,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Comune,Comuni,,PIGLIO,comune_runts,Piglio,exact,060053,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Forze dell’Ordine (polizia e Carabinieri),Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Centri antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Ordine degli Avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Comune di Viterbo,Comuni,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,APS Casa delle Donne Lucha y Siesta,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Centro Antiviolenza ‘Sara Di Pietrantonio’ Universita ROMA TRE Roma,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,APS Differenza Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Centro Antiviolenza presso L’Universita di Tor Vergata Roma,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,APS Ponte Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Grottaferrata,GROTTAFERRATA,comune,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Centro Antiviolenza presso L’Universita della Tuscia Viterbo,CAV/Centri Antiviolenza,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Universita della Tuscia,Università,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Universita ROMA TRE Roma,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,Universita di Tor Vergata Roma,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926113409_4166---AccordoICSPietroVanniFormazionePontedonna.txt,Ministero dell’istruzione e del merito,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926113409_4166---AccordoICSPietroVanniFormazionePontedonna.txt,Istituto Comprensivo Statale “Pietro Vanni”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_240926113409_4166---AccordoICSPietroVanniFormazionePontedonna.txt,Centro Antiviolenza Universita della Tuscia,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,APS Ponte Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Grottaferrata,GROTTAFERRATA,comune,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,Cooperativa Alicenova,IMPRESE SOCIALI,Tarquinia,TARQUINIA,comune,Tarquinia,exact,056050,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,Centro Antiviolenza presso l’Universita della Tuscia,CAV/Centri Antiviolenza,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,Centro Antiviolenza Demetra VT4,CAV/Centri Antiviolenza,Vetralla,,comune,Vetralla,exact,056057,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,Universita della Tuscia,Università,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,Consiglio Regionale dell’Ordine degli Assistenti Sociali del Lazio,Ordine psicologi e Ordine assistenti sociali,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,Associazione PONTE DONNA APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Ariccia,GROTTAFERRATA,comune,Ariccia,exact,058009,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,Università della Tuscia,Università,,,none,,none,,,,,,
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,Consiglio Nazionale,ALTRI ENTI DEL TERZO SETTORE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,Ministro della Giustizia,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt,APS Ponte Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,GROTTAFERRATA,comune_runts,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt,ASD Underdog Social Club,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt,Centro Antiviolenza “Marielle Franco”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,APS Ponte Donna,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,GROTTAFERRATA,comune_runts,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,APS MammeFuori,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,NETTUNO,comune_runts,Nettuno,exact,058072,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,Centro Antiviolenza “Marielle Franco”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,Riserva Naturale Regionale di Tor Caldara,Altro,Anzio,,comune,Anzio,exact,058007,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,Ministero dell’istruzione e del merito,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,Ufficio Scolastico Regionale per il Lazio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,ITET EMANUELA LOI,Scuole/Ufficio scolastico provinciale e regionale,Nettuno,,comune,Nettuno,exact,058072,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,Associazione Ponte Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,GROTTAFERRATA,comune_runts,Grottaferrata,exact,058046,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,"centro antiviolenza Sovradistrettuale Arde, Pomezia Nettuno Anzio “Marielle Franco”",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,INAIL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926133329_4166---ProtInt2CAVFRANCARAME-18-20(1).txt,Associazione Nazionale Volontarie Telefono Rosa — ODV,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926133329_4166---ProtInt2CAVFRANCARAME-18-20(1).txt,Centro Astalli per l’assistenza agli immigrati ODV,ORGANIZZAZIONI DI VOLONTARIATO,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926133452_4166---PISPICGIL.txt,SPI CGIL II LEGA RREVA,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_240926133452_4166---PISPICGIL.txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926133452_4166---PISPICGIL.txt,Cav “Franca Rame”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Comune di Cisterna di Latina,Comuni,Cisterna di Latina,,comune,Cisterna di Latina,exact,059005,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Servizio Sociale Professionale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Pronto Intervento Sociale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Consulta delle Donne,CAV/Centri Antiviolenza,,CIVITAVECCHIA,comune_runts,Civitavecchia,exact,058032,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Comando di Polizia Locale,Polizia Municipale,,,nome,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Commissariato di Polizia di Stato di Cisterna di Latina,Carabinieri/Polizia/altre forze dell'ordine,Cisterna di Latina,,comune,Cisterna di Latina,exact,059005,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Carabinieri di Cisterna di Latina,Carabinieri/Polizia/altre forze dell'ordine,Cisterna di Latina,,comune,Cisterna di Latina,exact,059005,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Distretto Socio Sanitario Lt-1,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Consultori Familiari,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Ufficio Scolastico Territoriale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Ministero dell‘Istruzione,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Ufficio Scolastico Regionale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Associazione Centro Donna Lilith,CAV/Centri Antiviolenza,,LATINA,comune_runts,Latina,exact,059011,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,"Sportelli di ascolto, orientamento e sostegno",Centri/Sportelli di ascolto,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Casa Rifugio Emily,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Centri antiviolenza presso le sedi di Latina e di Aprilia (Centro Donna Lilith),CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Sportello antiviolenza Comune di Cori,CAV/Centri Antiviolenza,Cori,,comune,Cori,exact,059006,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Sportello antiviolenza Comune di Cisterna di Latina,CAV/Centri Antiviolenza,Cisterna di Latina,,comune,Cisterna di Latina,exact,059005,059,Latina,LT,12,Lazio
+12_2406_rta_12_240926133706_4166---STAR.txt,Associazioni del Terzo Settore,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Cilo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926133706_4166---STAR.txt,Centro per l'Impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Prefettura- U.T.G. di Frosinone,Prefettura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Procura della Repubblica presso il Tribunale di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Azienda Sanitaria Locale di Frosinone,ASL (consultori familiari e altri servizi territoriali),Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Consiglio dell’Ordine degli Avvocati di Frosinone,Ordine avvocati,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Questura di Frosinone,Questura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Comando Provinciale dell’Arma dei Carabinieri di Frosinone,Carabinieri/Polizia/altre forze dell'ordine,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Risorse Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Diaconia Soc.Coop Sociale,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,APS Calcutta,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Auser del Frusinate,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,FROSINONE,comune_runts,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Organizzazioni Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,centri antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,case rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,servizi territoriali competenti per la tutela dei minori,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,enti locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,agenzie per la casa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt,PARSEC COOPERATIVA SOCIALE A R.L.,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt,ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA - APS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt,ASL Roma 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,Associazione Tra le Donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,Associazione Nazionale Volontarie Telefono Rosa — Onlus,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,Dipartimenti universitari,Università,,,none,,none,,,,,,
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,Programma Integra scs,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,Associazione Casa delle Donne Lucha y Siesta,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,Casa Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,Casa di semiautonomia per donne in difficoltà,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,"Sportello di orientamento, ascolto e accoglienza per donne e minori in difficoltà",CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Municipio Roma V,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,"Roma Capitale - Dipartimento Partecipazione, Comunicazione e Pari Opportunità",Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,"ASL Roma 2 - 5 Distretto, UOC Tutela della Salute della Donna e dell’Eta Evolutiva, UOC Tutela e Salute Mentale e Riabilitazione in Eta Evolutiva",ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Ospedale Sandro Pertini,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Policlinico Casilino,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Ospedale Madre Giuseppina Vannini,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Rete Scolastica di Ambito Territoriale 3,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,"Questura di Roma - Commissariati di P.S. Prenestino, Torpignattara e Porta Maggiore",Questura,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Polizia di Roma Capitale - V Gruppo Prenestino,Polizia Municipale,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,ASS. DONNA & POLITICHE FAMILIARI,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,ASSOLE,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,DIFFERENZA DONNA,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,ASS. HUESERA,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,ANTEAS Roma,ORGANIZZAZIONI DI VOLONTARIATO,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,BE-FEREE,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,A.GE.D.O.,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Associazione Casa delle donne Lucha y Siesta,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Centro Antiviolenza “Angela Merlin”,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Ministero dell'Interno — Dipartimento di Pubblica Sicurezza — Direzione Centrale Anticrimine,Altro,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Comando Generale dell’Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Dipartimento di Pubblica Sicurezza — Questura di Roma,Questura,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,"Municipi IV, V, VI, VII, VIII e IX",Comuni,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Case per la semi autonomia,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,Osservatorio sul fenomeno della violenza di genere nel territorio del Municipio Roma V,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Prefettura di Rieti,Prefettura,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Procura della Repubblica di Rieti,Procura Ordinaria/Tribunale/Corte d'appello,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Tribunale di Rieti,Procura Ordinaria/Tribunale/Corte d'appello,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Procura della Repubblica presso il Tribunale dei Minorenni di Roma,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Questura di Rieti,Questura,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Comando Provinciale dei Carabinieri di Rieti,Carabinieri/Polizia/altre forze dell'ordine,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Comando Provinciale della Guardia di Finanza,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Azienda Sanitaria Locale di Rieti,ASL (consultori familiari e altri servizi territoriali),Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ordine dei Medici della Provincia di Rieti,Ordine medici e odontoiatri e Ordine farmacisti,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ordine degli Psicologi del Lazio,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Centro Antiviolenza Il Nido di Ana,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ufficio Scolastico Regionale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ufficio Scolastico Regionale — Ambito Territoriale di Rieti,Scuole/Ufficio scolastico provinciale e regionale,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ufficio Scolastico Provinciale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Comune di Rieti,Comuni,Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Servizio Sociale Professionale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Servizio Educativo,Settore educativo comunale,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Procura Generale presso la Corte d’Appello di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Corte d’Appello di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Pronto Soccorso del Presidio Ospedaliero S. Camillo De Lellis di Rieti,"Ospedale (Pronto soccorso, ecc.)",Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Dipartimento di Emergenza e Accettazione del DEA di Primo Livello del Presidio Ospedaliero S. Camillo De Lellis di Rieti,"Ospedale (Pronto soccorso, ecc.)",Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Forze di Polizia,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,Ambiti Territoriali della Provincia di Rieti,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",Rieti,,comune,Rieti,exact,057059,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt,Associazione Nazionale Volontarie Telefono Rosa - OdV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt,Comitato di Quartiere San Lorenzo,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt,Stato Italiano,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt,Associazione APS Happy Coaching and Counseling Roma,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Morlupo,CAPENA,comune,Morlupo,exact,058068,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt,Associazione Nazionale Volontarie Telefono Rosa - APS,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt,ASviS,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241002110138_4166---3protCAVSAPIENZA-laGRU.txt,Associazione La GRU - Germogli di Rinascita Urbana APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002110138_4166---3protCAVSAPIENZA-laGRU.txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,,,none,,none,,,,,,
+12_2406_rta_12_241002110138_4166---3protCAVSAPIENZA-laGRU.txt,Sapienza in Movimento,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002110904_4166---5protCAVSAPIENZA-RUOTALIBERACOOPERATIVASOCIALE.txt,Associazione Nazionale Volontarie Telefono Rosa - OdV,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002110904_4166---5protCAVSAPIENZA-RUOTALIBERACOOPERATIVASOCIALE.txt,Cooperativa Ruotalibera Coop. Soc. Onlus,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002110904_4166---5protCAVSAPIENZA-RUOTALIBERACOOPERATIVASOCIALE.txt,Centrale Preneste,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,NAPTENZAC UN MOVIMENTOR,Altro,Rema,,comune,,none,,,,,,
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,Ente terzo settore - ETS (iscritto al RUNTS),Reaa,,comune,,none,,,,,,
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,Sapienza in Movimento,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,Universita Sapienza di Roma,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,Centri Anti Violenza della Regione Lazio,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,"UNIVERSITA’ POPOLARE VITATTIVA a.p.6,8.d",Altro,ROMA,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA ~ ONLUS,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,Agsociazioni Sportive,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,Servizi coinvolti nel trattamento della violenza alle donne ed ai minorenni,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002113235_4166---8protCAVSAPIENZA-RETAKEROMAODV.txt,RETAKE ROMA ODV,ORGANIZZAZIONI DI VOLONTARIATO,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002113235_4166---8protCAVSAPIENZA-RETAKEROMAODV.txt,ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — OdV,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002114038_4166---1protCAVTITANO-8-10DidascoSoc.Coop.Soc.txt,DEDASCO Cooperativa Sociale,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002114038_4166---1protCAVTITANO-8-10DidascoSoc.Coop.Soc.txt,Associazione Nazionale Volontarie Telefono Rosa — APS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002114038_4166---1protCAVTITANO-8-10DidascoSoc.Coop.Soc.txt,Centro di Riabilitazione Accreditato (DCA U00389 del 19/09/2019),Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt,Gli Amici di Conca D’Oro APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt,Associazione Nazionale Volontarie Telefono Rosa — APS,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt,Parco delle Valli,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,IDEA PRISMA 82 Cooperativa Sociale,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,Associazione Nazionale Volontarie Telefono Rosa — APS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,Sportello informativo per l’accesso ai servizi sociosanitari del territorio,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,LL1 Municipio di Roma Capitale,Comuni,Roma Capitale,,comune,,none,,,,,,
+12_2406_rta_12_241002120506_4166---4protCAVTITANO-ASSOCIAZIONESolidarietàLaicaeResponsabileSO.LA.RE.Onlus.txt,ASSOCIAZIONE SOlidarieta LAica e REsponsabile - SO.LA.RE. ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241002120506_4166---4protCAVTITANO-ASSOCIAZIONESolidarietàLaicaeResponsabileSO.LA.RE.Onlus.txt,ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA — OdV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,Associazione Alliance for African Assistance,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,Associazione Nazionale Volontarie Telefono Rosa — ODV,Ente terzo settore - ETS (iscritto al RUNTS) costituito da donne per le donne,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,case per la semiautonomia,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Tribunale Ordinario di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Tribunale per i Minorenni di Roma,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Procura Ordinaria presso Tribunale di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Procura presso il Tribunale per i Minorenni di Roma,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Consiglio Ordine Avvocati di Roma,Ordine avvocati,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Differenza Donna ONG,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Bee Free Cooperativa Sociale,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Associazioni che gestiscono i Centri Antiviolenza e le case rifugio della Regione Lazio,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Consiglio Superiore della Magistratura,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,CISIA,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Spazio famiglie e minori,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Prima Sezione Civile - Tribunale Ordinario di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,Nona Sezione Civile — Ufficio del giudice tutelare - Tribunale Ordinario di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,Associazione Salvamamme,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,Associazione Nazionale Volontarie Telefono Rosa — ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,CAV del Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,Case Rifugio del Telefono Rosa,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,C.R.I.,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003093443_4166---7Protocollod'intesa-Donneinrinascita.txt,ASSOCIAZIONE NAZIONALE VOLONTARIE TELEFONO ROSA ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003093443_4166---7Protocollod'intesa-Donneinrinascita.txt,Associazione Donne in Rinascita,Ente terzo settore - ETS (iscritto al RUNTS),Udine,,comune,Udine,exact,030129,030,Udine,UD,06,Friuli-Venezia Giulia
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,I.C. “Giorgi”,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Cooperativa “La Ginestra”,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,PRIVERNO,comune_runts,Priverno,exact,059019,059,Latina,LT,12,Lazio
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,La Ginestra - Centro di accoglienza per donne e minori in difficoltà,CAV/Centri Antiviolenza,,PRIVERNO,comune_runts,Priverno,exact,059019,059,Latina,LT,12,Lazio
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Associazione Nazionale Volontarie del Telefono Rosa - Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,MIUR,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Asl,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Ente Locale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,Croce Rossa Italiana,ORGANIZZAZIONI DI VOLONTARIATO,,ORTE,comune_runts,Orte,exact,056042,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,Centro di ascolto U.LL Mobbing & Stalking contro tutte le violenze,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,Associazione Nazionale Volontarie Telefono Rosa Onlus,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,UIL,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,Societa interinali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,Patronato,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,CAF,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003100516_4166---1ProtCAVPAOLALATTESLibroteka(1).txt,Associazione Nazionale Volontarie Telefono Rosa — APS,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003100516_4166---1ProtCAVPAOLALATTESLibroteka(1).txt,ACR La Librotéca,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Obiettivo Uomo Societa Cooperativa Sociale Ets,IMPRESE SOCIALI,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Formazione Obiettivo Uomo Societa Cooperativa Sociale Onlus,IMPRESE SOCIALI,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Centro Famiglie Nuovi Legami,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Municipio VII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Centro per le famiglie “Famiglie in Centro”,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Municipio Roma I Centro,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Famiglie in Centro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Ohana,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,TORRICELLA IN SABINA,comune_runts,Torricella in Sabina,exact,057069,057,Rieti,RI,12,Lazio
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Municipio II,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Centro per la famiglia,ORGANIZZAZIONI DI VOLONTARIATO,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Municipio V,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Servizio di Sostegno piscologico ai nuclei familiari,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Centro per le famiglie di II livello,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,ASL RM 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Centro Antiviolenza in Municipio Roma IX,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Municipio Roma IX,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,UNAR,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Chiesa Valdese,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Consiglio Nazionale dell’Ordine degli Assistenti Sociali,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,Case di Semiautonomia,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,MUNICIPIO XV di ROMA CAPITALE,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,DIFFERENZA DONNA - ASSOCIAZIONE DI DONNE CONTRO LA VIOLENZA ALLE DONNE APS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Centro Antiviolenza di Roma Capitale “Alda Merini”,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Casa Rifugio di Roma Capitale di Via Cassia 639,Case Rifugio,,,nome,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Roma Capitale,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Osservatorio nazionale sul fenomeno della violenza,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,cabina di regia inter istituzionale,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Osservatori regionali permanenti sul bullismo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Uffici scolastici regionali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Aziende sanitarie,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Aziende ospedaliere,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Governo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Regioni,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,province autonome di Trento e di Bolzano,Province/Città metropolitane,,,nome,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,autonomie locali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Stato,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,Autorità garante per l'infanzia e l'adolescenza,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Universita degli Studi di Roma Foro Italico,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Municipio Roma XV,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Centro Antiviolenza di Roma Capitale “Alda Merini”,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Casa Rifugio di Roma Capitale di via Cassia 639,Case Rifugio,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Roma Capitale,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Centri antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Case rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Governo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Regioni,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Province autonome di Trento e Bolzano,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Enti locali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Comitato Unico di Garanzia,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Numero Nazionale Antiviolenza e Stalking 1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Presidenza del Consiglio dei Ministri,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Garante per la Protezione dei Dati Personali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,Agenzia delle Entrate - Ufficio di Roma 1,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,ASL Roma 1 - Distretto 1,ASL (consultori familiari e altri servizi territoriali),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,Consultori Familiari regionali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,Risorse Sociali Territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,Numero Nazionale di pubblica utilità Antiviolenza e Stalking 1522,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Municipio Roma I Centro,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Associazione Differenza Donna — ONLUS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Centro Antiviolenza,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Servizio Cultura,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Servizio Scuola,Settore educativo comunale,,,none,,none,,,,,,
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,Scuole di ogni ordine e grado del Municipio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241003110812_4166---ALLIANCEFORAFRICANASSISTANCE_colasantilopez.txt,Alliance for African Assistance Italy,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241003110812_4166---ALLIANCEFORAFRICANASSISTANCE_colasantilopez.txt,ASSOCIAZIONE DIFFERENZA DONNA APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003110812_4166---ALLIANCEFORAFRICANASSISTANCE_colasantilopez.txt,Casa Rifugio Centro Comunale Antiviolenza “D. Colasanti e R. Lopez”,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio Roma V,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,"Roma Capitale - Dipartimento Partecipazione, Comunicazione e Pari Opportunità",Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,"ASL Roma 2 - 5 Distretto, UOC Tutela della Salute della Donna e dell’Eta Evolutiva, UOC Tutela e Salute Mentale e Riabilitazione in Eta Evolutiva",ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Ospedale Sandro Pertini,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Policlinico Casilino,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Ospedale Madre Giuseppina Vannini,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Rete Scolastica di Ambito Territoriale 3,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Questura di Roma,Questura,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Commissariato di P.S. Prenestino,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Commissariato di P.S. Torpignattara,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Commissariato di P.S. Porta Maggiore,Carabinieri/Polizia/altre forze dell'ordine,,,nome,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Polizia di Roma Capitale – V Gruppo Prenestino,Polizia Municipale,,,nome,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Associazione Dire,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,LADISPOLI,comune_runts,Ladispoli,exact,058116,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Be Free,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Associazione Agedo Roma,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Anteas Roma,ORGANIZZAZIONI DI VOLONTARIATO,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Nuove Risposte,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Coordinamento Sociale Onlus AN,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,CGIL Rieti Roma Eva,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,CISL Roma Capitale Rieti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,UIL Lazio,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Ministero dell’Interno – Dipartimento di Pubblica Sicurezza – Direzione Centrale Anticrimine,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Comando Generale dell’Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Dipartimento di Pubblica Sicurezza – Questura di Roma,Questura,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio IV,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio V,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio VI,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio VII,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio VIII,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Municipio IX,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,Case per la semi autonomia,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,CREDICI s.r.l.,Servizi per l'impiego,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Centri antiviolenza gestiti dall’Associazione Differenza Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Case Rifugio gestite dall’Associazione Differenza Donna,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Centri antitratta gestiti dall’Associazione Differenza Donna,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Case di Semiautonomia gestite dall’Associazione Differenza Donna,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,sportelli Codice Rosa gestiti dall’Associazione Differenza Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,Numero Nazionale di pubblica utilità Antiviolenza e Stalking 1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,"ASL ROMA 4 - UOC Tutela Salute Donna, Coppie, Prevenzione Eta Evolutiva, Soggetti Fragili ed Immigrati",ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Centro Antiviolenza Galassia,CAV/Centri Antiviolenza,Formello,,comune,Formello,exact,058038,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Consorzio Valle del Tevere,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Ospedale Padre Pio di Bracciano,"Ospedale (Pronto soccorso, ecc.)",Bracciano,,comune,Bracciano,exact,058013,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Ospedale San Paolo di Civitavecchia,"Ospedale (Pronto soccorso, ecc.)",Civitavecchia,,comune,Civitavecchia,exact,058032,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Tribunali,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Sportello Famiglia e Minori presso il TC di Civitavecchia,Centri/Sportelli di ascolto,Civitavecchia,,comune,Civitavecchia,exact,058032,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Istituti Scolastici,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,Risorse Sociali Territoriali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Comune di Trevignano Romano,Comuni,Trevignano Romano,,comune,Trevignano Romano,exact,058107,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Centro Antiviolenza “Galassia”,CAV/Centri Antiviolenza,Formello,,comune,Formello,exact,058038,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Consorzio Valle del Tevere,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Distretto 3,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Distretto 4,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Distretto 1,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Distretto 2,"Ambiti della programmazione sociale e socio-sanitaria (Ambiti Sociali, Piani di Zona, Distretti socio-sanitari, Società della Salute)",,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,ASL RM 4,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Sportello Ospedaliero “Codice Rosa”,Centri/Sportelli di ascolto,,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Ospedale Padre Pio di Bracciano,"Ospedale (Pronto soccorso, ecc.)",Bracciano,,comune,Bracciano,exact,058013,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Ospedale San Paolo di Civitavecchia,"Ospedale (Pronto soccorso, ecc.)",Civitavecchia,,comune,Civitavecchia,exact,058032,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Numero Nazionale di pubblica utilita Antiviolenza e Stalking 1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,Risorse Sociali Territoriali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,CREDICI s.r.l.,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Centri antiviolenza gestiti dall’Associazione Differenza Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Case Rifugio gestite dall’Associazione Differenza Donna,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Centri antitratta gestiti dall’Associazione Differenza Donna,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Case di Semiautonomia gestite dall’Associazione Differenza Donna,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,sportelli Codice Rosa gestiti dall’Associazione Differenza Donna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,Numero Nazionale di pubblica utilita Antiviolenza e Stalking 1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,ROMA VOLLEY SSD ARL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,DIFFERENZA DONNA APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,Case di Semiautonomia,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Municipio XIII di Roma Capitale,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Centro Antiviolenza di Roma Capitale “Palmina Martinelli”,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,ASL RM 1,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,TSMREE,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,C.S.M,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Presidi Ospedalieri prossimi al Municipio XIII,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Forze dell'Ordine del territorio,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Servizio Sociale,Servizi sociali comunali,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Direzione Educativa Municipale,Settore educativo comunale,,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Terzo settore attivo sulla tematica,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Uffici scolastici regionali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,TRIBUNALE ORDINARIO DI ROMA,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,TRIBUNALE PER I MINORENNI DI ROMA,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,PROCURA ORDINARIA PRESSO TRIBUNALE DI ROMA,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,PROCURA PRESSO IL TRIBUNALE PER I MINORENNI,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,CONSIGLIO ORDINE AVVOCATI DI ROMA,Ordine avvocati,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,DIFFERENZA DONNA,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,TELEFONO ROSA,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,BEE FREE COOPERATIVA SOCIALE,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Consiglio dell’Ordine degli Avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Consiglio Superiore della Magistratura,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Associazioni che gestiscono i Centri Antiviolenza e le case rifugio della Regione Lazio,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,CISIA,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Spazio famiglie e minori istituito presso la Prima Sezione Civile del TO,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,case rifugio della Regione Lazio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241003115852_4166---SISTEMABIBLIOTECARIOLASAPIENZA.txt,Centro Sistema Bibliotecario Sapienza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003115852_4166---SISTEMABIBLIOTECARIOLASAPIENZA.txt,Associazione Differenza Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003115852_4166---SISTEMABIBLIOTECARIOLASAPIENZA.txt,Sistema Bibliotecario Sapienza SBS,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,ASL Roma 5,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Associazione Differenza Donna - Associazione di Donne contro la violenza alle donne Onlus,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Procura della Repubblica presso il Tribunale di Tivoli,Procura Ordinaria/Tribunale/Corte d'appello,Tivoli,,comune,Tivoli,exact,058104,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Centro Antiviolenza La Sibilla,CAV/Centri Antiviolenza,Tivoli,,comune,Tivoli,exact,058104,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Consultori,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,TSMREE,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Sportello Ospedaliero Antiviolenza Ospedale San Giovanni Evangelista di Tivoli,Centri/Sportelli di ascolto,Tivoli,,comune,Tivoli,exact,058104,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Sportello Ospedaliero Antiviolenza Ospedale Leopoldo Parodi Delfino di Colleferro,Centri/Sportelli di ascolto,Colleferro,,comune,Colleferro,exact,058034,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Ospedale San Giovanni Evangelista di Tivoli,"Ospedale (Pronto soccorso, ecc.)",Tivoli,,comune,Tivoli,exact,058104,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Ospedale Leopoldo Parodi Delfino di Colleferro,"Ospedale (Pronto soccorso, ecc.)",Colleferro,,comune,Colleferro,exact,058034,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Tribunale Ordinario di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Tribunale per i Minorenni di Roma,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Procura Ordinaria presso Tribunale di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Procura presso il Tribunale per i Minorenni,Procura Minorile/Tribunale minorile,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Consiglio Ordine Avvocati di Roma,Ordine avvocati,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Differenza Donna ONG,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Telefono Rosa,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Bee Free Cooperativa Sociale,CAV/Centri Antiviolenza,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Associazioni che gestiscono i Centri Antiviolenza e le case rifugio della Regione Lazio,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Consiglio Superiore della Magistratura,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,CISIA,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Spazio famiglie e minori istituito presso la Prima Sezione Civile del TO,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,Servizi sociali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt,Associazione Nazionale Volontarie Telefono Rosa — APS,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt,Associazione Culturale Torraccia A.S.D.,ORGANIZZAZIONI DI VOLONTARIATO,Roma,VENTOTENE,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt,Comune di Roma,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt,CONI,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,Associazione di Promozione Sociale Genitori x la Scuola — APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,Scuola,Scuole/Ufficio scolastico provinciale e regionale,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,Case famiglie/Centri Accoglienza,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,Istituzioni Scolastiche,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Associazione Sportiva Dilettantistica Enjoy More,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,BNKR Skatepark,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Case Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Polizia Municipale,Polizia Municipale,,,none,,none,,,,,,
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,Settore educativo comunale,Settore educativo comunale,,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Associazione Nazionale Volontarie Telefono Rosa - ONLUS,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Liberi Nantes ASD,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Con i Bambini,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Fondazione Laureus,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Play for Change,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,Campo Sportivo XXV Aprile di Pietralata,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,cooperative sociali,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,associazioni,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,parrocchie,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004093800_4166---6protCavPaolaLattesComitatodiQuartiere“CittadinidiColliAniene.txt,Associazione Nazionale Volontarie Telefono Rosa — OdV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004093800_4166---6protCavPaolaLattesComitatodiQuartiere“CittadinidiColliAniene.txt,Comitato di Quartiere “Cittadini di Colli Aniene Bene Comune”,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004093800_4166---6protCavPaolaLattesComitatodiQuartiere“CittadinidiColliAniene.txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,Associazione Nazionale Volontarie Telefono Rosa OdV,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,Associazione COMITATO DI QUARTIERE “COMPRENSORIO PRATOLUNGO”,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,Comune,Comuni,,PIGLIO,comune_runts,Piglio,exact,060053,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,Stato Italiano,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004095020_4166---8protCAVPAOLALATTES(ComitatodiQuartiereRebibbia(1).txt,Associazione Nazionale Volontarie Telefono Rosa — APS,Ente terzo settore - ETS (iscritto al RUNTS),Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004095020_4166---8protCAVPAOLALATTES(ComitatodiQuartiereRebibbia(1).txt,Comitato di Quartiere Rebibbia,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004095020_4166---8protCAVPAOLALATTES(ComitatodiQuartiereRebibbia(1).txt,Associazione ACRI-Gente di Aguzzano,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004100148_4166---910protCAVPAOLALATTESCooperativaSocialeLineaSociale-Onlus(1).txt,Associazione Nazionale Volontarie Telefono Rosa — APS,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004100148_4166---910protCAVPAOLALATTESCooperativaSocialeLineaSociale-Onlus(1).txt,Cooperativa Sociale LINEA SOCIALE - Onlus,IMPRESE SOCIALI,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004100148_4166---910protCAVPAOLALATTESCooperativaSocialeLineaSociale-Onlus(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt,Associazione Nazionale Volontarie Telefono Rosa — ONLUS,CAV/Centri Antiviolenza,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt,Associazione Gli Amici di Roberto OdV,ORGANIZZAZIONI DI VOLONTARIATO,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt,Biblioteche di Roma,Altro,,,nome,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt,Biblioteca Aldo Fabrizi,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt,Associazione Nazionale Volontarie Telefono Rosa OdV,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt,Comitato di Quartiere Torraccia,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt,Stato Italiano,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Centro Antiviolenza “RINASCITA”,CAV/Centri Antiviolenza,Cassino,,comune,Cassino,exact,060019,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Associazione Kalimess ODV,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Cassino,CASSINO,comune,Cassino,exact,060019,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Casa rifugio “Essere Libera”,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Associazione Risorse Donna APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Casa Save,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Ministero del lavoro e delle politiche sociali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,Corpo della Polizia Locale del Comune di Cerveteri,Polizia Municipale,Cerveteri,,comune,Cerveteri,exact,058029,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,Be Free Societa Cooperativa Sociale,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,Centri Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,ARTEINSIEME SOCIETA’ COOPERATIVA SOCIALE,Ente terzo settore - ETS (iscritto al RUNTS),FORMIA,,comune,Formia,exact,059008,059,Latina,LT,12,Lazio
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,Centro Donna Lilith Aps,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Latina,LATINA,comune,Latina,exact,059011,059,Latina,LT,12,Lazio
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,Centro Antiviolenza LiberA di Priverno,CAV/Centri Antiviolenza,Priverno,,comune,Priverno,exact,059019,059,Latina,LT,12,Lazio
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,"Casa rifugio ""Emily""",Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,"Commissione Territoriale, competente per territorio",Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Prefettura- U.T.G. di Frosinone,Prefettura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Procura della Repubblica presso il Tribunale di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Azienda Sanitaria Locale di Frosinone,ASL (consultori familiari e altri servizi territoriali),Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Consiglio dell’Ordine degli Avvocati di Frosinone,Ordine avvocati,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Questura di Frosinone,Questura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Comando Provinciale dell’Arma dei Carabinieri di Frosinone,Carabinieri/Polizia/altre forze dell'ordine,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Risorse Donna APS,CAV/Centri Antiviolenza,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Diaconia Soc.Coop Sociale,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,APS Calcutta,CAV/Centri Antiviolenza,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Auser del Frusinate,CAV/Centri Antiviolenza,,FROSINONE,comune_runts,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Corte di Appello di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Azienda speciale Frosinone Formazione e Lavoro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Uffici Scolastici del territorio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Istituti di istruzione e formazione professionale,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Comitato Pari Opportunita (CPO),Organismi di parità,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Ordini forensi del Lazio,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Organizzazioni Antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,centri antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,case rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,presidi ospedalieri,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,servizi territoriali competenti per la tutela dei minori,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,enti locali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,agenzie per la casa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Prefettura- U.T.G. di Frosinone,Prefettura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Procura della Repubblica presso il Tribunale di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Azienda Sanitaria Locale di Frosinone,ASL (consultori familiari e altri servizi territoriali),Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Consiglio dell’Ordine degli Avvocati di Frosinone,Ordine avvocati,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Questura di Frosinone,Questura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Comando Provinciale dell’Arma dei Carabinieri di Frosinone,Carabinieri/Polizia/altre forze dell'ordine,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Risorse Donna APS,CAV/Centri Antiviolenza,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Diaconia Soc.Coop Sociale,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,APS Calcutta,CAV/Centri Antiviolenza,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Auser del Frusinate,CAV/Centri Antiviolenza,,FROSINONE,comune_runts,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Ordini forensi del Lazio,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Uffici Scolastici del territorio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Istituti di istruzione e di formazione professionale,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Consiglio d’Europa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Procura Generale presso la Corte di Appello di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Frosinone Formazione e Lavoro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Tavolo Provinciale sulle Pari Opportunita,Organismi di parità,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,Comitato Pari Opportunita (CPO),Organismi di parità,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,organizzazioni antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,centri antiviolenza,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,case rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,servizi territoriali competenti per la tutela dei minori,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,enti locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,agenzie per la casa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Prefettura- U.T.G. di Frosinone,Prefettura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Procura della Repubblica presso il Tribunale di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Azienda Sanitaria Locale di Frosinone,ASL (consultori familiari e altri servizi territoriali),Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Consiglio dell’Ordine degli Avvocati di Frosinone,Ordine avvocati,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Uffici Scolastici del territorio,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Istituti di istruzione,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Istituti di formazione professionale,Scuole/Ufficio scolastico provinciale e regionale,,,nome,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Ordini forensi del Lazio,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Comitato Pari Opportunità (CPO),Organismi di parità,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Questura di Frosinone,Questura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Comando Provinciale dell’Arma dei Carabinieri di Frosinone,Carabinieri/Polizia/altre forze dell'ordine,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Risorse Donna APS,CAV/Centri Antiviolenza,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Diaconia Soc.Coop Sociale,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,APS Calcutta,CAV/Centri Antiviolenza,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Auser del Frusinate,CAV/Centri Antiviolenza,,FROSINONE,comune_runts,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Associazione Volontarie Telefono Rosa Frosinone-Regione Lazio ODV,CAV/Centri Antiviolenza,,CECCANO,comune_runts,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Centro Unico d’ascolto,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Pronto Soccorso di ogni presidio ospedaliero,"Ospedale (Pronto soccorso, ecc.)",,,nome,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Direzione Medica Ospedaliera,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Consultorio Familiare,ASL (consultori familiari e altri servizi territoriali),,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Procura Generale presso la Corte di Appello di Roma,Procura Ordinaria/Tribunale/Corte d'appello,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Azienda speciale Frosinone Formazione e Lavoro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,progetto Artemis,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,servizi territoriali competenti per la tutela dei minori,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,servizi sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,enti locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,agenzie per la casa,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,Provincia di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,Associazione Volontarie Telefono Rosa Frosinone Regione Lazio ODV,Ente terzo settore - ETS (iscritto al RUNTS),Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,RUNTS,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,Istituti scolastici,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,Organismi di Parita dell’Ente Provincia,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Ministero della Giustizia,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Tribunale Ordinario di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Associazione Volontarie del Telefono Rosa Frosinone Regione Lazio ODV,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Stato,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Regioni,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Province,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,ULEPE,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,"Ministero della Giustizia — Dipartimento Giustizia Minorile e di Comunita, Direzione Generale per l’Esecuzione Penale Esterna e di Messa alla Prova",Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,Cancelleria del Tribunale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,QUESTURA DI FROSINONE,Questura,,,nome,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,TELEFONO ROSA FROSINONE REGIONE LAZIO ODV,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,Direzione Centrale della Polizia Criminale - Servizio Analisi Criminale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,Associazione Volontarie Telefono Rosa Frosinone Regione Lazio Odv,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,scuole di ogni ordine e grado della provincia,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Comune di Ceccano,Comuni,Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Associazione Volontarie Telefono Rosa Frosinone - Centro di Orientamento per i diritti delle Donne Onlus,CAV/Centri Antiviolenza,Ceccano,CECCANO,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Centro di Orientamento per i diritti delle Donne Onlus,CAV/Centri Antiviolenza,Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,,,nome,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Rete Provinciale antiviolenza,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Prefettura,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Procura,Procura Ordinaria/Tribunale/Corte d'appello,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Associazioni Enti Locali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Comune di Ceccano,Comuni,Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Consultorio,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Case rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Centro di formazione e per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Case di semi-autonomia,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Settore VII - Servizi Sociali,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,Ufficio Regionale preposto,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE,CAV/Centri Antiviolenza,,CECCANO,comune_runts,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,AMMINISTRAZIONE LOCALE DI VALLECORSA,Comuni,Vallecorsa,,comune,Vallecorsa,exact,060082,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Amministrazioni Provinciali,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Prefetture,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Amministrazioni Civiche dei Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Ordine degli avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Enti pubblici,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Enti Privati,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Unita Sanitarie Locali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Reparti Ginecologia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Neonatologia Pediatria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Coldiretti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Associazione L‘Impegno,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Associazione Libera,CAV/Centri Antiviolenza,,MONTORIO ROMANO,comune_runts,Montorio Romano,exact,058066,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,UNICEF,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,AVIS,ORGANIZZAZIONI DI VOLONTARIATO,,SEZZE,comune_runts,Sezze,exact,059028,059,Latina,LT,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Caritas,ALTRI ENTI DEL TERZO SETTORE,,VELLETRI,comune_runts,Velletri,exact,058111,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Casa Famiglia Leroux,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,CONI,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Organismi di Parità,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,Servizi sociali dell’Amministrazione locale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE Centro di Orientamento per le Donne,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,AMMINISTRAZIONE LOCALE DI VILLA SANTO STEFANO,Comuni,Villa Santo Stefano,,comune,Villa Santo Stefano,exact,060090,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Regione,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Amministrazioni Provinciali,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Amministrazioni Locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Forze dell’ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Asl,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Pronto Soccorsi,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Coldiretti,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Impresa Donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CAPENA,comune_runts,Capena,exact,058018,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Associazioni contro la violenza,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Ministero dell’Interno,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Prefetture,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Organismi di Parità,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,Servizi sociali dell’ Amministrazione Locale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,ISTAT,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Associazione Volontarie Telefono Rosa Frosinone-Regione Lazio ODV-Centro di Orientamento per le Donne,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Amministrazione Locale di Falvaterra,Comuni,Falvaterra,,comune,Falvaterra,exact,060032,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Regione,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Amministrazioni Provinciali,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Amministrazioni Locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Forze dell’ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Asl,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Pronto Soccorsi,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Coldiretti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Impresa Donne,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CAPENA,comune_runts,Capena,exact,058018,258,Roma,RM,12,Lazio
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Associazioni contro la violenza,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Ministero dell’Interno,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Prefetture,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Enti Locali,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,Organismi di Parità,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,ISTAT,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV (Centro di Orientamento per le Donne),CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,AMMINISTRAZIONE LOCALE DI ARCE,Comuni,Arce,,comune,Arce,exact,060008,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Amministrazione Provinciale,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Prefettura,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Ordine degli avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Unita Sanitarie Locali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Reparti Ginecologia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Neonatologia Pediatria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Coldiretti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Associazioni,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV (Centro di Orientamento per le Donne),CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,AMMINISTRAZIONE LOCALE DI COLFELICE,Comuni,Colfelice,,comune,Colfelice,exact,060027,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Provincia di Frosinone,Province/Città metropolitane,,,nome,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Prefettura,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Ordine degli avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Forze dell'Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Unita Sanitarie Locali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Reparti Ginecologia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Reparti Neonatologia Pediatria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Coldiretti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Organismi di parità,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,Associazioni,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE,CAV/Centri Antiviolenza,,CECCANO,comune_runts,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,AMMINISTRAZIONE LOCALE DI PASTENA,Comuni,Pastena,,comune,Pastena,exact,060047,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Provincia di Frosinone,Province/Città metropolitane,,,nome,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Prefetture,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Amministrazioni Civiche dei Comuni,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Tribunale,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Ordine degli avvocati,Ordine avvocati,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Enti pubblici,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Enti Privati,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Unita Sanitarie Locali,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Pronto Soccorso,"Ospedale (Pronto soccorso, ecc.)",,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Reparti Ginecologia,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Neonatologia Pediatria,"Ospedale (Pronto soccorso, ecc.)",,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Uffici Scolastici Provinciali,Scuole/Ufficio scolastico provinciale e regionale,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Coldiretti,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Associazione L’Impegno,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Associazione Libera,CAV/Centri Antiviolenza,,MONTORIO ROMANO,comune_runts,Montorio Romano,exact,058066,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Associazione Unicef,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Associazione Avis,ORGANIZZAZIONI DI VOLONTARIATO,,CASTELNUOVO DI PORTO,comune_runts,Castelnuovo di Porto,exact,058024,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Caritas,ALTRI ENTI DEL TERZO SETTORE,,VELLETRI,comune_runts,Velletri,exact,058111,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Casa Famiglia Leroux,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Coni,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Ministero dell'Interno,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Organismi di Parita,Organismi di parità,,,nome,,none,,,,,,
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,Servizi sociali dell’Amministrazione locale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Sapienza Universita di Roma,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Facolta di Medicina e Psicologia,Università,,,none,,none,,,,,,
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Ass.Volont. Telefono Rosa WAG FALCONE FrosinoneReg.Lazio-ODV,Ente terzo settore - ETS (iscritto al RUNTS),Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,MIUR,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Ministero della Salute,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Consiglio di Amministrazione di Sapienza Universita di Roma,Università,,,nome,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Ordine,Ordine psicologi e Ordine assistenti sociali,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,Segreteria Studenti dei Corsi di Laurea di area psicologica della Facolta di Medicina e Psicologia,Università,,,none,,none,,,,,,
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,INAIL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,Università degli Studi UNIVERSITAS MERCATORUM,Università,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,Associazione Volontarie Telefono Rosa Frosinone,ORGANIZZAZIONI DI VOLONTARIATO,Ceccano,CECCANO,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,INAIL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,ITALIANA ASSICURAZIONI,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,Ministero dell'Università e della Ricerca (MUR),Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,Ministero della Salute,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,MIUR,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,Ordine degli Psicologi,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Universita degli Studi dell'Aquila,Università,L'Aquila,,comune,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Dipartimento di Scienze Cliniche Applicate e Biotecnologiche,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONELAZIO-ODV Centro di Orientamento per le Donne,Ente terzo settore - ETS (iscritto al RUNTS),Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Provincia delegata,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Regione,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Ministero del Lavoro e della Previdenza sociale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Rappresentanze Sindacali dei Lavoratori,Sindacati/Associazioni di categoria,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,INAIL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Ordine degli Psicologi della Regione Abruzzo,Ordine psicologi e Ordine assistenti sociali,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Segreteria Amministrativa Didattica del Dipartimento di Scienze Cliniche Applicate e Biotecnologiche,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Settore Orientamento Tutorato e Placement dell'Universita degli Studi di L'Aquila,Altro,,,nome,L'Aquila,exact,066049,066,L'Aquila,AQ,13,Abruzzo
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Segreteria Studenti,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,Centro per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Università Telematica eCampus,Università,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Comune di Ceccano,Comuni,Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Associazione Volontarie Telefono Rosa Frosinone Regione Lazio ODV - Centro di Orientamento per le Donne,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Istituto Nazionale per l’assicurazione contro gli infortuni sul lavoro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,"Conferenza Permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano",Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Stato,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Regioni,Regioni/Province Autonome,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Province autonome di Trento e Bolzano,Province/Città metropolitane,,,none,,none,,,,,,
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,Garante per la protezione dei dati personali,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008103723_4166---17-ConvenzioneconilLiceoScientificoeLinguisticoCECCANO.txt,Liceo Scientifico e Linguistico Statale di Ceccano,Scuole/Ufficio scolastico provinciale e regionale,Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008103723_4166---17-ConvenzioneconilLiceoScientificoeLinguisticoCECCANO.txt,Associazione volontarie Telefono Rosa Frosinone Regione Lazio ODV - Centro di Orientamento per le Donne,Ente terzo settore - ETS (iscritto al RUNTS),Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008103723_4166---17-ConvenzioneconilLiceoScientificoeLinguisticoCECCANO.txt,INAIL,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008104436_4166---18-ConvenzioneconilLiceoScientificoelinguisticoMartinoFileticodiFERENTINO.txt,Istituto di Istruzione Superiore Martino Filetico,Scuole/Ufficio scolastico provinciale e regionale,Ferentino,,comune,Ferentino,exact,060033,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008104436_4166---18-ConvenzioneconilLiceoScientificoelinguisticoMartinoFileticodiFERENTINO.txt,Associazione Volontarie Telefono Rosa Frosinone Regione Lazio ODV - Centro di Orientamento per le Donne,Ente terzo settore - ETS (iscritto al RUNTS),Ceccano,,comune,Ceccano,exact,060024,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Comune di Viterbo,Comuni,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Asl di Viterbo,ASL (consultori familiari e altri servizi territoriali),,,nome,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Centro Antiviolenza Penelope,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Centro Antiviolenza Erinna,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Centro Antiviolenza Universita della Tuscia,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Casa Rifugio,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Prefettura,Prefettura,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Questura di Viterbo,Questura,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Comando Provinciale Arma dei Carabinieri,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Procura della Repubblica,Procura Ordinaria/Tribunale/Corte d'appello,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Tribunale di Viterbo,Procura Ordinaria/Tribunale/Corte d'appello,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Ordine Awvocati di Viterbo,Ordine avvocati,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Camera Civile di Viterbo,Altro,Viterbo,,comune,Viterbo,exact,056059,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Associazioni Terzo Settore,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Udepe,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,Universita della Tuscia,Università,,,none,,none,,,,,,
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Prefettura- U.T.G. di Frosinone,Prefettura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Procura della Repubblica presso il Tribunale di Frosinone,Procura Ordinaria/Tribunale/Corte d'appello,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Amministrazione Provinciale di Frosinone,Province/Città metropolitane,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Azienda Sanitaria Locale di Frosinone,ASL (consultori familiari e altri servizi territoriali),Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Consiglio dell’Ordine degli Avvocati di Frosinone,Ordine avvocati,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Questura di Frosinone,Questura,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Comando Provinciale dell’Arma dei Carabinieri di Frosinone,Carabinieri/Polizia/altre forze dell'ordine,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Risorse Donna APS,CAV/Centri Antiviolenza,,SORA,comune_runts,Sora,exact,060074,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Diaconia Soc.Coop Sociale,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,APS Calcutta,CAV/Centri Antiviolenza,,FIUGGI,comune_runts,Fiuggi,exact,060035,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Auser del Frusinate,CAV/Centri Antiviolenza,,FROSINONE,comune_runts,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV,CAV/Centri Antiviolenza,Frosinone,,comune,Frosinone,exact,060038,060,Frosinone,FR,12,Lazio
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,ASL,ASL (consultori familiari e altri servizi territoriali),,,none,,none,,,,,,
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,1522,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,centri per l'impiego,Servizi per l'impiego,,,none,,none,,,,,,
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,Fondazione Arché Onlus,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,Be Free Società Cooperativa Sociale,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,C.A.V. SOS Donna — “Nilde Iotti”,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,scuole,Scuole/Ufficio scolastico provinciale e regionale,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008150836_4166---2.prot.txt,ASPIC per la scuola,Altro,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008150836_4166---2.prot.txt,Be Free Societa Cooperativa Sociale,IMPRESE SOCIALI,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008150836_4166---2.prot.txt,Associazione di promozione sociale DOMUS ASF,ASSOCIAZIONI DI PROMOZIONE SOCIALE,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008150836_4166---2.prot.txt,Municipio VIII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008150836_4166---2.prot.txt,Forze dell’Ordine,Carabinieri/Polizia/altre forze dell'ordine,,,none,,none,,,,,,
+12_2406_rta_12_241008151247_4166---3.prot.txt,Centro Italiano di Solidarieta don Mario Picchi ETS,ALTRI ENTI DEL TERZO SETTORE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151247_4166---3.prot.txt,Be Free Societa Cooperativa Sociale,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151247_4166---3.prot.txt,CAV SOS Donna — Nilde Iotti,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241008151247_4166---3.prot.txt,La Casa — Centro di Pronta Accoglienza per donne,CAV/Centri Antiviolenza,,,nome,,none,,,,,,
+12_2406_rta_12_241008151247_4166---3.prot.txt,Il Giardino dei Ciliegi - Casa per la semiautonomia per donne,Case Rifugio,,,none,,none,,,,,,
+12_2406_rta_12_241008151247_4166---3.prot.txt,Comune di Roma,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151247_4166---3.prot.txt,Provincia di Roma,Province/Città metropolitane,,,nome,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151247_4166---3.prot.txt,Municipio VIII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008151247_4166---3.prot.txt,Municipio XV,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241008151837_4166---4.prot..txt,La Nuova Arca Societa Cooperativa Sociale,IMPRESE SOCIALI,Roma,ROMA,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151837_4166---4.prot..txt,Cooperativa Be Free,IMPRESE SOCIALI,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241008151837_4166---4.prot..txt,CAV Nilde Iotti,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Millepiani APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Soc. Coop. BeFree,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241009123601_4166---5.accordo.txt,CAV Nilde lotti,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Municipio VIII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Roma Capitale,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Consiglio del Cibo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Riconoscere OdV,ORGANIZZAZIONI DI VOLONTARIATO,,NEPI,comune_runts,Nepi,exact,056039,056,Viterbo,VT,12,Lazio
+12_2406_rta_12_241009123601_4166---5.accordo.txt,Amaita Intercultura APS,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009123601_4166---5.accordo.txt,LoosenArt,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125120_4166---6.accordo.txt,Municipio Roma VIII,Comuni,Roma,,comune,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009125120_4166---6.accordo.txt,Roma Capitale,Comuni,,,none,,none,,,,,,
+12_2406_rta_12_241009125120_4166---6.accordo.txt,"BeFree Societa Cooperativa Sociale contro Tratta, Violenze e Discriminazioni",Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125120_4166---6.accordo.txt,CAV 'Nilde lotti',CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241009125120_4166---6.accordo.txt,Servizio Sociale Territoriale,Servizi sociali comunali,,,none,,none,,,,,,
+12_2406_rta_12_241009125120_4166---6.accordo.txt,Servizi Educativi,Settore educativo comunale,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Replay Network aps,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,ROMA,comune_runts,Roma,exact,058091,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Cooperativa Sociale BeFree,Ente terzo settore - ETS (iscritto al RUNTS),,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,CAV Nilde lotti,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,CAV Buonocore,CAV/Centri Antiviolenza,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Municipio Roma VIII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Municipio Roma XIV,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Municipio Roma XIII,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Spazio educativo Myo,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Spazio educativo Linkiostro,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,PUC Decor-Azion,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,PUC Cura del Verde,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,PUC Insieme per La Nuova Arca e la Scuola e il Quartiere,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,coop. agricola sociale integrate G. Garibaldi,Altro,,,none,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,impresa sociale Oltre,ASSOCIAZIONI DI PROMOZIONE SOCIALE,,CAPENA,comune_runts,Capena,exact,058018,258,Roma,RM,12,Lazio
+12_2406_rta_12_241009125640_4166---7.accordo.txt,centro di risorse PROXIMA,Altro,,,nome,,none,,,,,,
+12_2406_rta_12_241009125640_4166---7.accordo.txt,Regione Lazio,Regioni/Province Autonome,,,none,,none,,,,,,

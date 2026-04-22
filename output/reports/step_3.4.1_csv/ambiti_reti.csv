@@ -1,0 +1,239 @@
+﻿file,ambito_territoriale,livello_prevalente,comune_prevalente,provincia_prevalente,regione_prevalente,lat,lon,n_soggetti,n_firmatari,n_proponenti,n_attori,n_governance,n_governance_generica,n_enti_capofila,ente_capofila_principale,bucket_ambito
+01_2406_rta_01_240904110730_4166---protocollocontuttelefirme(1).txt,regionale,comune,Alba,Cuneo,Piemonte,44.68986768,7.9239456399999995,9,5,1,5,1,0,2,Comune di Bra,regionale
+01_2406_rta_01_240904120005_4166---protocollo.txt,regionale,comune,Biella,Biella,Piemonte,45.53273028,8.038532653333334,34,15,1,24,6,0,1,Consorzio Intercomunale Servizi Socio Assistenziali del Biellese Orientale C.LS.S.A.B.O.,regionale
+01_2406_rta_01_240904121349_4166---convenzione.txt,regionale,comune,Biella,Biella,Piemonte,45.5319133,8.039566285714287,29,12,0,15,1,0,0,,regionale
+01_2406_rta_01_240904122512_4166---accordoSFD.txt,provinciale,comune,Biella,Biella,Piemonte,45.56116795789474,8.0596374,26,2,0,16,3,0,0,,provinciale
+01_2406_rta_01_240904150044_4166---Protocollocav-irene2022-2025.txt,provinciale,comune,Borgomanero,Novara,Piemonte,45.71001029,8.52565181,29,8,0,11,1,0,0,,provinciale
+01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt,regionale,comune,Pinerolo,Torino,Piemonte,45.0432791,7.398463757142857,26,5,0,20,11,0,0,,regionale
+01_2406_rta_01_240909103717_4166---PROTOCOLLORETEANTIVIOLENZASVOLTADONNA.txt,regionale,comune,Pinerolo,Torino,Piemonte,45.120542775000004,7.5206832,14,3,2,11,0,0,0,,regionale
+01_2406_rta_01_240909110828_4166---PROTOCOLLOHELP.txt,regionale,comune,Torino,Torino,Piemonte,45.0473001,7.5844926210526316,23,18,1,19,1,0,1,CENTRI ANTIVIOLENZA E.M.M.A. ONLUS,regionale
+01_2406_rta_01_240909112136_4166---convenzionecarmagnola.txt,comunale,comune,Carmagnola,Torino,Piemonte,44.92208209999999,7.7056217333333334,8,3,0,7,2,0,0,,comunale
+01_2406_rta_01_240909113151_4166---CONVENZIONERIVOLI.txt,comunale,comune,Rivoli,Torino,Piemonte,45.0701331,7.533828,7,2,1,3,1,0,0,,comunale
+01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt,comunale,comune,Torino,Torino,Piemonte,45.0732891,7.6806958,21,2,2,7,2,0,0,,comunale
+01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt,regionale,comune,Cuneo,Cuneo,Piemonte,44.50128775833334,7.643436245833333,38,24,1,24,1,0,1,Consorzio Socio Assistenziale del Cuneese,regionale
+01_2406_rta_01_240920123646_4166---vercellieos.txt,provinciale,comune,Vercelli,Vercelli,Piemonte,45.40812475882353,8.35651875882353,24,20,20,21,5,0,0,,provinciale
+01_2406_rta_01_240924140705_4166---LesConvenzionecoprogettazione.txt,comunale,comune,Novara,Novara,Piemonte,45.4493165,8.71673125,9,5,0,7,2,0,0,,comunale
+01_2406_rta_01_241002150739_4166---DeliberaCostituzioneOsservatorioSaluteDonne.txt,regionale,comune,Torino,Torino,Piemonte,45.07328909999999,7.6806958,34,2,2,24,4,0,0,,regionale
+01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt,provinciale,comune,Torino,Torino,Piemonte,45.05380816153846,7.657567346153845,29,9,7,23,7,0,0,,provinciale
+01_2406_rta_01_241003115621_4166---ProtocolloCISCirie.txt,comunale,comune,Chivasso,Torino,Piemonte,45.299451266666665,7.768584933333333,8,2,0,2,0,0,0,,comunale
+01_2406_rta_01_241003120726_4166---Protocollod'intesaCISSAC-Puntoacapo.txt,comunale,comune,Chivasso,Torino,Piemonte,45.24933385,7.88930625,6,2,0,2,1,0,0,,comunale
+01_2406_rta_01_241003124847_4166---2024-8928-2perinvio.txt,regionale,comune,,,,,,13,8,0,8,0,0,0,,regionale
+01_2406_rta_01_241018134519_4166---Protocollooperativointeristituzionaleviolenzadigenere2023-2026def.txt,regionale,comune,Ceva,Cuneo,Piemonte,44.5453914,7.96632725,16,5,0,7,0,0,0,,regionale
+01_2406_rta_01_241018142716_4166---protocolloreteVC.txt,provinciale,comune,Vercelli,Vercelli,Piemonte,45.33146973684211,8.320429931578948,23,20,21,22,2,0,0,,provinciale
+01_2406_rta_01_241018142804_4166---ConvenzioneASL-Prontosoccorsoceva.txt,regionale,comune,Ceva,Cuneo,Piemonte,44.387953575,7.914203474999999,8,2,0,2,0,0,0,,regionale
+02_2406_rta_02_240904124958_4166---lrn4del25feb2013.txt,regionale,comune,Aosta,Valle D'Aosta/Vallée D'Aoste,Valle D'Aosta/Vallée D'Aoste,45.70315385,7.5050251,25,0,1,13,0,0,0,,regionale
+03_2406_rta_03_240918151606_4166---A_RetePavia_Protocollo2021_e_Integrazioni2023_firmato_compressed.txt,regionale,comune,Pavia,Pavia,Lombardia,45.173662963333335,9.12783855,37,37,20,37,5,0,1,Comune di Pavia,regionale
+03_2406_rta_03_240918153156_4166---Protocollo_d'Intesa_Rete_Mantova.prot.txt,provinciale,comune,Mantova,Mantova,Lombardia,45.178833315000006,10.684276095,37,30,30,36,1,0,1,Comune di Mantova,provinciale
+03_2406_rta_03_240918153240_4166---Protocollod'intesaperl'IstituzionediunSistemaTerritorialeAntiviolenzainReteconAddendumSindacati.txt,regionale,comune,Lecco,Lecco,Lombardia,45.827899068965515,9.38019082413793,51,34,23,48,8,0,0,,regionale
+03_2406_rta_03_240918153252_4166---Protocollo+Appendice+LineeGuida_Datatodafirmare.txt,regionale,comune,Cremona,Cremona,Lombardia,45.20689054634146,10.0012454,62,57,23,59,3,0,2,Comune di Cremona,regionale
+03_2406_rta_03_240920093134_4166---Protocollo_Intesa_Rete_Antiviolenza_SudEstMilano_Paullese_2021-2023.txt,provinciale,comune,Mediglia,Milano,Lombardia,45.408611574999995,9.4304331,35,14,3,35,1,0,2,Comune di San Donato Milanese,provinciale
+03_2406_rta_03_240920120751_4166---protocollodiintesa.txt,provinciale,comune,Legnano,Milano,Lombardia,45.513456873076926,8.950128638461539,61,50,2,59,2,0,2,Comune di Cerro Maggiore,provinciale
+03_2406_rta_03_240920124656_4166---ProtocolloantiviolenzaDEFINITIVO(1).txt,provinciale,comune,Bergamo,Bergamo,Lombardia,45.62299620769231,9.85834413076923,26,21,1,26,1,0,1,Comunita Montana Valle Brembana,provinciale
+03_2406_rta_03_240923101524_4166---PROTOCOLLO_DI_INTESA_versione_DEFINITIVA2021.stamped.txt,provinciale,comune,Brescia,Brescia,Lombardia,45.52096103777778,10.165851715555556,78,78,17,78,0,0,1,Comune di Brescia,provinciale
+03_2406_rta_03_240923102947_4166---ProtSOTTOSCRITTO_ReteAntiviolenzaPiuIntegrazioneAprile2024(1).txt,provinciale,comune,Sondrio,Sondrio,Lombardia,46.019738366666665,9.859779466666668,33,26,12,26,4,0,1,Comune di Sondrio,provinciale
+03_2406_rta_03_240923103647_4166---protocolloreteantiviolenzacinisello2019(1).txt,provinciale,comune,Cinisello Balsamo,Milano,Lombardia,45.54153369666666,9.239038310000002,59,12,12,58,3,0,1,Comune di Cinisello Balsamo,provinciale
+03_2406_rta_03_240923105244_4166---ProtocolloViolenzaMilanoFirme2023.txt,provinciale,comune,Milano,Milano,Lombardia,45.469881216666664,9.374183038888889,48,41,10,48,0,0,1,Comune di Milano,provinciale
+03_2406_rta_03_240923111659_4166---ProtocolloantiviolenzaComunediLodi_scansioneconfirme_maggio2014.txt,regionale,comune,Lodi,Lodi,Lombardia,45.26602419545455,9.614812081818181,26,23,17,24,3,0,0,,regionale
+03_2406_rta_03_240923113114_4166---ProtocolloReteAddaMartesanasottoscritto.txt,regionale,comune,Melzo,Milano,Lombardia,45.517726044,9.470613296,70,67,11,49,3,0,1,Comune di Melzo,regionale
+03_2406_rta_03_240923114012_4166---23-9-2024ProtocolloReteRita_signed_signed_signedDEF_signed_signed-signed_signed(1).txt,provinciale,comune,Bergamo,Bergamo,Lombardia,45.621200290000004,9.867728045,37,37,3,36,0,0,1,Comune di Seriate,provinciale
+03_2406_rta_03_240923163715_4166---PROTOCOLLOD'INTESA2017_2020.txt,regionale,comune,Varese,Varese,Lombardia,45.687640316666666,9.213299372222222,44,26,0,37,4,2,1,Comune di Varese,regionale
+"03_2406_rta_03_240923164603_4166---ProtocolloreteantiviolenzaBusto,Gallarate,Saronno,SommaLombardo-2024.txt",regionale,comune,Busto Arsizio,Varese,Lombardia,45.66956594411765,8.858051617647059,44,9,1,39,3,0,6,Comune di Busto Arsizio,regionale
+03_2406_rta_03_240923165401_4166---PROTOCOLLODIrete2020-2023_rev2confirmescan.txt,provinciale,comune,Desenzano Del Garda,Brescia,Lombardia,45.54098334545454,10.3124786,24,0,0,24,0,0,1,Comune di Desenzano del Garda,provinciale
+03_2406_rta_03_240923171949_4166---PROTOCOLLOD'INTESARETETERRITORIALEANTIVIOLENZAVALLETROMPIA2024.txt,provinciale,comune,Ghedi,Brescia,Lombardia,45.604239196774195,10.118764677419355,46,27,19,46,5,1,1,COMUNITA’ MONTANA DI VALLE TROMPIA,provinciale
+03_2406_rta_03_240924144947_4166---Protocollod'IntesaReteAntiviolenzaIsolaBergamascaeBassaValSanMartino2024.txt,regionale,comune,Bergamo,Bergamo,Lombardia,45.67209527435897,9.584898392307693,43,43,0,43,3,0,1,Comune di Terno d’Isola,regionale
+03_2406_rta_03_240925144919_4166---RETEDICOMO-PROTOCOLLOINTERIST.17novembre2023(1).txt,provinciale,comune,Como,Como,Lombardia,45.759278344827585,9.280605755172415,37,35,17,36,0,0,1,Comune di Como,provinciale
+03_2406_rta_03_240925150245_4166---ProtocolloReteARIAPalazzolo.txt,regionale,comune,Palazzolo Sull'Oglio,Brescia,Lombardia,45.54657350517241,9.995748289655172,63,62,4,62,1,0,2,Comune di Palazzolo sull'Oglio,regionale
+03_2406_rta_03_240926114940_4166---ProtocollodiintesaeAllegatoTecnico_SOTTOSCRITTO.txt,provinciale,comune,Bergamo,Bergamo,Lombardia,45.6238496826087,9.651986413043478,27,23,13,27,1,0,1,Comune di Treviglio,provinciale
+03_2406_rta_03_240926122051_4166---Protocollomonz.txt,regionale,comune,Monza,Monza E Della Brianza,Lombardia,45.568353552380955,9.41451750952381,45,32,28,32,0,0,1,Ambito territoriale di Monza,regionale
+03_2406_rta_03_240926122707_4166---ProtocolloReteAntiviolenzaconfirme.txt,regionale,comune,Milano,Milano,Lombardia,45.39482347916667,9.275563675,42,32,1,32,0,0,3,Comune di Rozzano,regionale
+03_2406_rta_03_240926123135_4166---ProtocollodiRete.txt,regionale,comune,Brescia,Brescia,Lombardia,45.6004632375,10.239213525,16,7,0,10,2,0,0,,regionale
+03_2406_rta_03_240926144324_4166---Protocollodiintesa.txt,provinciale,comune,Rho,Milano,Lombardia,45.52966097647059,9.104340435294118,54,40,4,41,3,0,1,Comune di Rho,provinciale
+05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt,provinciale,comune,Venezia,Venezia,Veneto,45.43523686724138,12.226770679310345,81,50,1,81,0,0,1,Azienda ULSS 3 Serenissima,provinciale
+05_2406_rta_05_240916135305_4166---protocolloulss4.txt,provinciale,comune,Venezia,Venezia,Veneto,45.66452726285714,12.610545839999999,39,39,0,39,0,0,1,Comune di San Dona di Piave,provinciale
+05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt,regionale,comune,Rovigo,Rovigo,Veneto,45.05891464166667,11.762149125,36,19,0,32,0,0,1,A.ULSS 5 Polesana,regionale
+05_2406_rta_05_240917141534_4166---protocollodiretefirmato.txt,regionale,comune,Treviso,Treviso,Veneto,45.72225384090909,12.095101136363636,40,15,3,35,0,0,1,Comune di Castelfranco Veneto,regionale
+05_2406_rta_05_240918144304_4166---Protocollo_ULSS2-DistrettoTreviso.txt,regionale,comune,Treviso,Treviso,Veneto,45.6954516625,12.2625504875,27,0,0,25,0,0,0,,regionale
+05_2406_rta_05_240918153458_4166---protocolloprovPadova.txt,regionale,comune,Padova,Padova,Veneto,45.3974393,11.933559699999998,22,20,0,20,0,0,1,Comune di Padova,regionale
+05_2406_rta_05_240919114041_4166---protocollounicorevisionato2024.txt,regionale,comune,Bassano Del Grappa,Vicenza,Veneto,45.7338771,11.523193081481482,43,23,0,35,2,0,1,Comune di Bassano del Grappa,regionale
+05_2406_rta_05_240919122126_4166---PROTOCOLLOULSS8BERICA.txt,regionale,comune,Vicenza,Vicenza,Veneto,45.582739018750004,11.51900854375,26,17,17,22,1,0,1,Comune di Arzignano,regionale
+05_2406_rta_05_240919124736_4166---Protocollo_per_contrasto_alla_violenza_di_genere.stamped.txt,regionale,comune,Verona,Verona,Veneto,45.41142366818181,11.058985913636365,50,18,0,42,7,0,0,,regionale
+06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt,regionale,comune,Pordenone,Pordenone,Friuli-Venezia Giulia,45.984623561111114,12.680442572222223,27,24,0,24,6,0,5,Comune di Sacile,regionale
+06_2406_rta_06_240916164122_4166---prot_n_0119980_2024_Accordo(firmato).txt,provinciale,comune,Udine,Udine,Friuli-Venezia Giulia,46.0633481,13.2354304,27,8,0,11,1,0,0,,provinciale
+06_2406_rta_06_240916164153_4166---protocolloprefettura.txt,provinciale,comune,Udine,Udine,Friuli-Venezia Giulia,46.07996808,13.220839520000002,22,12,0,21,1,0,0,,provinciale
+06_2406_rta_06_240916164258_4166---Protocolloviolenzadomesticaedigenere_30.09.2019.txt,provinciale,comune,Gorizia,Gorizia,Friuli-Venezia Giulia,45.88511679583333,13.54987785,61,52,0,20,0,0,2,Ente Gestore Comune di Gorizia,provinciale
+06_2406_rta_06_240924164454_4166---protocollo_tempo_sospeso.txt,provinciale,comune,Trieste,Trieste,Friuli-Venezia Giulia,45.6494502,13.7684078,20,6,0,17,0,0,0,,provinciale
+07_2406_rta_07_240916163905_4166---PROTOCOLLOFIRMATO(002).txt,regionale,comune,Chiavari,Genova,Liguria,44.31479344,9.32821336,27,6,0,26,3,1,1,Comune di Chiavari,regionale
+07_2406_rta_07_240916163933_4166---sub_14574431199510849525_Protocollo_LVLS-signed.txt,comunale,comune,Genova,Genova,Liguria,44.46240020769231,8.836380538461539,27,9,0,12,0,0,0,,comunale
+07_2406_rta_07_240916163956_4166---DGR477_2022_Protocollo.txt,regionale,comune,Genova,Genova,Liguria,44.223791339130436,8.853631826086957,48,27,1,48,0,0,4,Comune di La Spezia,regionale
+08_2406_rta_08_241015091310_4166---Accordo_Contrasto_alla_violenza_CittMtrBO.txt,regionale,comune,Bologna,Bologna,Emilia-Romagna,44.44759357407407,11.41986895925926,29,0,3,27,6,0,6,Comune di San Lazzaro di Savena,regionale
+08_2406_rta_08_241015091330_4166---Protocollo_intesa_autonomia_abitativa_donne_vittime_di_violenza_CittMtrBO.txt,regionale,comune,Bologna,Bologna,Emilia-Romagna,44.44150802686568,11.36171174477612,97,91,4,93,0,0,0,,regionale
+08_2406_rta_08_241015091355_4166---PROTOCOLLO_CONTRO_VIOLENZA_firmato2023.txt,provinciale,comune,Ferrara,Ferrara,Emilia-Romagna,44.80728170333334,11.640749273333334,34,30,2,32,1,0,0,,provinciale
+08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt,provinciale,comune,Ferrara,Ferrara,Emilia-Romagna,44.7787321,11.738059488235294,54,25,17,47,9,0,1,Comune di Ferrara,provinciale
+08_2406_rta_08_241015091500_4166---Protocollo_autonomia_lavorativa_def.txt,regionale,comune,Bologna,Bologna,Emilia-Romagna,44.45799353333334,11.427523353333333,28,21,14,24,1,0,0,,regionale
+08_2406_rta_08_241015091553_4166---Protocollosullaviolenzadigenere_confirme_prot.txt,regionale,comune,Rimini,Rimini,Emilia-Romagna,44.001766959375004,12.531419775,46,29,2,40,0,0,1,Comune di Cattolica,regionale
+08_2406_rta_08_241015091621_4166---PROTOCOLLO_22.txt,provinciale,comune,Cesena,Forlì-Cesena,Emilia-Romagna,44.161089884615386,12.193411292307692,36,17,3,33,5,0,0,,provinciale
+08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt,provinciale,comune,Reggio Emilia,Modena,Emilia-Romagna,44.6459922,10.9263682,45,15,15,33,2,0,0,,provinciale
+08_2406_rta_08_241015091725_4166---Protoc-Prefett-2017.txt,provinciale,comune,Modena,Modena,Emilia-Romagna,44.570096764,10.910611764,39,30,5,30,0,0,0,,provinciale
+08_2406_rta_08_241015091748_4166---ProtocolloProvincialeCaserifugio2023.2025.txt,regionale,comune,Ravenna,Ravenna,Emilia-Romagna,44.36779976363636,12.0355524,15,9,0,11,3,0,1,Comune di Ravenna,regionale
+08_2406_rta_08_241015091832_4166---P.G.111546-2023PROTOCOLLOOPERATIVOFENOMENOVIOLENZADONNE(1).txt,regionale,comune,Piacenza,Piacenza,Emilia-Romagna,45.02597724545455,9.684009536363636,18,13,2,14,0,0,0,,regionale
+08_2406_rta_08_241015091917_4166---Protocollo2022-2024.txt,provinciale,comune,Piacenza,Piacenza,Emilia-Romagna,44.94523530000001,9.860458477777778,16,8,8,8,1,0,0,,provinciale
+08_2406_rta_08_241015092005_4166---DG216-2024.txt,provinciale,comune,Piacenza,Piacenza,Emilia-Romagna,45.016233225,9.680761075,16,0,16,16,0,0,0,,provinciale
+08_2406_rta_08_241015092024_4166---Protocollooperativo.txt,provinciale,comune,Modena,Modena,Emilia-Romagna,44.750722975,11.040030818750001,40,0,0,36,1,0,0,,provinciale
+08_2406_rta_08_241015092049_4166---PROTOCOLLOD.G.C.FAENZA304-2009.txt,regionale,comune,Faenza,Ravenna,Emilia-Romagna,44.30232135,11.847105505555556,24,18,5,20,1,0,0,,regionale
+09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt,provinciale,comune,Siena,Siena,Toscana,43.37740524210526,11.168459852631578,40,0,10,40,3,0,1,Centro Pari Opportunità Valdelsa,provinciale
+09_APUANE_2015 Protocollo Prefettura.txt,regionale,comune,Massa,Massa-Carrara,Toscana,44.043036805,10.17348921,49,22,0,26,1,0,0,,regionale
+09_AREZZO Prot_2024-2026.txt,provinciale,comune,Arezzo,Arezzo,Toscana,43.51796595833333,11.844227333333334,23,15,0,15,2,0,0,,provinciale
+09_FIRENZE Linee-di-indirizzo2024.txt,regionale,comune,Firenze,Firenze,Toscana,43.78519280769231,11.263761861538462,40,10,0,21,2,0,0,,regionale
+09_GROSSETO 2022 fpdf.txt,regionale,comune,Grosseto,Grosseto,Toscana,42.906919476315785,11.107213328947367,50,0,0,36,1,0,0,,regionale
+09_LIVORNO Protocollo_ RETE ANTIVIOLENZA_ LIVORNO.txt,regionale,comune,Livorno,Livorno,Toscana,43.44567455,10.414244241666667,20,0,0,17,2,0,0,,regionale
+09_LUCCA PROV.txt,provinciale,comune,Lucca,Lucca,Toscana,43.911100875,10.467059125,15,15,1,15,1,0,0,,provinciale
+09_PISA PREF E PROV.txt,regionale,comune,Pisa,Pisa,Toscana,43.57639238125,10.634416937500001,64,63,5,63,4,0,0,,regionale
+09_PISTOIA PROV .txt,regionale,comune,Pistoia,Pistoia,Toscana,43.89068468000001,10.859974944000001,39,38,0,37,0,0,1,Provincia di Pistoia,regionale
+09_PRATO PREF.txt,regionale,comune,Prato,Prato,Toscana,43.87838147647059,11.15030185882353,22,19,1,18,0,0,1,Società della Salute Area Pratese,regionale
+09_SENESE Delibera-n.1196-del-24-10-2022-allegato-a_SENESE_2.txt,regionale,comune,Firenze,Firenze,Toscana,43.718263785714285,10.66456672857143,32,7,0,15,2,0,0,,regionale
+09_VALDICHIANA_all. decreto 37_2008 protocollo di intesa 2008.txt,comunale,comune,Montepulciano,Siena,Toscana,43.06548828,11.81610803,18,0,1,18,1,0,1,Comunità Montana del Cetona,comunale
+10_2406_rta_10_250506141901_4166---ProtocollounicoregionaleRINNOVATO.txt,regionale,comune,Perugia,Perugia,Umbria,42.89011079189189,12.489941518918918,45,0,3,45,0,0,0,,regionale
+11_2406_rta_11_240911113034_4166---protocollodireteantiviolenza2020-2022-uuvv.txt,regionale,comune,Pesaro,Pesaro E Urbino,Marche,43.76615575,12.738805025,32,26,4,32,2,0,1,Ambito Territoriale Sociale n.1 di Pesaro,regionale
+11_2406_rta_11_240911113105_4166---PROTOCOLLO_OPERATIVO2024_CONINDIRIZZARIO_FIRMATO.txt,regionale,comune,Ancona,Ancona,Marche,43.5718200175,13.3837280475,43,27,0,41,4,0,0,,regionale
+11_2406_rta_11_240911113235_4166---MacerataProtocollo2019_2022Firmato.txt,regionale,comune,Macerata,Macerata,Marche,43.27449933333333,13.422083296296297,48,46,2,48,1,0,1,Ambito Territoriale Sociale n. 15 Macerata,regionale
+11_2406_rta_11_240911113757_4166---All.4ProtocolloReteAntiviolenzasottoscritto18.12.2023.txt,regionale,provincia,Fermo,Fermo,Marche,43.121247875,13.6366615,57,44,0,18,0,0,0,,regionale
+11_2406_rta_11_240911113911_4166---AscoliPPROTOCOLLOoperativo_2019_2021.txt,regionale,comune,Ascoli Piceno,Ascoli Piceno,Marche,42.98524106,13.56489545,37,26,0,36,1,0,1,Comune di Ascoli Piceno,regionale
+12_2406_rta_12_240926112734_4166---3AccordoDistrettoVT4ePontedonna-signed(1).txt,comunale,comune,Grottaferrata,Viterbo,Lazio,42.223613638461536,12.204409315384614,15,2,0,2,1,0,0,,comunale
+12_2406_rta_12_240926112823_4166---2AccordoDemetra_Aman.txt,comunale,comune,Grottaferrata,Viterbo,Lazio,42.17551636666667,12.274999033333332,3,2,0,2,1,0,0,,comunale
+12_2406_rta_12_240926113112_4166---4AccordoSpaziosupportodonnaAPSPonteDonna.txt,comunale,comune,Grottaferrata,Roma,Lazio,41.9738184,12.4027283,3,2,0,3,1,0,0,,comunale
+12_2406_rta_12_240926113237_4166---Accordocavunuiversitari.txt,regionale,comune,Roma,Roma,Lazio,42.010018591666665,12.459207083333334,22,3,0,21,3,0,0,,regionale
+12_2406_rta_12_240926113409_4166---AccordoICSPietroVanniFormazionePontedonna.txt,provinciale,comune,,,,,,3,0,0,2,0,0,0,,provinciale
+12_2406_rta_12_240926114327_4166---1AccordoPonteDonnaAliceNova.txt,comunale,comune,Viterbo,Viterbo,Lazio,42.239602500000004,12.13763114,5,2,0,2,1,0,0,,comunale
+12_2406_rta_12_240926115028_4166---ProtICROASLazioePonteDonna.txt,comunale,comune,Roma,Roma,Lazio,41.8352662,12.545905433333333,5,2,0,2,0,0,0,,comunale
+12_2406_rta_12_240926122148_4166---2024.1153010-AccordotralepartiPonteDonna–UnderdogSocialClubCAVMarielleFranco-2(1).txt,regionale,comune,Grottaferrata,Roma,Lazio,41.7887082,12.6671677,4,2,0,3,1,0,0,,regionale
+12_2406_rta_12_240926123509_4166---2024.1153010-ACCORDOtraAPSPonteDonnaeAPSMammeFuoriCAVMarielleFranco-10-11(1).txt,regionale,comune,Grottaferrata,Roma,Lazio,41.659821375,12.67473775,6,2,0,2,1,0,0,,regionale
+12_2406_rta_12_240926124601_4166---ACCORDOtrlepartiITSETLOIeMarielleFranco(1).txt,provinciale,comune,Nettuno,Roma,Lazio,41.8668211,12.70440435,6,2,1,2,1,0,0,,provinciale
+12_2406_rta_12_240926133329_4166---ProtInt2CAVFRANCARAME-18-20(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,2,2,0,2,0,0,0,,comunale
+12_2406_rta_12_240926133452_4166---PISPICGIL.txt,comunale,comune,,,,,,3,2,0,3,0,0,0,,comunale
+12_2406_rta_12_240926133706_4166---STAR.txt,provinciale,comune,Cisterna Di Latina,Latina,Lazio,41.653208028571434,12.703529914285713,21,9,0,17,1,0,0,,provinciale
+12_2406_rta_12_240926134140_4166---Protocollointesa.txt,regionale,comune,Frosinone,Frosinone,Lazio,41.682538145454544,13.346565145454546,23,13,0,16,1,0,0,,regionale
+12_2406_rta_12_240926135421_4166---3protCAVFRANCARAME-28-30(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,4,2,0,3,0,0,0,,comunale
+12_2406_rta_12_240926140522_4166---4ProtintCAVFRANCARAME-38-41(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,5,2,0,3,0,0,0,,comunale
+12_2406_rta_12_240926143343_4166---2.1protocolloIntegra-CavMerlin(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,2,0,2,0,0,0,,comunale
+12_2406_rta_12_240927093424_4166---ProtVMunMerlin.txt,provinciale,comune,Roma,Roma,Lazio,41.892984,12.4835363,26,19,3,19,1,0,0,,provinciale
+12_2406_rta_12_241001130527_4166---protocollocontrolaviolenzadigenere.pdfpdf.txt,regionale,comune,Rieti,Rieti,Lazio,42.2808736,12.78703414,26,16,0,23,0,0,0,,regionale
+12_2406_rta_12_241001133138_4166---1protCAVSAPIENZA-COMITATODIQUARTIERESANLORENZO(1).txt,comunale,comune,,,,,,4,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002105403_4166---2ProtCAVSAPIENZA-HAPPYCOACHINGANDCOUNSELING.txt,comunale,comune,Morlupo,Roma,Lazio,42.018201250000004,12.494092850000001,4,2,0,3,0,0,0,,comunale
+12_2406_rta_12_241002110138_4166---3protCAVSAPIENZA-laGRU.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002110904_4166---5protCAVSAPIENZA-RUOTALIBERACOOPERATIVASOCIALE.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002111710_4166---6protCAVSAPIENZA-SAPIENZAINMOVIMENTO.txt,regionale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,2,0,3,0,0,0,,regionale
+12_2406_rta_12_241002112428_4166---7prot(mancapagina)CAVSAPIENZA-UNIVERSITàPOPOLAREVITAATIVA.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,5,3,0,3,0,0,0,,comunale
+12_2406_rta_12_241002113235_4166---8protCAVSAPIENZA-RETAKEROMAODV.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,2,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002114038_4166---1protCAVTITANO-8-10DidascoSoc.Coop.Soc.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.483536300000003,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002115125_4166---2protCAVTITANO-AmiciDiConcaD’oro.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,4,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002115801_4166---3protCAVTITANO-IdeaPrisma82Coop.Soc.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,5,2,0,4,0,0,0,,comunale
+12_2406_rta_12_241002120506_4166---4protCAVTITANO-ASSOCIAZIONESolidarietàLaicaeResponsabileSO.LA.RE.Onlus.txt,comunale,comune,,,,,,2,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241002122243_4166---2ProtocolloAssociazioneAllianceforAfricanAssistance(002).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,5,3,0,3,1,0,0,,comunale
+12_2406_rta_12_241002130504_4166---3Protocollid'intesa-TavoloInteristituzionaletraUfficiGiudiziaricompetentinelcircondariodiRomaavvocaturaecentriantiviolenza(1).txt,regionale,comune,Roma,Roma,Lazio,41.892984,12.4835363,15,10,0,10,0,0,0,,regionale
+12_2406_rta_12_241003091037_4166---5Protocollid'intesa-Ass.Salvamamme(002).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,2,0,5,0,0,0,,comunale
+12_2406_rta_12_241003093443_4166---7Protocollod'intesa-Donneinrinascita.txt,comunale,comune,Roma,Roma,Lazio,43.97816605,12.859483350000001,2,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241003094302_4166---4VerbaleIncontroGiorgieLaGinestra-PROTOCOLLO.txt,regionale,comune,Priverno,Latina,Lazio,41.825094275,12.808259875000001,9,0,0,5,2,0,0,,regionale
+12_2406_rta_12_241003095202_4166---8ProtocolloUIL.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,2,0,4,0,0,0,,comunale
+12_2406_rta_12_241003100516_4166---1ProtCAVPAOLALATTESLibroteka(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,2,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241003101925_4166---ProtocolloFormazioneObiettivoUomo.txt,regionale,comune,Roma,Roma,Lazio,41.984913675,12.5801198,22,2,0,2,1,0,0,,regionale
+12_2406_rta_12_241003104626_4166---PROTOCOLLODIINTESAMUNICIPIOXV.txt,provinciale,comune,Roma,Roma,Lazio,41.9059715,12.548062475,19,3,0,3,0,0,0,,provinciale
+12_2406_rta_12_241003105319_4166---PROTOCOLLODIINTES1_2601def-signed-signed.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,18,2,0,3,1,0,0,,comunale
+12_2406_rta_12_241003105855_4166---ProtocollodiintesafirmatoASL1.txt,regionale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,2,0,2,1,0,0,,regionale
+12_2406_rta_12_241003110309_4166---ProtocollodiIntesaMunicipio1eDD.txt,provinciale,comune,Roma,Roma,Lazio,41.892984,12.483536300000003,8,2,2,6,1,0,0,,provinciale
+12_2406_rta_12_241003110812_4166---ALLIANCEFORAFRICANASSISTANCE_colasantilopez.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241003111748_4166---ACCORDOMUNICIPIOROMAVeDIPPARIOPPROMACAPITALE_DD.txt,provinciale,comune,Roma,Roma,Lazio,41.89741252857142,12.453991135714286,33,18,1,23,1,0,1,Municipio Roma V,provinciale
+12_2406_rta_12_241003112247_4166---Accordodicollaborazione_CREDICI.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,8,7,0,7,1,0,0,,comunale
+12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt,provinciale,comune,Civitavecchia,Roma,Lazio,42.05196536,12.12928856,13,2,2,3,1,0,0,,provinciale
+12_2406_rta_12_241003113235_4166---Accordodifferenzadonna-29.09.2023-signed.txt,comunale,comune,Trevignano Romano,Roma,Lazio,42.06489626,12.21981846,14,2,0,2,1,0,0,,comunale
+12_2406_rta_12_241003113710_4166---Accordodicollaborazione_CREDICI.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,8,7,0,7,1,0,0,,comunale
+12_2406_rta_12_241003114137_4166---PROTOCOLLODIINTESAROMAVOLLEYEDD.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,5,2,0,2,1,0,0,,comunale
+12_2406_rta_12_241003114931_4166---ProtocollodiintesaDifferenzaDonnaeMunicipio13.txt,provinciale,comune,Roma,Roma,Lazio,41.9059715,12.548062475,16,2,0,11,0,0,0,,provinciale
+12_2406_rta_12_241003115345_4166---1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,regionale,comune,Roma,Roma,Lazio,41.892984,12.4835363,15,8,0,8,0,0,0,,regionale
+12_2406_rta_12_241003115852_4166---SISTEMABIBLIOTECARIOLASAPIENZA.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241003120714_4166---ASLROMA5_.txt,comunale,comune,Tivoli,Roma,Lazio,41.8876092,12.771657925,11,0,0,10,2,0,0,,comunale
+12_2406_rta_12_241003121816_4166---Copiadi1.PROTOCOLLOTAVOLOINTERISTITUZIONALE.txt,regionale,comune,Roma,Roma,Lazio,41.892984,12.4835363,14,8,0,8,0,0,0,,regionale
+12_2406_rta_12_241004090303_4166---2ProtCAVPAOLALATTESTorraccia(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.483536300000003,4,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004090846_4166---3protCAVPAOLALATTESgenitoriperlascuola(1).txt,provinciale,comune,Roma,Roma,Lazio,41.79592366666666,12.8442892,5,3,0,4,0,0,0,,provinciale
+12_2406_rta_12_241004091505_4166---4ProtCAVPAOLALATTESEnjoi(2).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,7,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004092644_4166---5potCAVPAOLALATTESnantes(1).txt,provinciale,comune,Roma,Roma,Lazio,41.918959,12.61258865,11,2,0,0,0,0,0,,provinciale
+12_2406_rta_12_241004093800_4166---6protCavPaolaLattesComitatodiQuartiere“CittadinidiColliAniene.txt,comunale,comune,,,,,,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004094402_4166---7ProtCAVPAOLALATTESAPSedIlComitatodiQuartiere“ComprensorioPratolungo(1).txt,comunale,comune,Roma,Roma,Lazio,41.871928966666665,12.704047566666667,5,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004095020_4166---8protCAVPAOLALATTES(ComitatodiQuartiereRebibbia(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004100148_4166---910protCAVPAOLALATTESCooperativaSocialeLineaSociale-Onlus(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004101038_4166---911protCAVPAOLALATTESAssociazioneGliAmicidiRobertoOdV(1).txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.483536300000003,4,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004103912_4166---9protCAVPAOLALATTESComitatodiQuartiereTorraccia(1).txt,comunale,comune,,,,,,4,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241004112805_4166---protocollod'intesa.txt,regionale,comune,Cassino,Frosinone,Lazio,41.56849413333333,13.758241500000002,7,2,0,5,1,0,0,,regionale
+12_2406_rta_12_241004113215_4166---Protocollod'intesaP.L.Cerveteri-BeFree.txt,provinciale,comune,Roma,Roma,Lazio,41.94539723333333,12.4414635,6,2,0,2,0,0,0,,provinciale
+12_2406_rta_12_241004113737_4166---AccordodicollaborazioneArteinsieme.txt,comunale,comune,Formia,Latina,Lazio,41.39905173333333,13.2302603,5,2,0,4,0,0,0,,comunale
+12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt,regionale,comune,Frosinone,Frosinone,Lazio,41.69574613333333,13.253137350000001,32,13,5,13,7,0,0,,regionale
+12_2406_rta_12_241004130514_4166---PROTOCOLLODIINTESAPERLAPROMOZIONEDISTRATEGIECONDIVISESULFENOMENODELLAVIOLENZADIGENERE(1).txt,regionale,comune,Frosinone,Frosinone,Lazio,41.677815418181815,13.323101081818182,30,13,5,15,0,0,0,,regionale
+12_2406_rta_12_241004133706_4166---ProtocollodiretePREFETTURAFrosinone(1).txt,regionale,comune,Frosinone,Frosinone,Lazio,41.716460892307694,13.226277707692308,33,13,5,13,6,0,0,,regionale
+12_2406_rta_12_241004134724_4166---02-ProtocolloconlaProvinciadiFrosinone.txt,regionale,provincia,Frosinone,Frosinone,Lazio,41.7834205,13.2348785,6,3,3,5,0,0,0,,regionale
+12_2406_rta_12_241004135803_4166---03-ConvenzioneTribunaleOrdinariodiFrosinone.txt,regionale,comune,Frosinone,Frosinone,Lazio,41.6392366,13.3505701,11,5,0,6,0,0,0,,regionale
+12_2406_rta_12_241004140636_4166---04-ProtocolloconlaQuesturadiFrosinone.txt,regionale,comune,Frosinone,Frosinone,Lazio,41.6392366,13.3505701,5,3,0,3,0,0,0,,regionale
+12_2406_rta_12_241004141331_4166---ConvenzioneconilComunediCECCANO.txt,regionale,comune,Ceccano,Frosinone,Lazio,41.62806283333334,13.230579616666667,19,4,0,5,1,0,0,,regionale
+12_2406_rta_12_241004144338_4166---06-ProtocolloComunediVALLECORSA.txt,provinciale,comune,Roma,Roma,Lazio,41.73902594285715,12.943862028571429,27,2,1,3,1,0,0,,provinciale
+12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt,regionale,comune,Villa Santo Stefano,Roma,Lazio,41.867338100000005,12.864037333333334,19,2,1,3,0,0,0,,regionale
+12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt,regionale,comune,Falvaterra,Roma,Lazio,41.86287896666667,12.934777366666665,19,3,2,3,0,0,0,,regionale
+12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt,regionale,comune,Arce,Frosinone,Lazio,41.74047415,13.0280158,17,3,2,3,0,0,0,,regionale
+12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt,regionale,comune,Colfelice,Frosinone,Lazio,41.68361463333333,13.218286033333333,17,2,1,2,1,0,0,,regionale
+12_2406_rta_12_241007235530_4166---ProtocolloconilComunediPastena.txt,provinciale,comune,Roma,Roma,Lazio,41.8030647125,12.9624457125,28,2,1,2,0,0,0,,provinciale
+12_2406_rta_12_241008095626_4166---Convenzioneconl'UniversitàLASAPIENZARoma.txt,comunale,comune,Roma,Roma,Lazio,41.811837374999996,12.696036375,9,3,0,5,0,0,0,,comunale
+12_2406_rta_12_241008101410_4166---ConvenzioneconUniversitàMERCATORUM.txt,comunale,comune,Roma,Roma,Lazio,41.73069075,12.90853645,8,2,1,2,0,0,0,,comunale
+12_2406_rta_12_241008102339_4166---15-ConvenzionePreepost-Laureauniversitàdell'AQUILA.txt,regionale,comune,L'Aquila,L'Aquila,Abruzzo,42.22177373333333,13.23543,13,0,1,5,0,0,0,,regionale
+12_2406_rta_12_241008103001_4166---16-Convenzioneconl'UniversitàECAMPUS.txt,regionale,comune,Ceccano,Frosinone,Lazio,41.5683975,13.3335366,9,2,1,2,0,0,0,,regionale
+12_2406_rta_12_241008103723_4166---17-ConvenzioneconilLiceoScientificoeLinguisticoCECCANO.txt,regionale,provincia,Ceccano,Frosinone,Lazio,41.7834205,13.2348785,3,2,1,2,0,0,0,,regionale
+12_2406_rta_12_241008104436_4166---18-ConvenzioneconilLiceoScientificoelinguisticoMartinoFileticodiFERENTINO.txt,regionale,provincia,Ferentino,Frosinone,Lazio,41.7834205,13.2348785,2,2,1,2,0,0,0,,regionale
+12_2406_rta_12_241008112319_4166---protocollo25.11.2023.txt,provinciale,comune,Viterbo,Viterbo,Lazio,42.416936,12.104497700000001,16,0,6,16,0,0,1,Comune di Viterbo,provinciale
+12_2406_rta_12_241008145357_4166---Protocollointeristituzionale2023.txt,regionale,comune,Frosinone,Frosinone,Lazio,41.68436578181818,13.361321599999998,15,12,0,12,0,0,0,,regionale
+12_2406_rta_12_241008150442_4166---1.Protocollo.txt,provinciale,comune,Roma,Roma,Lazio,41.944934,12.741641,5,2,0,2,1,0,0,,provinciale
+12_2406_rta_12_241008150836_4166---2.prot.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.483536300000003,5,3,0,3,1,0,0,,comunale
+12_2406_rta_12_241008151247_4166---3.prot.txt,provinciale,comune,Roma,Roma,Lazio,41.9059715,12.548062475,9,2,0,2,0,0,0,,provinciale
+12_2406_rta_12_241008151837_4166---4.prot..txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,3,1,0,2,0,0,0,,comunale
+12_2406_rta_12_241009123601_4166---5.accordo.txt,comunale,comune,Roma,Roma,Lazio,41.980359525,12.449805975,9,2,0,2,0,0,0,,comunale
+12_2406_rta_12_241009125120_4166---6.accordo.txt,comunale,comune,Roma,Roma,Lazio,41.892984,12.4835363,6,0,0,5,0,0,0,,comunale
+12_2406_rta_12_241009125640_4166---7.accordo.txt,regionale,comune,Roma,Roma,Lazio,42.016544350000004,12.511880900000001,16,2,0,5,2,0,0,,regionale
+13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt,regionale,comune,Chieti,Chieti,Abruzzo,42.349766933333335,14.082183288888888,19,13,10,17,0,0,0,,regionale
+13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt,regionale,comune,Chieti,Chieti,Abruzzo,42.31009931875,14.13266768125,25,16,6,23,2,0,1,Comune di Guardiagrele,regionale
+13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt,regionale,comune,Aquila,,,,,17,6,6,10,1,0,0,,regionale
+13_2406_rta_13_241122103653_4166---protocollodirete_cavlafenice_provinciateramo.txt,provinciale,comune,Teramo,Teramo,Abruzzo,42.638741800000005,13.770720637837838,38,38,0,38,0,0,0,,provinciale
+13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,regionale,comune,Lanciano,Chieti,Abruzzo,42.26637898125,14.38632999375,59,56,12,57,1,0,1,Comune di Lanciano,regionale
+13_2406_rta_13_241122104158_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt,provinciale,comune,Lanciano,Chieti,Abruzzo,42.26637898125,14.38632999375,58,58,0,58,1,0,1,Comune di Lanciano,provinciale
+13_2406_rta_13_241122104428_4166---Protocollorete_ortonaCAVconsultoriodiocesano.txt,regionale,comune,Ortona,Chieti,Abruzzo,42.36048589,14.31098397,25,19,0,20,1,0,0,,regionale
+13_2406_rta_13_241122104842_4166---Protocollodirete_DAFNE.txt,provinciale,comune,Lanciano,Chieti,Abruzzo,42.23716332608696,14.394737304347826,40,39,2,39,1,0,1,Comune di Lanciano,provinciale
+13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt,regionale,comune,Vasto,Chieti,Abruzzo,42.14580419473685,14.60653947368421,32,22,14,23,2,0,1,Comune di Vasto,regionale
+13_2406_rta_13_241122105938_4166---ACCORDOOPERATIVO.txt,regionale,comune,Sulmona,L'Aquila,Abruzzo,42.025805028571426,14.014388942857144,22,3,1,9,1,0,1,Comune di Sulmona,regionale
+13_2406_rta_13_241122110421_4166---PROTOCOLLOOPERATIVO.txt,comunale,comune,Sulmona,L'Aquila,Abruzzo,42.043286450000004,13.799796025000001,11,8,2,7,0,0,0,,comunale
+13_2406_rta_13_241122111153_4166---PROTOCOLLOCASTELDISANGROEASL.txt,regionale,comune,Sulmona,L'Aquila,Abruzzo,41.914491311764706,13.992773952941176,37,21,1,15,1,0,0,,regionale
+13_2406_rta_13_241122115416_4166---PROTOCOLLOPESCARA.txt,regionale,comune,Pescara,Pescara,Abruzzo,42.40275175263158,14.04989462631579,33,29,15,29,0,0,1,Comune di Pescara,regionale
+16_2406_rta_16_250409161633_4166---29_prot_n_0090671_2024_PROT_OP-ODVPOLIZIADISTATO-RISCOPRIRSI.txt,comunale,comune,Trani,Barletta-Andria-Trani,Puglia,41.250570499999995,16.3562428,3,3,0,3,1,0,0,,comunale
+16_2406_rta_16_250409174252_4166---Protocollo_Intesa_LARA.txt,regionale,comune,Brindisi,Brindisi,Puglia,40.56842606666667,17.868725826666665,35,13,4,25,1,0,0,,regionale
+16_2406_rta_16_250410122122_4166---Protocollo_Viola.txt,provinciale,comune,Foggia,Foggia,Puglia,41.487249526666666,15.543545413333334,28,26,0,25,1,0,0,,provinciale
+16_bari_Protocollo Gioia del Colle_ATS_Rete locale.txt,regionale,comune,Bari,Bari,Puglia,41.1254785,16.8670863,12,0,0,9,1,0,0,,regionale
+16_bari_protocollo operativo Gioia del Colle_EMI.txt,provinciale,comune,Gioia Del Colle,Bari,Puglia,40.88288034615385,16.95059793076923,22,4,2,15,1,0,0,,provinciale
+16_bari_protocollo operativo Grumo_EMI.txt,provinciale,comune,Grumo Appula,Bari,Puglia,40.979313766666664,16.78313171111111,23,6,2,9,2,0,0,,provinciale
+16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt,comunale,comune,Mola Di Bari,Bari,Puglia,41.0349244,17.025566366666666,19,0,1,17,1,0,1,Comune di Mola di Bari,comunale
+16_bari_protocollo operativo Putignano_EMI.txt,comunale,comune,Putignano,Bari,Puglia,40.8286582,17.18310544166667,29,15,2,15,0,0,0,,comunale
+16_bari_protollo di intesa Putignano_rete antiviolenza.txt,comunale,comune,Putignano,Bari,Puglia,40.8955618,17.10447235,19,17,0,19,1,0,1,Comune di Putignano,comunale
+16_bar_protocollo operativo Triggiano_rete antiviolenza.pdf.txt,regionale,comune,Bari,Bari,Puglia,41.10537946666667,16.886400433333332,22,10,0,12,0,0,0,,regionale
+16_bat_convenzione CAV - ASL BT.txt,regionale,comune,Andria,Barletta-Andria-Trani,Puglia,41.25140050555555,16.248314949999997,30,6,1,10,3,0,0,,regionale
+16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt,regionale,comune,Lecce,Lecce,Puglia,40.277098566666666,18.12410928148148,53,10,16,44,3,0,0,,regionale
+16_taranto_protocollo d'intesa CAVGinosa sottoscritto.txt,regionale,comune,Ginosa,Taranto,Puglia,40.55776114444445,16.964653933333334,13,5,0,12,1,0,0,,regionale
+16_taranto_protocollo Prefettura ProvinciaTaranto.txt,regionale,comune,Taranto,Taranto,Puglia,40.48527528,17.25548232,28,12,0,23,1,0,0,,regionale
+16_terreg_Prot_CGIL - CISL - CONFINDUSTRIA_CAV.txt,regionale,comune,Bari,Bari,Puglia,41.1254785,16.8670863,20,18,0,19,0,0,0,,regionale
+17_2406_rta_17_250506142731_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt,regionale,comune,Potenza,Potenza,Basilicata,40.65300475,16.20272535,9,0,0,9,0,0,0,,regionale
+17_2406_rta_17_250506142746_4166---Tavolodicoordinamentoemonitoraggio30-01-24.txt,regionale,comune,,,,,,3,0,0,3,0,0,0,,regionale
+18_2406_rta_18_240925130829_4166---PROTOCOLLODIINTESA_COMUNEDIMENDICINO.txt,regionale,comune,Rende,Cosenza,Calabria,39.325220825,16.23089125,9,2,0,2,0,0,0,,regionale
+18_2406_rta_18_240926102259_4166---Protocollod’intesaperlaprotezioneel’assistenzadellevittimediviolenzadigenererichiedentiasilo.txt,regionale,regione,Crotone,Crotone,Calabria,39.0799456,17.1249895,5,5,0,5,1,0,0,,regionale
+18_2406_rta_18_240926102317_4166---PROTOCOLLOISTITUTOSUP.NOSTRO-REPACI.txt,regionale,provincia,Villa San Giovanni,Reggio Calabria,Calabria,38.255653,16.050851,3,2,0,2,0,0,0,,regionale
+18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt,regionale,comune,Stalettì,Catanzaro,Calabria,38.7655011,16.540352,5,2,1,3,2,0,0,,regionale
+18_2406_rta_18_240926102407_4166---ProtocollointesaAISM_CentroLanzino_ReteREDCALABRIA_firmadigitale.txt,regionale,comune,Cosenza,Cosenza,Calabria,39.249882618181815,15.877295163636363,17,2,2,4,0,0,0,,regionale
+18_2406_rta_18_240926102419_4166---protocollodiintesaterritorialeunito.txt,regionale,comune,Dipignano,Cosenza,Calabria,39.17654980357143,16.300154582142856,31,0,3,30,0,0,0,,regionale
+18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt,provinciale,comune,Cosenza,Catanzaro,Calabria,38.908672025,16.2067771625,17,2,2,5,1,0,0,,provinciale
+18_2406_rta_18_240926102620_4166---protocollopercorsorosa.txt,regionale,comune,Catanzaro,Catanzaro,Calabria,38.912122675862065,16.500575927586205,37,36,2,36,0,0,0,,regionale
+18_2406_rta_18_240926102706_4166---protocollomondorosa2013.txt,regionale,comune,Catanzaro,Catanzaro,Calabria,38.88560437142858,16.520097914285714,27,26,2,26,2,0,1,Centro Calabrese di Solidarietà,regionale
+18_2406_rta_18_240926102814_4166---convenzDemetraIISCostanzoDecollatura2020.txt,provinciale,comune,Lamezia Terme,Catanzaro,Calabria,38.93185453333333,16.359274733333333,5,2,0,2,0,0,0,,provinciale
+18_2406_rta_18_240926102931_4166---PROT.2403-24.txt,regionale,comune,Catanzaro,Catanzaro,Calabria,38.8190245,16.37842555,15,2,0,2,0,0,0,,regionale
+18_2406_rta_18_240926102943_4166---schemaAccordoCollaborazione499ARIEL_signed.txt,regionale,comune,Reggio Calabria,,,,,10,2,0,2,2,0,0,,regionale
+18_2406_rta_18_240926103211_4166---PROTOCOLLOviolasottoscritto.txt,regionale,comune,Cosenza,Cosenza,Calabria,39.451589894117646,16.248129311764703,28,20,1,25,1,0,0,,regionale
+20_2406_rta_20_250620094616_4166---Delibera52-22del23.12.2024-Allegato1.txt,regionale,comune,Cagliari,Sassari,Sardegna,40.0799822164557,8.95910213670886,117,109,1,117,0,0,0,,regionale

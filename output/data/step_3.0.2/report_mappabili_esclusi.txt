@@ -1,0 +1,332 @@
+REPORT MAPPABILI ED ESCLUSI
+Input JSON: output\data\step_3.0\3.0_risultati_enriched_merged_geo.json
+
+1) SINTESI GENERALE
+- soggetti_totali: 5496
+- soggetti_mappabili: 2934
+- soggetti_esclusi_dalla_mappa: 2562
+- percentuale_mappabili: 53.38%
+
+2) MAPPABILI PER REGIONE
+- Abruzzo: totale=225, firmatari=212, proponenti=56, attori=210, governance=6, capofila=7
+- Basilicata: totale=3, firmatari=1, proponenti=0, attori=2, governance=0, capofila=0
+- Calabria: totale=117, firmatari=68, proponenti=9, attori=96, governance=3, capofila=1
+- Emilia-Romagna: totale=310, firmatari=237, proponenti=67, attori=310, governance=22, capofila=9
+- Friuli-Venezia Giulia: totale=89, firmatari=84, proponenti=0, attori=56, governance=2, capofila=7
+- Lazio: totale=353, firmatari=226, proponenti=36, attori=264, governance=36, capofila=2
+- Liguria: totale=43, firmatari=34, proponenti=0, attori=39, governance=2, capofila=5
+- Lombardia: totale=756, firmatari=634, proponenti=231, attori=710, governance=36, capofila=30
+- Marche: totale=124, firmatari=103, proponenti=5, attori=104, governance=6, capofila=3
+- Piemonte: totale=195, firmatari=132, proponenti=48, attori=166, governance=16, capofila=2
+- Puglia: totale=152, firmatari=80, proponenti=21, attori=126, governance=10, capofila=2
+- Sardegna: totale=79, firmatari=73, proponenti=0, attori=79, governance=0, capofila=0
+- Toscana: totale=226, firmatari=125, proponenti=15, attori=199, governance=10, capofila=1
+- Umbria: totale=37, firmatari=0, proponenti=0, attori=37, governance=0, capofila=0
+- Valle d'Aosta/Vallée d'Aoste: totale=2, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Veneto: totale=209, firmatari=146, proponenti=18, attori=201, governance=3, capofila=5
+
+3) MAPPABILI PER PROVINCIA
+- Ancona: totale=35, firmatari=24, proponenti=0, attori=35, governance=4, capofila=0
+- Arezzo: totale=13, firmatari=7, proponenti=0, attori=7, governance=2, capofila=0
+- Ascoli Piceno: totale=9, firmatari=9, proponenti=0, attori=9, governance=0, capofila=1
+- Bari: totale=56, firmatari=30, proponenti=6, attori=48, governance=2, capofila=2
+- Barletta-Andria-Trani: totale=20, firmatari=8, proponenti=1, attori=8, governance=3, capofila=0
+- Belluno: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Bergamo: totale=87, firmatari=84, proponenti=15, attori=87, governance=3, capofila=3
+- Biella: totale=45, firmatari=20, proponenti=1, attori=37, governance=3, capofila=0
+- Bologna: totale=105, firmatari=82, proponenti=16, attori=108, governance=5, capofila=6
+- Brescia: totale=191, firmatari=155, proponenti=40, attori=186, governance=4, capofila=3
+- Brindisi: totale=17, firmatari=6, proponenti=3, attori=11, governance=1, capofila=0
+- Cagliari: totale=16, firmatari=15, proponenti=0, attori=16, governance=0, capofila=0
+- Catanzaro: totale=55, firmatari=47, proponenti=4, attori=47, governance=2, capofila=1
+- Chieti: totale=139, firmatari=135, proponenti=37, attori=140, governance=5, capofila=5
+- Como: totale=27, firmatari=25, proponenti=15, attori=26, governance=0, capofila=2
+- Cosenza: totale=52, firmatari=17, proponenti=5, attori=45, governance=1, capofila=0
+- Cremona: totale=39, firmatari=38, proponenti=23, attori=39, governance=4, capofila=1
+- Crotone: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Cuneo: totale=40, firmatari=28, proponenti=2, attori=28, governance=2, capofila=1
+- Fermo: totale=32, firmatari=27, proponenti=0, attori=12, governance=0, capofila=0
+- Ferrara: totale=59, firmatari=49, proponenti=19, attori=59, governance=7, capofila=1
+- Firenze: totale=26, firmatari=10, proponenti=0, attori=12, governance=2, capofila=0
+- Foggia: totale=15, firmatari=15, proponenti=0, attori=15, governance=1, capofila=0
+- Forlì-Cesena: totale=11, firmatari=9, proponenti=2, attori=11, governance=2, capofila=0
+- Frosinone: totale=84, firmatari=77, proponenti=21, attori=80, governance=9, capofila=0
+- Gallura Nord-Est Sardegna: totale=6, firmatari=5, proponenti=0, attori=6, governance=0, capofila=0
+- Genova: totale=30, firmatari=22, proponenti=0, attori=26, governance=2, capofila=2
+- Gorizia: totale=42, firmatari=42, proponenti=0, attori=10, governance=0, capofila=2
+- Grosseto: totale=34, firmatari=0, proponenti=0, attori=33, governance=1, capofila=0
+- Imperia: totale=4, firmatari=4, proponenti=0, attori=4, governance=0, capofila=1
+- L'Aquila: totale=35, firmatari=26, proponenti=5, attori=19, governance=1, capofila=1
+- La Spezia: totale=4, firmatari=4, proponenti=0, attori=4, governance=0, capofila=1
+- Latina: totale=12, firmatari=7, proponenti=0, attori=11, governance=2, capofila=0
+- Lecce: totale=25, firmatari=7, proponenti=11, attori=25, governance=1, capofila=0
+- Lecco: totale=29, firmatari=29, proponenti=21, attori=29, governance=6, capofila=0
+- Livorno: totale=11, firmatari=0, proponenti=0, attori=11, governance=1, capofila=0
+- Lodi: totale=19, firmatari=19, proponenti=15, attori=19, governance=3, capofila=0
+- Lucca: totale=8, firmatari=8, proponenti=1, attori=8, governance=1, capofila=0
+- Macerata: totale=29, firmatari=27, proponenti=2, attori=29, governance=1, capofila=1
+- Mantova: totale=17, firmatari=17, proponenti=17, attori=17, governance=1, capofila=1
+- Massa-Carrara: totale=19, firmatari=13, proponenti=0, attori=13, governance=0, capofila=0
+- Matera: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Medio Campidano: totale=3, firmatari=3, proponenti=0, attori=3, governance=0, capofila=0
+- Milano: totale=234, firmatari=180, proponenti=38, attori=197, governance=6, capofila=11
+- Modena: totale=42, firmatari=25, proponenti=5, attori=41, governance=1, capofila=0
+- Monza e della Brianza: totale=23, firmatari=21, proponenti=17, attori=22, governance=0, capofila=1
+- Novara: totale=15, firmatari=11, proponenti=0, attori=14, governance=0, capofila=0
+- Nuoro: totale=16, firmatari=14, proponenti=0, attori=16, governance=0, capofila=0
+- Ogliastra: totale=5, firmatari=5, proponenti=0, attori=5, governance=0, capofila=0
+- Oristano: totale=11, firmatari=10, proponenti=0, attori=11, governance=0, capofila=0
+- Padova: totale=14, firmatari=11, proponenti=0, attori=12, governance=0, capofila=1
+- Pavia: totale=29, firmatari=29, proponenti=20, attori=29, governance=5, capofila=1
+- Perugia: totale=26, firmatari=0, proponenti=0, attori=26, governance=0, capofila=0
+- Pesaro e Urbino: totale=19, firmatari=16, proponenti=3, attori=19, governance=1, capofila=1
+- Pescara: totale=17, firmatari=17, proponenti=14, attori=17, governance=0, capofila=1
+- Piacenza: totale=27, firmatari=18, proponenti=18, attori=27, governance=1, capofila=0
+- Pisa: totale=48, firmatari=48, proponenti=5, attori=48, governance=2, capofila=0
+- Pistoia: totale=25, firmatari=25, proponenti=0, attori=25, governance=0, capofila=1
+- Pordenone: totale=21, firmatari=21, proponenti=0, attori=21, governance=1, capofila=5
+- Potenza: totale=2, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Prato: totale=14, firmatari=14, proponenti=0, attori=14, governance=0, capofila=0
+- Ravenna: totale=33, firmatari=26, proponenti=5, attori=30, governance=5, capofila=1
+- Reggio Calabria: totale=3, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Rieti: totale=13, firmatari=12, proponenti=0, attori=12, governance=0, capofila=0
+- Rimini: totale=33, firmatari=28, proponenti=2, attori=34, governance=1, capofila=1
+- Roma: totale=214, firmatari=127, proponenti=9, attori=149, governance=25, capofila=1
+- Rovigo: totale=12, firmatari=9, proponenti=0, attori=12, governance=0, capofila=0
+- Sassari: totale=19, firmatari=18, proponenti=0, attori=19, governance=0, capofila=0
+- Savona: totale=5, firmatari=4, proponenti=0, attori=5, governance=0, capofila=1
+- Siena: totale=28, firmatari=0, proponenti=9, attori=28, governance=1, capofila=0
+- Sondrio: totale=14, firmatari=13, proponenti=10, attori=14, governance=2, capofila=1
+- Sulcis Iglesiente: totale=3, firmatari=3, proponenti=0, attori=3, governance=0, capofila=0
+- Taranto: totale=19, firmatari=14, proponenti=0, attori=19, governance=2, capofila=0
+- Teramo: totale=34, firmatari=34, proponenti=0, attori=34, governance=0, capofila=0
+- Terni: totale=11, firmatari=0, proponenti=0, attori=11, governance=0, capofila=0
+- Torino: totale=60, firmatari=42, proponenti=13, attori=53, governance=7, capofila=1
+- Treviso: totale=25, firmatari=11, proponenti=3, attori=23, governance=0, capofila=1
+- Trieste: totale=7, firmatari=3, proponenti=0, attori=6, governance=0, capofila=0
+- Udine: totale=19, firmatari=18, proponenti=0, attori=19, governance=1, capofila=0
+- Valle d'Aosta/Vallée d'Aoste: totale=2, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Varese: totale=47, firmatari=24, proponenti=0, attori=45, governance=2, capofila=6
+- Venezia: totale=93, firmatari=64, proponenti=0, attori=93, governance=0, capofila=1
+- Vercelli: totale=35, firmatari=31, proponenti=32, attori=34, governance=4, capofila=0
+- Verona: totale=21, firmatari=16, proponenti=0, attori=21, governance=1, capofila=0
+- Vibo Valentia: totale=6, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Vicenza: totale=43, firmatari=35, proponenti=15, attori=40, governance=2, capofila=2
+- Viterbo: totale=30, firmatari=3, proponenti=6, attori=12, governance=0, capofila=1
+
+4) MAPPABILI PER COMUNE
+- Abbiategrasso: totale=9, firmatari=9, proponenti=0, attori=9, governance=1, capofila=0
+- Acquaviva delle Fonti: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Adria: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Adro: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Agliana: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Alba: totale=3, firmatari=3, proponenti=0, attori=3, governance=0, capofila=0
+- Alba Adriatica: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Albenga: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Alberobello: totale=3, firmatari=3, proponenti=0, attori=3, governance=0, capofila=0
+- Albizzate: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Alfedena: totale=1, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Alghero: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Alto Reno Terme: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Amandola: totale=2, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Ambivere: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Amelia: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Ancona: totale=27, firmatari=24, proponenti=0, attori=27, governance=4, capofila=0
+- Andria: totale=6, firmatari=4, proponenti=1, attori=4, governance=2, capofila=0
+- Annone Veneto: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Anzio: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Anzola dell’Emilia: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Aosta: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Arce: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Arcidosso: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Arese: totale=2, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Arezzo: totale=13, firmatari=7, proponenti=0, attori=7, governance=2, capofila=0
+- Argelato: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Argenta: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Ariccia: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Arona: totale=3, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Arsago Seprio: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Arzignano: totale=1, firmatari=0, proponenti=0, attori=1, governance=1, capofila=1
+- Ascoli Piceno: totale=7, firmatari=7, proponenti=0, attori=7, governance=0, capofila=1
+- Asiago: totale=2, firmatari=0, proponenti=0, attori=2, governance=0, capofila=0
+- Asola: totale=1, firmatari=1, proponenti=1, attori=1, governance=0, capofila=0
+- Asolo: totale=3, firmatari=3, proponenti=3, attori=3, governance=0, capofila=0
+- Assago: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Assisi: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Atri: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Avezzano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Avigliana: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Azzano Decimo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=1
+- Azzano Mella: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Azzate: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Baranzate: totale=2, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Barbariga: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bareggio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bari: totale=10, firmatari=5, proponenti=0, attori=9, governance=0, capofila=0
+- Baricella: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Barletta: totale=4, firmatari=2, proponenti=0, attori=2, governance=1, capofila=0
+- Barrea: totale=1, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Barzio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Basciano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Basiglio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bassano Romano: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Bassano del Grappa: totale=8, firmatari=4, proponenti=0, attori=6, governance=0, capofila=1
+- Bellano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bellinzago lombardo: totale=1, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Belluno: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Bentivoglio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bergamo: totale=40, firmatari=38, proponenti=3, attori=40, governance=1, capofila=0
+- Berlingo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Besnate: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Biella: totale=40, firmatari=18, proponenti=1, attori=34, governance=3, capofila=0
+- Bientina: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Binasco: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Binetto: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Bisceglie: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Blera: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Bollate: totale=5, firmatari=5, proponenti=0, attori=5, governance=0, capofila=0
+- Bologna: totale=38, firmatari=22, proponenti=16, attori=37, governance=3, capofila=0
+- Bonate Sopra: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bonate Sotto: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bondeno: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Borgia: totale=2, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Borgo San Giacomo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Borgo San Lorenzo: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Borgo Tossignano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Borgomanero: totale=3, firmatari=2, proponenti=0, attori=3, governance=0, capofila=0
+- Borgosatollo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Borgosesia: totale=2, firmatari=0, proponenti=0, attori=2, governance=0, capofila=0
+- Bottanuco: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Botticino: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bovegno: totale=1, firmatari=0, proponenti=1, attori=1, governance=0, capofila=0
+- Boves: totale=1, firmatari=1, proponenti=1, attori=1, governance=0, capofila=0
+- Bovezzo: totale=1, firmatari=0, proponenti=1, attori=1, governance=0, capofila=0
+- Bra: totale=2, firmatari=1, proponenti=1, attori=1, governance=1, capofila=1
+- Bracciano: totale=2, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Brandico: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Breganze: totale=1, firmatari=1, proponenti=1, attori=1, governance=0, capofila=0
+- Brembate: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Brembate di Sopra: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Breno: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Brescia: totale=29, firmatari=25, proponenti=12, attori=28, governance=2, capofila=1
+- Bresso: totale=7, firmatari=0, proponenti=0, attori=7, governance=0, capofila=0
+- Brindisi: totale=15, firmatari=6, proponenti=3, attori=9, governance=1, capofila=0
+- Brione: totale=1, firmatari=0, proponenti=1, attori=1, governance=0, capofila=0
+- Brisighella: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Broni: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Brugherio: totale=1, firmatari=1, proponenti=1, attori=1, governance=0, capofila=0
+- Buccinasco: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Budrio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Buggiano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Bussero: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Busto Arsizio: totale=4, firmatari=4, proponenti=0, attori=4, governance=0, capofila=1
+- Busto Garolfo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Buti: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Cagli: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Cagliari: totale=16, firmatari=15, proponenti=0, attori=16, governance=0, capofila=0
+- Caino: totale=1, firmatari=0, proponenti=1, attori=1, governance=0, capofila=0
+- Cairate: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Calci: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Calcinaia: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Calderara di Reno: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Calusco d’Adda: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Caluso: totale=1, firmatari=1, proponenti=0, attori=1, governance=1, capofila=0
+- Cambiago: totale=1, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Camerino: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Campagna Lupia: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Campagnatico: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Campi Bisenzio: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Campi Salentina: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Campli: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Campolongo Maggiore: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Camponogara: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Camposanto: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+- Camugnano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Canegrate: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Canosa di Puglia: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Cantagallo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Cantù: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Canzano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Caorle: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Capalbio: totale=2, firmatari=0, proponenti=0, attori=2, governance=0, capofila=0
+- Capannoli: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Capena: totale=3, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Capranica: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Caprarola: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Capriano del Colle: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Capriate San Gervasio: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Caprino Bergamasco: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Capriolo: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Capriva del Friuli: totale=1, firmatari=1, proponenti=0, attori=0, governance=0, capofila=0
+- Carate Brianza: totale=1, firmatari=1, proponenti=1, attori=1, governance=0, capofila=0
+- Carbognano: totale=1, firmatari=0, proponenti=0, attori=0, governance=0, capofila=0
+- Carbonia: totale=2, firmatari=2, proponenti=0, attori=2, governance=0, capofila=0
+- Cardano al Campo: totale=2, firmatari=1, proponenti=0, attori=2, governance=0, capofila=0
+- Carmagnola: totale=3, firmatari=3, proponenti=0, attori=3, governance=1, capofila=0
+- Carmignano: totale=1, firmatari=1, proponenti=0, attori=1, governance=0, capofila=0
+- Caronno Pertusella: totale=1, firmatari=0, proponenti=0, attori=1, governance=0, capofila=0
+
+5) ESCLUSI DALLA MAPPA - RIEPILOGO
+- manca_riferimento_territoriale: 2378
+- territorio_non_riconosciuto: 0
+- soggetto_non_territoriale: 118
+- coordinate_non_generate: 66
+- altro: 0
+
+- esclusi_firmatari: 904
+- esclusi_proponenti: 127
+- esclusi_attori: 1593
+- esclusi_governance: 119
+- esclusi_enti_capofila: 12
+
+Top esclusi per peso/ruolo
+- COMUNITA’ MONTANA DI VALLE TROMPIA | ruolo=firmatario, proponente, attore, coordinamento, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240923171949_4166---PROTOCOLLOD'INTESARETETERRITORIALEANTIVIOLENZAVALLETROMPIA2024.txt
+- ASL Lecce | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt
+- ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV (Centro di Orientamento per le Donne) | ruolo=firmatario, proponente, attore, coordinamento | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241007225239_4166---10-ProtocolloconilComunediCOLFELICE.txt
+- Area Sociosanitaria ASL Lecce | ruolo=firmatario, proponente, attore, coordinamento | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=16_lecce_Protocollo Operativo - Procedure integrate per la prevenzione e il contrasto alla violenza contro donne e minori - Copia_Marcato.txt
+- Azienda ULSS 3 Serenissima | ruolo=firmatario, proponente, attore, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=05_2406_rta_05_240916131522_4166---protocolloaggiornamento2023.txt
+- CENTRI ANTIVIOLENZA E.M.M.A. ONLUS | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240909114524_4166---CONVENZIONEUNITO-SPORTANTIVIOLENZA.txt
+- Centro Pari Opportunità Valdelsa | ruolo=proponente, attore, coordinamento, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=09_ALTA VALDELSA Protocollo-violenza-valdelsa-2022_ALTA VALDELSA.txt
+- Centro antiviolenza donna Maja-Cooperativa Alpha | ruolo=firmatario, proponente, attore, coordinamento | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122101856_4166---Protocollodirete_AlphaGuardiagrele.txt
+- Comunita Montana Valle Brembana | ruolo=firmatario, proponente, attore, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240920124656_4166---ProtocolloantiviolenzaDEFINITIVO(1).txt
+- Consorzio Socio Assistenziale del Cuneese | ruolo=firmatario, proponente, attore, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240920112211_4166---367772-4-Protocollo_intesa_Completo.txt
+- Fondazione Città Solidale Onlus | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=18_2406_rta_18_240926102333_4166---accordodiretecentroaiutodonna.txt
+- Prefettura di Pesaro e Urbino | ruolo=firmatario, proponente, attore, monitoraggio | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=11_2406_rta_11_240911113034_4166---protocollodireteantiviolenza2020-2022-uuvv.txt
+- Società della Salute Area Pratese | ruolo=firmatario, proponente, attore, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=09_PRATO PREF.txt
+- Tavolo della Città Metropolitana di Torino per la Promozione del Cambiamento degli Autori di Violenza di Genere | ruolo=firmatario, proponente, attore, coordinamento | regione= | provincia= | comune= | motivo=soggetto_non_territoriale | file=01_2406_rta_01_241003113501_4166---CCVD1deliberaprotocolloccvd-2024eall1prot.txt
+- Unione Montana dei Comuni della Valsesia | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240920123646_4166---vercellieos.txt
+- Associazione Donatella Tellini | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune=Aquila | motivo=coordinate_non_generate | file=13_2406_rta_13_241122102615_4166---PROTOCOLLOD_INTESACOMUNEAQ_donatellatelliniCAV2023.txt
+- Associazione Piccola Opera Papa Giovanni Onlus | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune=Reggio Calabria | motivo=coordinate_non_generate | file=18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt
+- Associazione Nondasola di Reggio Emilia | ruolo=firmatario, proponente, attore, gestione | regione= | provincia= | comune=Reggio Emilia | motivo=coordinate_non_generate | file=08_2406_rta_08_241015091655_4166---Aggiornamentointegrazioneprotocollooperativoapprovatonelgiugno2008.txt
+- A.S.S.E.M.1. — Azienda Sociale Sud Est Milano | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240920093134_4166---Protocollo_Intesa_Rete_Antiviolenza_SudEstMilano_Paullese_2021-2023.txt
+- A.T.S. — Agenzia di Tutela della Salute della Val Padana | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240918153156_4166---Protocollo_d'Intesa_Rete_Mantova.prot.txt
+- A.ULSS 5 Polesana | ruolo=firmatario, attore, ente_capofila | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=05_2406_rta_05_240916173648_4166---ULSS5Polesana_Protocollodirete.txt
+- AFOL Metropolitana Agenzia Formazione Orientamento Lavoro città metropolitana – sede territoriale Cinisello Balsamo e Cologno Monzese | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240923103647_4166---protocolloreteantiviolenzacinisello2019(1).txt
+- AGENZIA PER LA FORMAZIONE, L’ORIENTAMENTO E IL LAVORO (AFOL) DI MONZA E DELLA BRIANZA | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240926122051_4166---Protocollomonz.txt
+- ASL 02 di Chieti-Vasto-Lanciano | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122101453_4166---ProtocollodiRete_AlphaChieti.txt
+- ASL N. 2 Abruzzo — Lanciano Chieti Vasto | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt
+- ASL ROMA 4 - UOC Tutela Salute Donna, Coppie, Prevenzione Eta Evolutiva, Soggetti Fragili ed Immigrati | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241003112656_4166---AccordodicollaborazioneconsultorieDifferenzaDonna.txt
+- ASL n.2 Lanciano Chieti Vasto | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt
+- ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE Centro di Orientamento per le Donne | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241004145108_4166---07-ProtocolloCONilComunediVILLASANTOSTEFANO.txt
+- ASSOCIAZIONE VOLONTARIE TELEFONO ROSA FROSINONE REGIONE LAZIO ODV (Centro di Orientamento per le Donne) | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241007224201_4166---ProtocolloConilComunediARCE.txt
+- ASST Nord Milano | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240923103647_4166---protocolloreteantiviolenzacinisello2019(1).txt
+- ATS BRESCIA | ruolo=firmatario, attore, governance_generica | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240923171949_4166---PROTOCOLLOD'INTESARETETERRITORIALEANTIVIOLENZAVALLETROMPIA2024.txt
+- AZIENDA SOCIO SANITARIA TERRITORIALE (ASST) DELLA BRIANZA | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240926122051_4166---Protocollomonz.txt
+- Akon Service | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122105540_4166---protocollodirete_vastodonnattiva.txt
+- Ambito Distrettuale 6.1 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt
+- Ambito Distrettuale 6.2 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt
+- Ambito Distrettuale 6.3 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt
+- Ambito Distrettuale 6.4 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt
+- Ambito Territoriale Sociale n. 22 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=11_2406_rta_11_240911113911_4166---AscoliPPROTOCOLLOoperativo_2019_2021.txt
+- Ambito Territoriale Sociale n°11 | ruolo=proponente, attore, monitoraggio | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=16_bari_protocollo operativo Mola di Bari_rete Antiviolenza.txt
+- Ambito Urbano 6.5 | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=06_2406_rta_06_240916164102_4166---protocollopordenoneprefettura.txt
+- Assistenza Servizi alla Persona (ASSP) Unione Terre e Fiumi | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=08_2406_rta_08_241015091430_4166---Protocollo_Distrettuale_Contrasto_violenza_Donne2023.stamped.txt
+- Associazione Italiana Sclerosi Multipla - AISM APS ETS | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=18_2406_rta_18_240926102528_4166---PROTOCOLLOAISM_PICCOLAOPERA_firma.txt
+- Associazione Non Sei Sola Uscire dal Silenzio Contro la Violenza | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240904120005_4166---protocollo.txt
+- Associazione Save The Children Italia ONLUS | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240904120005_4166---protocollo.txt
+- Associazione Svolta Donna Onlus | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=01_2406_rta_01_240904162242_4166---CONVENZIONETRAASLTO3ESVOLTADONNA.txt
+- Associazione Volontarie Telefono Rosa Frosinone- Regione Lazio ODV | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241004114912_4166---ProtocolloRetePrantiviolenzaFrosinone.txt
+- Associazione Volontarie Telefono Rosa Frosinone-Regione Lazio ODV-Centro di Orientamento per le Donne | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=12_2406_rta_12_241004145702_4166---08-ProtocolloComunediFalvaterra.txt
+- Azienda Sanitaria ASL 02 Lanciano-Vasto-Chieti | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=13_2406_rta_13_241122103901_4166---Protocollirete_ortonaelancianoCAVdonn.ÿ.txt
+- Azienda Sanitaria Locale MI 1 | ruolo=firmatario, proponente, attore | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240920120751_4166---protocollodiintesa.txt
+- Azienda Speciale Consortile Comuni Insieme per lo sviluppo sociale | ruolo=firmatario, attore, gestione | regione= | provincia= | comune= | motivo=manca_riferimento_territoriale | file=03_2406_rta_03_240926144324_4166---Protocollodiintesa.txt

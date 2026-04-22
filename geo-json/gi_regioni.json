@@ -1,0 +1,162 @@
+[
+  {
+    "codice_regione": "01",
+    "denominazione_regione": "Piemonte",
+    "area_geografica": "Nord-ovest",
+    "numero_comuni_dal_file_comuni": 1180,
+    "lat_centroide": 45.091951,
+    "lon_centroide": 8.041762
+  },
+  {
+    "codice_regione": "02",
+    "denominazione_regione": "Valle d'Aosta/Vallée d'Aoste",
+    "area_geografica": "Nord-ovest",
+    "numero_comuni_dal_file_comuni": 74,
+    "lat_centroide": 45.727342,
+    "lon_centroide": 7.455172
+  },
+  {
+    "codice_regione": "03",
+    "denominazione_regione": "Lombardia",
+    "area_geografica": "Nord-ovest",
+    "numero_comuni_dal_file_comuni": 1501,
+    "lat_centroide": 45.590166,
+    "lon_centroide": 9.545285
+  },
+  {
+    "codice_regione": "04",
+    "denominazione_regione": "Trentino-Alto Adige/Südtirol",
+    "area_geografica": "Nord-est",
+    "numero_comuni_dal_file_comuni": 282,
+    "lat_centroide": 46.339471,
+    "lon_centroide": 11.248566
+  },
+  {
+    "codice_regione": "05",
+    "denominazione_regione": "Veneto",
+    "area_geografica": "Nord-est",
+    "numero_comuni_dal_file_comuni": 559,
+    "lat_centroide": 45.5819,
+    "lon_centroide": 11.756437
+  },
+  {
+    "codice_regione": "06",
+    "denominazione_regione": "Friuli-Venezia Giulia",
+    "area_geografica": "Nord-est",
+    "numero_comuni_dal_file_comuni": 215,
+    "lat_centroide": 46.083995,
+    "lon_centroide": 13.114273
+  },
+  {
+    "codice_regione": "07",
+    "denominazione_regione": "Liguria",
+    "area_geografica": "Nord-ovest",
+    "numero_comuni_dal_file_comuni": 234,
+    "lat_centroide": 44.19656,
+    "lon_centroide": 8.601393
+  },
+  {
+    "codice_regione": "08",
+    "denominazione_regione": "Emilia-Romagna",
+    "area_geografica": "Nord-est",
+    "numero_comuni_dal_file_comuni": 330,
+    "lat_centroide": 44.531545,
+    "lon_centroide": 11.007048
+  },
+  {
+    "codice_regione": "09",
+    "denominazione_regione": "Toscana",
+    "area_geografica": "Centro",
+    "numero_comuni_dal_file_comuni": 273,
+    "lat_centroide": 43.562012,
+    "lon_centroide": 11.004006
+  },
+  {
+    "codice_regione": "10",
+    "denominazione_regione": "Umbria",
+    "area_geografica": "Centro",
+    "numero_comuni_dal_file_comuni": 92,
+    "lat_centroide": 42.89883,
+    "lon_centroide": 12.46695
+  },
+  {
+    "codice_regione": "11",
+    "denominazione_regione": "Marche",
+    "area_geografica": "Centro",
+    "numero_comuni_dal_file_comuni": 225,
+    "lat_centroide": 43.324936,
+    "lon_centroide": 13.241769
+  },
+  {
+    "codice_regione": "12",
+    "denominazione_regione": "Lazio",
+    "area_geografica": "Centro",
+    "numero_comuni_dal_file_comuni": 378,
+    "lat_centroide": 41.965038,
+    "lon_centroide": 12.903962
+  },
+  {
+    "codice_regione": "13",
+    "denominazione_regione": "Abruzzo",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 305,
+    "lat_centroide": 42.219659,
+    "lon_centroide": 13.961757
+  },
+  {
+    "codice_regione": "14",
+    "denominazione_regione": "Molise",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 136,
+    "lat_centroide": 41.667218,
+    "lon_centroide": 14.54418
+  },
+  {
+    "codice_regione": "15",
+    "denominazione_regione": "Campania",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 550,
+    "lat_centroide": 40.871656,
+    "lon_centroide": 14.733491
+  },
+  {
+    "codice_regione": "16",
+    "denominazione_regione": "Puglia",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 257,
+    "lat_centroide": 40.71473,
+    "lon_centroide": 17.126817
+  },
+  {
+    "codice_regione": "17",
+    "denominazione_regione": "Basilicata",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 131,
+    "lat_centroide": 40.457267,
+    "lon_centroide": 16.013702
+  },
+  {
+    "codice_regione": "18",
+    "denominazione_regione": "Calabria",
+    "area_geografica": "Sud",
+    "numero_comuni_dal_file_comuni": 404,
+    "lat_centroide": 38.958725,
+    "lon_centroide": 16.281223
+  },
+  {
+    "codice_regione": "19",
+    "denominazione_regione": "Sicilia",
+    "area_geografica": "Isole",
+    "numero_comuni_dal_file_comuni": 391,
+    "lat_centroide": 37.727194,
+    "lon_centroide": 14.290453
+  },
+  {
+    "codice_regione": "20",
+    "denominazione_regione": "Sardegna",
+    "area_geografica": "Isole",
+    "numero_comuni_dal_file_comuni": 377,
+    "lat_centroide": 40.005342,
+    "lon_centroide": 8.973578
+  }
+]

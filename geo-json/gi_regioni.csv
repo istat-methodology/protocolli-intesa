@@ -1,0 +1,21 @@
+﻿codice_regione,denominazione_regione,area_geografica,numero_comuni_dal_file_comuni,lat_centroide,lon_centroide
+01,Piemonte,Nord-ovest,1180,45.091951,8.041762
+02,Valle d'Aosta/Vallée d'Aoste,Nord-ovest,74,45.727342,7.455172
+03,Lombardia,Nord-ovest,1501,45.590166,9.545285
+04,Trentino-Alto Adige/Südtirol,Nord-est,282,46.339471,11.248566
+05,Veneto,Nord-est,559,45.5819,11.756437
+06,Friuli-Venezia Giulia,Nord-est,215,46.083995,13.114273
+07,Liguria,Nord-ovest,234,44.19656,8.601393
+08,Emilia-Romagna,Nord-est,330,44.531545,11.007048
+09,Toscana,Centro,273,43.562012,11.004006
+10,Umbria,Centro,92,42.89883,12.46695
+11,Marche,Centro,225,43.324936,13.241769
+12,Lazio,Centro,378,41.965038,12.903962
+13,Abruzzo,Sud,305,42.219659,13.961757
+14,Molise,Sud,136,41.667218,14.54418
+15,Campania,Sud,550,40.871656,14.733491
+16,Puglia,Sud,257,40.71473,17.126817
+17,Basilicata,Sud,131,40.457267,16.013702
+18,Calabria,Sud,404,38.958725,16.281223
+19,Sicilia,Isole,391,37.727194,14.290453
+20,Sardegna,Isole,377,40.005342,8.973578

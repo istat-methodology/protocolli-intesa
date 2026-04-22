@@ -51,5 +51,18 @@
   ],
   "3.4.2_txt": [
     "report_tabellare_csv_stampabile.txt"
+  ],
+  "4.1_mappe_csv": [
+    "punti_geocodificati.csv",
+    "punti_governance.csv",
+    "tabella_governance_per_regione.csv",
+    "tabella_governance_per_tipo.csv"
+  ],
+  "4.1_mappe_html": [
+    "mappa_con_confini_provinciali.html",
+    "mappa_con_confini_regionali.html",
+    "mappa_governance.html",
+    "mappa_province_con_punti_interni.html",
+    "mappa_soggetti_layer.html"
   ]
 }

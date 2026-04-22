@@ -12,6 +12,8 @@ folders = [
     "3.4.2_csv",
     "3.4.2_html",
     "3.4.2_txt",
+    "4.1_mappe_csv",
+    "4.1_mappe_html",
 ]
 
 def create_folders():

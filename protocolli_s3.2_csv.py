@@ -3,6 +3,9 @@
 
 from __future__ import annotations
 
+
+
+
 import json
 import re
 from collections import Counter
@@ -10,6 +13,13 @@ from pathlib import Path
 from typing import Any, Dict, List
 
 import pandas as pd
+
+
+
+input_path = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.0\3.0_risultati_enriched_merged.json")
+soggetti_csv = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.1\soggetti_unici_puliti.csv")
+output_dir = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.2")
+
 
 REGION_CODE_TO_NAME = {
     "01": "Piemonte",
@@ -733,9 +743,7 @@ def build_report_non_classificati(df_soggetti: pd.DataFrame, output_dir: Path) -
         encoding="utf-8"
     )
 
-input_path = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.0\3.0_risultati_enriched_merged.json")
-soggetti_csv = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.1\soggetti_unici_puliti.csv")
-output_dir = Path(r"G:\develpment\protocolli-intesa\output\data\step_3.2")
+
 
 
 def main() -> None:
